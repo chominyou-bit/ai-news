@@ -1,0 +1,62 @@
+[
+  {
+    "rank": 1,
+    "title": "Anthropic은 Claude Code 구독자가 OpenClaw 사용에 대해 추가 비용을 지불해야 한다고 말합니다.",
+    "summary": "Claude Code 가입자가 Anthropic의 코딩 어시스턴트를 OpenClaw 및 기타 타사 도구와 함께 사용하는 것이 더 비싸질 것입니다.",
+    "source": "TechCrunch",
+    "date": "2026.04.04",
+    "url": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
+    "tags": [
+      "LLM",
+      "규제"
+    ]
+  },
+  {
+    "rank": 2,
+    "title": "Anthropic은 개인 시장에서 잠시 시간을 보내고 있습니다. SpaceX는 파티를 망칠 수 있습니다.",
+    "summary": "레인메이커 증권 (Rainmaker Securities) 의 글렌 앤더슨 (Glen Anderson) 사장은 Anthropic이 가장 뜨거운 거래, OpenAI 손실, SpaceX의",
+    "source": "TechCrunch",
+    "date": "2026.04.04",
+    "url": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
+    "tags": [
+      "LLM"
+    ]
+  },
+  {
+    "rank": 3,
+    "title": "OpenAI 임원 셔플에는 COO Brad Lightcap이 ‘특별 프로젝트‘ 를 이끄는 새로운 역할이 포함됩니다.",
+    "summary": "Lightcap의 새로운 역할 외에도 OpenAI CMO Kate Rouch는 암 회복에 집중하기 위해 회사에서 물러나 건강이 허락할 때 복귀할 계획입니다.",
+    "source": "TechCrunch",
+    "date": "2026.04.03",
+    "url": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
+    "tags": [
+      "LLM"
+    ]
+  },
+  {
+    "rank": 4,
+    "title": "OpenClaw는 사용자에게 보안에 대해 놀랄 또 다른 이유를 제공합니다",
+    "summary": "바이러스성 AI 에이전트 도구를 사용하면 공격자가 인증되지 않은 관리자 액세스 권한을 자동으로 얻을 수 있습니다.",
+    "source": "Ars Technica",
+    "date": "2026.04.03",
+    "url": "https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/",
+    "tags": [
+      "AI",
+      "보안",
+      "규제"
+    ]
+  },
+  {
+    "rank": 5,
+    "title": "Anthropic, 바이오테크 스타트업 Coefficient Bio를 $ 400M 딜로 인수: 보고서",
+    "summary": "The Information과 Eric Newcomer에 따르면 Anthropic은 스텔스 바이오테크 AI 스타트업 Coefficient Bio를 $ 400,000,000 주식 거래로 매입했습니다.",
+    "source": "TechCrunch",
+    "date": "2026.04.03",
+    "url": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
+    "tags": [
+      "AI",
+      "LLM",
+      "스타트업"
+    ]
+  }
+]

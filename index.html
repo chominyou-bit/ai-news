@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="ko" data-theme="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AI 뉴스 TOP 5</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<header class="header">
+  <div class="header-inner">
+    <div class="logo">
+      <div class="logo-mark">⚡</div>
+      AI DAILY
+    </div>
+    <div class="header-right">
+      <div class="date-chip" id="header-date"></div>
+      <button class="theme-btn" id="themeBtn" title="테마 전환">🌙</button>
+    </div>
+  </div>
+</header>
+
+<main class="main">
+  <div class="page-header">
+    <div class="eyebrow">
+      <span class="eyebrow-dot"></span>
+      Today's Picks
+    </div>
+    <h1><span class="gradient-text">AI · 테크 뉴스</span><br>TOP 5</h1>
+    <p class="page-desc">RSS 자동 수집 · 한국어 번역 · <code>python3 fetch_news.py</code> 로 업데이트</p>
+  </div>
+
+  <div class="toolbar">
+    <button class="refresh-btn" id="refreshBtn" onclick="loadNews()">
+      <span id="refreshIcon">↻</span> 새로고침
+    </button>
+  </div>
+
+  <div id="news-container"></div>
+</main>
+
+<footer class="footer">
+  <div class="footer-inner">
+    <span>📡 RSS 자동 수집</span>
+    <span class="footer-dot"></span>
+    <span>🌐 한국어 번역</span>
+    <span class="footer-dot"></span>
+    <span>API 키 불필요</span>
+  </div>
+</footer>
+
+<script>
+  // ── 테마 ──
+  const themeBtn = document.getElementById("themeBtn");
+  let isDark = true;
+  themeBtn.addEventListener("click", () => {
+    isDark = !isDark;
+    document.documentElement.setAttribute("data-theme", isDark ? "dark" : "light");
+    themeBtn.textContent = isDark ? "🌙" : "☀️";
+  });
+
+  // ── 날짜 ──
+  document.getElementById("header-date").textContent = new Date().toLocaleDateString("ko-KR", {
+    month: "long", day: "numeric", weekday: "short"
+  });
+
+  function esc(str) {
+    return String(str || "")
+      .replace(/&/g,"&amp;").replace(/</g,"&lt;")
+      .replace(/>/g,"&gt;").replace(/"/g,"&quot;");
+  }
+
+  // 태그 클래스 매핑
+  const TAG_CLASS = {
+    "AI":"tag-ai","LLM":"tag-llm","보안":"tag-보안","반도체":"tag-반도체",
+    "빅테크":"tag-빅테크","스타트업":"tag-스타트업","오픈소스":"tag-오픈소스",
+    "규제":"tag-규제","연구":"tag-연구","로보틱스":"tag-로보틱스",
+    "테크":"tag-테크","안내":"tag-안내"
+  };
+  function tagHtml(tags) {
+    return (tags||[]).map(t =>
+      `<span class="tag ${TAG_CLASS[t]||'tag-테크'}">${esc(t)}</span>`
+    ).join("");
+  }
+
+  // 히어로 카드 (1위) 그라디언트
+  const HERO_GRAD = "linear-gradient(90deg, #6c63ff, #f472b6)";
+
+  function renderHero(item) {
+    return `
+    <a class="hero-card" href="${esc(item.url)}" target="_blank" rel="noopener">
+      <div class="hero-top">
+        <div class="rank-num">01</div>
+        <div class="hero-meta">
+          <span class="hero-source">${esc(item.source)}</span>
+          <span class="hero-date">${esc(item.date)}</span>
+        </div>
+      </div>
+      <div class="hero-tags">${tagHtml(item.tags)}</div>
+      <div class="hero-title">${esc(item.title)}</div>
+      <div class="hero-summary">${esc(item.summary)}</div>
+      <div class="hero-footer">
+        <div class="read-more">원문 읽기 →</div>
+      </div>
+    </a>`;
+  }
+
+  // 그라디언트 라인 색상
+  const CARD_GRADS = [
+    "linear-gradient(90deg,#64748b,#475569)",
+    "linear-gradient(90deg,#b45309,#78350f)",
+    "linear-gradient(90deg,#7c6fe8,#5b52e8)",
+    "linear-gradient(90deg,#0891b2,#0e7490)",
+  ];
+  const RANK_CLASSES = ["r2","r3","r4","r5"];
+
+  function renderCard(item, idx) {
+    const grad = CARD_GRADS[idx] || CARD_GRADS[3];
+    const rankCls = RANK_CLASSES[idx] || RANK_CLASSES[3];
+    return `
+    <a class="card" href="${esc(item.url)}" target="_blank" rel="noopener">
+      <div class="card-accent-line" style="background:${grad}"></div>
+      <div class="card-top-row">
+        <div class="card-rank ${rankCls}">${item.rank}</div>
+        <div class="card-source-date">${esc(item.source)} · ${esc(item.date)}</div>
+      </div>
+      <div class="card-tags">${tagHtml(item.tags)}</div>
+      <div class="card-title">${esc(item.title)}</div>
+      <div class="card-summary">${esc(item.summary)}</div>
+      <div class="card-footer">
+        <span class="card-link">원문 보기 →</span>
+      </div>
+    </a>`;
+  }
+
+  function render(news) {
+    if (!news || news.length === 0) {
+      document.getElementById("news-container").innerHTML =
+        `<div class="error-box">뉴스 데이터가 없습니다. <code>python3 fetch_news.py</code> 를 실행해주세요.</div>`;
+      return;
+    }
+    const [first, ...rest] = news;
+    const hero = renderHero(first);
+    const grid = rest.length
+      ? `<div class="cards-grid">${rest.map((item, i) => renderCard(item, i)).join("")}</div>`
+      : "";
+    document.getElementById("news-container").innerHTML = hero + grid;
+  }
+
+  async function loadNews() {
+    const btn = document.getElementById("refreshBtn");
+    const icon = document.getElementById("refreshIcon");
+    btn.disabled = true;
+    icon.classList.add("spin");
+    try {
+      const res = await fetch("news.json?t=" + Date.now());
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const news = await res.json();
+      render(news);
+    } catch (e) {
+      document.getElementById("news-container").innerHTML =
+        `<div class="error-box">⚠️ 로드 실패: ${esc(e.message)}<br>터미널에서 <strong>python3 fetch_news.py</strong> 를 먼저 실행해주세요.</div>`;
+    } finally {
+      btn.disabled = false;
+      icon.classList.remove("spin");
+    }
+  }
+
+  loadNews();
+</script>
+</body>
+</html>
