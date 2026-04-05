@@ -1,166 +1,394 @@
 <!DOCTYPE html>
-<html lang="ko" data-theme="dark">
+<html lang="ko">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>AI 뉴스 TOP 5</title>
-  <link rel="stylesheet" href="style.css" />
+  <title>AI Daily — 오늘의 AI 뉴스 TOP 5</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Noto+Sans+KR:wght@400;500;700;900&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Noto Sans KR', 'DM Sans', sans-serif;
+      background: #f0ede8;
+      color: #1a1a1a;
+      min-height: 100vh;
+    }
+
+    /* ── 헤더 커버 ── */
+    .cover {
+      background: #f5f0eb;
+      padding: 48px 24px 40px;
+      text-align: center;
+      border-bottom: 1px solid #ede8e2;
+    }
+    .cover-date {
+      font-family: 'DM Sans', sans-serif;
+      font-size: 13px;
+      font-weight: 500;
+      color: #999;
+      letter-spacing: 0.5px;
+      margin-bottom: 14px;
+      text-transform: uppercase;
+    }
+    .cover-title {
+      font-size: 42px;
+      font-weight: 900;
+      color: #1a1a1a;
+      letter-spacing: -2px;
+      line-height: 1.15;
+    }
+    .cover-title em {
+      font-style: normal;
+      background: linear-gradient(135deg, #e53e3e, #dd6b20);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+    .cover-title span {
+      display: block;
+      font-size: 13px;
+      font-weight: 500;
+      color: #aaa;
+      letter-spacing: 0.3px;
+      margin-top: 10px;
+      -webkit-text-fill-color: #aaa;
+    }
+    .refresh-btn {
+      margin-top: 20px;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 8px 18px;
+      border-radius: 100px;
+      border: 1px solid #ddd;
+      background: #fff;
+      color: #666;
+      font-size: 13px;
+      font-family: 'DM Sans', sans-serif;
+      font-weight: 500;
+      cursor: pointer;
+      transition: border-color 0.2s, color 0.2s;
+    }
+    .refresh-btn:hover { border-color: #aaa; color: #333; }
+    .refresh-btn:disabled { opacity: 0.4; cursor: not-allowed; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    .spin { display: inline-block; animation: spin 0.8s linear infinite; }
+
+    /* ── 카드 리스트 ── */
+    .list {
+      max-width: 680px;
+      margin: 0 auto;
+      padding: 32px 20px 64px;
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+    }
+
+    /* ── 카드 ── */
+    .card {
+      position: relative;
+      background: #fff;
+      border: 1px solid #eee;
+      border-radius: 16px;
+      padding: 28px 28px 24px;
+      text-decoration: none;
+      color: inherit;
+      display: block;
+      overflow: hidden;
+      transition: box-shadow 0.2s, transform 0.2s;
+    }
+    .card:hover {
+      box-shadow: 0 8px 32px rgba(0,0,0,0.08);
+      transform: translateY(-2px);
+    }
+
+    /* 배경 랭킹 숫자 */
+    .card-bg-num {
+      position: absolute;
+      right: -8px;
+      top: 50%;
+      transform: translateY(-50%);
+      font-family: 'DM Sans', sans-serif;
+      font-size: 130px;
+      font-weight: 700;
+      line-height: 1;
+      color: #f0f0f0;
+      pointer-events: none;
+      user-select: none;
+      letter-spacing: -6px;
+    }
+
+    /* 상단 행: 출처 + 날짜 */
+    .card-meta {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 16px;
+    }
+    .card-source {
+      font-family: 'DM Sans', sans-serif;
+      font-size: 12px;
+      font-weight: 600;
+      letter-spacing: 0.8px;
+      text-transform: uppercase;
+      color: #bbb;
+    }
+    .card-date {
+      font-family: 'DM Sans', sans-serif;
+      font-size: 12px;
+      color: #bbb;
+    }
+
+    /* 태그 */
+    .card-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 5px;
+      margin-bottom: 12px;
+    }
+    .tag {
+      font-size: 11px;
+      font-weight: 700;
+      padding: 3px 9px;
+      border-radius: 100px;
+      letter-spacing: 0.3px;
+    }
+
+    /* 제목 */
+    .card-title {
+      font-size: 17px;
+      font-weight: 700;
+      line-height: 1.5;
+      letter-spacing: -0.3px;
+      margin-bottom: 10px;
+      padding-right: 40px; /* 배경 숫자 공간 */
+    }
+
+    /* 요약 */
+    .card-summary {
+      font-size: 14px;
+      color: #666;
+      line-height: 1.7;
+      padding-right: 40px;
+    }
+
+    /* 하단: 출처 라벨 + 화살표 버튼 */
+    .card-footer {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-top: 20px;
+      padding-top: 16px;
+      border-top: 1px solid #f0f0f0;
+    }
+    .card-footer-source {
+      font-size: 12px;
+      color: #bbb;
+      font-weight: 500;
+    }
+
+    /* 화살표 원형 버튼 */
+    .arrow-btn {
+      width: 36px;
+      height: 36px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border: 1.5px solid currentColor;
+      font-size: 15px;
+      flex-shrink: 0;
+      transition: background 0.2s, color 0.2s;
+      line-height: 1;
+    }
+    .card:hover .arrow-btn {
+      color: #fff !important;
+    }
+
+    /* ── 순위별 포인트 컬러 ── */
+    /* 1위 = 빨강 */
+    .rank-1 .card-bg-num   { color: #fff0f0; }
+    .rank-1 .arrow-btn     { color: #e53e3e; border-color: #e53e3e; }
+    .rank-1:hover .arrow-btn { background: #e53e3e; }
+    .rank-1 .tag-accent    { background: #fff0f0; color: #e53e3e; }
+
+    /* 2위 = 초록 */
+    .rank-2 .card-bg-num   { color: #f0fff4; }
+    .rank-2 .arrow-btn     { color: #38a169; border-color: #38a169; }
+    .rank-2:hover .arrow-btn { background: #38a169; }
+    .rank-2 .tag-accent    { background: #f0fff4; color: #38a169; }
+
+    /* 3위 = 보라 */
+    .rank-3 .card-bg-num   { color: #faf5ff; }
+    .rank-3 .arrow-btn     { color: #805ad5; border-color: #805ad5; }
+    .rank-3:hover .arrow-btn { background: #805ad5; }
+    .rank-3 .tag-accent    { background: #faf5ff; color: #805ad5; }
+
+    /* 4위 = 회색 */
+    .rank-4 .card-bg-num   { color: #f7f7f7; }
+    .rank-4 .arrow-btn     { color: #718096; border-color: #718096; }
+    .rank-4:hover .arrow-btn { background: #718096; }
+    .rank-4 .tag-accent    { background: #f7f7f7; color: #718096; }
+
+    /* 5위 = 파랑 */
+    .rank-5 .card-bg-num   { color: #ebf8ff; }
+    .rank-5 .arrow-btn     { color: #3182ce; border-color: #3182ce; }
+    .rank-5:hover .arrow-btn { background: #3182ce; }
+    .rank-5 .tag-accent    { background: #ebf8ff; color: #3182ce; }
+
+    /* 일반 태그 */
+    .tag-default { background: #f4f4f4; color: #888; }
+
+    /* ── 에러 ── */
+    .error-box {
+      background: #fff5f5;
+      border: 1px solid #fed7d7;
+      border-radius: 12px;
+      padding: 20px 24px;
+      color: #c53030;
+      font-size: 14px;
+      line-height: 1.7;
+    }
+
+    /* ── 스켈레톤 ── */
+    .skeleton-card {
+      background: #fff;
+      border: 1px solid #eee;
+      border-radius: 16px;
+      padding: 28px;
+    }
+    .sk {
+      background: linear-gradient(90deg, #f0f0f0 25%, #e8e8e8 50%, #f0f0f0 75%);
+      background-size: 200% 100%;
+      animation: shimmer 1.4s infinite;
+      border-radius: 6px;
+    }
+    @keyframes shimmer { 0%{background-position:200% 0} 100%{background-position:-200% 0} }
+    .sk-sm  { height: 12px; width: 80px; margin-bottom: 16px; }
+    .sk-lg  { height: 20px; margin-bottom: 10px; }
+    .sk-lg2 { height: 20px; width: 75%; margin-bottom: 12px; }
+    .sk-md  { height: 14px; margin-bottom: 6px; }
+    .sk-md2 { height: 14px; width: 85%; }
+
+    /* ── 푸터 ── */
+    footer {
+      text-align: center;
+      padding: 24px 20px 40px;
+      font-size: 12px;
+      color: #bbb;
+      border-top: 1px solid #f0f0f0;
+      font-family: 'DM Sans', sans-serif;
+      letter-spacing: 0.3px;
+    }
+
+    /* ── 페이드인 ── */
+    @keyframes fadeUp {
+      from { opacity: 0; transform: translateY(12px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+    .card { animation: fadeUp 0.4s ease both; }
+    .card:nth-child(1){animation-delay:0.05s}
+    .card:nth-child(2){animation-delay:0.1s}
+    .card:nth-child(3){animation-delay:0.15s}
+    .card:nth-child(4){animation-delay:0.2s}
+    .card:nth-child(5){animation-delay:0.25s}
+  </style>
 </head>
 <body>
 
-<header class="header">
-  <div class="header-inner">
-    <div class="logo">
-      <div class="logo-mark">⚡</div>
-      AI DAILY
-    </div>
-    <div class="header-right">
-      <div class="date-chip" id="header-date"></div>
-      <button class="theme-btn" id="themeBtn" title="테마 전환">🌙</button>
-    </div>
+<!-- 커버 -->
+<div class="cover">
+  <div class="cover-date" id="cover-date"></div>
+  <div class="cover-title">
+    오늘의 <em>AI 뉴스</em><br>TOP 5
+    <span>매일 자동 수집 · 한국어 번역</span>
   </div>
-</header>
+  <button class="refresh-btn" id="refreshBtn" onclick="loadNews()">
+    <span id="refreshIcon">↻</span> 새로고침
+  </button>
+</div>
 
-<main class="main">
-  <div class="page-header">
-    <div class="eyebrow">
-      <span class="eyebrow-dot"></span>
-      Today's Picks
-    </div>
-    <h1><span class="gradient-text">AI · 테크 뉴스</span><br>TOP 5</h1>
-    <p class="page-desc">RSS 자동 수집 · 한국어 번역 · <code>python3 fetch_news.py</code> 로 업데이트</p>
-  </div>
+<!-- 카드 리스트 -->
+<div class="list" id="list"></div>
 
-  <div class="toolbar">
-    <button class="refresh-btn" id="refreshBtn" onclick="loadNews()">
-      <span id="refreshIcon">↻</span> 새로고침
-    </button>
-  </div>
-
-  <div id="news-container"></div>
-</main>
-
-<footer class="footer">
-  <div class="footer-inner">
-    <span>📡 RSS 자동 수집</span>
-    <span class="footer-dot"></span>
-    <span>🌐 한국어 번역</span>
-    <span class="footer-dot"></span>
-    <span>API 키 불필요</span>
-  </div>
-</footer>
+<!-- 푸터 -->
+<footer>AI Daily &nbsp;·&nbsp; 매일 자동 업데이트</footer>
 
 <script>
-  // ── 테마 ──
-  const themeBtn = document.getElementById("themeBtn");
-  let isDark = true;
-  themeBtn.addEventListener("click", () => {
-    isDark = !isDark;
-    document.documentElement.setAttribute("data-theme", isDark ? "dark" : "light");
-    themeBtn.textContent = isDark ? "🌙" : "☀️";
-  });
+  // 날짜 표시
+  document.getElementById("cover-date").textContent =
+    new Date().toLocaleDateString("ko-KR", {
+      year: "numeric", month: "long", day: "numeric", weekday: "long"
+    });
 
-  // ── 날짜 ──
-  document.getElementById("header-date").textContent = new Date().toLocaleDateString("ko-KR", {
-    month: "long", day: "numeric", weekday: "short"
-  });
-
-  function esc(str) {
-    return String(str || "")
+  function esc(s) {
+    return String(s || "")
       .replace(/&/g,"&amp;").replace(/</g,"&lt;")
       .replace(/>/g,"&gt;").replace(/"/g,"&quot;");
   }
 
-  // 태그 클래스 매핑
-  const TAG_CLASS = {
-    "AI":"tag-ai","LLM":"tag-llm","보안":"tag-보안","반도체":"tag-반도체",
-    "빅테크":"tag-빅테크","스타트업":"tag-스타트업","오픈소스":"tag-오픈소스",
-    "규제":"tag-규제","연구":"tag-연구","로보틱스":"tag-로보틱스",
-    "테크":"tag-테크","안내":"tag-안내"
-  };
-  function tagHtml(tags) {
-    return (tags||[]).map(t =>
-      `<span class="tag ${TAG_CLASS[t]||'tag-테크'}">${esc(t)}</span>`
-    ).join("");
+  // 태그 색: 포인트 컬러 계열 vs 기본
+  const ACCENT_TAGS = ["AI","LLM","보안","반도체","빅테크","스타트업","오픈소스","규제","연구","로보틱스"];
+
+  function tagHtml(tags, rank) {
+    return (tags || []).map(t => {
+      const cls = ACCENT_TAGS.includes(t) ? "tag tag-accent" : "tag tag-default";
+      return `<span class="${cls}">${esc(t)}</span>`;
+    }).join("");
   }
 
-  // 히어로 카드 (1위) 그라디언트
-  const HERO_GRAD = "linear-gradient(90deg, #6c63ff, #f472b6)";
-
-  function renderHero(item) {
+  function renderCard(item) {
+    const rank = Math.min(item.rank, 5);
     return `
-    <a class="hero-card" href="${esc(item.url)}" target="_blank" rel="noopener">
-      <div class="hero-top">
-        <div class="rank-num">01</div>
-        <div class="hero-meta">
-          <span class="hero-source">${esc(item.source)}</span>
-          <span class="hero-date">${esc(item.date)}</span>
-        </div>
-      </div>
-      <div class="hero-tags">${tagHtml(item.tags)}</div>
-      <div class="hero-title">${esc(item.title)}</div>
-      <div class="hero-summary">${esc(item.summary)}</div>
-      <div class="hero-footer">
-        <div class="read-more">원문 읽기 →</div>
-      </div>
-    </a>`;
-  }
+    <a class="card rank-${rank}" href="${esc(item.url)}" target="_blank" rel="noopener">
+      <div class="card-bg-num">${rank}</div>
 
-  // 그라디언트 라인 색상
-  const CARD_GRADS = [
-    "linear-gradient(90deg,#64748b,#475569)",
-    "linear-gradient(90deg,#b45309,#78350f)",
-    "linear-gradient(90deg,#7c6fe8,#5b52e8)",
-    "linear-gradient(90deg,#0891b2,#0e7490)",
-  ];
-  const RANK_CLASSES = ["r2","r3","r4","r5"];
-
-  function renderCard(item, idx) {
-    const grad = CARD_GRADS[idx] || CARD_GRADS[3];
-    const rankCls = RANK_CLASSES[idx] || RANK_CLASSES[3];
-    return `
-    <a class="card" href="${esc(item.url)}" target="_blank" rel="noopener">
-      <div class="card-accent-line" style="background:${grad}"></div>
-      <div class="card-top-row">
-        <div class="card-rank ${rankCls}">${item.rank}</div>
-        <div class="card-source-date">${esc(item.source)} · ${esc(item.date)}</div>
+      <div class="card-meta">
+        <span class="card-source">${esc(item.source)}</span>
+        <span class="card-date">${esc(item.date)}</span>
       </div>
-      <div class="card-tags">${tagHtml(item.tags)}</div>
+
+      <div class="card-tags">${tagHtml(item.tags, rank)}</div>
       <div class="card-title">${esc(item.title)}</div>
       <div class="card-summary">${esc(item.summary)}</div>
+
       <div class="card-footer">
-        <span class="card-link">원문 보기 →</span>
+        <span class="card-footer-source">${esc(item.source)}</span>
+        <span class="arrow-btn">↗</span>
       </div>
     </a>`;
   }
 
-  function render(news) {
-    if (!news || news.length === 0) {
-      document.getElementById("news-container").innerHTML =
-        `<div class="error-box">뉴스 데이터가 없습니다. <code>python3 fetch_news.py</code> 를 실행해주세요.</div>`;
-      return;
-    }
-    const [first, ...rest] = news;
-    const hero = renderHero(first);
-    const grid = rest.length
-      ? `<div class="cards-grid">${rest.map((item, i) => renderCard(item, i)).join("")}</div>`
-      : "";
-    document.getElementById("news-container").innerHTML = hero + grid;
+  function showSkeleton() {
+    document.getElementById("list").innerHTML = [1,2,3,4,5].map(() => `
+      <div class="skeleton-card">
+        <div class="sk sk-sm"></div>
+        <div class="sk sk-lg"></div>
+        <div class="sk sk-lg2"></div>
+        <div class="sk sk-md"></div>
+        <div class="sk sk-md2"></div>
+      </div>`).join("");
   }
 
   async function loadNews() {
-    const btn = document.getElementById("refreshBtn");
+    const btn  = document.getElementById("refreshBtn");
     const icon = document.getElementById("refreshIcon");
     btn.disabled = true;
     icon.classList.add("spin");
+    showSkeleton();
     try {
       const res = await fetch("news.json?t=" + Date.now());
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const news = await res.json();
-      render(news);
+      document.getElementById("list").innerHTML =
+        news.map(renderCard).join("");
     } catch (e) {
-      document.getElementById("news-container").innerHTML =
-        `<div class="error-box">⚠️ 로드 실패: ${esc(e.message)}<br>터미널에서 <strong>python3 fetch_news.py</strong> 를 먼저 실행해주세요.</div>`;
+      document.getElementById("list").innerHTML =
+        `<div class="error-box">⚠️ 로드 실패: ${esc(e.message)}<br>
+         터미널에서 <strong>python3 fetch_news.py</strong> 를 먼저 실행해주세요.</div>`;
     } finally {
       btn.disabled = false;
       icon.classList.remove("spin");
