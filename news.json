@@ -1,6 +1,42 @@
 [
   {
     "rank": 1,
+    "title": "Copilot은 Microsoft의 사용 약관에 따라 ’엔터테인먼트 목적으로만' 사용됩니다.",
+    "summary": "AI 회의론자만이 사용자들에게 모델의 결과물을 생각하지 않고 신뢰하지 말라고 경고하는 것은 아닙니다. AI 회사는 서비스 약관에서 스스로를 이렇게 말합니다.",
+    "source": "TechCrunch",
+    "date": "2026.04.05",
+    "url": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
+    "tags": [
+      "AI",
+      "반도체",
+      "빅테크"
+    ]
+  },
+  {
+    "rank": 2,
+    "title": "궤도 데이터 센터가 SpaceX에 대한 대규모 가치를 정당화하는 데 도움이 될 수 있습니까?",
+    "summary": "TechCrunch의 Equity 팟캐스트 최신 에피소드에서 우리는 우주 데이터 센터에 대한 Elon Musk의 비전에 대해 논의했습니다.",
+    "source": "TechCrunch",
+    "date": "2026.04.05",
+    "url": "https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/",
+    "tags": [
+      "테크"
+    ]
+  },
+  {
+    "rank": 3,
+    "title": "일본에서는 로봇이 당신의 일을 위해 오지 않습니다. 아무도 원하지 않는 로봇을 채우고 있습니다.",
+    "summary": "노동력 부족에 힘입어 일본은 시범 프로젝트에서 실제 배치로 물리적 AI를 밀어붙이고 있다.",
+    "source": "TechCrunch",
+    "date": "2026.04.05",
+    "url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
+    "tags": [
+      "AI",
+      "로보틱스"
+    ]
+  },
+  {
+    "rank": 4,
     "title": "Anthropic은 Claude Code 구독자가 OpenClaw 사용에 대해 추가 비용을 지불해야 한다고 말합니다.",
     "summary": "Claude Code 가입자가 Anthropic의 코딩 어시스턴트를 OpenClaw 및 기타 타사 도구와 함께 사용하는 것이 더 비싸질 것입니다.",
     "source": "TechCrunch",
@@ -12,7 +48,7 @@
     ]
   },
   {
-    "rank": 2,
+    "rank": 5,
     "title": "Anthropic은 개인 시장에서 잠시 시간을 보내고 있습니다. SpaceX는 파티를 망칠 수 있습니다.",
     "summary": "레인메이커 증권 (Rainmaker Securities) 의 글렌 앤더슨 (Glen Anderson) 사장은 Anthropic이 가장 뜨거운 거래, OpenAI 손실, SpaceX의",
     "source": "TechCrunch",
@@ -20,43 +56,6 @@
     "url": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
     "tags": [
       "LLM"
-    ]
-  },
-  {
-    "rank": 3,
-    "title": "OpenAI 임원 셔플에는 COO Brad Lightcap이 ‘특별 프로젝트‘ 를 이끄는 새로운 역할이 포함됩니다.",
-    "summary": "Lightcap의 새로운 역할 외에도 OpenAI CMO Kate Rouch는 암 회복에 집중하기 위해 회사에서 물러나 건강이 허락할 때 복귀할 계획입니다.",
-    "source": "TechCrunch",
-    "date": "2026.04.03",
-    "url": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
-    "tags": [
-      "LLM"
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "OpenClaw는 사용자에게 보안에 대해 놀랄 또 다른 이유를 제공합니다",
-    "summary": "바이러스성 AI 에이전트 도구를 사용하면 공격자가 인증되지 않은 관리자 액세스 권한을 자동으로 얻을 수 있습니다.",
-    "source": "Ars Technica",
-    "date": "2026.04.03",
-    "url": "https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/",
-    "tags": [
-      "AI",
-      "보안",
-      "규제"
-    ]
-  },
-  {
-    "rank": 5,
-    "title": "Anthropic, 바이오테크 스타트업 Coefficient Bio를 $ 400M 딜로 인수: 보고서",
-    "summary": "The Information과 Eric Newcomer에 따르면 Anthropic은 스텔스 바이오테크 AI 스타트업 Coefficient Bio를 $ 400,000,000 주식 거래로 매입했습니다.",
-    "source": "TechCrunch",
-    "date": "2026.04.03",
-    "url": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
-    "tags": [
-      "AI",
-      "LLM",
-      "스타트업"
     ]
   }
 ]
