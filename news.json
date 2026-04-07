@@ -1,61 +1,62 @@
 [
   {
     "rank": 1,
-    "title": "Copilot은 Microsoft의 사용 약관에 따라 ’엔터테인먼트 목적으로만' 사용됩니다.",
-    "summary": "AI 회의론자만이 사용자들에게 모델의 결과물을 생각하지 않고 신뢰하지 말라고 경고하는 것은 아닙니다. AI 회사는 서비스 약관에서 스스로를 이렇게 말합니다.",
+    "title": "AI 스타트업 로켓 (Rocket) 은 맥킨지 스타일의 보고서를 저렴한 비용으로 제공합니다.",
+    "summary": "Rocket의 새로운 AI 플랫폼은 전략, 제품 구축 및 경쟁 인텔리전스를 결합하여 코드 생성을 넘어서는 것을 목표로 합니다.",
     "source": "TechCrunch",
-    "date": "2026.04.05",
-    "url": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
+    "date": "2026.04.07",
+    "url": "https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/",
     "tags": [
       "AI",
-      "반도체",
-      "빅테크"
+      "스타트업"
     ]
   },
   {
     "rank": 2,
-    "title": "궤도 데이터 센터가 SpaceX에 대한 대규모 가치를 정당화하는 데 도움이 될 수 있습니까?",
-    "summary": "TechCrunch의 Equity 팟캐스트 최신 에피소드에서 우리는 우주 데이터 센터에 대한 Elon Musk의 비전에 대해 논의했습니다.",
+    "title": "OpenAI 명반은 잠재적으로 $ 100M의 새로운 펀드에서 조용히 투자하고 있습니다.",
+    "summary": "OpenAI와 긴밀한 관계를 맺고 있는 새로운 벤처 캐피털 펀드인 Zero Shot은 첫 펀드를 위해 1억 달러를 모금하는 것을 목표로 하고 있습니다. 이미 몇 가지 수표를 작성했습니다.",
     "source": "TechCrunch",
-    "date": "2026.04.05",
-    "url": "https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/",
+    "date": "2026.04.06",
+    "url": "https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/",
     "tags": [
-      "테크"
+      "LLM",
+      "스타트업"
     ]
   },
   {
     "rank": 3,
-    "title": "일본에서는 로봇이 당신의 일을 위해 오지 않습니다. 아무도 원하지 않는 로봇을 채우고 있습니다.",
-    "summary": "노동력 부족에 힘입어 일본은 시범 프로젝트에서 실제 배치로 물리적 AI를 밀어붙이고 있다.",
+    "title": "Google은 오프라인에서 작동하는 AI 받아쓰기 앱을 조용히 출시했습니다.",
+    "summary": "Google의 새로운 오프라인 우선 받아쓰기 앱은 Gemma AI 모델을 사용하여 Wispr Flow와 같은 앱을 실행합니다.",
     "source": "TechCrunch",
-    "date": "2026.04.05",
-    "url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
+    "date": "2026.04.06",
+    "url": "https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
     "tags": [
       "AI",
-      "로보틱스"
+      "빅테크"
     ]
   },
   {
     "rank": 4,
-    "title": "Anthropic은 Claude Code 구독자가 OpenClaw 사용에 대해 추가 비용을 지불해야 한다고 말합니다.",
-    "summary": "Claude Code 가입자가 Anthropic의 코딩 어시스턴트를 OpenClaw 및 기타 타사 도구와 함께 사용하는 것이 더 비싸질 것입니다.",
+    "title": "이란, ‘스타게이트’ AI 데이터 센터 위협",
+    "summary": "이란은 미국과 이란 간의 전쟁이 격화됨에 따라 새로운 미사일 공격으로 미국과 연계된 데이터 센터를 표적으로 삼을 것이라고 말했다.",
     "source": "TechCrunch",
-    "date": "2026.04.04",
-    "url": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
+    "date": "2026.04.06",
+    "url": "https://techcrunch.com/2026/04/06/iran-threatens-stargate-ai-data-centers/",
     "tags": [
-      "LLM",
-      "규제"
+      "AI"
     ]
   },
   {
     "rank": 5,
-    "title": "Anthropic은 개인 시장에서 잠시 시간을 보내고 있습니다. SpaceX는 파티를 망칠 수 있습니다.",
-    "summary": "레인메이커 증권 (Rainmaker Securities) 의 글렌 앤더슨 (Glen Anderson) 사장은 Anthropic이 가장 뜨거운 거래, OpenAI 손실, SpaceX의",
+    "title": "AI 경제에 대한 OpenAI의 비전: 공공 자금, 로봇 세금, 주 4일 근무",
+    "summary": "OpenAI는 일자리 손실과 불평등을 해결하기 위해 AI 이익, 공공 부유 기금 및 확장 된 안전망에 대한 세금을 제안하며, 정책 입안자가 AI의 경제적 임파에 대해 토론 할 때 재분배와 자본주의를 혼합합니다.",
     "source": "TechCrunch",
-    "date": "2026.04.04",
-    "url": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
+    "date": "2026.04.06",
+    "url": "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/",
     "tags": [
-      "LLM"
+      "AI",
+      "LLM",
+      "로보틱스"
     ]
   }
 ]
