@@ -1,62 +1,64 @@
 [
   {
     "rank": 1,
-    "title": "AI 스타트업 로켓 (Rocket) 은 맥킨지 스타일의 보고서를 저렴한 비용으로 제공합니다.",
-    "summary": "Rocket의 새로운 AI 플랫폼은 전략, 제품 구축 및 경쟁 인텔리전스를 결합하여 코드 생성을 넘어서는 것을 목표로 합니다.",
-    "source": "TechCrunch",
-    "date": "2026.04.07",
-    "url": "https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/",
-    "tags": [
-      "AI",
-      "스타트업"
-    ]
-  },
-  {
-    "rank": 2,
-    "title": "OpenAI 명반은 잠재적으로 $ 100M의 새로운 펀드에서 조용히 투자하고 있습니다.",
-    "summary": "OpenAI와 긴밀한 관계를 맺고 있는 새로운 벤처 캐피털 펀드인 Zero Shot은 첫 펀드를 위해 1억 달러를 모금하는 것을 목표로 하고 있습니다. 이미 몇 가지 수표를 작성했습니다.",
-    "source": "TechCrunch",
-    "date": "2026.04.06",
-    "url": "https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/",
-    "tags": [
-      "LLM",
-      "스타트업"
-    ]
-  },
-  {
-    "rank": 3,
     "title": "Google은 오프라인에서 작동하는 AI 받아쓰기 앱을 조용히 출시했습니다.",
     "summary": "Google의 새로운 오프라인 우선 받아쓰기 앱은 Gemma AI 모델을 사용하여 Wispr Flow와 같은 앱을 실행합니다.",
     "source": "TechCrunch",
-    "date": "2026.04.06",
-    "url": "https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
+    "date": "2026.04.08",
+    "url": "https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
     "tags": [
       "AI",
       "빅테크"
     ]
   },
   {
-    "rank": 4,
-    "title": "이란, ‘스타게이트’ AI 데이터 센터 위협",
-    "summary": "이란은 미국과 이란 간의 전쟁이 격화됨에 따라 새로운 미사일 공격으로 미국과 연계된 데이터 센터를 표적으로 삼을 것이라고 말했다.",
+    "rank": 2,
+    "title": "나는 작은 오픈 소스 AI 모델 메이커 Arcee를 응원하는 것을 도울 수 없다",
+    "summary": "Arcee는 고성능의 대규모 오픈 소스 LLM을 구축한 26명의 미국 스타트업입니다. OpenClaw 사용자들에게 인기를 얻고 있습니다.",
     "source": "TechCrunch",
-    "date": "2026.04.06",
-    "url": "https://techcrunch.com/2026/04/06/iran-threatens-stargate-ai-data-centers/",
+    "date": "2026.04.07",
+    "url": "https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/",
     "tags": [
-      "AI"
+      "AI",
+      "스타트업",
+      "오픈소스"
+    ]
+  },
+  {
+    "rank": 3,
+    "title": "Nvidia의 지원을 받는 ‘Southgate’ AI 데이터 센터 빌더인 Firmus가 $ 5.5B 밸류에이션을 달성했습니다.",
+    "summary": "엔비디아의 지원을 받는 아시아 AI 데이터 센터 제공업체인 Firmus는 이제 6개월 만에 13억 5천만 달러 ($) 를 모금했습니다.",
+    "source": "TechCrunch",
+    "date": "2026.04.07",
+    "url": "https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/",
+    "tags": [
+      "AI",
+      "반도체"
+    ]
+  },
+  {
+    "rank": 4,
+    "title": "인텔, Elon Musk의 Terafab 칩 프로젝트에 서명",
+    "summary": "인텔은 텍사스에 새로운 미국 반도체 공장을 건설하기 위해 스페이스X와 테슬라에 합류할 예정이지만, 기여 범위는 불분명하다.",
+    "source": "TechCrunch",
+    "date": "2026.04.07",
+    "url": "https://techcrunch.com/2026/04/07/intel-signs-on-to-elon-musks-terafab-chips-project/",
+    "tags": [
+      "반도체",
+      "빅테크"
     ]
   },
   {
     "rank": 5,
-    "title": "AI 경제에 대한 OpenAI의 비전: 공공 자금, 로봇 세금, 주 4일 근무",
-    "summary": "OpenAI는 일자리 손실과 불평등을 해결하기 위해 AI 이익, 공공 부유 기금 및 확장 된 안전망에 대한 세금을 제안하며, 정책 입안자가 AI의 경제적 임파에 대해 토론 할 때 재분배와 자본주의를 혼합합니다.",
+    "title": "Anthropic, 새로운 사이버 보안 이니셔티브에서 강력한 새로운 AI 모델 Mythos 미리보기 데뷔",
+    "summary": "새로운 모델은 소수의 유명 기업들이 방어적인 사이버 보안 작업에 참여하는 데 사용될 것입니다.",
     "source": "TechCrunch",
-    "date": "2026.04.06",
-    "url": "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/",
+    "date": "2026.04.07",
+    "url": "https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/",
     "tags": [
       "AI",
       "LLM",
-      "로보틱스"
+      "보안"
     ]
   }
 ]
