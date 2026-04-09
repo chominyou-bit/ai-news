@@ -1,64 +1,58 @@
 [
   {
     "rank": 1,
-    "title": "Google은 오프라인에서 작동하는 AI 받아쓰기 앱을 조용히 출시했습니다.",
-    "summary": "Google의 새로운 오프라인 우선 받아쓰기 앱은 Gemma AI 모델을 사용하여 Wispr Flow와 같은 앱을 실행합니다.",
+    "title": "Poke를 사용하면 문자를 보내는 것만큼 쉽게 AI 상담원을 사용할 수 있습니다.",
+    "summary": "Poke는 복잡한 설정, 앱 또는 기술 노하우 없이 작업 및 자동화를 처리하여 문자 메시지를 통해 일상적인 사용자에게 AI 상담원을 제공합니다.",
     "source": "TechCrunch",
     "date": "2026.04.08",
-    "url": "https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
+    "url": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
     "tags": [
-      "AI",
-      "빅테크"
+      "AI"
     ]
   },
   {
     "rank": 2,
-    "title": "나는 작은 오픈 소스 AI 모델 메이커 Arcee를 응원하는 것을 도울 수 없다",
-    "summary": "Arcee는 고성능의 대규모 오픈 소스 LLM을 구축한 26명의 미국 스타트업입니다. OpenClaw 사용자들에게 인기를 얻고 있습니다.",
-    "source": "TechCrunch",
-    "date": "2026.04.07",
-    "url": "https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/",
+    "title": "이란과 연계된 해커는 미국의 주요 인프라 현장에서 운영을 방해합니다.",
+    "summary": "미국과 이스라엘의 전쟁이 격화됨에 따라 미국 산업 현장에 대한 해킹도 증가하고 있습니다.",
+    "source": "Ars Technica",
+    "date": "2026.04.08",
+    "url": "https://arstechnica.com/security/2026/04/iran-linked-hackers-disrupt-operations-at-us-critical-infrastructure-sites/",
     "tags": [
-      "AI",
-      "스타트업",
-      "오픈소스"
+      "보안"
     ]
   },
   {
     "rank": 3,
-    "title": "Nvidia의 지원을 받는 ‘Southgate’ AI 데이터 센터 빌더인 Firmus가 $ 5.5B 밸류에이션을 달성했습니다.",
-    "summary": "엔비디아의 지원을 받는 아시아 AI 데이터 센터 제공업체인 Firmus는 이제 6개월 만에 13억 5천만 달러 ($) 를 모금했습니다.",
+    "title": "AWS 상사가 Anthropic 및 OpenAI에 수십억 달러를 투자하는 것이 OK 충돌인 이유를 설명합니다.",
+    "summary": "클라우드 거대 기업도 파트너와 경쟁하기 때문에 AWS는 경쟁을 다루는 문화에 뿌리박혀 있다고 그는 설명했습니다.",
     "source": "TechCrunch",
-    "date": "2026.04.07",
-    "url": "https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/",
+    "date": "2026.04.08",
+    "url": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/",
     "tags": [
-      "AI",
-      "반도체"
+      "LLM"
     ]
   },
   {
     "rank": 4,
-    "title": "인텔, Elon Musk의 Terafab 칩 프로젝트에 서명",
-    "summary": "인텔은 텍사스에 새로운 미국 반도체 공장을 건설하기 위해 스페이스X와 테슬라에 합류할 예정이지만, 기여 범위는 불분명하다.",
+    "title": "Tubi는 ChatGPT 내에서 네이티브 앱을 실행한 최초의 스트리머입니다.",
+    "summary": "Tubi는 수백만 명의 사용자가 답변을 찾는 AI 챗봇인 ChatGPT 내에서 앱 통합을 제공하는 최초의 스트리밍 서비스가 됩니다.",
     "source": "TechCrunch",
-    "date": "2026.04.07",
-    "url": "https://techcrunch.com/2026/04/07/intel-signs-on-to-elon-musks-terafab-chips-project/",
+    "date": "2026.04.08",
+    "url": "https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/",
     "tags": [
-      "반도체",
-      "빅테크"
+      "AI",
+      "LLM"
     ]
   },
   {
     "rank": 5,
-    "title": "Anthropic, 새로운 사이버 보안 이니셔티브에서 강력한 새로운 AI 모델 Mythos 미리보기 데뷔",
-    "summary": "새로운 모델은 소수의 유명 기업들이 방어적인 사이버 보안 작업에 참여하는 데 사용될 것입니다.",
+    "title": "Astropad의 Workbench는 IT 지원이 아닌 AI 상담원을 위한 원격 데스크톱을 재구상합니다.",
+    "summary": "Astropad의 Workbench를 사용하면 대기 시간이 짧은 스트리밍 및 모바일 액세스를 통해 iPhone 또는 iPad에서 Mac Minis의 AI 에이전트를 원격으로 모니터링하고 제어할 수 있습니다.",
     "source": "TechCrunch",
-    "date": "2026.04.07",
-    "url": "https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/",
+    "date": "2026.04.08",
+    "url": "https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/",
     "tags": [
-      "AI",
-      "LLM",
-      "보안"
+      "AI"
     ]
   }
 ]
