@@ -1,58 +1,60 @@
 [
   {
     "rank": 1,
-    "title": "Poke를 사용하면 문자를 보내는 것만큼 쉽게 AI 상담원을 사용할 수 있습니다.",
-    "summary": "Poke는 복잡한 설정, 앱 또는 기술 노하우 없이 작업 및 자동화를 처리하여 문자 메시지를 통해 일상적인 사용자에게 AI 상담원을 제공합니다.",
+    "title": "ChatGPT는 마침내 월 $ 100의 Pro 플랜을 제공합니다",
+    "summary": "OpenAI는 목요일에 파워 유저들이 요구하는 것을 발표했습니다: $ 100/월 플랜. 이전에는 구독료가 한 달에 $ 20에서 $ 200로 급증했습니다.",
     "source": "TechCrunch",
-    "date": "2026.04.08",
-    "url": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
+    "date": "2026.04.09",
+    "url": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
     "tags": [
-      "AI"
+      "LLM"
     ]
   },
   {
     "rank": 2,
-    "title": "이란과 연계된 해커는 미국의 주요 인프라 현장에서 운영을 방해합니다.",
-    "summary": "미국과 이스라엘의 전쟁이 격화됨에 따라 미국 산업 현장에 대한 해킹도 증가하고 있습니다.",
-    "source": "Ars Technica",
-    "date": "2026.04.08",
-    "url": "https://arstechnica.com/security/2026/04/iran-linked-hackers-disrupt-operations-at-us-critical-infrastructure-sites/",
+    "title": "플로리다 AG, ChatGPT와 관련된 것으로 추정되는 총격 사건에 대해 OpenAI에 대한 조사 발표",
+    "summary": "ChatGPT는 지난 4 월 플로리다 주립 대학에서 2 명이 사망하고 5 명이 부상당한 공격을 계획하는 데 사용되었다고합니다. 한 피해자의 가족은 INC를 통해 OpenAI를 고소할 계획이라고 말했습니다.",
+    "source": "TechCrunch",
+    "date": "2026.04.09",
+    "url": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
     "tags": [
-      "보안"
+      "LLM"
     ]
   },
   {
     "rank": 3,
-    "title": "AWS 상사가 Anthropic 및 OpenAI에 수십억 달러를 투자하는 것이 OK 충돌인 이유를 설명합니다.",
-    "summary": "클라우드 거대 기업도 파트너와 경쟁하기 때문에 AWS는 경쟁을 다루는 문화에 뿌리박혀 있다고 그는 설명했습니다.",
-    "source": "TechCrunch",
-    "date": "2026.04.08",
-    "url": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/",
+    "title": "라이벌에 따르면 수천 건의 VMware 마이그레이션을 추진하는 Broadcom에 대한 \"부정적\" 견해",
+    "summary": "웨스턴 유니언 경영진은 브로드컴과 협력하는 데 \"어려움\" 이 있었다고 말합니다.",
+    "source": "Ars Technica",
+    "date": "2026.04.09",
+    "url": "https://arstechnica.com/information-technology/2026/04/nutanix-claims-it-has-poached-30000-vmware-customers/",
     "tags": [
-      "LLM"
+      "테크"
     ]
   },
   {
     "rank": 4,
-    "title": "Tubi는 ChatGPT 내에서 네이티브 앱을 실행한 최초의 스트리머입니다.",
-    "summary": "Tubi는 수백만 명의 사용자가 답변을 찾는 AI 챗봇인 ChatGPT 내에서 앱 통합을 제공하는 최초의 스트리밍 서비스가 됩니다.",
+    "title": "데이터 유출 후, $ 10B 상당의 스타트업 Mercor는 한 달 동안",
+    "summary": "해커의 피해자가 된 후, Mercor는 소송에 직면하고 있으며 유명 고객을 잃은 것으로 알려졌습니다.",
     "source": "TechCrunch",
-    "date": "2026.04.08",
-    "url": "https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/",
+    "date": "2026.04.09",
+    "url": "https://techcrunch.com/2026/04/09/after-data-breach-10b-valued-startup-mercor-is-having-a-month/",
     "tags": [
-      "AI",
-      "LLM"
+      "스타트업",
+      "보안",
+      "규제"
     ]
   },
   {
     "rank": 5,
-    "title": "Astropad의 Workbench는 IT 지원이 아닌 AI 상담원을 위한 원격 데스크톱을 재구상합니다.",
-    "summary": "Astropad의 Workbench를 사용하면 대기 시간이 짧은 스트리밍 및 모바일 액세스를 통해 iPhone 또는 iPad에서 Mac Minis의 AI 에이전트를 원격으로 모니터링하고 제어할 수 있습니다.",
+    "title": "Muse Spark 출시 후 Meta AI 앱이 App Store에서 5위로 올라갑니다.",
+    "summary": "이 앱은 Meta AI의 새로운 모델이 출시되기 직전에 App Store에서 57위를 차지했습니다. 이제 5위이고 상승하고 있습니다.",
     "source": "TechCrunch",
-    "date": "2026.04.08",
-    "url": "https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/",
+    "date": "2026.04.09",
+    "url": "https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/",
     "tags": [
-      "AI"
+      "AI",
+      "빅테크"
     ]
   }
 ]
