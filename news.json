@@ -1,6 +1,53 @@
 [
   {
     "rank": 1,
+    "title": "Anthropic은 OpenClaw의 크리에이터가 Claude에 액세스하는 것을 일시적으로 금지했습니다",
+    "summary": "이 금지는 지난주 OpenClaw 사용자에 대한 Claude의 요금이 변경된 후 발생했습니다.",
+    "source": "TechCrunch",
+    "date": "2026.04.10",
+    "url": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
+    "tags": [
+      "LLM",
+      "규제"
+    ]
+  },
+  {
+    "rank": 2,
+    "title": "스토킹 피해자가 OpenAI를 고소하고, ChatGPT가 학대자의 망상을 조장하고 경고를 무시했다고 주장합니다.",
+    "summary": "OpenAI는 ChatGPT 사용자가 자신의 대량 캐주얼 깃발을 포함하여 위험하다는 세 가지 경고를 무시했으며, 전 여자 친구를 스토킹하고 괴롭히는 동안 새로운 소송이 제기되었습니다.",
+    "source": "TechCrunch",
+    "date": "2026.04.10",
+    "url": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
+    "tags": [
+      "LLM",
+      "규제"
+    ]
+  },
+  {
+    "rank": 3,
+    "title": "TechCrunch가 도쿄로 향하고 있습니다 — 스타트업 배틀필드와 함께",
+    "summary": "SusHi Tech 2026은 AI, 로봇 공학, 회복탄력성 및 엔터테인먼트라는 사회를 재구성하는 네 가지 기술 영역을 제로화하고 있습니다. 인간형 로봇의 라이브 데모, 자율 주행 소프트웨어 세션 기대",
+    "source": "TechCrunch",
+    "date": "2026.04.10",
+    "url": "https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/",
+    "tags": [
+      "로보틱스",
+      "스타트업"
+    ]
+  },
+  {
+    "rank": 4,
+    "title": "지난 24시간: TechCrunch Disrupt 2026 이용권을 최대 $ 500 할인받으세요",
+    "summary": "여기까지입니다. 오늘 밤은 TechCrunch Disrupt 2026 이용권으로 최대 $ 500의 할인 혜택을 누릴 수 있는 마지막 기회입니다. 이 할인은 태평양 표준시 기준 오후 11시 59분에 종료됩니다.",
+    "source": "TechCrunch",
+    "date": "2026.04.10",
+    "url": "https://techcrunch.com/2026/04/10/final-24-hours-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/",
+    "tags": [
+      "테크"
+    ]
+  },
+  {
+    "rank": 5,
     "title": "ChatGPT는 마침내 월 $ 100의 Pro 플랜을 제공합니다",
     "summary": "OpenAI는 목요일에 파워 유저들이 요구하는 것을 발표했습니다: $ 100/월 플랜. 이전에는 구독료가 한 달에 $ 20에서 $ 200로 급증했습니다.",
     "source": "TechCrunch",
@@ -8,53 +55,6 @@
     "url": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
     "tags": [
       "LLM"
-    ]
-  },
-  {
-    "rank": 2,
-    "title": "플로리다 AG, ChatGPT와 관련된 것으로 추정되는 총격 사건에 대해 OpenAI에 대한 조사 발표",
-    "summary": "ChatGPT는 지난 4 월 플로리다 주립 대학에서 2 명이 사망하고 5 명이 부상당한 공격을 계획하는 데 사용되었다고합니다. 한 피해자의 가족은 INC를 통해 OpenAI를 고소할 계획이라고 말했습니다.",
-    "source": "TechCrunch",
-    "date": "2026.04.09",
-    "url": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
-    "tags": [
-      "LLM"
-    ]
-  },
-  {
-    "rank": 3,
-    "title": "라이벌에 따르면 수천 건의 VMware 마이그레이션을 추진하는 Broadcom에 대한 \"부정적\" 견해",
-    "summary": "웨스턴 유니언 경영진은 브로드컴과 협력하는 데 \"어려움\" 이 있었다고 말합니다.",
-    "source": "Ars Technica",
-    "date": "2026.04.09",
-    "url": "https://arstechnica.com/information-technology/2026/04/nutanix-claims-it-has-poached-30000-vmware-customers/",
-    "tags": [
-      "테크"
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "데이터 유출 후, $ 10B 상당의 스타트업 Mercor는 한 달 동안",
-    "summary": "해커의 피해자가 된 후, Mercor는 소송에 직면하고 있으며 유명 고객을 잃은 것으로 알려졌습니다.",
-    "source": "TechCrunch",
-    "date": "2026.04.09",
-    "url": "https://techcrunch.com/2026/04/09/after-data-breach-10b-valued-startup-mercor-is-having-a-month/",
-    "tags": [
-      "스타트업",
-      "보안",
-      "규제"
-    ]
-  },
-  {
-    "rank": 5,
-    "title": "Muse Spark 출시 후 Meta AI 앱이 App Store에서 5위로 올라갑니다.",
-    "summary": "이 앱은 Meta AI의 새로운 모델이 출시되기 직전에 App Store에서 57위를 차지했습니다. 이제 5위이고 상승하고 있습니다.",
-    "source": "TechCrunch",
-    "date": "2026.04.09",
-    "url": "https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/",
-    "tags": [
-      "AI",
-      "빅테크"
     ]
   }
 ]
