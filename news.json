@@ -1,22 +1,22 @@
 [
   {
     "rank": 1,
-    "title": "샘 알트먼 (Sam Altman) 은 자신의 집을 공격한 후 뉴요커의 ‘선동적인’ 기사에 응답합니다.",
-    "summary": "OpenAI CEO의 새로운 블로그 게시물은 그의 집에 대한 명백한 공격과 그의 신뢰성에 대한 질문을 제기하는 심층적 인 뉴요커 프로필에 모두 응답합니다.",
+    "title": "가장 큰 궤도 컴퓨팅 클러스터는 비즈니스에 개방되어 있습니다",
+    "summary": "케플러 통신은 지구 궤도에서 40개의 GPU를 비행하고 있습니다. 최신 고객은 Sophia Space입니다.",
     "source": "TechCrunch",
-    "date": "2026.04.11",
-    "url": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
+    "date": "2026.04.13",
+    "url": "https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/",
     "tags": [
-      "LLM"
+      "반도체"
     ]
   },
   {
     "rank": 2,
-    "title": "Anthropic은 OpenClaw의 크리에이터가 Claude에 액세스하는 것을 일시적으로 금지했습니다",
-    "summary": "이 금지는 지난주 OpenClaw 사용자에 대한 Claude의 요금이 변경된 후 발생했습니다.",
+    "title": "트럼프 관리들은 Anthropic의 Mythos 모델을 테스트하기 위해 은행을 장려 할 수 있습니다.",
+    "summary": "이 보고서는 최근 국방부가 Anthropic을 공급망 위험으로 선언했기 때문에 특히 놀랍습니다.",
     "source": "TechCrunch",
-    "date": "2026.04.10",
-    "url": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
+    "date": "2026.04.12",
+    "url": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
     "tags": [
       "LLM",
       "규제"
@@ -24,37 +24,35 @@
   },
   {
     "rank": 3,
-    "title": "스토킹 피해자가 OpenAI를 고소하고, ChatGPT가 학대자의 망상을 조장하고 경고를 무시했다고 주장합니다.",
-    "summary": "OpenAI는 ChatGPT 사용자가 자신의 대량 캐주얼 깃발을 포함하여 위험하다는 세 가지 경고를 무시했으며, 전 여자 친구를 스토킹하고 괴롭히는 동안 새로운 소송이 제기되었습니다.",
+    "title": "애플은 앞으로 출시될 스마트 안경에 대해 네 가지 디자인을 테스트하고 있다고 한다.",
+    "summary": "이 안경은 한때 Apple이 다양한 혼합 및 증강 현실 장치를 출시하도록 요구했던 야심 찬 계획에서 한 발 물러선 것입니다.",
     "source": "TechCrunch",
-    "date": "2026.04.10",
-    "url": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
+    "date": "2026.04.12",
+    "url": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/",
     "tags": [
-      "LLM",
-      "규제"
+      "빅테크"
     ]
   },
   {
     "rank": 4,
-    "title": "TechCrunch가 도쿄로 향하고 있습니다 — 스타트업 배틀필드와 함께",
-    "summary": "SusHi Tech 2026은 AI, 로봇 공학, 회복탄력성 및 엔터테인먼트라는 사회를 재구성하는 네 가지 기술 영역을 제로화하고 있습니다. 인간형 로봇의 라이브 데모, 자율 주행 소프트웨어 세션 기대",
+    "title": "LLM부터 환각까지, 일반적인 AI 용어에 대한 간단한 가이드를 소개합니다.",
+    "summary": "AI의 부상은 새로운 용어와 속어의 눈사태를 가져왔습니다. 다음은 발생할 수 있는 가장 중요한 단어와 문구의 정의가 포함된 용어집입니다.",
     "source": "TechCrunch",
-    "date": "2026.04.10",
-    "url": "https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/",
+    "date": "2026.04.12",
+    "url": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
     "tags": [
-      "로보틱스",
-      "스타트업"
+      "AI"
     ]
   },
   {
     "rank": 5,
-    "title": "지난 24시간: TechCrunch Disrupt 2026 이용권을 최대 $ 500 할인받으세요",
-    "summary": "여기까지입니다. 오늘 밤은 TechCrunch Disrupt 2026 이용권으로 최대 $ 500의 할인 혜택을 누릴 수 있는 마지막 기회입니다. 이 할인은 태평양 표준시 기준 오후 11시 59분에 종료됩니다.",
+    "title": "HumanX 컨퍼런스에서 모두가 Claude에 대해 이야기하고있었습니다.",
+    "summary": "Anthropic은 샌프란시스코의 AI 중심 컨퍼런스에서 쇼의 스타였습니다.",
     "source": "TechCrunch",
-    "date": "2026.04.10",
-    "url": "https://techcrunch.com/2026/04/10/final-24-hours-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/",
+    "date": "2026.04.12",
+    "url": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/",
     "tags": [
-      "테크"
+      "LLM"
     ]
   }
 ]
