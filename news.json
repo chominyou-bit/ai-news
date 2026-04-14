@@ -1,6 +1,56 @@
 [
   {
     "rank": 1,
+    "title": "OpenAI가 AI 개인 금융 스타트업 Hiro를 인수했습니다",
+    "summary": "이번 인수는 OpenAI가 ChatGPT에 구축하고 있는 역량인 재무 계획을 나타냅니다.",
+    "source": "TechCrunch",
+    "date": "2026.04.14",
+    "url": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
+    "tags": [
+      "AI",
+      "LLM",
+      "스타트업"
+    ]
+  },
+  {
+    "rank": 2,
+    "title": "Microsoft는 또 다른 OpenClaw와 유사한 에이전트를 개발하고 있습니다.",
+    "summary": "새로운 기능은 유명한 위험한 오픈 소스 OpenClaw 에이전트보다 더 나은 보안 제어를 통해 엔터프라이즈 고객을 대상으로 합니다.",
+    "source": "TechCrunch",
+    "date": "2026.04.13",
+    "url": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/",
+    "tags": [
+      "빅테크",
+      "오픈소스",
+      "보안"
+    ]
+  },
+  {
+    "rank": 3,
+    "title": "스탠포드 보고서는 AI 내부자와 다른 모든 사람 사이의 단절이 커지고 있음을 강조합니다.",
+    "summary": "스탠포드의 최신 AI 지수는 일자리, 의료 및 경제에 대한 불안이 증가하면서 전문가와 대중 간의 격차가 확대되고 있음을 보여줍니다.",
+    "source": "TechCrunch",
+    "date": "2026.04.13",
+    "url": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "rank": 4,
+    "title": "베르셀 CEO 기예르모 라우치 (Guillermo Rauch) 는 AI 에이전트가 매출 급증을 촉진함에 따라 IPO 준비가 완료되었음을 알립니다.",
+    "summary": "ChatGPT가 등장하기 전에 설립된 많은 신생 기업들이 AI 시대를 대비하여 자리를 잡기 위해 고군분투하고 있지만, 10 년 된 개발 도구 및 웹 사이트 호스팅 플랫폼 인 Vercel은",
+    "source": "TechCrunch",
+    "date": "2026.04.13",
+    "url": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/",
+    "tags": [
+      "AI",
+      "LLM",
+      "스타트업"
+    ]
+  },
+  {
+    "rank": 5,
     "title": "가장 큰 궤도 컴퓨팅 클러스터는 비즈니스에 개방되어 있습니다",
     "summary": "케플러 통신은 지구 궤도에서 40개의 GPU를 비행하고 있습니다. 최신 고객은 Sophia Space입니다.",
     "source": "TechCrunch",
@@ -8,51 +58,6 @@
     "url": "https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/",
     "tags": [
       "반도체"
-    ]
-  },
-  {
-    "rank": 2,
-    "title": "트럼프 관리들은 Anthropic의 Mythos 모델을 테스트하기 위해 은행을 장려 할 수 있습니다.",
-    "summary": "이 보고서는 최근 국방부가 Anthropic을 공급망 위험으로 선언했기 때문에 특히 놀랍습니다.",
-    "source": "TechCrunch",
-    "date": "2026.04.12",
-    "url": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
-    "tags": [
-      "LLM",
-      "규제"
-    ]
-  },
-  {
-    "rank": 3,
-    "title": "애플은 앞으로 출시될 스마트 안경에 대해 네 가지 디자인을 테스트하고 있다고 한다.",
-    "summary": "이 안경은 한때 Apple이 다양한 혼합 및 증강 현실 장치를 출시하도록 요구했던 야심 찬 계획에서 한 발 물러선 것입니다.",
-    "source": "TechCrunch",
-    "date": "2026.04.12",
-    "url": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/",
-    "tags": [
-      "빅테크"
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "LLM부터 환각까지, 일반적인 AI 용어에 대한 간단한 가이드를 소개합니다.",
-    "summary": "AI의 부상은 새로운 용어와 속어의 눈사태를 가져왔습니다. 다음은 발생할 수 있는 가장 중요한 단어와 문구의 정의가 포함된 용어집입니다.",
-    "source": "TechCrunch",
-    "date": "2026.04.12",
-    "url": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "rank": 5,
-    "title": "HumanX 컨퍼런스에서 모두가 Claude에 대해 이야기하고있었습니다.",
-    "summary": "Anthropic은 샌프란시스코의 AI 중심 컨퍼런스에서 쇼의 스타였습니다.",
-    "source": "TechCrunch",
-    "date": "2026.04.12",
-    "url": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/",
-    "tags": [
-      "LLM"
     ]
   }
 ]
