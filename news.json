@@ -1,63 +1,60 @@
 [
   {
     "rank": 1,
-    "title": "OpenAI가 AI 개인 금융 스타트업 Hiro를 인수했습니다",
-    "summary": "이번 인수는 OpenAI가 ChatGPT에 구축하고 있는 역량인 재무 계획을 나타냅니다.",
+    "title": "Anthropic의 상승은 일부 OpenAI 투자자에게 두 번째 생각을 제공하고 있습니다.",
+    "summary": "두 회사를 후원한 한 투자자는 FT에 OpenAI의 최근 라운드를 정당화하려면 IPO 밸류에이션을 $ 1.2조 이상으로 가정해야 한다고 말했습니다 — Anthropic의 현재 $ 3800억 밸류에이션",
     "source": "TechCrunch",
-    "date": "2026.04.14",
-    "url": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
+    "date": "2026.04.15",
+    "url": "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/",
     "tags": [
-      "AI",
-      "LLM",
-      "스타트업"
+      "LLM"
     ]
   },
   {
     "rank": 2,
-    "title": "Microsoft는 또 다른 OpenClaw와 유사한 에이전트를 개발하고 있습니다.",
-    "summary": "새로운 기능은 유명한 위험한 오픈 소스 OpenClaw 에이전트보다 더 나은 보안 제어를 통해 엔터프라이즈 고객을 대상으로 합니다.",
+    "title": "Anthropic의 공동 설립자는 회사가 Mythos에 대해 트럼프 행정부에 브리핑했음을 확인합니다.",
+    "summary": "이번 주 Semafor 세계 경제 정상 회담에서 Anthropic의 공동 설립자 인 Jack Clark은 회사가 미국 정부와 함께하면서 동시에 소송을 제기 한 이유를 설명했습니다.",
     "source": "TechCrunch",
-    "date": "2026.04.13",
-    "url": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/",
+    "date": "2026.04.14",
+    "url": "https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos/",
     "tags": [
-      "빅테크",
-      "오픈소스",
-      "보안"
+      "LLM"
     ]
   },
   {
     "rank": 3,
-    "title": "스탠포드 보고서는 AI 내부자와 다른 모든 사람 사이의 단절이 커지고 있음을 강조합니다.",
-    "summary": "스탠포드의 최신 AI 지수는 일자리, 의료 및 경제에 대한 불안이 증가하면서 전문가와 대중 간의 격차가 확대되고 있음을 보여줍니다.",
+    "title": "Max Hodak's Science Corp. 은 인간의 뇌에 첫 번째 센서를 배치할 준비를 하고 있습니다.",
+    "summary": "이 장치는 성공이 입증되면 여러 신경 질환을 해결하는 데 도움이 될 수 있습니다. 한 가지 초기 사용은 손상된 뇌 또는 척수 세포에 부드러운 전기 자극을 전달하여",
     "source": "TechCrunch",
-    "date": "2026.04.13",
-    "url": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
+    "date": "2026.04.14",
+    "url": "https://techcrunch.com/2026/04/14/max-hodaks-science-corp-is-preparing-to-place-its-first-sensor-in-a-human-brain/",
     "tags": [
-      "AI"
+      "규제"
     ]
   },
   {
     "rank": 4,
-    "title": "베르셀 CEO 기예르모 라우치 (Guillermo Rauch) 는 AI 에이전트가 매출 급증을 촉진함에 따라 IPO 준비가 완료되었음을 알립니다.",
-    "summary": "ChatGPT가 등장하기 전에 설립된 많은 신생 기업들이 AI 시대를 대비하여 자리를 잡기 위해 고군분투하고 있지만, 10 년 된 개발 도구 및 웹 사이트 호스팅 플랫폼 인 Vercel은",
+    "title": "Google은 자주 사용하는 워크플로를 저장할 수 있도록 Chrome에 AI 기술을 추가합니다.",
+    "summary": "Google은 Chrome에 '기술' 을 추가하여 사용자가 여러 웹사이트에서 AI 프롬프트를 저장하고 재사용할 수 있도록 하고 있습니다. 이 기능은 Gemini의 브라우저 통합을 기반으로 합니다.",
     "source": "TechCrunch",
-    "date": "2026.04.13",
-    "url": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/",
+    "date": "2026.04.14",
+    "url": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/",
     "tags": [
       "AI",
       "LLM",
-      "스타트업"
+      "빅테크"
     ]
   },
   {
     "rank": 5,
-    "title": "가장 큰 궤도 컴퓨팅 클러스터는 비즈니스에 개방되어 있습니다",
-    "summary": "케플러 통신은 지구 궤도에서 40개의 GPU를 비행하고 있습니다. 최신 고객은 Sophia Space입니다.",
+    "title": "StrictlyVC San Francisco는 단 몇 주 만에 TDK Ventures, Replit 등의 리더들을 한자리에 모았습니다.",
+    "summary": "올해 첫 StrictlyVC가 샌프란시스코에서 열립니다. 4월 30일, 아직 몇 장의 티켓이 준비되어 있으니 오늘 등록하세요!",
     "source": "TechCrunch",
-    "date": "2026.04.13",
-    "url": "https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/",
+    "date": "2026.04.14",
+    "url": "https://techcrunch.com/2026/04/14/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
     "tags": [
-      "반도체"
+      "스타트업",
+      "규제"
     ]
   }
 ]
