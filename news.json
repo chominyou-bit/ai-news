@@ -1,60 +1,60 @@
 [
   {
     "rank": 1,
-    "title": "Anthropic의 상승은 일부 OpenAI 투자자에게 두 번째 생각을 제공하고 있습니다.",
-    "summary": "두 회사를 후원한 한 투자자는 FT에 OpenAI의 최근 라운드를 정당화하려면 IPO 밸류에이션을 $ 1.2조 이상으로 가정해야 한다고 말했습니다 — Anthropic의 현재 $ 3800억 밸류에이션",
+    "title": "OpenAI는 기업이 보다 안전하고 유능한 에이전트를 구축할 수 있도록 에이전트 SDK를 업데이트합니다.",
+    "summary": "OpenAI는 에이전트 AI의 인기가 계속 증가함에 따라 에이전트 구축 툴킷의 기능을 확장했습니다.",
     "source": "TechCrunch",
     "date": "2026.04.15",
-    "url": "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/",
+    "url": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
     "tags": [
+      "AI",
       "LLM"
     ]
   },
   {
     "rank": 2,
-    "title": "Anthropic의 공동 설립자는 회사가 Mythos에 대해 트럼프 행정부에 브리핑했음을 확인합니다.",
-    "summary": "이번 주 Semafor 세계 경제 정상 회담에서 Anthropic의 공동 설립자 인 Jack Clark은 회사가 미국 정부와 함께하면서 동시에 소송을 제기 한 이유를 설명했습니다.",
+    "title": "Hightouch, AI 기반 마케팅 도구로 $ 100M ARR 달성",
+    "summary": "이 스타트업은 마케터를 위한 AI 에이전트 플랫폼을 출시한 후 불과 20개월 만에 ARR을 7천만 달러 ($) 성장시켰다고 말합니다.",
     "source": "TechCrunch",
-    "date": "2026.04.14",
-    "url": "https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos/",
+    "date": "2026.04.15",
+    "url": "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/",
     "tags": [
-      "LLM"
+      "AI",
+      "스타트업"
     ]
   },
   {
     "rank": 3,
-    "title": "Max Hodak's Science Corp. 은 인간의 뇌에 첫 번째 센서를 배치할 준비를 하고 있습니다.",
-    "summary": "이 장치는 성공이 입증되면 여러 신경 질환을 해결하는 데 도움이 될 수 있습니다. 한 가지 초기 사용은 손상된 뇌 또는 척수 세포에 부드러운 전기 자극을 전달하여",
+    "title": "LinkedIn 데이터에 따르면 AI는 채용 거절에 대해 비난받지 않습니다... 아직",
+    "summary": "LinkedIn은 2022년 이후 채용이 20% 감소했다고 말하지만, AI가 아닌 더 높은 금리가 둔화되고 있다고 비난합니다.",
     "source": "TechCrunch",
-    "date": "2026.04.14",
-    "url": "https://techcrunch.com/2026/04/14/max-hodaks-science-corp-is-preparing-to-place-its-first-sensor-in-a-human-brain/",
+    "date": "2026.04.15",
+    "url": "https://techcrunch.com/2026/04/15/linkedin-data-shows-ai-isnt-to-blame-for-hiring-decline-yet/",
     "tags": [
-      "규제"
+      "AI"
     ]
   },
   {
     "rank": 4,
-    "title": "Google은 자주 사용하는 워크플로를 저장할 수 있도록 Chrome에 AI 기술을 추가합니다.",
-    "summary": "Google은 Chrome에 '기술' 을 추가하여 사용자가 여러 웹사이트에서 AI 프롬프트를 저장하고 재사용할 수 있도록 하고 있습니다. 이 기능은 Gemini의 브라우저 통합을 기반으로 합니다.",
+    "title": "AI 학습 앱 기즈모 (Gizmo) 는 1,300만 명의 사용자와 $ 2,200만 투자로 레벨업",
+    "summary": "AI 기반 학습 플랫폼인 기즈모 (Gizmo) 는 1,300만 명 이상의 사용자를 유치했으며 $ 2,200만 달러의 시리즈 A 자금을 확보했습니다.",
     "source": "TechCrunch",
-    "date": "2026.04.14",
-    "url": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/",
+    "date": "2026.04.15",
+    "url": "https://techcrunch.com/2026/04/15/ai-learning-app-gizmo-levels-up-with-13m-users-and-a-22m-investment/",
     "tags": [
-      "AI",
-      "LLM",
-      "빅테크"
+      "스타트업"
     ]
   },
   {
     "rank": 5,
-    "title": "StrictlyVC San Francisco는 단 몇 주 만에 TDK Ventures, Replit 등의 리더들을 한자리에 모았습니다.",
-    "summary": "올해 첫 StrictlyVC가 샌프란시스코에서 열립니다. 4월 30일, 아직 몇 장의 티켓이 준비되어 있으니 오늘 등록하세요!",
+    "title": "인공지능이 저널리즘을 판단할 수 있나요? 내부 고발자를 속일 위험이 있더라도 Thiel의 지원을 받는 스타트업은 그렇다고 말합니다.",
+    "summary": "Thiel의 지원을 받는 스타트업인 Objection은 AI를 사용하여 저널리즘을 판단하고 사용자가 스토리에 도전하기 위해 비용을 지불할 수 있도록 하는 것을 목표로 합니다. 비평가들은 내부 고발자를 진정시키고 미디어 책임이 작동하는 방식을 재구성 할 수 있다고 경고합니다.",
     "source": "TechCrunch",
-    "date": "2026.04.14",
-    "url": "https://techcrunch.com/2026/04/14/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
+    "date": "2026.04.15",
+    "url": "https://techcrunch.com/2026/04/15/can-ai-judge-journalism-a-thiel-backed-startup-says-yes-even-if-it-risks-chilling-whistleblowers/",
     "tags": [
-      "스타트업",
-      "규제"
+      "AI",
+      "스타트업"
     ]
   }
 ]
