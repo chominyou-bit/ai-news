@@ -1,60 +1,60 @@
 [
   {
     "rank": 1,
-    "title": "OpenAI는 기업이 보다 안전하고 유능한 에이전트를 구축할 수 있도록 에이전트 SDK를 업데이트합니다.",
-    "summary": "OpenAI는 에이전트 AI의 인기가 계속 증가함에 따라 에이전트 구축 툴킷의 기능을 확장했습니다.",
+    "title": "기업용 AI 코딩을 구축하기 위해 $ 1.5B 밸류에이션을 달성한 공장",
+    "summary": "3년 된 이 스타트업은 Khosla Ventures가 이끄는 1억 5천만 달러 ($) 를 모금했습니다.",
     "source": "TechCrunch",
-    "date": "2026.04.15",
-    "url": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
-    "tags": [
-      "AI",
-      "LLM"
-    ]
-  },
-  {
-    "rank": 2,
-    "title": "Hightouch, AI 기반 마케팅 도구로 $ 100M ARR 달성",
-    "summary": "이 스타트업은 마케터를 위한 AI 에이전트 플랫폼을 출시한 후 불과 20개월 만에 ARR을 7천만 달러 ($) 성장시켰다고 말합니다.",
-    "source": "TechCrunch",
-    "date": "2026.04.15",
-    "url": "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/",
+    "date": "2026.04.16",
+    "url": "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/",
     "tags": [
       "AI",
       "스타트업"
     ]
   },
   {
-    "rank": 3,
-    "title": "LinkedIn 데이터에 따르면 AI는 채용 거절에 대해 비난받지 않습니다... 아직",
-    "summary": "LinkedIn은 2022년 이후 채용이 20% 감소했다고 말하지만, AI가 아닌 더 높은 금리가 둔화되고 있다고 비난합니다.",
+    "rank": 2,
+    "title": "루마, 신앙 중심의 원더 프로젝트로 AI 기반 프로덕션 스튜디오 론칭",
+    "summary": "이 스튜디오의 첫 번째 프로젝트는 올 봄 프라임 비디오에서 공개될 모세와 스타 아카데미 수상자인 벤 킹슬리에 관한 것입니다.",
     "source": "TechCrunch",
-    "date": "2026.04.15",
-    "url": "https://techcrunch.com/2026/04/15/linkedin-data-shows-ai-isnt-to-blame-for-hiring-decline-yet/",
+    "date": "2026.04.16",
+    "url": "https://techcrunch.com/2026/04/16/luma-launches-ai-powered-production-studio-with-faith-focused-wonder-project/",
     "tags": [
-      "AI"
+      "테크"
+    ]
+  },
+  {
+    "rank": 3,
+    "title": "보고서에 따르면 회담에서 AI를 고급화하여 $ 20B 밸류에이션으로 모금",
+    "summary": "AI 인프라 기업인 업스케일 AI (Upscale AI) 는 불과 7개월 전 출시 이후 세 번째 자금 조달 라운드를 마련하기 위한 협의에 나선 것으로 알려졌다.",
+    "source": "TechCrunch",
+    "date": "2026.04.16",
+    "url": "https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report/",
+    "tags": [
+      "AI",
+      "스타트업"
     ]
   },
   {
     "rank": 4,
-    "title": "AI 학습 앱 기즈모 (Gizmo) 는 1,300만 명의 사용자와 $ 2,200만 투자로 레벨업",
-    "summary": "AI 기반 학습 플랫폼인 기즈모 (Gizmo) 는 1,300만 명 이상의 사용자를 유치했으며 $ 2,200만 달러의 시리즈 A 자금을 확보했습니다.",
+    "title": "뜨거운 로봇 공학 스타트업인 피지컬 인텔리전스 (Physical Intelligence) 는 새로운 로봇 두뇌가 결코 가르쳐주지 않은 작업을 파악할 수 있다고 말합니다.",
+    "summary": "Π0.7이라는 새로운 모델은 회사가 범용 로봇 두뇌의 오랜 목표를 향한 초기이지만 의미 있는 단계라고 설명하는 것을 나타냅니다.",
     "source": "TechCrunch",
-    "date": "2026.04.15",
-    "url": "https://techcrunch.com/2026/04/15/ai-learning-app-gizmo-levels-up-with-13m-users-and-a-22m-investment/",
+    "date": "2026.04.16",
+    "url": "https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/",
     "tags": [
+      "로보틱스",
       "스타트업"
     ]
   },
   {
     "rank": 5,
-    "title": "인공지능이 저널리즘을 판단할 수 있나요? 내부 고발자를 속일 위험이 있더라도 Thiel의 지원을 받는 스타트업은 그렇다고 말합니다.",
-    "summary": "Thiel의 지원을 받는 스타트업인 Objection은 AI를 사용하여 저널리즘을 판단하고 사용자가 스토리에 도전하기 위해 비용을 지불할 수 있도록 하는 것을 목표로 합니다. 비평가들은 내부 고발자를 진정시키고 미디어 책임이 작동하는 방식을 재구성 할 수 있다고 경고합니다.",
+    "title": "OpenAI는 데스크톱에 더 많은 권한을 부여하는 강화된 코덱스로 Anthropic을 겨냥합니다.",
+    "summary": "OpenAI의 에이전트 코딩 도구는 다양한 새로운 능력과 능력으로 큰 변화를 가져왔습니다.",
     "source": "TechCrunch",
-    "date": "2026.04.15",
-    "url": "https://techcrunch.com/2026/04/15/can-ai-judge-journalism-a-thiel-backed-startup-says-yes-even-if-it-risks-chilling-whistleblowers/",
+    "date": "2026.04.16",
+    "url": "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/",
     "tags": [
-      "AI",
-      "스타트업"
+      "LLM"
     ]
   }
 ]
