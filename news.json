@@ -1,60 +1,57 @@
 [
   {
     "rank": 1,
-    "title": "기업용 AI 코딩을 구축하기 위해 $ 1.5B 밸류에이션을 달성한 공장",
-    "summary": "3년 된 이 스타트업은 Khosla Ventures가 이끄는 1억 5천만 달러 ($) 를 모금했습니다.",
+    "title": "Sam Altman의 프로젝트 World는 인간 검증 제국을 확장하려고 합니다. 첫 번째 경유지: 틴더.",
+    "summary": "구슬 중심의 익명 검증 프로젝트로 눈썹을 올린 세계는 새로운 파트너십을 통해 영향력을 확대하고자 합니다.",
     "source": "TechCrunch",
-    "date": "2026.04.16",
-    "url": "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/",
-    "tags": [
-      "AI",
-      "스타트업"
-    ]
-  },
-  {
-    "rank": 2,
-    "title": "루마, 신앙 중심의 원더 프로젝트로 AI 기반 프로덕션 스튜디오 론칭",
-    "summary": "이 스튜디오의 첫 번째 프로젝트는 올 봄 프라임 비디오에서 공개될 모세와 스타 아카데미 수상자인 벤 킹슬리에 관한 것입니다.",
-    "source": "TechCrunch",
-    "date": "2026.04.16",
-    "url": "https://techcrunch.com/2026/04/16/luma-launches-ai-powered-production-studio-with-faith-focused-wonder-project/",
+    "date": "2026.04.17",
+    "url": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
     "tags": [
       "테크"
     ]
   },
   {
-    "rank": 3,
-    "title": "보고서에 따르면 회담에서 AI를 고급화하여 $ 20B 밸류에이션으로 모금",
-    "summary": "AI 인프라 기업인 업스케일 AI (Upscale AI) 는 불과 7개월 전 출시 이후 세 번째 자금 조달 라운드를 마련하기 위한 협의에 나선 것으로 알려졌다.",
-    "source": "TechCrunch",
-    "date": "2026.04.16",
-    "url": "https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report/",
+    "rank": 2,
+    "title": "미국이 허가한 환전소는 \"불친절한 주들\" 이 한 1,500만 달러 ($) 의 절도 행위를 말합니다.",
+    "summary": "Grinex는 필요한 해킹 리소스가 \"불친절한 상태에서만 사용할 수 있습니다.\" 라고 말합니다.",
+    "source": "Ars Technica",
+    "date": "2026.04.17",
+    "url": "https://arstechnica.com/security/2026/04/russia-friendly-exchange-says-western-special-service-behind-15-million-cyberattack/",
     "tags": [
-      "AI",
-      "스타트업"
+      "보안"
+    ]
+  },
+  {
+    "rank": 3,
+    "title": "회사가 계속해서 ‘사이드 퀘스트‘ 를 흘리면서 Kevin Weil과 Bill Peebles는 OpenAI를 종료합니다.",
+    "summary": "케빈 웨일 (Kevin Weil) 과 빌 피블스 (Bill Peebles) 는 소라 (Sora) 를 폐쇄하고 과학 팀을 접으면서 오픈AI를 떠나면서 소비자 인공지능 (AI) 을 향해 날카로운 선회 신호를 보냅니다.",
+    "source": "TechCrunch",
+    "date": "2026.04.17",
+    "url": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
+    "tags": [
+      "LLM"
     ]
   },
   {
     "rank": 4,
-    "title": "뜨거운 로봇 공학 스타트업인 피지컬 인텔리전스 (Physical Intelligence) 는 새로운 로봇 두뇌가 결코 가르쳐주지 않은 작업을 파악할 수 있다고 말합니다.",
-    "summary": "Π0.7이라는 새로운 모델은 회사가 범용 로봇 두뇌의 오랜 목표를 향한 초기이지만 의미 있는 단계라고 설명하는 것을 나타냅니다.",
+    "title": "출처: 기업 성장이 급증함에 따라 $ 50B 가치 평가에서 $ 20B + 를 올리는 회담의 커서",
+    "summary": "복귀 후원자 a16z와 Thrive가 라운드를 이끌 것으로 예상됩니다.",
     "source": "TechCrunch",
-    "date": "2026.04.16",
-    "url": "https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/",
+    "date": "2026.04.17",
+    "url": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
     "tags": [
-      "로보틱스",
-      "스타트업"
+      "테크"
     ]
   },
   {
     "rank": 5,
-    "title": "OpenAI는 데스크톱에 더 많은 권한을 부여하는 강화된 코덱스로 Anthropic을 겨냥합니다.",
-    "summary": "OpenAI의 에이전트 코딩 도구는 다양한 새로운 능력과 능력으로 큰 변화를 가져왔습니다.",
+    "title": "‘Tokenmaxxing’ 은 개발자의 생산성을 생각보다 떨어뜨리고 있습니다.",
+    "summary": "훨씬 더 많은 코드가 있지만 훨씬 더 비싸고 훨씬 더 많은 재작성이 필요합니다.",
     "source": "TechCrunch",
-    "date": "2026.04.16",
-    "url": "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/",
+    "date": "2026.04.17",
+    "url": "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/",
     "tags": [
-      "LLM"
+      "테크"
     ]
   }
 ]
