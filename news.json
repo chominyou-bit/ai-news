@@ -1,6 +1,51 @@
 [
   {
     "rank": 1,
+    "title": "OpenAI의 실존적 질문",
+    "summary": "Equity의 최신 에피소드에서는 OpenAI의 최신 인수와 회사의 \"두 가지 큰 실존적 문제\" 를 해결하는지 여부에 대해 논의합니다.",
+    "source": "TechCrunch",
+    "date": "2026.04.19",
+    "url": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
+    "tags": [
+      "LLM"
+    ]
+  },
+  {
+    "rank": 2,
+    "title": "12개월의 기간",
+    "summary": "부분적으로는 기초 모델이 아직 카테고리로 확장되지 않았기 때문에 많은 AI 스타트업이 존재합니다. 많은 사람들이 농담으로 인정하듯이, 그것은 영원하지 않을 것입니다.",
+    "source": "TechCrunch",
+    "date": "2026.04.19",
+    "url": "https://techcrunch.com/2026/04/19/the-12-month-window/",
+    "tags": [
+      "AI",
+      "스타트업"
+    ]
+  },
+  {
+    "rank": 3,
+    "title": "Palantir는 포용성과 ‘회귀적인‘ 문화를 비난하는 미니 선언문을 게시합니다",
+    "summary": "Palantir의 이데올로기적 굴곡은 얼음으로 작동하고 \"서양\" 의 수호자로 자리 잡았기 때문에 더 면밀한 조사를 받았습니다.",
+    "source": "TechCrunch",
+    "date": "2026.04.19",
+    "url": "https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/",
+    "tags": [
+      "테크"
+    ]
+  },
+  {
+    "rank": 4,
+    "title": "TechCrunch Mobility: Uber, 자산 최대화 시대 진입",
+    "summary": "테크크런치 모빌리티 (TechCrunch Mobility) 에 다시 오신 것을 환영합니다. 테크크런치 모빌리티는 미래의 교통 수단을 위한 허브이자, 그 어느 때보다 인공지능이 어떤 역할을 하고 있는지 보여줍니다.",
+    "source": "TechCrunch",
+    "date": "2026.04.19",
+    "url": "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "rank": 5,
     "title": "Tesla, 댈러스와 휴스턴에 로봇 택시 서비스 제공",
     "summary": "이 회사는 작년에 오스틴에서 서비스를 시작하여 2026년 1월부터 안전 운전자 없이 차량 서비스를 제공하기 시작한 후 현재 텍사스에 있는 세 도시에서 로보택시 서비스를 제공하고 있습니다.",
     "source": "TechCrunch",
@@ -9,52 +54,6 @@
     "tags": [
       "로보틱스",
       "빅테크"
-    ]
-  },
-  {
-    "rank": 2,
-    "title": "IPO를 위한 AI 칩 스타트업 Cerebras 파일",
-    "summary": "최근 몇 달 동안 이 회사는 아마존 웹 서비스 (Amazon Web Services) 와 아마존 데이터 센터에서 세레브라스 (Cerebras) 칩을 사용하기로 합의했으며, 오픈AI와의 계약도 100억 달러 ($) 이상의 가치가 있는 것으로 알려졌다.",
-    "source": "TechCrunch",
-    "date": "2026.04.18",
-    "url": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
-    "tags": [
-      "LLM",
-      "반도체",
-      "빅테크"
-    ]
-  },
-  {
-    "rank": 3,
-    "title": "Anthropic과 트럼프 행정부의 관계가 해동되는 것 같습니다.",
-    "summary": "최근 펜타곤에 의해 공급망 위험으로 지정되었음에도 불구하고, 앤서로픽은 여전히 트럼프 행정부의 고위급 인사들과 이야기하고 있다.",
-    "source": "TechCrunch",
-    "date": "2026.04.18",
-    "url": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
-    "tags": [
-      "LLM"
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "App Store가 다시 호황을 누리고 있으며, AI가 그 이유일 수 있습니다.",
-    "summary": "Appfigures의 새로운 데이터에 따르면 2026년에 새로운 앱이 출시되어 AI 도구가 모바일 소프트웨어 붐을 일으킬 수 있습니다.",
-    "source": "TechCrunch",
-    "date": "2026.04.18",
-    "url": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "rank": 5,
-    "title": "Sam Altman의 프로젝트 World는 인간 검증 제국을 확장하려고 합니다. 첫 번째 경유지: 틴더.",
-    "summary": "구슬 중심의 익명 검증 프로젝트로 눈썹을 올린 세계는 새로운 파트너십을 통해 영향력을 확대하고자 합니다.",
-    "source": "TechCrunch",
-    "date": "2026.04.17",
-    "url": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
-    "tags": [
-      "테크"
     ]
   }
 ]
