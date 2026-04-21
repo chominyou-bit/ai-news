@@ -1,59 +1,63 @@
 [
   {
     "rank": 1,
-    "title": "OpenAI의 실존적 질문",
-    "summary": "Equity의 최신 에피소드에서는 OpenAI의 최신 인수와 회사의 \"두 가지 큰 실존적 문제\" 를 해결하는지 여부에 대해 논의합니다.",
+    "title": "Anthropic은 Amazon에서 $ 50B를 가져와 그 대가로 $ 100B의 클라우드 지출을 약속합니다.",
+    "summary": "Amazon은 Anthropic에 $ 50억을 더 투자한다는 또 다른 순환 AI 계약을 체결했습니다. Anthropic은 그 대가로 AWS에 $ 1,000억을 지출하기로 합의했습니다.",
     "source": "TechCrunch",
-    "date": "2026.04.19",
-    "url": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
+    "date": "2026.04.20",
+    "url": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
     "tags": [
-      "LLM"
+      "AI",
+      "LLM",
+      "빅테크"
     ]
   },
   {
     "rank": 2,
-    "title": "12개월의 기간",
-    "summary": "부분적으로는 기초 모델이 아직 카테고리로 확장되지 않았기 때문에 많은 AI 스타트업이 존재합니다. 많은 사람들이 농담으로 인정하듯이, 그것은 영원하지 않을 것입니다.",
+    "title": "Google, Chrome에서 7개 국가에 Gemini 출시",
+    "summary": "Google은 Chrome에서 호주, 인도네시아, 일본, 필리핀, 싱가포르, 한국, 베트남에서 Gemini를 출시합니다. 회사는 이 기능을 데스크톱과 iOS 모두에 배포하고 있습니다.",
     "source": "TechCrunch",
-    "date": "2026.04.19",
-    "url": "https://techcrunch.com/2026/04/19/the-12-month-window/",
+    "date": "2026.04.20",
+    "url": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/",
     "tags": [
-      "AI",
-      "스타트업"
+      "LLM",
+      "빅테크"
     ]
   },
   {
     "rank": 3,
-    "title": "Palantir는 포용성과 ‘회귀적인‘ 문화를 비난하는 미니 선언문을 게시합니다",
-    "summary": "Palantir의 이데올로기적 굴곡은 얼음으로 작동하고 \"서양\" 의 수호자로 자리 잡았기 때문에 더 면밀한 조사를 받았습니다.",
+    "title": "그것은 단지 한 가지가 아닙니다 — 그것은 또 다른 것입니다",
+    "summary": "이 문장 구성 (\"이것만이 아닙니다 — 이것입니다\") 은 AI로 생성된 글쓰기에서 매우 흔해져서 더 이상 글쓰기가 합성적일 수 있다는 단서가 아닙니다. 거의 구아입니다.",
     "source": "TechCrunch",
-    "date": "2026.04.19",
-    "url": "https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/",
+    "date": "2026.04.20",
+    "url": "https://techcrunch.com/2026/04/20/ai-writing-its-not-just-this-its-that-barrons/",
     "tags": [
       "테크"
     ]
   },
   {
     "rank": 4,
-    "title": "TechCrunch Mobility: Uber, 자산 최대화 시대 진입",
-    "summary": "테크크런치 모빌리티 (TechCrunch Mobility) 에 다시 오신 것을 환영합니다. 테크크런치 모빌리티는 미래의 교통 수단을 위한 허브이자, 그 어느 때보다 인공지능이 어떤 역할을 하고 있는지 보여줍니다.",
+    "title": "NSA 스파이는 펜타곤의 불화에도 불구하고 Anthropic의 Mythos를 사용하고 있다고합니다.",
+    "summary": "NSA는 Anthropic의 제한된 Mythos AI 모델을 사용하고 있다고 합니다.",
     "source": "TechCrunch",
-    "date": "2026.04.19",
-    "url": "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/",
+    "date": "2026.04.20",
+    "url": "https://techcrunch.com/2026/04/20/nsa-spies-are-reportedly-using-anthropics-mythos-despite-pentagon-feud/",
     "tags": [
-      "AI"
+      "AI",
+      "LLM",
+      "규제"
     ]
   },
   {
     "rank": 5,
-    "title": "Tesla, 댈러스와 휴스턴에 로봇 택시 서비스 제공",
-    "summary": "이 회사는 작년에 오스틴에서 서비스를 시작하여 2026년 1월부터 안전 운전자 없이 차량 서비스를 제공하기 시작한 후 현재 텍사스에 있는 세 도시에서 로보택시 서비스를 제공하고 있습니다.",
+    "title": "최고경영자 (CEO) 겸 최고재무책임자 (CFO) 가 갑자기 페르미를 기점으로 AI",
+    "summary": "릭 페리 전 미국 에너지부 장관이 공동 설립한 이 스타트업은 텍사스에 있는 AI 캠퍼스로 인해 역풍을 맞았다.",
     "source": "TechCrunch",
-    "date": "2026.04.18",
-    "url": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
+    "date": "2026.04.20",
+    "url": "https://techcrunch.com/2026/04/20/fermi-ceo-and-cfo-depart-texas-nuclear-power-ai/",
     "tags": [
-      "로보틱스",
-      "빅테크"
+      "AI",
+      "스타트업"
     ]
   }
 ]
