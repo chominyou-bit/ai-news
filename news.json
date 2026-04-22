@@ -1,63 +1,61 @@
 [
   {
     "rank": 1,
-    "title": "Anthropic은 Amazon에서 $ 50B를 가져와 그 대가로 $ 100B의 클라우드 지출을 약속합니다.",
-    "summary": "Amazon은 Anthropic에 $ 50억을 더 투자한다는 또 다른 순환 AI 계약을 체결했습니다. Anthropic은 그 대가로 AWS에 $ 1,000억을 지출하기로 합의했습니다.",
+    "title": "Meta는 직원의 키 입력을 기록하고 이를 사용하여 AI 모델을 교육합니다.",
+    "summary": "Meta는 마우스 움직임과 버튼 클릭을 AI 모델을 훈련할 수 있는 데이터로 변환하는 새로운 내부 도구가 있다고 말합니다.",
     "source": "TechCrunch",
-    "date": "2026.04.20",
-    "url": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
+    "date": "2026.04.21",
+    "url": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
     "tags": [
       "AI",
-      "LLM",
       "빅테크"
     ]
   },
   {
     "rank": 2,
-    "title": "Google, Chrome에서 7개 국가에 Gemini 출시",
-    "summary": "Google은 Chrome에서 호주, 인도네시아, 일본, 필리핀, 싱가포르, 한국, 베트남에서 Gemini를 출시합니다. 회사는 이 기능을 데스크톱과 iOS 모두에 배포하고 있습니다.",
+    "title": "권한이 없는 그룹이 Anthropic의 독점 사이버 도구인 Mythos에 액세스할 수 있게 되었습니다.",
+    "summary": "Anthropic은 TechCrunch에 주장을 조사하고 있지만 시스템에 영향을 미쳤다는 증거는 없다고 말했습니다.",
     "source": "TechCrunch",
-    "date": "2026.04.20",
-    "url": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/",
+    "date": "2026.04.21",
+    "url": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
     "tags": [
-      "LLM",
-      "빅테크"
+      "LLM"
     ]
   },
   {
     "rank": 3,
-    "title": "그것은 단지 한 가지가 아닙니다 — 그것은 또 다른 것입니다",
-    "summary": "이 문장 구성 (\"이것만이 아닙니다 — 이것입니다\") 은 AI로 생성된 글쓰기에서 매우 흔해져서 더 이상 글쓰기가 합성적일 수 있다는 단서가 아닙니다. 거의 구아입니다.",
+    "title": "SpaceX는 Cursor와 협력하고 있으며 스타트업을 $ 60B에 구매할 수 있는 옵션이 있습니다.",
+    "summary": "이 움직임은 각 회사의 약점을 보완할 수 있지만, 이를 드러내기도 합니다. Cursor와 xAI 모두 Anthropic 및 OpenAI의 주요 제품과 일치할 수 있는 독점 모델이 없습니다. 동일한 공동",
     "source": "TechCrunch",
-    "date": "2026.04.20",
-    "url": "https://techcrunch.com/2026/04/20/ai-writing-its-not-just-this-its-that-barrons/",
+    "date": "2026.04.21",
+    "url": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/",
     "tags": [
-      "테크"
+      "LLM",
+      "스타트업"
     ]
   },
   {
     "rank": 4,
-    "title": "NSA 스파이는 펜타곤의 불화에도 불구하고 Anthropic의 Mythos를 사용하고 있다고합니다.",
-    "summary": "NSA는 Anthropic의 제한된 Mythos AI 모델을 사용하고 있다고 합니다.",
+    "title": "Apple의 John Ternus는 세계에서 가장 강력한 회사 중 하나를 운영할 것입니다. 이 작업은 지뢰밭입니다.",
+    "summary": "Apple의 최고 직업은 거의 타의 추종을 불허하는 힘과 돈으로 제공되지만 많은 수하물도 함께 제공됩니다.",
     "source": "TechCrunch",
-    "date": "2026.04.20",
-    "url": "https://techcrunch.com/2026/04/20/nsa-spies-are-reportedly-using-anthropics-mythos-despite-pentagon-feud/",
+    "date": "2026.04.21",
+    "url": "https://techcrunch.com/2026/04/21/apples-john-ternus-will-run-one-of-the-worlds-most-powerful-companies-the-job-is-a-minefield/",
     "tags": [
-      "AI",
-      "LLM",
-      "규제"
+      "빅테크"
     ]
   },
   {
     "rank": 5,
-    "title": "최고경영자 (CEO) 겸 최고재무책임자 (CFO) 가 갑자기 페르미를 기점으로 AI",
-    "summary": "릭 페리 전 미국 에너지부 장관이 공동 설립한 이 스타트업은 텍사스에 있는 AI 캠퍼스로 인해 역풍을 맞았다.",
+    "title": "AI 연구소 네오코그니션 (NeoCognition) 은 인간처럼 학습하는 에이전트를 구축하기 위해 $ 40M 씨앗을 상륙시킵니다.",
+    "summary": "OSU 연구원이 설립한 이 스타트업은 모든 영역에서 전문가가 될 수 있는 AI 에이전트를 개발하고 있습니다.",
     "source": "TechCrunch",
-    "date": "2026.04.20",
-    "url": "https://techcrunch.com/2026/04/20/fermi-ceo-and-cfo-depart-texas-nuclear-power-ai/",
+    "date": "2026.04.21",
+    "url": "https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/",
     "tags": [
       "AI",
-      "스타트업"
+      "스타트업",
+      "연구"
     ]
   }
 ]
