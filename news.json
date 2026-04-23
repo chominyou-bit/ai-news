@@ -1,61 +1,58 @@
 [
   {
     "rank": 1,
-    "title": "Meta는 직원의 키 입력을 기록하고 이를 사용하여 AI 모델을 교육합니다.",
-    "summary": "Meta는 마우스 움직임과 버튼 클릭을 AI 모델을 훈련할 수 있는 데이터로 변환하는 새로운 내부 도구가 있다고 말합니다.",
+    "title": "인도의 앱 시장은 호황을 누리고 있지만 글로벌 플랫폼은 대부분의 이익을 포착하고 있습니다.",
+    "summary": "스트리밍과 AI가 주도하는 비게임 앱은 인도의 사용자당 지출이 글로벌 동종 업체에 뒤처지더라도 성장을 주도하고 있습니다.",
     "source": "TechCrunch",
-    "date": "2026.04.21",
-    "url": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
+    "date": "2026.04.23",
+    "url": "https://techcrunch.com/2026/04/22/indias-app-market-is-booming-but-global-platforms-are-capturing-most-of-the-gains/",
     "tags": [
-      "AI",
-      "빅테크"
+      "테크"
     ]
   },
   {
     "rank": 2,
-    "title": "권한이 없는 그룹이 Anthropic의 독점 사이버 도구인 Mythos에 액세스할 수 있게 되었습니다.",
-    "summary": "Anthropic은 TechCrunch에 주장을 조사하고 있지만 시스템에 영향을 미쳤다는 증거는 없다고 말했습니다.",
+    "title": "Tesla는 방금 지출 계획을 $ 25B로 늘렸습니다. 자금이 필요한 부분입니다.",
+    "summary": "Tesla의 2026년 계획된 자본금은 Tesla가 역사적으로 지출한 것보다 3배 더 높습니다. 최고재무책임자 (CFO) 는 테슬라가 올해 남은 기간 동안 마이너스 잉여 현금 흐름을 갖게 될 것이라고 말했다.",
     "source": "TechCrunch",
-    "date": "2026.04.21",
-    "url": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
-    "tags": [
-      "LLM"
-    ]
-  },
-  {
-    "rank": 3,
-    "title": "SpaceX는 Cursor와 협력하고 있으며 스타트업을 $ 60B에 구매할 수 있는 옵션이 있습니다.",
-    "summary": "이 움직임은 각 회사의 약점을 보완할 수 있지만, 이를 드러내기도 합니다. Cursor와 xAI 모두 Anthropic 및 OpenAI의 주요 제품과 일치할 수 있는 독점 모델이 없습니다. 동일한 공동",
-    "source": "TechCrunch",
-    "date": "2026.04.21",
-    "url": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/",
-    "tags": [
-      "LLM",
-      "스타트업"
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "Apple의 John Ternus는 세계에서 가장 강력한 회사 중 하나를 운영할 것입니다. 이 작업은 지뢰밭입니다.",
-    "summary": "Apple의 최고 직업은 거의 타의 추종을 불허하는 힘과 돈으로 제공되지만 많은 수하물도 함께 제공됩니다.",
-    "source": "TechCrunch",
-    "date": "2026.04.21",
-    "url": "https://techcrunch.com/2026/04/21/apples-john-ternus-will-run-one-of-the-worlds-most-powerful-companies-the-job-is-a-minefield/",
+    "date": "2026.04.22",
+    "url": "https://techcrunch.com/2026/04/22/tesla-just-increased-its-capex-to-25b-heres-where-the-money-is-going/",
     "tags": [
       "빅테크"
     ]
   },
   {
-    "rank": 5,
-    "title": "AI 연구소 네오코그니션 (NeoCognition) 은 인간처럼 학습하는 에이전트를 구축하기 위해 $ 40M 씨앗을 상륙시킵니다.",
-    "summary": "OSU 연구원이 설립한 이 스타트업은 모든 영역에서 전문가가 될 수 있는 AI 에이전트를 개발하고 있습니다.",
+    "rank": 3,
+    "title": "Google은 AI를 새로운 사무실 인턴으로 만들기 위해 Workspace를 업데이트합니다",
+    "summary": "Google은 새로운 AI 시스템인 Workspace Intelligence에 의해 구동되는 새로운 자동화 기능을 Workspace에 도입했습니다.",
     "source": "TechCrunch",
-    "date": "2026.04.21",
-    "url": "https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/",
+    "date": "2026.04.22",
+    "url": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/",
     "tags": [
       "AI",
-      "스타트업",
-      "연구"
+      "빅테크"
+    ]
+  },
+  {
+    "rank": 4,
+    "title": "X의 새로운 AI 기반 커스텀 피드를 직접 경험해 보세요",
+    "summary": "X의 AI 기반 사용자 정의 타임라인은 커뮤니티를 그록 큐레이션 피드와 새로운 광고 슬롯으로 대체하고 있습니다.",
+    "source": "TechCrunch",
+    "date": "2026.04.22",
+    "url": "https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/",
+    "tags": [
+      "테크"
+    ]
+  },
+  {
+    "rank": 5,
+    "title": "SpaceX가 60억 달러 규모의 바이아웃 제안으로 20억 달러 규모의 자금 조달을 선점한 방법",
+    "summary": "Cursor는 이번 주에 20억 달러의 자금을 조달할 계획이었지만 SpaceX가 100억 달러의 \"협업 비용\" 과 600억 달러 규모의 인수를 제안한 후 논의를 중단하기로 결정했습니다.",
+    "source": "TechCrunch",
+    "date": "2026.04.22",
+    "url": "https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/",
+    "tags": [
+      "스타트업"
     ]
   }
 ]
