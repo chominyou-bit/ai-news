@@ -1,57 +1,59 @@
 [
   {
     "rank": 1,
-    "title": "인도의 앱 시장은 호황을 누리고 있지만 글로벌 플랫폼은 대부분의 이익을 포착하고 있습니다.",
-    "summary": "스트리밍과 AI가 주도하는 비게임 앱은 인도의 사용자당 지출이 글로벌 동종 업체에 뒤처지더라도 성장을 주도하고 있습니다.",
+    "title": "Bret Taylor's Sierra, YC 지원 AI 스타트업 Fragment 인수",
+    "summary": "기술자 브렛 테일러 (Bret Taylor) 가 설립한 AI 고객 서비스 에이전트 스타트업 시에라 (Sierra) 는 오늘 YC가 후원하는 프랑스 스타트업 프래그먼트 (Fragment) 를 인수했다고 발표했다.",
     "source": "TechCrunch",
     "date": "2026.04.23",
-    "url": "https://techcrunch.com/2026/04/22/indias-app-market-is-booming-but-global-platforms-are-capturing-most-of-the-gains/",
+    "url": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
     "tags": [
-      "테크"
+      "AI",
+      "스타트업"
     ]
   },
   {
     "rank": 2,
-    "title": "Tesla는 방금 지출 계획을 $ 25B로 늘렸습니다. 자금이 필요한 부분입니다.",
-    "summary": "Tesla의 2026년 계획된 자본금은 Tesla가 역사적으로 지출한 것보다 3배 더 높습니다. 최고재무책임자 (CFO) 는 테슬라가 올해 남은 기간 동안 마이너스 잉여 현금 흐름을 갖게 될 것이라고 말했다.",
-    "source": "TechCrunch",
-    "date": "2026.04.22",
-    "url": "https://techcrunch.com/2026/04/22/tesla-just-increased-its-capex-to-25b-heres-where-the-money-is-going/",
-    "tags": [
-      "빅테크"
-    ]
-  },
-  {
-    "rank": 3,
-    "title": "Google은 AI를 새로운 사무실 인턴으로 만들기 위해 Workspace를 업데이트합니다",
-    "summary": "Google은 새로운 AI 시스템인 Workspace Intelligence에 의해 구동되는 새로운 자동화 기능을 Workspace에 도입했습니다.",
-    "source": "TechCrunch",
-    "date": "2026.04.22",
-    "url": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/",
-    "tags": [
-      "AI",
-      "빅테크"
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "X의 새로운 AI 기반 커스텀 피드를 직접 경험해 보세요",
-    "summary": "X의 AI 기반 사용자 정의 타임라인은 커뮤니티를 그록 큐레이션 피드와 새로운 광고 슬롯으로 대체하고 있습니다.",
-    "source": "TechCrunch",
-    "date": "2026.04.22",
-    "url": "https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/",
+    "title": "첫 번째로, 랜섬웨어 패밀리는 양자 안전으로 확인됩니다.",
+    "summary": "기술적으로 말하자면, PQC를 사용하는 데 실질적인 이점은 없습니다. 그렇다면 왜 사용되고 있습니까?",
+    "source": "Ars Technica",
+    "date": "2026.04.23",
+    "url": "https://arstechnica.com/security/2026/04/now-even-ransomware-is-using-post-quantum-cryptography/",
     "tags": [
       "테크"
     ]
   },
   {
-    "rank": 5,
-    "title": "SpaceX가 60억 달러 규모의 바이아웃 제안으로 20억 달러 규모의 자금 조달을 선점한 방법",
-    "summary": "Cursor는 이번 주에 20억 달러의 자금을 조달할 계획이었지만 SpaceX가 100억 달러의 \"협업 비용\" 과 600억 달러 규모의 인수를 제안한 후 논의를 중단하기로 결정했습니다.",
+    "rank": 3,
+    "title": "둠스크롤을 수행하는 AI 봇인 Noscroll을 만나보세요.",
+    "summary": "Noscroll은 인터넷을 읽어주는 AI 봇으로 둠스크롤을 치료하고자 합니다.",
     "source": "TechCrunch",
-    "date": "2026.04.22",
-    "url": "https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/",
+    "date": "2026.04.23",
+    "url": "https://techcrunch.com/2026/04/23/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/",
     "tags": [
+      "AI"
+    ]
+  },
+  {
+    "rank": 4,
+    "title": "OpenAI는 GPT-5.5를 출시하여 AI ‘슈퍼 앱‘ 에 한 걸음 더 가까이 다가갑니다.",
+    "summary": "OpenAI는 최신 모델이 다양한 범주에서 향상된 기능을 제공한다고 말합니다.",
+    "source": "TechCrunch",
+    "date": "2026.04.23",
+    "url": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
+    "tags": [
+      "AI",
+      "LLM"
+    ]
+  },
+  {
+    "rank": 5,
+    "title": "ERA, AI 가젯을 위한 소프트웨어 플랫폼 구축을 위해 $ 11M 모금",
+    "summary": "시대는 안경, 반지, 펜던트 등 인공지능 하드웨어의 많은 폼 팩터를 보게 될 것이라고 생각합니다.",
+    "source": "TechCrunch",
+    "date": "2026.04.23",
+    "url": "https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/",
+    "tags": [
+      "AI",
       "스타트업"
     ]
   }
