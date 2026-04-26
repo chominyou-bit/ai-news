@@ -1,59 +1,60 @@
 [
   {
     "rank": 1,
-    "title": "메타의 손실은 사고 기계의 이득입니다",
-    "summary": "메타는 Thinking Machines Lab의 인재를 밀렵하고 있습니다. 하지만 이곳은 양방향 도로입니다.",
+    "title": "Anthropic은 에이전트 온 에이전트 상거래를 위한 테스트 마켓플레이스를 만들었습니다",
+    "summary": "최근 실험에서 Anthropic은 인공지능 에이전트가 구매자와 판매자를 모두 대표하여 실제 상품과 실제 화폐에 대한 실제 거래를 파업하는 기밀 마켓플레이스를 만들었습니다.",
     "source": "TechCrunch",
-    "date": "2026.04.24",
-    "url": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
+    "date": "2026.04.25",
+    "url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
     "tags": [
-      "빅테크"
+      "AI",
+      "LLM"
     ]
   },
   {
     "rank": 2,
-    "title": "ComfyUI는 크리에이터가 AI 생성 미디어에 대한 더 많은 제어를 추구함에 따라 $ 500M 평가를 달성했습니다.",
-    "summary": "크리에이터가 AI 이미지, 동영상 및 오디오 생성을 더 잘 제어할 수 있는 도구를 제공하는 ComfyUI가 $ 3,000만 달러를 모금했습니다.",
+    "title": "메인 주지사는 데이터 센터 모라토리엄을 거부합니다",
+    "summary": "L.D. 307은 2027년 11월 1일까지 지속되는 새로운 데이터 센터에 국내 최초의 주 전체 유예를 부과했을 것입니다.",
     "source": "TechCrunch",
-    "date": "2026.04.24",
-    "url": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "rank": 3,
-    "title": "인기 대학 웹사이트에서 포르노를 제공하는 이유는 무엇인가요? 그것은 조잡한 하우스키핑으로 귀결됩니다.",
-    "summary": "수십 개의 대학에서 수백 개의 하위 도메인이 사기꾼에 의해 납치되었습니다.",
-    "source": "Ars Technica",
-    "date": "2026.04.24",
-    "url": "https://arstechnica.com/security/2026/04/why-are-top-university-websites-serving-porn-it-comes-down-to-shoddy-housekeeping/",
+    "date": "2026.04.25",
+    "url": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
     "tags": [
       "테크"
     ]
   },
   {
-    "rank": 4,
-    "title": "Google, 현금 및 컴퓨팅으로 Anthropic에 최대 $ 40B 투자",
-    "summary": "Google은 강력하고 사이버 보안에 중점을 둔 Mythos 모델의 제한된 릴리스에 따라 대규모 컴퓨팅 용량을 확보하기 위해 AI 라이벌 경쟁을 벌이면서 Anthropic에 최대 $ 40B 투자를 계획하고 있습니다.",
+    "rank": 3,
+    "title": "OpenAI CEO, Tumbler Ridge 커뮤니티에 사과",
+    "summary": "OpenAI의 CEO인 샘 알트만 (Sam Altman) 은 캐나다 텀블러 릿지 (Tumbler Ridge) 주민들에게 보낸 서한에서 자신의 회사가 최근 대량 총격 사건의 용의자에 대해 법 집행 기관에 알리지 못한 것에 대해 \"깊이 사과한다\" 고 말했다.",
     "source": "TechCrunch",
-    "date": "2026.04.24",
-    "url": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
+    "date": "2026.04.25",
+    "url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
+    "tags": [
+      "LLM",
+      "규제"
+    ]
+  },
+  {
+    "rank": 4,
+    "title": "Cohere가 Aleph Alpha와 합병하는 이유",
+    "summary": "캐나다의 인공지능 스타트업 Cohere가 Lidl의 소유주인 Schwarz Group의 지원을 받아 독일에 본사를 둔 Aleph Alpha를 인수합니다. 그들의 정부의 축복으로, 회사는 주권적인 알트를 제공하려고합니다.",
+    "source": "TechCrunch",
+    "date": "2026.04.25",
+    "url": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
     "tags": [
       "AI",
-      "LLM",
-      "빅테크"
+      "스타트업"
     ]
   },
   {
     "rank": 5,
-    "title": "Apple의 새로운 CEO이자 Elon Musk가 Cursor를 $ 60B에 구매하려는 이유",
-    "summary": "팀 쿡 (Tim Cook) 이 9월에 CEO 직에서 물러나고 하드웨어 책임자 존 테르누스 (John Ternus) 에게 고삐를 건네면서 애플의 새로운 시대가 열리고 있습니다. Ternus는 m 중 하나를 상속할 수 있습니다.",
+    "title": "도쿄가 2026년 가장 중요한 기술 여행지인 이유",
+    "summary": "SusHi Tech Tokyo 2026에는 4개의 엄격하게 정의된 기술 영역이 있으며, 각 영역에는 라이브 데모, 전용 전시 플로어 및 실제로 이러한 기술을 구축하고 자금을 지원하는 사람들이 참여하는 세션이 지원됩니다.",
     "source": "TechCrunch",
-    "date": "2026.04.24",
-    "url": "https://techcrunch.com/podcast/apples-new-ceo-and-why-elon-musk-wants-to-buy-cursor-for-60b/",
+    "date": "2026.04.25",
+    "url": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
     "tags": [
-      "빅테크"
+      "스타트업"
     ]
   }
 ]
