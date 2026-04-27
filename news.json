@@ -1,6 +1,17 @@
 [
   {
     "rank": 1,
+    "title": "이 Bay Area 주택을 구입하려면 Anthropic equity가 필요합니다.",
+    "summary": "누군가 사우스 프란시스코 북쪽 밀 밸리에 있는 13에이커 규모의 숙소에 이례적인 특가를 제안하고 있습니다.",
+    "source": "TechCrunch",
+    "date": "2026.04.26",
+    "url": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
+    "tags": [
+      "LLM"
+    ]
+  },
+  {
+    "rank": 2,
     "title": "Anthropic은 에이전트 온 에이전트 상거래를 위한 테스트 마켓플레이스를 만들었습니다",
     "summary": "최근 실험에서 Anthropic은 인공지능 에이전트가 구매자와 판매자를 모두 대표하여 실제 상품과 실제 화폐에 대한 실제 거래를 파업하는 기밀 마켓플레이스를 만들었습니다.",
     "source": "TechCrunch",
@@ -12,7 +23,7 @@
     ]
   },
   {
-    "rank": 2,
+    "rank": 3,
     "title": "메인 주지사는 데이터 센터 모라토리엄을 거부합니다",
     "summary": "L.D. 307은 2027년 11월 1일까지 지속되는 새로운 데이터 센터에 국내 최초의 주 전체 유예를 부과했을 것입니다.",
     "source": "TechCrunch",
@@ -23,7 +34,7 @@
     ]
   },
   {
-    "rank": 3,
+    "rank": 4,
     "title": "OpenAI CEO, Tumbler Ridge 커뮤니티에 사과",
     "summary": "OpenAI의 CEO인 샘 알트만 (Sam Altman) 은 캐나다 텀블러 릿지 (Tumbler Ridge) 주민들에게 보낸 서한에서 자신의 회사가 최근 대량 총격 사건의 용의자에 대해 법 집행 기관에 알리지 못한 것에 대해 \"깊이 사과한다\" 고 말했다.",
     "source": "TechCrunch",
@@ -35,7 +46,7 @@
     ]
   },
   {
-    "rank": 4,
+    "rank": 5,
     "title": "Cohere가 Aleph Alpha와 합병하는 이유",
     "summary": "캐나다의 인공지능 스타트업 Cohere가 Lidl의 소유주인 Schwarz Group의 지원을 받아 독일에 본사를 둔 Aleph Alpha를 인수합니다. 그들의 정부의 축복으로, 회사는 주권적인 알트를 제공하려고합니다.",
     "source": "TechCrunch",
@@ -43,17 +54,6 @@
     "url": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
     "tags": [
       "AI",
-      "스타트업"
-    ]
-  },
-  {
-    "rank": 5,
-    "title": "도쿄가 2026년 가장 중요한 기술 여행지인 이유",
-    "summary": "SusHi Tech Tokyo 2026에는 4개의 엄격하게 정의된 기술 영역이 있으며, 각 영역에는 라이브 데모, 전용 전시 플로어 및 실제로 이러한 기술을 구축하고 자금을 지원하는 사람들이 참여하는 세션이 지원됩니다.",
-    "source": "TechCrunch",
-    "date": "2026.04.25",
-    "url": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
-    "tags": [
       "스타트업"
     ]
   }
