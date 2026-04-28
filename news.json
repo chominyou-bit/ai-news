@@ -1,60 +1,61 @@
 [
   {
     "rank": 1,
-    "title": "이 Bay Area 주택을 구입하려면 Anthropic equity가 필요합니다.",
-    "summary": "누군가 사우스 프란시스코 북쪽 밀 밸리에 있는 13에이커 규모의 숙소에 이례적인 특가를 제안하고 있습니다.",
-    "source": "TechCrunch",
-    "date": "2026.04.26",
-    "url": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
+    "title": "월간 다운로드 수가 1백만 건인 오픈 소스 패키지가 사용자 자격 증명을 훔쳤습니다",
+    "summary": "Element-data를 사용하는 수백만 명 중 한 명이라면 이제 절충안을 확인할 차례입니다.",
+    "source": "Ars Technica",
+    "date": "2026.04.27",
+    "url": "https://arstechnica.com/security/2026/04/open-source-package-with-1-million-monthly-downloads-stole-user-credentials/",
     "tags": [
-      "LLM"
+      "오픈소스"
     ]
   },
   {
     "rank": 2,
-    "title": "Anthropic은 에이전트 온 에이전트 상거래를 위한 테스트 마켓플레이스를 만들었습니다",
-    "summary": "최근 실험에서 Anthropic은 인공지능 에이전트가 구매자와 판매자를 모두 대표하여 실제 상품과 실제 화폐에 대한 실제 거래를 파업하는 기밀 마켓플레이스를 만들었습니다.",
+    "title": "OpenAI, $ 50B Amazon 거래로 Microsoft 법적 위험 종료",
+    "summary": "OpenAI는 최대 주주인 Microsoft로부터 AWS에서 제품을 판매할 수 있는 대대적인 양보를 받았으며, Microsoft는 수익 공유 계약을 통해 더 많은 현금을 확보했습니다.",
     "source": "TechCrunch",
-    "date": "2026.04.25",
-    "url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+    "date": "2026.04.27",
+    "url": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
     "tags": [
-      "AI",
-      "LLM"
+      "LLM",
+      "빅테크"
     ]
   },
   {
     "rank": 3,
-    "title": "메인 주지사는 데이터 센터 모라토리엄을 거부합니다",
-    "summary": "L.D. 307은 2027년 11월 1일까지 지속되는 새로운 데이터 센터에 국내 최초의 주 전체 유예를 부과했을 것입니다.",
+    "title": "DeepMind의 David Silver는 인간 데이터 없이 학습하는 AI를 구축하기 위해 $ 1.1B를 모금했습니다.",
+    "summary": "딥마인드 (DeepMind) 의 전 연구원 데이비드 실버 (David Silver) 가 불과 몇 달 전에 설립한 영국 인공지능 연구소인 인페퍼블 인텔리전스 (Ineffable Intelligence) 는 $ 51억의 가치로 $ 11억 달러의 자금을 조달했습니다.",
     "source": "TechCrunch",
-    "date": "2026.04.25",
-    "url": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
+    "date": "2026.04.27",
+    "url": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
     "tags": [
-      "테크"
+      "AI",
+      "스타트업",
+      "연구"
     ]
   },
   {
     "rank": 4,
-    "title": "OpenAI CEO, Tumbler Ridge 커뮤니티에 사과",
-    "summary": "OpenAI의 CEO인 샘 알트만 (Sam Altman) 은 캐나다 텀블러 릿지 (Tumbler Ridge) 주민들에게 보낸 서한에서 자신의 회사가 최근 대량 총격 사건의 용의자에 대해 법 집행 기관에 알리지 못한 것에 대해 \"깊이 사과한다\" 고 말했다.",
+    "title": "출시를 앞두고 스카이 (Skye) 의 아이폰용 AI 홈 화면 앱에 투자자들이 반발하고 있다.",
+    "summary": "스카이의 새로운 인공지능 앱은 출시되기도 전에 투자자들의 관심을 끌었으며, 이는 더 많은 인공지능 인식 아이폰에 대한 관심의 신호입니다.",
     "source": "TechCrunch",
-    "date": "2026.04.25",
-    "url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
+    "date": "2026.04.27",
+    "url": "https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/",
     "tags": [
-      "LLM",
-      "규제"
+      "AI"
     ]
   },
   {
     "rank": 5,
-    "title": "Cohere가 Aleph Alpha와 합병하는 이유",
-    "summary": "캐나다의 인공지능 스타트업 Cohere가 Lidl의 소유주인 Schwarz Group의 지원을 받아 독일에 본사를 둔 Aleph Alpha를 인수합니다. 그들의 정부의 축복으로, 회사는 주권적인 알트를 제공하려고합니다.",
+    "title": "중국, 메타의 $ 2B 마누스 거래를 몇 달간 진행한 후 차단",
+    "summary": "중국은 메타에게 수십억 달러 규모의 마누스 인수를 풀라고 명령했으며, 이는 주커버그가 인공지능 에이전트에 밀어붙이는 데 잠재적인 차질을 초래했다.",
     "source": "TechCrunch",
-    "date": "2026.04.25",
-    "url": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
+    "date": "2026.04.27",
+    "url": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
     "tags": [
       "AI",
-      "스타트업"
+      "빅테크"
     ]
   }
 ]
