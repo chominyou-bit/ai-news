@@ -1,60 +1,60 @@
 [
   {
     "rank": 1,
-    "title": "OpenAI 재판에서 머스크는 오래된 우정을",
-    "summary": "머스크가 인터뷰와 작가 월터 아이작슨 (Walter Isaacson) 에게 머스크에 대한 베스트셀러 전기로 이전에 한 이야기이지만 화요일은 그가 선서하에 말한 첫 번째 이야기였습니다.",
+    "title": "SoftBank는 데이터 센터를 구축하는 로봇 회사를 만들고 있으며 이미 $ 100B IPO를 주목하고 있습니다.",
+    "summary": "AI a와 로봇을 구축하려면 인프라가 필요하지만, 인프라를 구축하려면 AI와 로봇도 필요합니다.",
     "source": "TechCrunch",
-    "date": "2026.04.29",
-    "url": "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/",
+    "date": "2026.04.30",
+    "url": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
     "tags": [
-      "LLM"
+      "AI",
+      "로보틱스",
+      "규제"
     ]
   },
   {
     "rank": 2,
-    "title": "Amazon은 이미 AWS에서 새로운 OpenAI 제품을 제공하고 있습니다.",
-    "summary": "OpenAI가 Microsoft에게 독점적 권리를 종료하는 데 동의한 지 하루 후 AWS는 새로운 에이전트 서비스를 포함한 OpenAI 모델 오퍼링을 발표했습니다.",
+    "title": "아마존의 클라우드 비즈니스가 급증하고 있으며 자본 지출도 급증하고 있습니다.",
+    "summary": "전자 상거래 대기업은 AWS에서 예상보다 더 많은 돈을 벌고 있지만 많은 돈을 지출하고 있으며 가까운 장기에도 계속 그렇게 할 것이라고 CEO는 말했습니다.",
     "source": "TechCrunch",
-    "date": "2026.04.28",
-    "url": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
+    "date": "2026.04.30",
+    "url": "https://techcrunch.com/2026/04/29/amazons-cloud-business-is-surging-and-so-is-its-capital-spending/",
     "tags": [
-      "LLM",
       "빅테크"
     ]
   },
   {
     "rank": 3,
-    "title": "Amazon, 제품 페이지에서 AI 기반 오디오 Q&A 경험 출시",
-    "summary": "Amazon의 새로운 \"채팅 참여\" 기능을 사용하면 제품에 대해 질문하고 AI 기반 오디오 응답을 받을 수 있습니다.",
+    "title": "출처: Anthropic은 $ 900B의 가치로 새로운 $ 50B 라운드를 올릴 수 있습니다",
+    "summary": "이 문제에 정통한 소식통에 따르면 Claude의 제조업체는 $ 8,500 billion에서 $ 9,000 billion 범위의 평가에서 여러 선제적 제안을 받았습니다.",
     "source": "TechCrunch",
-    "date": "2026.04.28",
-    "url": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
+    "date": "2026.04.30",
+    "url": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
     "tags": [
-      "빅테크"
+      "LLM"
     ]
   },
   {
     "rank": 4,
-    "title": "Google, Anthropic의 거부 이후 Pentagon의 AI 액세스 확대",
-    "summary": "Anthropic이 국방부가 국내 대량 감시 및 자율 무기에 AI를 사용하는 것을 거부 한 후 Google은 부서와 새로운 계약을 체결했습니다.",
+    "title": "스탠드에서 Elon Musk는 자신의 트윗에서 벗어날 수 없습니다.",
+    "summary": "일론 머스크는 OpenAI를 합법적으로 해체하려는 시도를 위해 이틀째 입장을 취했습니다.",
     "source": "TechCrunch",
-    "date": "2026.04.28",
-    "url": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
+    "date": "2026.04.29",
+    "url": "https://techcrunch.com/2026/04/29/on-the-stand-elon-musk-cant-escape-his-own-tweets/",
     "tags": [
-      "AI",
-      "LLM",
-      "로보틱스"
+      "LLM"
     ]
   },
   {
     "rank": 5,
-    "title": "Lovable, iOS 및 Android에서 진동 코딩 앱 출시",
-    "summary": "이 앱을 사용하면 개발자가 이동 중에도 웹 앱과 웹 사이트를 진동으로 표시할 수 있습니다.",
+    "title": "메타는 여전히 AR/VR에서 돈을 버는 중입니다",
+    "summary": "Meta는 매 분기마다 Reality Labs에서 수십억 달러의 손실을 보고 있으며, AI 지출은 지출을 증가시킬 뿐입니다.",
     "source": "TechCrunch",
-    "date": "2026.04.28",
-    "url": "https://techcrunch.com/2026/04/28/lovable-launches-its-vibe-coding-app-on-ios-and-android/",
+    "date": "2026.04.29",
+    "url": "https://techcrunch.com/2026/04/29/meta-is-still-burning-money-on-ar-vr/",
     "tags": [
-      "테크"
+      "AI",
+      "빅테크"
     ]
   }
 ]
