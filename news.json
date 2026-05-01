@@ -1,60 +1,59 @@
 [
   {
     "rank": 1,
-    "title": "SoftBank는 데이터 센터를 구축하는 로봇 회사를 만들고 있으며 이미 $ 100B IPO를 주목하고 있습니다.",
-    "summary": "AI a와 로봇을 구축하려면 인프라가 필요하지만, 인프라를 구축하려면 AI와 로봇도 필요합니다.",
+    "title": "ChatGPT Images 2.0은 인도에서 인기가 있지만 아직 다른 곳에서는 큰 승자는 아닙니다.",
+    "summary": "인도의 사용자는 아바타에서 영화 초상화에 이르기까지 창의적이고 개인적인 비주얼을 위해 ChatGPT Images 2.0을 채택하고 있습니다.",
     "source": "TechCrunch",
-    "date": "2026.04.30",
-    "url": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
+    "date": "2026.05.01",
+    "url": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/",
     "tags": [
-      "AI",
-      "로보틱스",
-      "규제"
+      "LLM"
     ]
   },
   {
     "rank": 2,
-    "title": "아마존의 클라우드 비즈니스가 급증하고 있으며 자본 지출도 급증하고 있습니다.",
-    "summary": "전자 상거래 대기업은 AWS에서 예상보다 더 많은 돈을 벌고 있지만 많은 돈을 지출하고 있으며 가까운 장기에도 계속 그렇게 할 것이라고 CEO는 말했습니다.",
+    "title": "출처: 인류 잠재력 $ 900B + 가치 평가 라운드가 2주 이내에 발생할 수 있음",
+    "summary": "Anthropic은 투자자들에게 이 문제에 정통한 소식통에 따르면 향후 48시간 이내에 AI 회사의 최신 기금 모금에 대한 할당을 제출하도록 요청하고 있습니다.",
     "source": "TechCrunch",
     "date": "2026.04.30",
-    "url": "https://techcrunch.com/2026/04/29/amazons-cloud-business-is-surging-and-so-is-its-capital-spending/",
+    "url": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
     "tags": [
-      "빅테크"
+      "AI",
+      "LLM"
     ]
   },
   {
     "rank": 3,
-    "title": "출처: Anthropic은 $ 900B의 가치로 새로운 $ 50B 라운드를 올릴 수 있습니다",
-    "summary": "이 문제에 정통한 소식통에 따르면 Claude의 제조업체는 $ 8,500 billion에서 $ 9,000 billion 범위의 평가에서 여러 선제적 제안을 받았습니다.",
+    "title": "Apple은 Mac에 대한 AI 기반 수요에 놀랐습니다.",
+    "summary": "Apple은 다음 분기에도 Mac mini, Studio 및 Neo에 공급이 제한될 것이라고 밝혔습니다.",
     "source": "TechCrunch",
     "date": "2026.04.30",
-    "url": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
+    "url": "https://techcrunch.com/2026/04/30/apple-was-surprised-by-ai-driven-demand-for-macs/",
     "tags": [
-      "LLM"
+      "빅테크"
     ]
   },
   {
     "rank": 4,
-    "title": "스탠드에서 Elon Musk는 자신의 트윗에서 벗어날 수 없습니다.",
-    "summary": "일론 머스크는 OpenAI를 합법적으로 해체하려는 시도를 위해 이틀째 입장을 취했습니다.",
-    "source": "TechCrunch",
-    "date": "2026.04.29",
-    "url": "https://techcrunch.com/2026/04/29/on-the-stand-elon-musk-cant-escape-his-own-tweets/",
+    "title": "몇 년 안에 표면에 드러날 가장 심각한 Linux 위협은 평평한 발로 세계를 포착합니다.",
+    "summary": "CopyFail은 멀티 테넌트 서버, CI/CD 작업 흐름, 쿠버네티스 컨테이너 등을 위협합니다.",
+    "source": "Ars Technica",
+    "date": "2026.04.30",
+    "url": "https://arstechnica.com/security/2026/04/as-the-most-severe-linux-threat-in-years-surfaces-the-world-scrambles/",
     "tags": [
-      "LLM"
+      "테크"
     ]
   },
   {
     "rank": 5,
-    "title": "메타는 여전히 AR/VR에서 돈을 버는 중입니다",
-    "summary": "Meta는 매 분기마다 Reality Labs에서 수십억 달러의 손실을 보고 있으며, AI 지출은 지출을 증가시킬 뿐입니다.",
+    "title": "합법적인 인공지능 스타트업 레고라 (Legora) 가 $ 5.6B 밸류에이션을 기록했고 하비와의 싸움은 더욱 뜨거워졌습니다.",
+    "summary": "급성장하는 두 라이벌은 막대한 금액을 모으고 서로의 홈 잔디에 밀어 넣었으며 현재 결투 광고 캠페인을 벌이고 있습니다.",
     "source": "TechCrunch",
-    "date": "2026.04.29",
-    "url": "https://techcrunch.com/2026/04/29/meta-is-still-burning-money-on-ar-vr/",
+    "date": "2026.04.30",
+    "url": "https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/",
     "tags": [
       "AI",
-      "빅테크"
+      "스타트업"
     ]
   }
 ]
