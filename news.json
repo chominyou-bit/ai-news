@@ -1,59 +1,62 @@
 [
   {
     "rank": 1,
-    "title": "ChatGPT Images 2.0은 인도에서 인기가 있지만 아직 다른 곳에서는 큰 승자는 아닙니다.",
-    "summary": "인도의 사용자는 아바타에서 영화 초상화에 이르기까지 창의적이고 개인적인 비주얼을 위해 ChatGPT Images 2.0을 채택하고 있습니다.",
+    "title": "커서 거래에 대한 Replit의 Amjad Masad, Apple과 싸우는 이유, 그리고 그가 판매하지 않으려는 이유",
+    "summary": "목요일 밤 샌프란시스코에서 열린 TechCrunch의 StrictlyVC 행사에서 우리는 업계의 모든 사람들이 지금 묻는 질문부터 시작하여 짧은 시간에 많은 부분을 다루었습니다.",
     "source": "TechCrunch",
     "date": "2026.05.01",
-    "url": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/",
-    "tags": [
-      "LLM"
-    ]
-  },
-  {
-    "rank": 2,
-    "title": "출처: 인류 잠재력 $ 900B + 가치 평가 라운드가 2주 이내에 발생할 수 있음",
-    "summary": "Anthropic은 투자자들에게 이 문제에 정통한 소식통에 따르면 향후 48시간 이내에 AI 회사의 최신 기금 모금에 대한 할당을 제출하도록 요청하고 있습니다.",
-    "source": "TechCrunch",
-    "date": "2026.04.30",
-    "url": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
-    "tags": [
-      "AI",
-      "LLM"
-    ]
-  },
-  {
-    "rank": 3,
-    "title": "Apple은 Mac에 대한 AI 기반 수요에 놀랐습니다.",
-    "summary": "Apple은 다음 분기에도 Mac mini, Studio 및 Neo에 공급이 제한될 것이라고 밝혔습니다.",
-    "source": "TechCrunch",
-    "date": "2026.04.30",
-    "url": "https://techcrunch.com/2026/04/30/apple-was-surprised-by-ai-driven-demand-for-macs/",
+    "url": "https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/",
     "tags": [
       "빅테크"
     ]
   },
   {
-    "rank": 4,
-    "title": "몇 년 안에 표면에 드러날 가장 심각한 Linux 위협은 평평한 발로 세계를 포착합니다.",
-    "summary": "CopyFail은 멀티 테넌트 서버, CI/CD 작업 흐름, 쿠버네티스 컨테이너 등을 위협합니다.",
-    "source": "Ars Technica",
-    "date": "2026.04.30",
-    "url": "https://arstechnica.com/security/2026/04/as-the-most-severe-linux-threat-in-years-surfaces-the-world-scrambles/",
+    "rank": 2,
+    "title": "Meta는 휴머노이드 AI 야망을 강화하기 위해 로봇 신생 기업을 인수합니다.",
+    "summary": "메타는 로봇에 대한 AI 모델을 강화하기 위해 휴머노이드 스타트업 Assured Robot Intelligence를 인수했다고 밝혔다.",
+    "source": "TechCrunch",
+    "date": "2026.05.01",
+    "url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
     "tags": [
-      "테크"
+      "AI",
+      "로보틱스",
+      "빅테크"
+    ]
+  },
+  {
+    "rank": 3,
+    "title": "우분투 인프라가 하루 이상 다운되었습니다",
+    "summary": "이 정전으로 인해 뿌리를 내리는 치명적인 취약점에 대한 커뮤니케이션이 중단되었습니다.",
+    "source": "Ars Technica",
+    "date": "2026.05.01",
+    "url": "https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/",
+    "tags": [
+      "보안"
+    ]
+  },
+  {
+    "rank": 4,
+    "title": "자선 단체를 훔칠 수 없다는 것을 알고 계셨습니까? 걱정하지 마세요. 일론 머스크가 알려드릴 것입니다.",
+    "summary": "Elon Musk는 이번 주 OpenAI에 대한 소송에서 증인 스탠드에서 3 일 동안 더 많은 시간을 보냈으며 이미 지저분 해지고 있습니다. 이메일, 문자 메시지 및 자신의 트윗이 쿠바에서 노출되고 있습니다.",
+    "source": "TechCrunch",
+    "date": "2026.05.01",
+    "url": "https://techcrunch.com/podcast/did-you-know-you-cant-steal-a-charity-dont-worry-elon-musk-will-remind-you/",
+    "tags": [
+      "LLM",
+      "규제"
     ]
   },
   {
     "rank": 5,
-    "title": "합법적인 인공지능 스타트업 레고라 (Legora) 가 $ 5.6B 밸류에이션을 기록했고 하비와의 싸움은 더욱 뜨거워졌습니다.",
-    "summary": "급성장하는 두 라이벌은 막대한 금액을 모으고 서로의 홈 잔디에 밀어 넣었으며 현재 결투 광고 캠페인을 벌이고 있습니다.",
+    "title": "펜타곤 잉크는 분류된 네트워크에 AI를 배포하기 위해 엔비디아, 마이크로소프트, AWS와 거래합니다.",
+    "summary": "이번 거래는 국방부가 AI 모델의 사용 조건에 대한 Anthropic과의 논란이 많은 가운데 AI 벤더에 대한 노출을 두 배로 확대함에 따라 이루어졌습니다.",
     "source": "TechCrunch",
-    "date": "2026.04.30",
-    "url": "https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/",
+    "date": "2026.05.01",
+    "url": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
     "tags": [
       "AI",
-      "스타트업"
+      "LLM",
+      "반도체"
     ]
   }
 ]
