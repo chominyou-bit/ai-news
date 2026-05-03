@@ -1,6 +1,28 @@
 [
   {
     "rank": 1,
+    "title": "이제 인공지능으로 생성된 배우와 각본은 오스카상을 받을 수 없습니다",
+    "summary": "틸리 노우드에게 좋지 않은 소식입니다.",
+    "source": "TechCrunch",
+    "date": "2026.05.02",
+    "url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
+    "tags": [
+      "테크"
+    ]
+  },
+  {
+    "rank": 2,
+    "title": "테스트를 거쳐 순위를 매긴 최고의 AI 받아쓰기 앱",
+    "summary": "AI 기반 받아쓰기 앱은 이메일에 회신하고, 메모하고, 음성으로 코딩하는 데 유용합니다.",
+    "source": "TechCrunch",
+    "date": "2026.05.02",
+    "url": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "rank": 3,
     "title": "커서 거래에 대한 Replit의 Amjad Masad, Apple과 싸우는 이유, 그리고 그가 판매하지 않으려는 이유",
     "summary": "목요일 밤 샌프란시스코에서 열린 TechCrunch의 StrictlyVC 행사에서 우리는 업계의 모든 사람들이 지금 묻는 질문부터 시작하여 짧은 시간에 많은 부분을 다루었습니다.",
     "source": "TechCrunch",
@@ -11,7 +33,7 @@
     ]
   },
   {
-    "rank": 2,
+    "rank": 4,
     "title": "Meta는 휴머노이드 AI 야망을 강화하기 위해 로봇 신생 기업을 인수합니다.",
     "summary": "메타는 로봇에 대한 AI 모델을 강화하기 위해 휴머노이드 스타트업 Assured Robot Intelligence를 인수했다고 밝혔다.",
     "source": "TechCrunch",
@@ -24,39 +46,14 @@
     ]
   },
   {
-    "rank": 3,
+    "rank": 5,
     "title": "우분투 인프라가 하루 이상 다운되었습니다",
-    "summary": "이 정전으로 인해 뿌리를 내리는 치명적인 취약점에 대한 커뮤니케이션이 중단되었습니다.",
+    "summary": "서비스 중단으로 인해 뿌리를 내리는 치명적인 취약점에 대한 커뮤니케이션이 중단되었습니다.",
     "source": "Ars Technica",
     "date": "2026.05.01",
     "url": "https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/",
     "tags": [
       "보안"
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "자선 단체를 훔칠 수 없다는 것을 알고 계셨습니까? 걱정하지 마세요. 일론 머스크가 알려드릴 것입니다.",
-    "summary": "Elon Musk는 이번 주 OpenAI에 대한 소송에서 증인 스탠드에서 3 일 동안 더 많은 시간을 보냈으며 이미 지저분 해지고 있습니다. 이메일, 문자 메시지 및 자신의 트윗이 쿠바에서 노출되고 있습니다.",
-    "source": "TechCrunch",
-    "date": "2026.05.01",
-    "url": "https://techcrunch.com/podcast/did-you-know-you-cant-steal-a-charity-dont-worry-elon-musk-will-remind-you/",
-    "tags": [
-      "LLM",
-      "규제"
-    ]
-  },
-  {
-    "rank": 5,
-    "title": "펜타곤 잉크는 분류된 네트워크에 AI를 배포하기 위해 엔비디아, 마이크로소프트, AWS와 거래합니다.",
-    "summary": "이번 거래는 국방부가 AI 모델의 사용 조건에 대한 Anthropic과의 논란이 많은 가운데 AI 벤더에 대한 노출을 두 배로 확대함에 따라 이루어졌습니다.",
-    "source": "TechCrunch",
-    "date": "2026.05.01",
-    "url": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
-    "tags": [
-      "AI",
-      "LLM",
-      "반도체"
     ]
   }
 ]
