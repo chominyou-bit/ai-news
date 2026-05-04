@@ -1,6 +1,31 @@
 [
   {
     "rank": 1,
+    "title": "‘괜찮아요’ 크리에이터가 인공지능 스타트업이 자신의 작품을 훔쳤다고 말합니다.",
+    "summary": "이 광고는 광고판 뒤에 있는 인공지능 스타트업인 Artisan이 기업들에게 \"인간 고용을 중단하라\" 고 촉구한 것입니다.",
+    "source": "TechCrunch",
+    "date": "2026.05.03",
+    "url": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
+    "tags": [
+      "AI",
+      "스타트업"
+    ]
+  },
+  {
+    "rank": 2,
+    "title": "하버드 연구에서 AI는 두 명의 인간 의사보다 더 정확한 응급실 진단을 제공했습니다.",
+    "summary": "새로운 연구는 적어도 하나의 모델이 인간 의사보다 더 정확한 것처럼 보였던 실제 응급실 사례를 포함하여 다양한 의학적 맥락에서 대규모 언어 모델이 어떻게 수행되는지를 조사합니다.",
+    "source": "TechCrunch",
+    "date": "2026.05.03",
+    "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
+    "tags": [
+      "AI",
+      "LLM",
+      "연구"
+    ]
+  },
+  {
+    "rank": 3,
     "title": "이제 인공지능으로 생성된 배우와 각본은 오스카상을 받을 수 없습니다",
     "summary": "틸리 노우드에게 좋지 않은 소식입니다.",
     "source": "TechCrunch",
@@ -11,7 +36,7 @@
     ]
   },
   {
-    "rank": 2,
+    "rank": 4,
     "title": "테스트를 거쳐 순위를 매긴 최고의 AI 받아쓰기 앱",
     "summary": "AI 기반 받아쓰기 앱은 이메일에 회신하고, 메모하고, 음성으로 코딩하는 데 유용합니다.",
     "source": "TechCrunch",
@@ -22,7 +47,7 @@
     ]
   },
   {
-    "rank": 3,
+    "rank": 5,
     "title": "커서 거래에 대한 Replit의 Amjad Masad, Apple과 싸우는 이유, 그리고 그가 판매하지 않으려는 이유",
     "summary": "목요일 밤 샌프란시스코에서 열린 TechCrunch의 StrictlyVC 행사에서 우리는 업계의 모든 사람들이 지금 묻는 질문부터 시작하여 짧은 시간에 많은 부분을 다루었습니다.",
     "source": "TechCrunch",
@@ -30,30 +55,6 @@
     "url": "https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/",
     "tags": [
       "빅테크"
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "Meta는 휴머노이드 AI 야망을 강화하기 위해 로봇 신생 기업을 인수합니다.",
-    "summary": "메타는 로봇에 대한 AI 모델을 강화하기 위해 휴머노이드 스타트업 Assured Robot Intelligence를 인수했다고 밝혔다.",
-    "source": "TechCrunch",
-    "date": "2026.05.01",
-    "url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
-    "tags": [
-      "AI",
-      "로보틱스",
-      "빅테크"
-    ]
-  },
-  {
-    "rank": 5,
-    "title": "우분투 인프라가 하루 이상 다운되었습니다",
-    "summary": "서비스 중단으로 인해 뿌리를 내리는 치명적인 취약점에 대한 커뮤니케이션이 중단되었습니다.",
-    "source": "Ars Technica",
-    "date": "2026.05.01",
-    "url": "https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/",
-    "tags": [
-      "보안"
     ]
   }
 ]
