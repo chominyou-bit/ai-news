@@ -1,62 +1,61 @@
 [
   {
     "rank": 1,
-    "title": "엔비디아의 젠슨 황 (Jensen Huang) 은 인공지능 (AI) 이 ‘엄청난 수의 일자리를 창출하고 있다’ 고 말한다.",
-    "summary": "엔비디아 CEO는 AI의 일자리 살상 가능성에 대한 주장이 크게 과장되었다고 생각하는 것 같습니다.",
+    "title": "SAP는 18개월 된 독일 AI 실험실에서 $ 1.16 B를 베팅하고 NemoClaw에 예라고 말합니다.",
+    "summary": "SAP는 독일 AI 스타트업인 Prior Labs를 인수하고 대규모 투자를 계획하고 있습니다. 또한 고객의 에이전트가 Nvidia의 NemoClaw와 같은 일부 소수에게 사용하는 것을 금지하고 있습니다.",
     "source": "TechCrunch",
     "date": "2026.05.05",
-    "url": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
+    "url": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
     "tags": [
       "AI",
-      "반도체"
+      "반도체",
+      "스타트업"
     ]
   },
   {
     "rank": 2,
-    "title": "OpenAI의 아늑한 파트너 Cerebras는 블록버스터 IPO를 계획하고 있습니다",
-    "summary": "AI 칩 제조업체인 세레브라스 (Cerebras) 는 266억 달러 ($) 이상의 가치를 지닌 블록버스터 IPO를 추진하고 있습니다. OpenAI와의 관계는 깊고 풍부합니다.",
+    "title": "Altara는 물리 과학을 둔화시키는 데이터 격차를 해소하기 위해 $ 7M를 확보합니다",
+    "summary": "Altara의 AI는 스프레드시트와 레거시 시스템에 분산된 데이터를 통합하여 장애를 진단하고 R&D 속도를 높이는 것을 목표로 합니다.",
     "source": "TechCrunch",
-    "date": "2026.05.04",
-    "url": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
-    "tags": [
-      "AI",
-      "LLM",
-      "반도체"
-    ]
-  },
-  {
-    "rank": 3,
-    "title": "이미지 AI 모델은 이제 챗봇 업그레이드를 능가하는 앱 성장을 주도합니다",
-    "summary": "Appfigures는 비주얼 모델 출시로 6.5배 더 많은 다운로드를 생성하지만 대부분은 그 스파이크를 수익으로 전환하지 않습니다.",
-    "source": "TechCrunch",
-    "date": "2026.05.04",
-    "url": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
+    "date": "2026.05.05",
+    "url": "https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/",
     "tags": [
       "AI"
     ]
   },
   {
+    "rank": 3,
+    "title": "Apple은 iOS 27을 나만의 AI 모델 선택 어드벤처로 만들 계획입니다.",
+    "summary": "Apple의 최신 운영 체제 업데이트를 통해 사용자는 여러 작업에 사용할 타사 AI 모델을 선택할 수 있다고 합니다.",
+    "source": "TechCrunch",
+    "date": "2026.05.05",
+    "url": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
+    "tags": [
+      "AI",
+      "빅테크",
+      "스타트업"
+    ]
+  },
+  {
     "rank": 4,
-    "title": "GameStop은 이베이에 560억 달러 ($) 를 제공하며, 지불 방법을 설명하기 위해 고군분투하고 있습니다.",
-    "summary": "매출 하락과 매장 폐쇄로 인해 GameStop은 훨씬 더 큰 이베이 (eBay) 를 구매하고자 합니다.",
-    "source": "Ars Technica",
-    "date": "2026.05.04",
-    "url": "https://arstechnica.com/tech-policy/2026/05/gamestop-offers-56-billion-for-ebay-struggles-to-explain-how-itll-pay-for-it/",
+    "title": "ASML의 CEO 크리스토프 푸케 (Christophe Fouquet) 는 자신의 회사 독점에 대해: 아무도 우리를 위해 오지 않습니다.",
+    "summary": "회사에서 10여 년 만에 2024년 ASML의 CEO가 된 크리스토프 푸케 (Christophe Fouquet) 는 화요일 아침 자신의 호텔 옥상 데크에 이 편집자와 함께 앉았다.",
+    "source": "TechCrunch",
+    "date": "2026.05.05",
+    "url": "https://techcrunch.com/2026/05/05/asml-ceo-christophe-fouquet-no-one-is-coming-for-us/",
     "tags": [
       "테크"
     ]
   },
   {
     "rank": 5,
-    "title": "OpenAI 시험에서 Elon Musk의 유일한 AI 전문가 증인은 AGI 군비 경쟁을 두려워합니다.",
-    "summary": "스튜어트 러셀 (Stuart Russell) 은 정부가 프론티어 랩을 억제해야 한다고 생각하는 오랜 AI 연구원입니다.",
-    "source": "TechCrunch",
-    "date": "2026.05.04",
-    "url": "https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/",
+    "title": "한 달 동안의 공급망 공격으로 백도어 처리된 널리 사용되는 데몬 툴 디스크 앱",
+    "summary": "DAEMON Tools 사용자: 스텔스 감염이 있는지 기계를 점검할 때입니다.",
+    "source": "Ars Technica",
+    "date": "2026.05.05",
+    "url": "https://arstechnica.com/security/2026/05/widely-used-daemon-tools-disk-app-backdoored-in-monthlong-supply-chain-attack/",
     "tags": [
-      "AI",
-      "LLM",
-      "연구"
+      "테크"
     ]
   }
 ]
