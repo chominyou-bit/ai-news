@@ -1,58 +1,60 @@
 [
   {
     "rank": 1,
-    "title": "배리 딜러는 샘 알트먼을 신뢰합니다. 그러나 AGI가 가까워지면서 ‘신뢰는 무의미하다’ 고 그는 말합니다.",
-    "summary": "Barry Diller는 OpenAI CEO Sam Altman을 옹호하면서 AGI는 여전히 가드레일이 필요한 예측할 수 없는 힘이라고 경고했습니다.",
+    "title": "OpenAI, API에서 새로운 음성 인텔리전스 기능 출시",
+    "summary": "새로운 기능은 고객 서비스 시스템에 유용할 수 있지만, OpenAI는 교육 및 크리에이터 플랫폼을 포함한 다양한 분야에서 작동하는 애플리케이션을 보유하고 있다고 말합니다.",
     "source": "TechCrunch",
-    "date": "2026.05.06",
-    "url": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
+    "date": "2026.05.07",
+    "url": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
     "tags": [
       "LLM"
     ]
   },
   {
     "rank": 2,
-    "title": "Snap은 Perplexity와의 $ 400M 거래가 ‘우호적으로 끝났다‘ 고 말합니다.",
-    "summary": "작년 11월에 발표된 이 거래는 Perplexity의 AI 검색 엔진이 Snapchat에 직접 통합되는 것을 보았을 것입니다.",
+    "title": "VOI 창업자의 새로운 AI 스타트업 피트 (Pit) 가 스톡홀름에서 가장 떠오르는 스타가 되었습니다.",
+    "summary": "AI 스타트업 피트 (Pit) 는 유럽 스쿠터 거대 기업 보이 (Voi) 의 공동 설립자가 이끌고 있으며, a16z의 지원을 받아 스타트업의 $ 1,600만 시드 라운드를 이끌고 있습니다.",
     "source": "TechCrunch",
-    "date": "2026.05.06",
-    "url": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
+    "date": "2026.05.07",
+    "url": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
     "tags": [
-      "AI"
+      "AI",
+      "스타트업",
+      "규제"
     ]
   },
   {
     "rank": 3,
-    "title": "이제 xAI가 neocloud입니까?",
-    "summary": "xAI의 실제 비즈니스는 AI 모델을 훈련하는 것보다 데이터 센터를 구축하는 것일 수 있습니다.",
+    "title": "OpenAI, 자해 가능성에 대한 새로운 ‘신뢰할 수 있는 연락처’ 보호 장치 도입",
+    "summary": "회사는 대화가 자해로 이어질 수 있는 경우 ChatGPT 사용자를 보호하기 위한 노력을 확대하고 있습니다.",
     "source": "TechCrunch",
-    "date": "2026.05.06",
-    "url": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
+    "date": "2026.05.07",
+    "url": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
+    "tags": [
+      "LLM"
+    ]
+  },
+  {
+    "rank": 4,
+    "title": "이제 Perplexity의 개인용 컴퓨터를 Mac을 사용하는 모든 사용자가 사용할 수 있습니다.",
+    "summary": "Perplexity의 개인용 컴퓨터는 AI 에이전트를 Mac으로 가져와 이제 모든 사람에게 공개됩니다.",
+    "source": "TechCrunch",
+    "date": "2026.05.07",
+    "url": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
     "tags": [
       "AI"
     ]
   },
   {
-    "rank": 4,
-    "title": "Greg Brockman에 따르면 Elon Musk가 OpenAI를 떠난 방법",
-    "summary": "스타트업 창업자들 간의 협상은 공개적으로 공유되는 경우가 거의 없으며, 특히 회사가 OpenAI처럼 세상을 바꿀 때 더욱 그렇습니다.",
+    "rank": 5,
+    "title": "Elon Musk의 소송은 OpenAI의 안전 기록을 현미경으로",
+    "summary": "OpenAI를 해체하려는 Elon Musk의 법적 노력은 영리 자회사가 어떻게 인류가 인공적 혜택을 누릴 수 있도록 하는 Frontier Lab의 창립 사명을 향상시키거나 손상시키는지에 달려있을 수 있습니다.",
     "source": "TechCrunch",
-    "date": "2026.05.06",
-    "url": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
+    "date": "2026.05.07",
+    "url": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
     "tags": [
       "LLM",
-      "스타트업"
-    ]
-  },
-  {
-    "rank": 5,
-    "title": "SpaceX는 텍사스의 'Terafab‘ 칩 공장에서 최대 $ 119B를 지출할 수 있습니다.",
-    "summary": "제안서에 따르면 이 프로젝트는 \"다단계, 차세대, 수직적으로 통합된 반도체 제조 및 첨단 컴퓨팅 제작 시설\" 이 될 것입니다.",
-    "source": "TechCrunch",
-    "date": "2026.05.06",
-    "url": "https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/",
-    "tags": [
-      "반도체"
+      "규제"
     ]
   }
 ]
