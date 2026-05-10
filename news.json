@@ -1,6 +1,29 @@
 [
   {
     "rank": 1,
+    "title": "이 AI 용어를 듣고 고개를 끄덕이셨네요. 수정해 보겠습니다.",
+    "summary": "AI의 부상은 새로운 용어와 속어의 눈사태를 가져왔습니다. 다음은 발생할 수 있는 가장 중요한 단어와 문구의 정의가 포함된 용어집입니다.",
+    "source": "TechCrunch",
+    "date": "2026.05.09",
+    "url": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "rank": 2,
+    "title": "엔비디아는 이미 올해 AI 거래 지분에 $ 40B를 투입했습니다.",
+    "summary": "엔비디아는 AI 생태계에 계속 큰 투자를 하고 있습니다.",
+    "source": "TechCrunch",
+    "date": "2026.05.09",
+    "url": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
+    "tags": [
+      "AI",
+      "반도체"
+    ]
+  },
+  {
+    "rank": 3,
     "title": "해고된 오라클 직원들은 더 나은 퇴직 협상을 시도했습니다. 오라클은 거절했다.",
     "summary": "일부는 회사가 원격 근무자로 분류했기 때문에 2개월 통보와 같은 ACT 보호를 경고할 자격이 없다는 것을 알게 되었습니다.",
     "source": "TechCrunch",
@@ -11,7 +34,7 @@
     ]
   },
   {
-    "rank": 2,
+    "rank": 4,
     "title": "인텔의 컴백 스토리는 생각보다 거칠다.",
     "summary": "인텔의 주가는 지난 1년 동안 놀라운 490% 상승을 보였으며, 이는 월가의 베팅으로 회사의 실제 턴어라운드를 훨씬 앞당길 수 있습니다.",
     "source": "TechCrunch",
@@ -22,7 +45,7 @@
     ]
   },
   {
-    "rank": 3,
+    "rank": 5,
     "title": "사이버 공격이 학습 플랫폼을 혼란에 빠뜨리면서 혼돈이 폭발합니다. 결승전 중 캔버스",
     "summary": "전국적으로 학교와 대학은 연말 시험을 연기합니다.",
     "source": "Ars Technica",
@@ -30,30 +53,6 @@
     "url": "https://arstechnica.com/security/2026/05/chaos-erupts-as-cyberattack-disrupts-learning-platform-canvas-amid-finals/",
     "tags": [
       "테크"
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "Cloudflare는 AI가 매출이 사상 최고를 기록했음에도 불구하고 1,100개의 일자리를 쓸모 없게 만들었다고 말합니다.",
-    "summary": "Cloudflare가 첫 대규모 해고를 발표했습니다. CEO 매튜 프린스 (Matthew Prince) 는 AI 효율성 향상으로 인해 회사에 많은 지원 역할이 필요하지 않다고 말합니다.",
-    "source": "TechCrunch",
-    "date": "2026.05.08",
-    "url": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "rank": 5,
-    "title": "\"인민 항공사\" 와 엔터프라이즈 AI 골드 러시",
-    "summary": "모두가 엔터프라이즈 AI 파이의 조각을 원하고 있으며, 이번 주에는 일련의 회사가 움직이는 것을 보았습니다. Anthropic 및 OpenAI에서 새로운 합작 투자를 발표합니다.",
-    "source": "TechCrunch",
-    "date": "2026.05.08",
-    "url": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/",
-    "tags": [
-      "AI",
-      "LLM",
-      "스타트업"
     ]
   }
 ]
