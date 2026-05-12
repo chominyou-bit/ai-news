@@ -1,58 +1,59 @@
 [
   {
     "rank": 1,
-    "title": "속삭임으로 가득한 미래의 사무실을 맞이할 준비를 하세요.",
-    "summary": "컴퓨터와 점점 더 많은 시간을 보내는 경우 작업 설정이 어떻게 변경됩니까?",
+    "title": "Robinhood는 AI 랠리를 타고 두 번째 소매 벤처 IPO를 준비합니다",
+    "summary": "Robinhood는 이번에는 성장과 초기 스타트업을 목표로 두 번째 벤처 펀드를 위해 비밀리에 파일을 제출합니다.",
     "source": "TechCrunch",
-    "date": "2026.05.10",
-    "url": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
+    "date": "2026.05.12",
+    "url": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
     "tags": [
-      "테크"
+      "AI",
+      "스타트업"
     ]
   },
   {
     "rank": 2,
-    "title": "Anthropic은 AI에 대한 ‘사악한’ 묘사가 Claude의 협박 시도에 책임이 있다고 말합니다.",
-    "summary": "Anthropic에 따르면 인공 지능에 대한 가상의 묘사는 AI 모델에 실질적인 영향을 미칠 수 있습니다.",
+    "title": "GM은 더 강력한 AI 기술을 가진 사람들을 고용하기 위해 수백 명의 IT 인력을 해고했습니다.",
+    "summary": "일부 직책은 AI 네이티브 개발, 데이터 엔지니어링 및 분석, 클라우드 기반 엔지니어링, 에이전트 및 모델 개발뿐만 아니라 신속한 엔지니어링 및 새로운 AI 워크플로우에 중점을 둡니다.",
     "source": "TechCrunch",
-    "date": "2026.05.10",
-    "url": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
+    "date": "2026.05.11",
+    "url": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
     "tags": [
-      "AI",
-      "LLM"
+      "AI"
     ]
   },
   {
     "rank": 3,
-    "title": "우리는 Anthropic에 대한 xAI의 큰 거래에 대해 냉소적으로 느낍니다.",
-    "summary": "주식 팟캐스트의 최신 에피소드에서는 xAI와 Anthropic의 거래가 모회사인 SpaceX에 어떤 영향을 미칠지 논의했습니다.",
-    "source": "TechCrunch",
-    "date": "2026.05.10",
-    "url": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
+    "title": "몇 주 만에 두 번째 심각한 취약점에 물린 리눅스",
+    "summary": "프로덕션 버전 패치는 온라인으로 제공되며 즉시 설치해야 합니다.",
+    "source": "Ars Technica",
+    "date": "2026.05.11",
+    "url": "https://arstechnica.com/security/2026/05/linux-bitten-by-second-severe-vulnerability-in-as-many-weeks/",
     "tags": [
-      "LLM"
+      "보안"
     ]
   },
   {
     "rank": 4,
-    "title": "인도의 음성 AI는 어렵습니다. Wispr Flow는 어쨌든 그것에 베팅하고 있습니다.",
-    "summary": "Wispr Flow는 Hinglish 출시 후 인도에서 음성 AI 제품이 계속해서 어려움에 직면하더라도 성장이 가속화되었다고 말합니다.",
+    "title": "Digg는 이번에는 AI 뉴스 취합 담당자로서 다시 시도합니다.",
+    "summary": "베타 테스터에게 보낸 이메일에서 회사는 사이트의 목표가 \"공간에서 가장 영향력 있는 목소리를 추적하는 것\" 이며 실제로 \"주의를 기울일\" 가치가 있는 뉴스를 표면화하는 것이라고 말했습니다.",
     "source": "TechCrunch",
-    "date": "2026.05.10",
-    "url": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
+    "date": "2026.05.11",
+    "url": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/",
     "tags": [
       "AI"
     ]
   },
   {
     "rank": 5,
-    "title": "이 AI 용어를 듣고 고개를 끄덕이셨네요. 수정해 보겠습니다.",
-    "summary": "AI의 부상은 새로운 용어와 속어의 눈사태를 가져왔습니다. 다음은 발생할 수 있는 가장 중요한 단어와 문구의 정의가 포함된 용어집입니다.",
+    "title": "우주 데이터 센터를 위한 로켓이 충분하지 않음 — 카우보이 스페이스 건설을 위해 $ 275M 모금",
+    "summary": "인공지능 컴퓨팅에 대한 만족할 줄 모르는 수요로 인해 데이터 센터 기업가들은 별을 찾고 있습니다. 중요한 문제가 있습니다. 로켓이 충분하지 않아 지구 주변의 궤도에 데이터 센터를 배치할 수 없습니다.",
     "source": "TechCrunch",
-    "date": "2026.05.09",
-    "url": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "date": "2026.05.11",
+    "url": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
     "tags": [
-      "AI"
+      "AI",
+      "규제"
     ]
   }
 ]
