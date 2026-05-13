@@ -1,59 +1,60 @@
 [
   {
     "rank": 1,
-    "title": "Robinhood는 AI 랠리를 타고 두 번째 소매 벤처 IPO를 준비합니다",
-    "summary": "Robinhood는 이번에는 성장과 초기 스타트업을 목표로 두 번째 벤처 펀드를 위해 비밀리에 파일을 제출합니다.",
+    "title": "메디케어의 새로운 지불 모델은 AI를 위해 만들어졌으며, 대부분의 기술계는",
+    "summary": "방문 사이에 환자를 모니터링하거나, 체크인에 전화하거나, 숙소 추천을 조율하거나, 누군가가 약물을 수령하도록 하는 AI 에이전트에 대해 지불할 정부 메커니즘은 없습니다.",
     "source": "TechCrunch",
-    "date": "2026.05.12",
-    "url": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
+    "date": "2026.05.13",
+    "url": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
     "tags": [
-      "AI",
-      "스타트업"
+      "AI"
     ]
   },
   {
     "rank": 2,
-    "title": "GM은 더 강력한 AI 기술을 가진 사람들을 고용하기 위해 수백 명의 IT 인력을 해고했습니다.",
-    "summary": "일부 직책은 AI 네이티브 개발, 데이터 엔지니어링 및 분석, 클라우드 기반 엔지니어링, 에이전트 및 모델 개발뿐만 아니라 신속한 엔지니어링 및 새로운 AI 워크플로우에 중점을 둡니다.",
+    "title": "머스크는 OpenAI를 자식들에게 건네주었다고 알트만은 증언한다.",
+    "summary": "알트먼은 OpenAI가 고급 AI를 한 사람의 손에서 벗어나게 하는 데 전념했기 때문에 머스크가 초기 영리를 통제하는 데 중점을 두었다고 말했고, 알트먼은 그의 실험을 통해",
     "source": "TechCrunch",
-    "date": "2026.05.11",
-    "url": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
+    "date": "2026.05.12",
+    "url": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
     "tags": [
-      "AI"
+      "AI",
+      "LLM"
     ]
   },
   {
     "rank": 3,
-    "title": "몇 주 만에 두 번째 심각한 취약점에 물린 리눅스",
-    "summary": "프로덕션 버전 패치는 온라인으로 제공되며 즉시 설치해야 합니다.",
-    "source": "Ars Technica",
-    "date": "2026.05.11",
-    "url": "https://arstechnica.com/security/2026/05/linux-bitten-by-second-severe-vulnerability-in-as-many-weeks/",
+    "title": "Anthropic은 주식에 대한 액세스를 제공하는 보조 플랫폼에 대해 투자자에게 경고합니다.",
+    "summary": "\"이러한 회사가 제공하는 Anthropic 주식의 판매 또는 양도 또는 Anthropic 주식에 대한 지분은 무효이며 당사의 장부 및 기록에서 인정되지 않습니다.\" 라고 회사의 지원 페이지가 읽힙니다.",
+    "source": "TechCrunch",
+    "date": "2026.05.12",
+    "url": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
     "tags": [
-      "보안"
+      "LLM"
     ]
   },
   {
     "rank": 4,
-    "title": "Digg는 이번에는 AI 뉴스 취합 담당자로서 다시 시도합니다.",
-    "summary": "베타 테스터에게 보낸 이메일에서 회사는 사이트의 목표가 \"공간에서 가장 영향력 있는 목소리를 추적하는 것\" 이며 실제로 \"주의를 기울일\" 가치가 있는 뉴스를 표면화하는 것이라고 말했습니다.",
+    "title": "보고서: 데이터 센터를 궤도에 진입시키기 위한 Google 및 SpaceX 간담회",
+    "summary": "Google과 SpaceX는 오늘날 비용이 지상보다 훨씬 높더라도 인공지능 컴퓨팅의 미래 집으로 우주를 피칭하면서 궤도에 데이터 센터를 구축하기 위한 협의를 진행하고 있습니다.",
     "source": "TechCrunch",
-    "date": "2026.05.11",
-    "url": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/",
+    "date": "2026.05.12",
+    "url": "https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit/",
     "tags": [
-      "AI"
+      "AI",
+      "빅테크"
     ]
   },
   {
     "rank": 5,
-    "title": "우주 데이터 센터를 위한 로켓이 충분하지 않음 — 카우보이 스페이스 건설을 위해 $ 275M 모금",
-    "summary": "인공지능 컴퓨팅에 대한 만족할 줄 모르는 수요로 인해 데이터 센터 기업가들은 별을 찾고 있습니다. 중요한 문제가 있습니다. 로켓이 충분하지 않아 지구 주변의 궤도에 데이터 센터를 배치할 수 없습니다.",
+    "title": "Google이 Android Show에서 발표한 Googlebook부터 바이브 코딩된 위젯에 이르기까지 모든 것",
+    "summary": "Google은 새로운 AI 기반 Googlebook 노트북, 보다 에이전트적인 Gemini 기능, 진동으로 코딩된 Android 위젯, Chrome의 Gemini, 새로 고친 Android Auto 등을 I/O보다 먼저 공개했습니다.",
     "source": "TechCrunch",
-    "date": "2026.05.11",
-    "url": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
+    "date": "2026.05.12",
+    "url": "https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets/",
     "tags": [
-      "AI",
-      "규제"
+      "LLM",
+      "빅테크"
     ]
   }
 ]
