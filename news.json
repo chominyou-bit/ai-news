@@ -1,60 +1,59 @@
 [
   {
     "rank": 1,
-    "title": "메디케어의 새로운 지불 모델은 AI를 위해 만들어졌으며, 대부분의 기술계는",
-    "summary": "방문 사이에 환자를 모니터링하거나, 체크인에 전화하거나, 숙소 추천을 조율하거나, 누군가가 약물을 수령하도록 하는 AI 에이전트에 대해 지불할 정부 메커니즘은 없습니다.",
+    "title": "Notion이 방금 작업 공간을 AI 상담원의 허브로 바꿨습니다.",
+    "summary": "Notion의 새로운 개발자 플랫폼을 사용하면 AI 에이전트, 외부 데이터 소스 및 사용자 정의 코드를 에이전트 생산성 소프트웨어로 더 깊이 파고들면서 작업 공간에 직접 연결할 수 있습니다.",
     "source": "TechCrunch",
     "date": "2026.05.13",
-    "url": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
+    "url": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
     "tags": [
       "AI"
     ]
   },
   {
     "rank": 2,
-    "title": "머스크는 OpenAI를 자식들에게 건네주었다고 알트만은 증언한다.",
-    "summary": "알트먼은 OpenAI가 고급 AI를 한 사람의 손에서 벗어나게 하는 데 전념했기 때문에 머스크가 초기 영리를 통제하는 데 중점을 두었다고 말했고, 알트먼은 그의 실험을 통해",
+    "title": "Musk의 xAI는 미시시피 데이터 센터에서 확인되지 않은 거의 50개의 가스 터빈을 가동하고 있습니다.",
+    "summary": "XAI의 Colossus 2 데이터 센터의 가스 터빈은 회사가 \"모바일\" 가스 터빈을 발전소로 사용하는 것에 대해 소송을 제기했습니다.",
     "source": "TechCrunch",
-    "date": "2026.05.12",
-    "url": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
+    "date": "2026.05.13",
+    "url": "https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/",
     "tags": [
-      "AI",
-      "LLM"
+      "규제"
     ]
   },
   {
     "rank": 3,
-    "title": "Anthropic은 주식에 대한 액세스를 제공하는 보조 플랫폼에 대해 투자자에게 경고합니다.",
-    "summary": "\"이러한 회사가 제공하는 Anthropic 주식의 판매 또는 양도 또는 Anthropic 주식에 대한 지분은 무효이며 당사의 장부 및 기록에서 인정되지 않습니다.\" 라고 회사의 지원 페이지가 읽힙니다.",
+    "title": "Anthropic의 Cat Wu는 미래에 AI가 사용자의 요구 사항을 파악하기 전에 미리 예측할 것이라고 말합니다.",
+    "summary": "Claude Code와 Cowork의 제품 책임자는 AI의 다음 큰 단계는 능동성이라고 말합니다.",
     "source": "TechCrunch",
-    "date": "2026.05.12",
-    "url": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
+    "date": "2026.05.13",
+    "url": "https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/",
     "tags": [
+      "AI",
       "LLM"
     ]
   },
   {
     "rank": 4,
-    "title": "보고서: 데이터 센터를 궤도에 진입시키기 위한 Google 및 SpaceX 간담회",
-    "summary": "Google과 SpaceX는 오늘날 비용이 지상보다 훨씬 높더라도 인공지능 컴퓨팅의 미래 집으로 우주를 피칭하면서 궤도에 데이터 센터를 구축하기 위한 협의를 진행하고 있습니다.",
+    "title": "누가 샘 알트먼을 신뢰하나요?",
+    "summary": "알트먼은 연방법원에서 \"나는 정직하고 신뢰할 수 있는 사업가라고 믿는다\" 고 증언했다.",
     "source": "TechCrunch",
-    "date": "2026.05.12",
-    "url": "https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit/",
+    "date": "2026.05.13",
+    "url": "https://techcrunch.com/2026/05/13/who-trusts-sam-altman/",
     "tags": [
-      "AI",
-      "빅테크"
+      "테크"
     ]
   },
   {
     "rank": 5,
-    "title": "Google이 Android Show에서 발표한 Googlebook부터 바이브 코딩된 위젯에 이르기까지 모든 것",
-    "summary": "Google은 새로운 AI 기반 Googlebook 노트북, 보다 에이전트적인 Gemini 기능, 진동으로 코딩된 Android 위젯, Chrome의 Gemini, 새로 고친 Android Auto 등을 I/O보다 먼저 공개했습니다.",
+    "title": "Origin Lab, 비디오 게임 회사가 세계 모델 빌더에게 데이터를 판매할 수 있도록 $ 8M 모금",
+    "summary": "Origin Lab은 AI 연구소가 고품질의 라이선스 데이터를 구입할 수 있고 비디오 게임 회사가 판매할 수 있는 마켓플레이스 역할을 할 것입니다.",
     "source": "TechCrunch",
-    "date": "2026.05.12",
-    "url": "https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets/",
+    "date": "2026.05.13",
+    "url": "https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/",
     "tags": [
-      "LLM",
-      "빅테크"
+      "AI",
+      "스타트업"
     ]
   }
 ]
