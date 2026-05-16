@@ -1,60 +1,60 @@
 [
   {
     "rank": 1,
-    "title": "Elon Musk vs. Sam Altman의 경우 배심원이 실제로 결정할 사항",
-    "summary": "올해의 가장 큰 기술 법원 사례는 다음과 같습니다.",
+    "title": "OpenAI 시험이 마무리되고 Musk 설립자 기계가 계속 회전합니다.",
+    "summary": "머스크 대 알트만 재판이 이번 주에 막을 내렸고, 마지막 논쟁은 한 가지 질문으로 계속 돌아갔습니다. 우리는 AI를 담당하는 사람들을 신뢰할 수 있습니까? 이 모든 것이 SpaceX로 재생됩니다",
     "source": "TechCrunch",
-    "date": "2026.05.14",
-    "url": "https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/",
-    "tags": [
-      "테크"
-    ]
-  },
-  {
-    "rank": 2,
-    "title": "Elon Musk의 SpaceXAI는 합병 이후 직원들에게 출혈을 일으키고 있습니다.",
-    "summary": "50명 이상의 직원이 2월 이후 Elon Musk의 새로 합병된 SpaceXAI를 떠난 것으로 보고되어 번아웃, 리더십 변경, 인재 밀렵 및 유동성 이벤트 약화 여부에 대한 질문을 제기했습니다.",
-    "source": "TechCrunch",
-    "date": "2026.05.14",
-    "url": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
-    "tags": [
-      "테크"
-    ]
-  },
-  {
-    "rank": 3,
-    "title": "OpenAI에 따르면 코덱스가 휴대전화로 전송됩니다.",
-    "summary": "이 업데이트를 통해 사용자는 워크플로를 관리하는 방법에 대한 유연성을 강화할 수 있습니다.",
-    "source": "TechCrunch",
-    "date": "2026.05.14",
-    "url": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
+    "date": "2026.05.15",
+    "url": "https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/",
     "tags": [
       "LLM"
     ]
   },
   {
-    "rank": 4,
-    "title": "인공지능이 스스로를 구축하기 시작하면 어떻게 될까요?",
-    "summary": "Richard Socher의 새로운 6억 5천만 달러 ($) 규모의 스타트업은 스스로를 무한정 연구하고 개선할 수 있는 AI를 구축하기를 원하며 실제로 제품을 출하할 것이라고 주장합니다.",
+    "rank": 2,
+    "title": "실리콘 밸리의 휴양지는 AI가 가격을 상승시키는 것처럼 새로운 에너지 공급자가 필요합니다.",
+    "summary": "실리콘 밸리에서 가장 인기 있는 휴양지인 레이크 타호 (Lake Tahoe) 는 인공지능 (AI) 이 전력 수요를 증가시키면서 에너지 가격 상승으로 타격을 입기 직전입니다.",
     "source": "TechCrunch",
-    "date": "2026.05.14",
-    "url": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
+    "date": "2026.05.15",
+    "url": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "rank": 3,
+    "title": "OpenAI, 개인 금융을 위한 ChatGPT 출시, 은행 계좌 연결 가능",
+    "summary": "사용자가 계정을 연결하면 포트폴리오 성과, 지출, 구독 및 향후 결제 대시보드를 볼 수 있습니다.",
+    "source": "TechCrunch",
+    "date": "2026.05.15",
+    "url": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
+    "tags": [
+      "LLM",
+      "규제"
+    ]
+  },
+  {
+    "rank": 4,
+    "title": "런웨이는 영화 제작자를 돕는 것으로 시작되었습니다. 이제는 AI에서 Google을 이기고 싶어합니다.",
+    "summary": "AI 비디오 세대 스타트업 런웨이는 비디오 생성이 세계 모델로 가는 길이라고 내기를 걸고 있습니다. 그리고 AI 외부인이 되는 것은 책임이 아니라 장점입니다.",
+    "source": "TechCrunch",
+    "date": "2026.05.15",
+    "url": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
     "tags": [
       "AI",
-      "스타트업",
-      "연구"
+      "빅테크",
+      "스타트업"
     ]
   },
   {
     "rank": 5,
-    "title": "OpenAI는 Apple에 대한 법적 조치를 준비 중이며, 화상을 입은 첫 번째 파트너는 아닐 것입니다.",
-    "summary": "OpenAI는 ChatGPT 통합을 통해 Apple에 너무 실망하여 구독자를 제공하지 못했고 회사가 현재 iPho에 대한 법적 조치를 적극적으로 모색하고 있다고 기대했습니다.",
+    "title": "Osaurus는 Mac에 로컬 및 클라우드 AI 모델을 모두 제공합니다",
+    "summary": "Osaurus ￼ 는 사용자의 메모리, 파일 및 도구를 자체 하드웨어에 보관하는 Mac 앱에 로컬 및 클라우드 AI 모델을 결합합니다.",
     "source": "TechCrunch",
-    "date": "2026.05.14",
-    "url": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
+    "date": "2026.05.15",
+    "url": "https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/",
     "tags": [
-      "LLM",
-      "빅테크"
+      "AI"
     ]
   }
 ]
