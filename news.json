@@ -1,6 +1,42 @@
 [
   {
     "rank": 1,
+    "title": "AI 골드 러시의 산호초와 가지지 않은 것",
+    "summary": "현재 AI 붐을 둘러싼 분위기는 기술 산업에서도 좋지 않습니다.",
+    "source": "TechCrunch",
+    "date": "2026.05.16",
+    "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "rank": 2,
+    "title": "연구 저장소 ArXiv는 AI가 모든 작업을 수행하도록 허용하는 경우 작성자를 1년 동안 금지합니다.",
+    "summary": "ArXiv는 과학 논문에서 대규모 언어 모델의 부주의한 사용을 단속하기 위해 더 많은 노력을 기울이고 있습니다.",
+    "source": "TechCrunch",
+    "date": "2026.05.16",
+    "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
+    "tags": [
+      "AI",
+      "LLM",
+      "규제"
+    ]
+  },
+  {
+    "rank": 3,
+    "title": "OpenAI 공동 설립자 Greg Brockman이 제품 전략을 담당합니다.",
+    "summary": "OpenAI의 최신 쉐이크업은 ChatGPT와 프로그래밍 제품 Codex를 결합할 계획인 것으로 알려졌습니다.",
+    "source": "TechCrunch",
+    "date": "2026.05.16",
+    "url": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
+    "tags": [
+      "LLM",
+      "규제"
+    ]
+  },
+  {
+    "rank": 4,
     "title": "OpenAI 시험이 마무리되고 Musk 설립자 기계가 계속 회전합니다.",
     "summary": "머스크 대 알트만 재판이 이번 주에 막을 내렸고, 마지막 논쟁은 한 가지 질문으로 계속 돌아갔습니다. 우리는 AI를 담당하는 사람들을 신뢰할 수 있습니까? 이 모든 것이 SpaceX로 재생됩니다",
     "source": "TechCrunch",
@@ -11,48 +47,12 @@
     ]
   },
   {
-    "rank": 2,
+    "rank": 5,
     "title": "실리콘 밸리의 휴양지는 AI가 가격을 상승시키는 것처럼 새로운 에너지 공급자가 필요합니다.",
     "summary": "실리콘 밸리에서 가장 인기 있는 휴양지인 레이크 타호 (Lake Tahoe) 는 인공지능 (AI) 이 전력 수요를 증가시키면서 에너지 가격 상승으로 타격을 입기 직전입니다.",
     "source": "TechCrunch",
     "date": "2026.05.15",
     "url": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "rank": 3,
-    "title": "OpenAI, 개인 금융을 위한 ChatGPT 출시, 은행 계좌 연결 가능",
-    "summary": "사용자가 계정을 연결하면 포트폴리오 성과, 지출, 구독 및 향후 결제 대시보드를 볼 수 있습니다.",
-    "source": "TechCrunch",
-    "date": "2026.05.15",
-    "url": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
-    "tags": [
-      "LLM",
-      "규제"
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "런웨이는 영화 제작자를 돕는 것으로 시작되었습니다. 이제는 AI에서 Google을 이기고 싶어합니다.",
-    "summary": "AI 비디오 세대 스타트업 런웨이는 비디오 생성이 세계 모델로 가는 길이라고 내기를 걸고 있습니다. 그리고 AI 외부인이 되는 것은 책임이 아니라 장점입니다.",
-    "source": "TechCrunch",
-    "date": "2026.05.15",
-    "url": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
-    "tags": [
-      "AI",
-      "빅테크",
-      "스타트업"
-    ]
-  },
-  {
-    "rank": 5,
-    "title": "Osaurus는 Mac에 로컬 및 클라우드 AI 모델을 모두 제공합니다",
-    "summary": "Osaurus ￼ 는 사용자의 메모리, 파일 및 도구를 자체 하드웨어에 보관하는 Mac 앱에 로컬 및 클라우드 AI 모델을 결합합니다.",
-    "source": "TechCrunch",
-    "date": "2026.05.15",
-    "url": "https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/",
     "tags": [
       "AI"
     ]
