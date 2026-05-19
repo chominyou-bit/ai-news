@@ -1,58 +1,63 @@
 [
   {
     "rank": 1,
-    "title": "Apple의 Siri 개편에는 채팅 자동 삭제가 포함될 수 있습니다.",
-    "summary": "Apple이 Siri의 새 버전을 공개할 때 개인 정보 보호가 주요 테마가 될 것입니다.",
+    "title": "SandboxAQ는 신약 발견 모델을 Claude에 제공합니다 - 컴퓨팅 박사 학위 필요 없음",
+    "summary": "Chai Discovery 및 Isomorphic Labs와 같은 다른 벤처 기업들은 더 나은 모델을 구축하기 위해 경쟁했습니다. SandboxAQ는 액세스가 더 큰 장애물이며 Claude가 이를 해결한다고 베팅합니다.",
     "source": "TechCrunch",
-    "date": "2026.05.17",
-    "url": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
+    "date": "2026.05.18",
+    "url": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
     "tags": [
-      "빅테크",
-      "보안"
+      "LLM",
+      "스타트업"
     ]
   },
   {
     "rank": 2,
-    "title": "Elon Musk-OpenAI 시험에서 신뢰가 중요한 이유",
-    "summary": "시험 마지막 날의 큰 주제는 OpenAI CEO Sam Altman이 신뢰할 수 있는지 여부였습니다.",
+    "title": "Anthropic이 OpenAI, Google 및 Cloudflare에서 사용하는 개발 도구 시작을 인수했습니다",
+    "summary": "2022년에 설립된 뉴욕에 본사를 둔 스타트업인 스테인리스는 소프트웨어 개발 키트 또는 SDK의 생성 및 유지 관리를 자동화하기 위해 신흥 AI 업계에서 두각을 나타냈습니다. 라이브러리 d",
     "source": "TechCrunch",
-    "date": "2026.05.17",
-    "url": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
+    "date": "2026.05.18",
+    "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
     "tags": [
-      "LLM"
+      "AI",
+      "LLM",
+      "빅테크"
     ]
   },
   {
     "rank": 3,
-    "title": "2026년에 시작 연설을 하는 경우 AI에 대해 언급하지 않을 수 있습니다.",
-    "summary": "졸업생들이 인공지능에 의해 형성되는 미래에 대해 흥분하기는 어렵습니다.",
+    "title": "Elon Musk는 Sam Altman과 OpenAI에 대한 소송에서 패소했습니다.",
+    "summary": "OpenAI 공동 설립자들에 의해 학대를 받았다는 Elon Musk의 주장은 캘리포니아 주 배심원 9명이 자신의 소송이 너무 늦게 제기되었다는 만장일치 판결을 내린 후 실패했습니다.",
     "source": "TechCrunch",
-    "date": "2026.05.17",
-    "url": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
+    "date": "2026.05.18",
+    "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
     "tags": [
-      "AI"
+      "LLM",
+      "규제"
     ]
   },
   {
     "rank": 4,
-    "title": "테크크런치 모빌리티 (TechCrunch Mobility): 자동차를 위한 인공지능 기술 군비 경쟁이 다가오고 있습니다",
-    "summary": "교통의 미래에 대한 뉴스와 인사이트를 제공하는 중앙 허브인 TechCrunch Mobility에 다시 오신 것을 환영합니다.",
+    "title": "Amazon의 새로운 Alexa + 기반 기능은 팟캐스트 에피소드를 생성할 수 있습니다.",
+    "summary": "Amazon의 Alexa + 는 이제 비서를 개인화된 AI 콘텐츠 플랫폼으로 확장하여 주문형 맞춤형 AI 팟캐스트를 생성할 수 있습니다.",
     "source": "TechCrunch",
-    "date": "2026.05.17",
-    "url": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
+    "date": "2026.05.18",
+    "url": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
     "tags": [
-      "AI"
+      "AI",
+      "빅테크"
     ]
   },
   {
     "rank": 5,
-    "title": "AI 골드 러시의 산호초와 가지지 않은 것",
-    "summary": "현재 AI 붐을 둘러싼 분위기는 기술 산업에서도 좋지 않습니다.",
+    "title": "한국의 LetinAR는 인공지능 안경 뒤에 광학을 구축하고 있습니다.",
+    "summary": "썸네일 크기의 렌즈와 이를 만드는 한국 스타트업은 인공지능 안경 시대의 광학 중추가 될 수 있습니다.",
     "source": "TechCrunch",
-    "date": "2026.05.16",
-    "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
+    "date": "2026.05.18",
+    "url": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
     "tags": [
-      "AI"
+      "AI",
+      "스타트업"
     ]
   }
 ]
