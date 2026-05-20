@@ -1,23 +1,23 @@
 [
   {
     "rank": 1,
-    "title": "SandboxAQ는 신약 발견 모델을 Claude에 제공합니다 - 컴퓨팅 박사 학위 필요 없음",
-    "summary": "Chai Discovery 및 Isomorphic Labs와 같은 다른 벤처 기업들은 더 나은 모델을 구축하기 위해 경쟁했습니다. SandboxAQ는 액세스가 더 큰 장애물이며 Claude가 이를 해결한다고 베팅합니다.",
+    "title": "Google은 방금 IO 2026에서 AI 디자인의 경쟁자로 선언했습니다.",
+    "summary": "Google은 교사부터 소규모 비즈니스 소유자까지 누구나 액세스할 수 있도록 앱을 설계했다고 밝혔습니다.",
     "source": "TechCrunch",
-    "date": "2026.05.18",
-    "url": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
+    "date": "2026.05.19",
+    "url": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/",
     "tags": [
-      "LLM",
-      "스타트업"
+      "AI",
+      "빅테크"
     ]
   },
   {
     "rank": 2,
-    "title": "Anthropic이 OpenAI, Google 및 Cloudflare에서 사용하는 개발 도구 시작을 인수했습니다",
-    "summary": "2022년에 설립된 뉴욕에 본사를 둔 스타트업인 스테인리스는 소프트웨어 개발 키트 또는 SDK의 생성 및 유지 관리를 자동화하기 위해 신흥 AI 업계에서 두각을 나타냈습니다. 라이브러리 d",
+    "title": "이제 Google IO 2026에서 볼 수 있듯이 Gmail 받은 편지함과 대화할 수 있습니다.",
+    "summary": "Google은 대화형 음성 검색을 통해 Gmail의 AI 받은 편지함을 확장하여 사용자가 Gemini에 묻힌 이메일 세부 정보를 찾도록 요청할 수 있도록 합니다.",
     "source": "TechCrunch",
-    "date": "2026.05.18",
-    "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+    "date": "2026.05.19",
+    "url": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/",
     "tags": [
       "AI",
       "LLM",
@@ -26,38 +26,40 @@
   },
   {
     "rank": 3,
-    "title": "Elon Musk는 Sam Altman과 OpenAI에 대한 소송에서 패소했습니다.",
-    "summary": "OpenAI 공동 설립자들에 의해 학대를 받았다는 Elon Musk의 주장은 캘리포니아 주 배심원 9명이 자신의 소송이 너무 늦게 제기되었다는 만장일치 판결을 내린 후 실패했습니다.",
+    "title": "Google의 새로운 AI 에이전트를 사용하여 표준 검색을 뛰어넘는 방법",
+    "summary": "Google은 백그라운드에서 주제를 모니터링하고 사용자에게 업데이트 및 변경 사항을 사전에 알릴 수 있는 AI 기반 '정보 에이전트' 를 출시합니다.",
     "source": "TechCrunch",
-    "date": "2026.05.18",
-    "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
-    "tags": [
-      "LLM",
-      "규제"
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "Amazon의 새로운 Alexa + 기반 기능은 팟캐스트 에피소드를 생성할 수 있습니다.",
-    "summary": "Amazon의 Alexa + 는 이제 비서를 개인화된 AI 콘텐츠 플랫폼으로 확장하여 주문형 맞춤형 AI 팟캐스트를 생성할 수 있습니다.",
-    "source": "TechCrunch",
-    "date": "2026.05.18",
-    "url": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
+    "date": "2026.05.19",
+    "url": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/",
     "tags": [
       "AI",
       "빅테크"
     ]
   },
   {
-    "rank": 5,
-    "title": "한국의 LetinAR는 인공지능 안경 뒤에 광학을 구축하고 있습니다.",
-    "summary": "썸네일 크기의 렌즈와 이를 만드는 한국 스타트업은 인공지능 안경 시대의 광학 중추가 될 수 있습니다.",
+    "rank": 4,
+    "title": "십대 해커에서 아이언 돔 연구원에 이르기까지, 이 창업자는 AI 피싱을 퇴치하기 위해 $ 2,800만 달러를 모금했습니다.",
+    "summary": "에이전트 이메일 보안 플랫폼인 OCEAN은 AI가 모든 수신 이메일의 맥락을 철저히 분석하여 사기 및 명의 도용 시도를 탐지할 수 있다고 주장합니다.",
     "source": "TechCrunch",
-    "date": "2026.05.18",
-    "url": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
+    "date": "2026.05.19",
+    "url": "https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/",
     "tags": [
       "AI",
-      "스타트업"
+      "보안",
+      "연구"
+    ]
+  },
+  {
+    "rank": 5,
+    "title": "일론 머스크는 샘 알트먼이 비영리를 ‘훔쳤다’ 고 말했지만, 재판 결과 그는 비슷한 목표를 가지고 있었다.",
+    "summary": "OpenAI 및 Microsoft의 다른 설립자에 대한 Elon Musk의 소송을 거부하기로 한 배심원의 신속한 결정은 법정에서 본 것을 확인했습니다. Musk의 사건은 부분적으로 그가 기다렸기 때문에 약한 사건이었습니다.",
+    "source": "TechCrunch",
+    "date": "2026.05.19",
+    "url": "https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/",
+    "tags": [
+      "LLM",
+      "빅테크",
+      "규제"
     ]
   }
 ]
