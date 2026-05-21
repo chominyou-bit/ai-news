@@ -1,65 +1,59 @@
 [
   {
     "rank": 1,
-    "title": "Google은 방금 IO 2026에서 AI 디자인의 경쟁자로 선언했습니다.",
-    "summary": "Google은 교사부터 소규모 비즈니스 소유자까지 누구나 액세스할 수 있도록 앱을 설계했다고 밝혔습니다.",
+    "title": "젠슨 황 (Jensen Huang) 은 엔비디아의 ‘새로운’ $ 200B 시장을 찾았다고 말합니다.",
+    "summary": "CEO 젠슨 황 (Jensen Huang) 은 엔비디아의 다음 큰 목표는 AI 에이전트용 CPU ($ 2000억 상당) 가 될 것이라고 예측합니다.",
     "source": "TechCrunch",
-    "date": "2026.05.19",
-    "url": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/",
+    "date": "2026.05.21",
+    "url": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
     "tags": [
       "AI",
-      "빅테크"
+      "반도체"
     ]
   },
   {
     "rank": 2,
-    "title": "이제 Google IO 2026에서 볼 수 있듯이 Gmail 받은 편지함과 대화할 수 있습니다.",
-    "summary": "Google은 대화형 음성 검색을 통해 Gmail의 AI 받은 편지함을 확장하여 사용자가 Gemini에 묻힌 이메일 세부 정보를 찾도록 요청할 수 있도록 합니다.",
+    "title": "Anthropic은 첫 번째 수익성 있는 분기가 곧 시작될 것이라고 말합니다.",
+    "summary": "Anthropic은 투자자들에게 2분기에 약 109억 달러로 두 배 이상의 수익을 올릴 것이라고 말했습니다.",
     "source": "TechCrunch",
-    "date": "2026.05.19",
-    "url": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/",
+    "date": "2026.05.21",
+    "url": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
     "tags": [
-      "AI",
-      "LLM",
-      "빅테크"
+      "LLM"
     ]
   },
   {
     "rank": 3,
-    "title": "Google의 새로운 AI 에이전트를 사용하여 표준 검색을 뛰어넘는 방법",
-    "summary": "Google은 백그라운드에서 주제를 모니터링하고 사용자에게 업데이트 및 변경 사항을 사전에 알릴 수 있는 AI 기반 '정보 에이전트' 를 출시합니다.",
+    "title": "Clouted는 짧은 동영상이 널리 퍼지도록 하는 추측을 없애고자 합니다.",
+    "summary": "비디오 클리핑 스타트업은 Slow Ventures가 이끄는 700만 달러 ($) 의 시드 라운드를 모금했습니다.",
     "source": "TechCrunch",
-    "date": "2026.05.19",
-    "url": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/",
+    "date": "2026.05.20",
+    "url": "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/",
     "tags": [
-      "AI",
-      "빅테크"
+      "스타트업"
     ]
   },
   {
     "rank": 4,
-    "title": "십대 해커에서 아이언 돔 연구원에 이르기까지, 이 창업자는 AI 피싱을 퇴치하기 위해 $ 2,800만 달러를 모금했습니다.",
-    "summary": "에이전트 이메일 보안 플랫폼인 OCEAN은 AI가 모든 수신 이메일의 맥락을 철저히 분석하여 사기 및 명의 도용 시도를 탐지할 수 있다고 주장합니다.",
+    "title": "xAI는 작년에 $ 6.4B를 태웠습니다 — SpaceX의 IPO 파일링은 지출이 끝나지 않은 이유를 보여줍니다",
+    "summary": "SpaceX의 IPO 서류를 보면 2025년 대규모 Grok 확장을 계획하는 동안 xAI가 $ 64억 손실을 입었음을 알 수 있습니다. Elon Musk의 AI 재무에 대한 첫 공개 시점과 그의 야망에 대한 자세한 내용을 제공합니다.",
     "source": "TechCrunch",
-    "date": "2026.05.19",
-    "url": "https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/",
+    "date": "2026.05.20",
+    "url": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
     "tags": [
-      "AI",
-      "보안",
-      "연구"
+      "AI"
     ]
   },
   {
     "rank": 5,
-    "title": "일론 머스크는 샘 알트먼이 비영리를 ‘훔쳤다’ 고 말했지만, 재판 결과 그는 비슷한 목표를 가지고 있었다.",
-    "summary": "OpenAI 및 Microsoft의 다른 설립자에 대한 Elon Musk의 소송을 거부하기로 한 배심원의 신속한 결정은 법정에서 본 것을 확인했습니다. Musk의 사건은 부분적으로 그가 기다렸기 때문에 약한 사건이었습니다.",
+    "title": "엔비디아는 또 다른 기록적인 분기를 게시하고, 신생 기업에서 $ 43B의 지분을 공개합니다.",
+    "summary": "엔비디아는 수요일에 시장 마감 후 또 다른 기록적인 매출 수치를 발표했지만, 다음 분기에 매출 성장이 둔화될 것이라고 예측했다.",
     "source": "TechCrunch",
-    "date": "2026.05.19",
-    "url": "https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/",
+    "date": "2026.05.20",
+    "url": "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/",
     "tags": [
-      "LLM",
-      "빅테크",
-      "규제"
+      "반도체",
+      "스타트업"
     ]
   }
 ]
