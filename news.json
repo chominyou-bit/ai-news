@@ -1,59 +1,60 @@
 [
   {
     "rank": 1,
-    "title": "젠슨 황 (Jensen Huang) 은 엔비디아의 ‘새로운’ $ 200B 시장을 찾았다고 말합니다.",
-    "summary": "CEO 젠슨 황 (Jensen Huang) 은 엔비디아의 다음 큰 목표는 AI 에이전트용 CPU ($ 2000억 상당) 가 될 것이라고 예측합니다.",
+    "title": "팬이 만든 AI 커버 및 리믹스를 허용하는 Spotify 및 Universal Music 파업 거래",
+    "summary": "Spotify는 유니버설 뮤직 그룹 (Universal Music Group) 과 파트너십을 맺고 프리미엄 구독자가 AI로 만든 노래 커버와 리믹스를 만들 수 있도록 하며, 참여 아티스트는 수익의 일부를 받습니다.",
     "source": "TechCrunch",
     "date": "2026.05.21",
-    "url": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
-    "tags": [
-      "AI",
-      "반도체"
-    ]
-  },
-  {
-    "rank": 2,
-    "title": "Anthropic은 첫 번째 수익성 있는 분기가 곧 시작될 것이라고 말합니다.",
-    "summary": "Anthropic은 투자자들에게 2분기에 약 109억 달러로 두 배 이상의 수익을 올릴 것이라고 말했습니다.",
-    "source": "TechCrunch",
-    "date": "2026.05.21",
-    "url": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
-    "tags": [
-      "LLM"
-    ]
-  },
-  {
-    "rank": 3,
-    "title": "Clouted는 짧은 동영상이 널리 퍼지도록 하는 추측을 없애고자 합니다.",
-    "summary": "비디오 클리핑 스타트업은 Slow Ventures가 이끄는 700만 달러 ($) 의 시드 라운드를 모금했습니다.",
-    "source": "TechCrunch",
-    "date": "2026.05.20",
-    "url": "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/",
-    "tags": [
-      "스타트업"
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "xAI는 작년에 $ 6.4B를 태웠습니다 — SpaceX의 IPO 파일링은 지출이 끝나지 않은 이유를 보여줍니다",
-    "summary": "SpaceX의 IPO 서류를 보면 2025년 대규모 Grok 확장을 계획하는 동안 xAI가 $ 64억 손실을 입었음을 알 수 있습니다. Elon Musk의 AI 재무에 대한 첫 공개 시점과 그의 야망에 대한 자세한 내용을 제공합니다.",
-    "source": "TechCrunch",
-    "date": "2026.05.20",
-    "url": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
+    "url": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
     "tags": [
       "AI"
     ]
   },
   {
-    "rank": 5,
-    "title": "엔비디아는 또 다른 기록적인 분기를 게시하고, 신생 기업에서 $ 43B의 지분을 공개합니다.",
-    "summary": "엔비디아는 수요일에 시장 마감 후 또 다른 기록적인 매출 수치를 발표했지만, 다음 분기에 매출 성장이 둔화될 것이라고 예측했다.",
+    "rank": 2,
+    "title": "Google이 더 이상 Google이 아니기 때문에 시도해 볼 가치가있는 6 개의 검색 엔진",
+    "summary": "Google은 정말 다르게 보일 것입니다. AI 개요 기능을 좋아하지 않는다면 앞으로의 상황이 마음에 들지 않을 것입니다.",
     "source": "TechCrunch",
-    "date": "2026.05.20",
-    "url": "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/",
+    "date": "2026.05.21",
+    "url": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
     "tags": [
-      "반도체",
-      "스타트업"
+      "AI",
+      "빅테크"
+    ]
+  },
+  {
+    "rank": 3,
+    "title": "트럼프는 인공지능 (AI) 보안 행정명령을 지연시키면서 언어가 ‘차단 요인이 될 수 있었다’ 고 말한다.",
+    "summary": "트럼프 대통령은 AI 모델에 대한 정부 보안 사전 검토가 필요한 행정 명령에 서명하는 것을 지연했으며, 명령 언어에 대한 불만을 언급했다.",
+    "source": "TechCrunch",
+    "date": "2026.05.21",
+    "url": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
+    "tags": [
+      "AI",
+      "보안"
+    ]
+  },
+  {
+    "rank": 4,
+    "title": "Spotify, 팟캐스트에 AI 기반 Q&A 및 브리핑 생성 기능 추가",
+    "summary": "Spotify를 사용하면 프롬프트에 따라 일일 또는 주간 브리핑을 생성할 수 있습니다.",
+    "source": "TechCrunch",
+    "date": "2026.05.21",
+    "url": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/",
+    "tags": [
+      "테크"
+    ]
+  },
+  {
+    "rank": 5,
+    "title": "Spotify는 새로운 앱으로 Google의 NotebookLM을 활용합니다.",
+    "summary": "Spotify는 20개 이상의 시장에서 새로운 데스크톱 앱을 리서치 프리뷰로 출시할 예정입니다.",
+    "source": "TechCrunch",
+    "date": "2026.05.21",
+    "url": "https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/",
+    "tags": [
+      "빅테크",
+      "연구"
     ]
   }
 ]
