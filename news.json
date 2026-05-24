@@ -1,6 +1,28 @@
 [
   {
     "rank": 1,
+    "title": "페라리는 IBM의 AI를 사용하여 F1 슈퍼팬을 만들고 있습니다.",
+    "summary": "IBM과 Scuderia Ferrari HP는 TechCrunch를 팬 경험을 재정의하는 방식으로 받아들입니다.",
+    "source": "TechCrunch",
+    "date": "2026.05.23",
+    "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "rank": 2,
+    "title": "일론 머스크가 (지구에서) 태양광 발전을 포기했습니다",
+    "summary": "Elon Muks의 xAI는 천연 가스에 올인한 반면, SpaceX는 궤도 데이터 센터에 집착하고 있습니다. 그가 약속한 \"태양 전기 경제\" 는 어떻게 되었습니까?",
+    "source": "TechCrunch",
+    "date": "2026.05.23",
+    "url": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
+    "tags": [
+      "테크"
+    ]
+  },
+  {
+    "rank": 3,
     "title": "AI는 죽은 조종사의 목소리를 되살리는 데 사용되고 있습니다.",
     "summary": "사람들은 조종석 녹음의 스펙트로그램 이미지에 AI를 사용하여 재구성하여 NTSB가 도켓 시스템에 대한 액세스를 일시적으로 차단하도록 강요했습니다.",
     "source": "TechCrunch",
@@ -11,7 +33,7 @@
     ]
   },
   {
-    "rank": 2,
+    "rank": 4,
     "title": "Google은 디스코 볼 아이콘이있는 반짝이를 찾습니다: ‘그래도 이것을 원하십니까?’",
     "summary": "이제 전체 Pixel 홈 화면을 디스코할 수 있습니다. 라고 Google은 말합니다.",
     "source": "TechCrunch",
@@ -22,7 +44,7 @@
     ]
   },
   {
-    "rank": 3,
+    "rank": 5,
     "title": "VC와 창업자가 AI 스타트업을 육성하기 위해 부풀려진 ‘ARR’ 을 사용하는 방법",
     "summary": "일부 AI 스타트업은 진행 상황을 공개적으로 이야기할 때 전통적인 수익 지표를 늘리고 있습니다. 그리고 그들의 투자자들은 완전히 알고 있습니다.",
     "source": "TechCrunch",
@@ -31,29 +53,6 @@
     "tags": [
       "AI",
       "스타트업"
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "Elon Musk는 $ 1.75 조의 IPO 소리에 귀를 기울일 수 없습니다.",
-    "summary": "SpaceX S-1이 드디어 출시되었습니다. SpaceX S-1이 들려주는 이야기는 로켓보다 훨씬 더 멀리 나아갑니다. 서류는 36페이지의 위험 요인만으로 작성되며, 그 안의 숫자는 포부와 일치합니다: $ 28",
-    "source": "TechCrunch",
-    "date": "2026.05.22",
-    "url": "https://techcrunch.com/podcast/elon-musk-cant-hear-you-over-the-sound-of-his-1-75-trillion-ipo/",
-    "tags": [
-      "테크"
-    ]
-  },
-  {
-    "rank": 5,
-    "title": "텍사스 AG, WhatsApp이 엔드 투 엔드 암호화를 제공하지 않는다는 주장에 대해 메타 소송",
-    "summary": "비평가들은 미국 상원 후보가 제기한 소송에서 사실상의 지원이 부족하다고 지적합니다.",
-    "source": "Ars Technica",
-    "date": "2026.05.22",
-    "url": "https://arstechnica.com/security/2026/05/texas-ag-sues-meta-over-claims-that-whatsapp-doesnt-provide-end-to-end-encryption/",
-    "tags": [
-      "빅테크",
-      "규제"
     ]
   }
 ]
