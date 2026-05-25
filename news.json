@@ -1,6 +1,32 @@
 [
   {
     "rank": 1,
+    "title": "모두가 실시간으로 AI 보안을 탐색하고 있습니다. 심지어 Google도 마찬가지입니다.",
+    "summary": "우리는 모두 전환기에 있습니다.",
+    "source": "TechCrunch",
+    "date": "2026.05.24",
+    "url": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+    "tags": [
+      "AI",
+      "빅테크",
+      "보안"
+    ]
+  },
+  {
+    "rank": 2,
+    "title": "아마존의 꿀벌 웨어러블을 사용해 보았는데 흥미롭고 약간 소름 끼칩니다.",
+    "summary": "다른 AI 웨어러블과 마찬가지로 Amazon의 Bee는 편의성과 개인 정보 보호 불안의 이상한 조합을 제공합니다.",
+    "source": "TechCrunch",
+    "date": "2026.05.24",
+    "url": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
+    "tags": [
+      "AI",
+      "빅테크",
+      "보안"
+    ]
+  },
+  {
+    "rank": 3,
     "title": "페라리는 IBM의 AI를 사용하여 F1 슈퍼팬을 만들고 있습니다.",
     "summary": "IBM과 Scuderia Ferrari HP는 TechCrunch를 팬 경험을 재정의하는 방식으로 받아들입니다.",
     "source": "TechCrunch",
@@ -11,7 +37,7 @@
     ]
   },
   {
-    "rank": 2,
+    "rank": 4,
     "title": "일론 머스크가 (지구에서) 태양광 발전을 포기했습니다",
     "summary": "Elon Muks의 xAI는 천연 가스에 올인한 반면, SpaceX는 궤도 데이터 센터에 집착하고 있습니다. 그가 약속한 \"태양 전기 경제\" 는 어떻게 되었습니까?",
     "source": "TechCrunch",
@@ -22,7 +48,7 @@
     ]
   },
   {
-    "rank": 3,
+    "rank": 5,
     "title": "AI는 죽은 조종사의 목소리를 되살리는 데 사용되고 있습니다.",
     "summary": "사람들은 조종석 녹음의 스펙트로그램 이미지에 AI를 사용하여 재구성하여 NTSB가 도켓 시스템에 대한 액세스를 일시적으로 차단하도록 강요했습니다.",
     "source": "TechCrunch",
@@ -30,29 +56,6 @@
     "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
     "tags": [
       "AI"
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "Google은 디스코 볼 아이콘이있는 반짝이를 찾습니다: ‘그래도 이것을 원하십니까?’",
-    "summary": "이제 전체 Pixel 홈 화면을 디스코할 수 있습니다. 라고 Google은 말합니다.",
-    "source": "TechCrunch",
-    "date": "2026.05.22",
-    "url": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/",
-    "tags": [
-      "빅테크"
-    ]
-  },
-  {
-    "rank": 5,
-    "title": "VC와 창업자가 AI 스타트업을 육성하기 위해 부풀려진 ‘ARR’ 을 사용하는 방법",
-    "summary": "일부 AI 스타트업은 진행 상황을 공개적으로 이야기할 때 전통적인 수익 지표를 늘리고 있습니다. 그리고 그들의 투자자들은 완전히 알고 있습니다.",
-    "source": "TechCrunch",
-    "date": "2026.05.22",
-    "url": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
-    "tags": [
-      "AI",
-      "스타트업"
     ]
   }
 ]
