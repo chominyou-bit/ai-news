@@ -1,58 +1,62 @@
 [
   {
     "rank": 1,
-    "title": "What ClickUp’s mass layoff tells us about the future of work",
-    "summary": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents.",
+    "title": "사용자가 Google의 AI 검색을 ‘강제‘ 거부함에 따라 DuckDuckGo 설치가 30% 증가했습니다.",
+    "summary": "Google은 I/O 2026에서 Search를 개편하여 파란색 링크를 AI 에이전트로 대체했습니다. 반발이 빨라졌습니다. 사용자가 탈출구를 찾음에 따라 DuckDuckGo 앱 설치가 30% 급증했습니다.",
     "source": "TechCrunch",
-    "date": "2026.05.25",
-    "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
+    "date": "2026.05.26",
+    "url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
     "tags": [
       "AI",
-      "스타트업"
+      "빅테크"
     ]
   },
   {
     "rank": 2,
-    "title": "The pope’s AI encyclical isn’t really about AI",
-    "summary": "Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the world to its own advantage.",
-    "source": "TechCrunch",
-    "date": "2026.05.25",
-    "url": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
+    "title": "오픈 소스 패키지의 치명적인 취약점으로 인해 수백만 명의 AI 에이전트가 위험에 처해 있습니다.",
+    "summary": "'BadHost' 는 주간 다운로드 수가 3억 2,500만 건에 달하는 패키지인 Starlette에서 발견되었습니다.",
+    "source": "Ars Technica",
+    "date": "2026.05.26",
+    "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
     "tags": [
-      "AI"
+      "AI",
+      "오픈소스",
+      "보안"
     ]
   },
   {
     "rank": 3,
-    "title": "Startup Battlefield 200 applications close in days: Apply before May 27",
-    "summary": "The deadline to apply or nominate for Startup Battlefield 200 is May 27. This is your shot at VC access, global visibility, TechCrunch coverage, and $100,000. Apply now.",
+    "title": "OpenRouter, 연간 평가액 $ 1.3B로 두 배 이상 증가",
+    "summary": "OpenRouter는 CapitalG가 이끄는 $ 1억 1,300만 시리즈 B를 모금했습니다. 6 개월 동안 사용량이 5 배 증가한 것은 다중 AI 모델의 미래가 여기에 있음을 나타냅니다.",
     "source": "TechCrunch",
-    "date": "2026.05.25",
-    "url": "https://techcrunch.com/2026/05/25/startup-battlefield-200-applications-close-in-days-apply-before-may-27/",
+    "date": "2026.05.26",
+    "url": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
     "tags": [
       "스타트업"
     ]
   },
   {
     "rank": 4,
-    "title": "5 days left: Save up to $410 on TechCrunch Disrupt 2026 passes before prices increase",
-    "summary": "Early Bird savings for TechCrunch Disrupt 2026 in San Francisco end May 29 at 11:59 p.m. PT. Register now to save up to $410 before prices increase.",
+    "title": "이 신생 기업은 인도의 긱 경제가 세계 로봇을 훈련시킬 수 있다고 내기하고 있습니다.",
+    "summary": "UC 버클리와 스탠포드 연구원이 설립한 스타트업 휴먼 아카이브 (Human Archive) 는 실제 신체 훈련 자료를 수집하기 위해 인도의 공연 근로자에게 카메라가 장착된 캡과 센서 장치를 착용하도록 비용을 지불하고 있습니다.",
     "source": "TechCrunch",
-    "date": "2026.05.25",
-    "url": "https://techcrunch.com/2026/05/25/5-days-left-save-up-to-410-on-techcrunch-disrupt-2026-passes-before-prices-increase/",
+    "date": "2026.05.26",
+    "url": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
     "tags": [
-      "테크"
+      "로보틱스",
+      "스타트업",
+      "연구"
     ]
   },
   {
     "rank": 5,
-    "title": "US's big bet on quantum computing may not be entirely legal",
-    "summary": "Deal also launched the first quantum foundry company, but is there a need for it?",
-    "source": "Ars Technica",
-    "date": "2026.05.25",
-    "url": "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/",
+    "title": "유니버설 뮤직 그룹 (Universal Music Group) 과 틱톡 (TikTok) 은 허가받지 않은 인공지능 음악 퇴치를 위한 계약을 갱신",
+    "summary": "UMG는 수년 동안 플랫폼, 스트리밍 서비스 및 AI 기업이 더 엄격한 콘텐츠 중재 정책을 시행하도록 추진해 왔습니다.",
+    "source": "TechCrunch",
+    "date": "2026.05.26",
+    "url": "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/",
     "tags": [
-      "테크"
+      "AI"
     ]
   }
 ]
