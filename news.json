@@ -1,62 +1,61 @@
 [
   {
     "rank": 1,
-    "title": "Google의 AI가 Google (또는 다른 것) 의 철자를 지정할 수 없는 이유",
-    "summary": "Google은 다시 한 번 당황스럽습니다.",
+    "title": "Glean의 톱 라인은 AI 예산 절감이 주요 판매 포인트가 됨에 따라 $ 300M를 넘습니다.",
+    "summary": "엔터프라이즈 AI 검색 스타트업은 기술 대기업이 이 카테고리에 진입하는 동안에도 연간 매출이 세 배로 증가했습니다.",
     "source": "TechCrunch",
-    "date": "2026.05.28",
-    "url": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
-    "tags": [
-      "AI",
-      "빅테크"
-    ]
-  },
-  {
-    "rank": 2,
-    "title": "웹사이트는 방문자를 감시하는 새로운 방법을 가지고 있습니다: SSD 활동 분석",
-    "summary": "Telltale SSD 활동은 간단한 JavaScript를 사용하여 브라우저에서 측정할 수 있습니다.",
-    "source": "Ars Technica",
-    "date": "2026.05.27",
-    "url": "https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/",
-    "tags": [
-      "테크"
-    ]
-  },
-  {
-    "rank": 3,
-    "title": "아마존에 대한 더 좋은 소식은 Snowflake가 AI CPU 칩을 위해 AWS와 $ 6B 계약을 체결한다는 것입니다.",
-    "summary": "Snowflake는 AI 사용을 위한 칩을 확보하기 위해 Amazon과 새롭고 엄청난 5년 계약을 체결했습니다. 엔비디아는 다시 한 번 주목받고 있습니다.",
-    "source": "TechCrunch",
-    "date": "2026.05.27",
-    "url": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
-    "tags": [
-      "AI",
-      "반도체",
-      "빅테크"
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "급여 스타트업 리모트 (Remote) 는 직원 수를 추가하지 않고도 직원당 50% 의 매출을 올렸다고",
-    "summary": "급여 서비스 제공업체인 리모트 (Remote) 는 최근 연간 경상 매출 (ARR) 이 3억 달러 ($) 를 돌파했으며 AI 도입으로 인해 직원당 매출이 50% 증가하여 현금 흐름이 긍정적이 되었습니다.",
-    "source": "TechCrunch",
-    "date": "2026.05.27",
-    "url": "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/",
+    "date": "2026.05.29",
+    "url": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
     "tags": [
       "AI",
       "스타트업"
     ]
   },
   {
-    "rank": 5,
-    "title": "SEO 전략은 더 이상 존재하지 않는 검색 엔진에 최적화되어 있습니다.",
-    "summary": "Google I/O는 이를 공식화했습니다. AI로 생성된 답변은 이제 검색의 전면과 중앙에 있으며, 대부분의 브랜드는 AI가 고객에게 설명하는 방식에 대한 가시성이 거의 없습니다. For an",
+    "rank": 2,
+    "title": "기계를 위해 인터넷을 재구축하고 있습니다",
+    "summary": "AI 에이전트가 실험에서 프로덕션으로 이동함에 따라 AWS, Cloudflare 등은 인간 사용자 대신 기계 생성 인터넷 트래픽이 지배하는 미래를 위해 클라우드 인프라를 재설계하고 있습니다.",
     "source": "TechCrunch",
-    "date": "2026.05.27",
-    "url": "https://techcrunch.com/podcast/your-seo-strategy-is-optimized-for-a-search-engine-that-no-longer-exists/",
+    "date": "2026.05.28",
+    "url": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "rank": 3,
+    "title": "바이브 코더에 질려서, dev는 데이터 누킹 프롬프트를 코드에 몰래 주입합니다",
+    "summary": "Jqwik에 공개되지 않은 추가는 AI 코딩 에이전트에게 앱 출력을 삭제하도록 지시했습니다.",
+    "source": "Ars Technica",
+    "date": "2026.05.28",
+    "url": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
     "tags": [
       "AI",
-      "빅테크"
+      "반도체"
+    ]
+  },
+  {
+    "rank": 4,
+    "title": "Asana, no-code agent-builder StackAI 인수",
+    "summary": "Asana는 성장하는 AI 워크플로 도구 모음에 StackAI를 통합할 것입니다.",
+    "source": "TechCrunch",
+    "date": "2026.05.28",
+    "url": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "rank": 5,
+    "title": "Anthropic, IPO를 앞두고 $ 650억 조달, $ 1T 밸류에이션에 근접",
+    "summary": "Anthropic은 자금 평가 후 $ 965 billion으로 $ 650 billion Series H 라운드를 마감했으며, 이는 매우 기대되는 IPO 전에 AI 신생 기업의 최종 개인 모금이 될 수 있음을 나타냅니다.",
+    "source": "TechCrunch",
+    "date": "2026.05.28",
+    "url": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
+    "tags": [
+      "AI",
+      "LLM",
+      "스타트업"
     ]
   }
 ]
