@@ -1,60 +1,59 @@
 [
   {
     "rank": 1,
-    "title": "Glean의 톱 라인은 AI 예산 절감이 주요 판매 포인트가 됨에 따라 $ 300M를 넘습니다.",
-    "summary": "엔터프라이즈 AI 검색 스타트업은 기술 대기업이 이 카테고리에 진입하는 동안에도 연간 매출이 세 배로 증가했습니다.",
+    "title": "코더들은 AI 없이는 일하기를 거부하고 있습니다 — 그리고 그것은 그들을 물기 위해 돌아올 수 있습니다",
+    "summary": "연구자들은 AI가 코더가 코드를 더 빨리 생성하는 데 도움이되지만 더 나은 코드를 생성하지 못할 수도 있다고 경고합니다. 이로 인해 문제가 발생할 수 있습니다.",
     "source": "TechCrunch",
     "date": "2026.05.29",
-    "url": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
+    "url": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
     "tags": [
       "AI",
-      "스타트업"
+      "연구"
     ]
   },
   {
     "rank": 2,
-    "title": "기계를 위해 인터넷을 재구축하고 있습니다",
-    "summary": "AI 에이전트가 실험에서 프로덕션으로 이동함에 따라 AWS, Cloudflare 등은 인간 사용자 대신 기계 생성 인터넷 트래픽이 지배하는 미래를 위해 클라우드 인프라를 재설계하고 있습니다.",
+    "title": "이 AI 용어를 듣고 고개를 끄덕이셨네요. 수정해 보겠습니다.",
+    "summary": "AI의 부상은 새로운 용어와 속어의 눈사태를 가져왔습니다. 다음은 발생할 수 있는 가장 중요한 단어와 문구의 정의가 포함된 용어집입니다.",
     "source": "TechCrunch",
-    "date": "2026.05.28",
-    "url": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
+    "date": "2026.05.29",
+    "url": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
     "tags": [
       "AI"
     ]
   },
   {
     "rank": 3,
-    "title": "바이브 코더에 질려서, dev는 데이터 누킹 프롬프트를 코드에 몰래 주입합니다",
-    "summary": "Jqwik에 공개되지 않은 추가는 AI 코딩 에이전트에게 앱 출력을 삭제하도록 지시했습니다.",
+    "title": "1,700만 개 이상의 장치의 봇넷이 해체됨",
+    "summary": "이 봇넷은 러시아 기반의 주거용 프록시 네트워크에 연결된 것으로 알려졌습니다.",
     "source": "Ars Technica",
-    "date": "2026.05.28",
-    "url": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
+    "date": "2026.05.29",
+    "url": "https://arstechnica.com/security/2026/05/botnet-of-more-than-17-million-devices-dismantled/",
     "tags": [
-      "AI",
-      "반도체"
+      "테크"
     ]
   },
   {
     "rank": 4,
-    "title": "Asana, no-code agent-builder StackAI 인수",
-    "summary": "Asana는 성장하는 AI 워크플로 도구 모음에 StackAI를 통합할 것입니다.",
+    "title": "기업이 AI로 가득 차면 어떻게 될까요?",
+    "summary": "Box 창립자 Aaron Levie에 따르면 인공지능이 당신의 직업을 대체할 수 있다고 결정한 사람들은 당신의 직업이 진정으로 무엇을 포함하고 있는지 이해할 가능성이 가장 낮은 사람들이라고 합니다.",
     "source": "TechCrunch",
-    "date": "2026.05.28",
-    "url": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
+    "date": "2026.05.29",
+    "url": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
     "tags": [
       "AI"
     ]
   },
   {
     "rank": 5,
-    "title": "Anthropic, IPO를 앞두고 $ 650억 조달, $ 1T 밸류에이션에 근접",
-    "summary": "Anthropic은 자금 평가 후 $ 965 billion으로 $ 650 billion Series H 라운드를 마감했으며, 이는 매우 기대되는 IPO 전에 AI 신생 기업의 최종 개인 모금이 될 수 있음을 나타냅니다.",
+    "title": "Nvidia의 $ 20B 비인수 고용 이후, AI 칩 스타트업 Groq가 $ 6억 5천만 달러를 모금했다고 합니다.",
+    "summary": "칩 메이커 Groq는 AI 추론, AI 모델이 프롬프트 요청에 응답하는 방식을 구체화하는 프로세스, pe에 더 집중하기 위해 하드웨어에서 전환함에 따라 내부 자금으로 $ 6억 5천만 달러를 조달할 계획입니다.",
     "source": "TechCrunch",
-    "date": "2026.05.28",
-    "url": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
+    "date": "2026.05.29",
+    "url": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
     "tags": [
       "AI",
-      "LLM",
+      "반도체",
       "스타트업"
     ]
   }
