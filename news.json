@@ -1,60 +1,61 @@
 [
   {
     "rank": 1,
-    "title": "코더들은 AI 없이는 일하기를 거부하고 있습니다 — 그리고 그것은 그들을 물기 위해 돌아올 수 있습니다",
-    "summary": "연구자들은 AI가 코더가 코드를 더 빨리 생성하는 데 도움이되지만 더 나은 코드를 생성하지 못할 수도 있다고 경고합니다. 이로 인해 문제가 발생할 수 있습니다.",
+    "title": "SoftBank는 프랑스 데이터 센터를 구축하기 위해 최대 € 750억을 투자할 것이라고 밝혔습니다.",
+    "summary": "이 회사는 최대 5 기가와트의 추가 데이터 센터 용량을 개발하고 운영하는 것이 목표라고 말했다.",
     "source": "TechCrunch",
-    "date": "2026.05.29",
-    "url": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
+    "date": "2026.05.30",
+    "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
     "tags": [
-      "AI",
-      "연구"
+      "규제"
     ]
   },
   {
     "rank": 2,
-    "title": "이 AI 용어를 듣고 고개를 끄덕이셨네요. 수정해 보겠습니다.",
-    "summary": "AI의 부상은 새로운 용어와 속어의 눈사태를 가져왔습니다. 다음은 발생할 수 있는 가장 중요한 단어와 문구의 정의가 포함된 용어집입니다.",
+    "title": "‘농담’: Github Copilot의 새로운 토큰 기반 청구는 개발자들 사이에서 경악을 자아냅니다.",
+    "summary": "Microsoft의 Github Copilot의 황금기는 끝난 것으로 보입니다.",
     "source": "TechCrunch",
-    "date": "2026.05.29",
-    "url": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "date": "2026.05.30",
+    "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
     "tags": [
-      "AI"
+      "빅테크",
+      "오픈소스"
     ]
   },
   {
     "rank": 3,
-    "title": "1,700만 개 이상의 장치의 봇넷이 해체됨",
-    "summary": "이 봇넷은 러시아 기반의 주거용 프록시 네트워크에 연결된 것으로 알려졌습니다.",
-    "source": "Ars Technica",
-    "date": "2026.05.29",
-    "url": "https://arstechnica.com/security/2026/05/botnet-of-more-than-17-million-devices-dismantled/",
+    "title": "메타가 AI 펜던트를 개발 중이라고 합니다.",
+    "summary": "메타가 AI 기반 하드웨어에 큰 베팅을 하는 것 같습니다.",
+    "source": "TechCrunch",
+    "date": "2026.05.30",
+    "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
     "tags": [
-      "테크"
+      "AI",
+      "빅테크"
     ]
   },
   {
     "rank": 4,
-    "title": "기업이 AI로 가득 차면 어떻게 될까요?",
-    "summary": "Box 창립자 Aaron Levie에 따르면 인공지능이 당신의 직업을 대체할 수 있다고 결정한 사람들은 당신의 직업이 진정으로 무엇을 포함하고 있는지 이해할 가능성이 가장 낮은 사람들이라고 합니다.",
+    "title": "Google의 연중무휴 AI 어시스턴트 Gemini Spark를 사용했는데, 실제로 꽤 유용합니다.",
+    "summary": "Gemini Spark는 받은 편지함 요약에서 지역 이벤트 계획에 이르기까지 일상적인 작업을 자동화하는 데 도움이 되지만 Google이 왜 이 제품을 별도의 제품으로 만들었는지는 분명하지 않습니다.",
     "source": "TechCrunch",
-    "date": "2026.05.29",
-    "url": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
+    "date": "2026.05.30",
+    "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
     "tags": [
-      "AI"
+      "AI",
+      "LLM",
+      "빅테크"
     ]
   },
   {
     "rank": 5,
-    "title": "Nvidia의 $ 20B 비인수 고용 이후, AI 칩 스타트업 Groq가 $ 6억 5천만 달러를 모금했다고 합니다.",
-    "summary": "칩 메이커 Groq는 AI 추론, AI 모델이 프롬프트 요청에 응답하는 방식을 구체화하는 프로세스, pe에 더 집중하기 위해 하드웨어에서 전환함에 따라 내부 자금으로 $ 6억 5천만 달러를 조달할 계획입니다.",
+    "title": "브라우저 전쟁이 뜨거워지면서 2026년 Chrome과 Safari의 가장 인기 있는 대안은 다음과 같습니다.",
+    "summary": "크롬과 사파리에 도전하기 위해 현재 사용 가능한 최고의 대체 브라우저에 대한 개요를 정리했습니다.",
     "source": "TechCrunch",
-    "date": "2026.05.29",
-    "url": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+    "date": "2026.05.30",
+    "url": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
     "tags": [
-      "AI",
-      "반도체",
-      "스타트업"
+      "테크"
     ]
   }
 ]
