@@ -1,6 +1,28 @@
 [
   {
     "rank": 1,
+    "title": "에린 브로코비치 (Erin Brockovich) 는 데이터 센터의 비밀을 지향합니다.",
+    "summary": "환경 운동가 에린 브로코비치 (Erin Brockovich) 가 새로운 임무를 맡았습니다.",
+    "source": "TechCrunch",
+    "date": "2026.05.31",
+    "url": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
+    "tags": [
+      "테크"
+    ]
+  },
+  {
+    "rank": 2,
+    "title": "AI 정신병에 대한 논쟁을 이해하기",
+    "summary": "Equity의 최신 에피소드에서 우리는 기술 CEO가 \"AI 정신병에 걸리기 쉽다\" 는지에 대해 논의합니다.",
+    "source": "TechCrunch",
+    "date": "2026.05.31",
+    "url": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "rank": 3,
     "title": "SoftBank는 프랑스 데이터 센터를 구축하기 위해 최대 € 750억을 투자할 것이라고 밝혔습니다.",
     "summary": "이 회사는 최대 5 기가와트의 추가 데이터 센터 용량을 개발하고 운영하는 것이 목표라고 말했다.",
     "source": "TechCrunch",
@@ -11,7 +33,7 @@
     ]
   },
   {
-    "rank": 2,
+    "rank": 4,
     "title": "‘농담’: Github Copilot의 새로운 토큰 기반 청구는 개발자들 사이에서 경악을 자아냅니다.",
     "summary": "Microsoft의 Github Copilot의 황금기는 끝난 것으로 보입니다.",
     "source": "TechCrunch",
@@ -23,7 +45,7 @@
     ]
   },
   {
-    "rank": 3,
+    "rank": 5,
     "title": "메타가 AI 펜던트를 개발 중이라고 합니다.",
     "summary": "메타가 AI 기반 하드웨어에 큰 베팅을 하는 것 같습니다.",
     "source": "TechCrunch",
@@ -32,30 +54,6 @@
     "tags": [
       "AI",
       "빅테크"
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "Google의 연중무휴 AI 어시스턴트 Gemini Spark를 사용했는데, 실제로 꽤 유용합니다.",
-    "summary": "Gemini Spark는 받은 편지함 요약에서 지역 이벤트 계획에 이르기까지 일상적인 작업을 자동화하는 데 도움이 되지만 Google이 왜 이 제품을 별도의 제품으로 만들었는지는 분명하지 않습니다.",
-    "source": "TechCrunch",
-    "date": "2026.05.30",
-    "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
-    "tags": [
-      "AI",
-      "LLM",
-      "빅테크"
-    ]
-  },
-  {
-    "rank": 5,
-    "title": "브라우저 전쟁이 뜨거워지면서 2026년 Chrome과 Safari의 가장 인기 있는 대안은 다음과 같습니다.",
-    "summary": "크롬과 사파리에 도전하기 위해 현재 사용 가능한 최고의 대체 브라우저에 대한 개요를 정리했습니다.",
-    "source": "TechCrunch",
-    "date": "2026.05.30",
-    "url": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-    "tags": [
-      "테크"
     ]
   }
 ]
