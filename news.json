@@ -1,60 +1,61 @@
 [
   {
     "rank": 1,
-    "title": "알파벳은 AI 구축 비용을 지불하기 위해 $ 80B를 모금할 계획입니다.",
-    "summary": "알파벳은 \"회사는 기업의 가용 공급을 초과하는 수준에서 기업과 소비자의 AI 솔루션과 서비스에 대한 강한 수요를 경험하고 있다\" 고 말했다.",
+    "title": "영업 손실에도 불구하고 80X ARR 배수에서 CYERA EYES $ 12B 밸류에이션",
+    "summary": "사이버 보안 회사는 Evolution Equity Partners가 이끄는 3억 달러 ($) 에 육박하고 있습니다.",
     "source": "TechCrunch",
-    "date": "2026.06.01",
-    "url": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
+    "date": "2026.06.02",
+    "url": "https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/",
+    "tags": [
+      "보안"
+    ]
+  },
+  {
+    "rank": 2,
+    "title": "Uber는 4개월 만에 예산을 불어 넣은 후 직원 AI 지출을 제한합니다.",
+    "summary": "Uber의 인력 감축은 Uber가 직원들에게 AI를 최대한 활용하도록 권장한 것으로 알려지면서 발생했습니다.",
+    "source": "TechCrunch",
+    "date": "2026.06.02",
+    "url": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
     "tags": [
       "AI"
     ]
   },
   {
-    "rank": 2,
-    "title": "엔비디아, 마이크로소프트, 델, HP의 AI 에이전트 PC로 $ 200B CPU 시장 공략",
-    "summary": "Nvidia가 대중에게 쉽고, 안전하고, 유용하게 AI 에이전트를 가져올 수있는 방법을 깨뜨린 경우, 그것은 커질 수 있고 커야합니다.",
+    "rank": 3,
+    "title": "새로운 Microsoft 도구를 사용하면 개발자가 텍스트 설명을 사용하여 AI 행동 테스트를 스핀업할 수 있습니다",
+    "summary": "Microsoft는 화요일에 AI 평가를 돌리기 위한 오픈 소스 프레임워크인 Adaptive Spec-driven Scoring for Evaluation and Regression Testing을 마무리했습니다.",
     "source": "TechCrunch",
-    "date": "2026.06.01",
-    "url": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
+    "date": "2026.06.02",
+    "url": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
     "tags": [
       "AI",
-      "반도체",
-      "빅테크"
-    ]
-  },
-  {
-    "rank": 3,
-    "title": "플로리다는 OpenAI, Sam Altman을 상대로 폭력 사건에 대한 최초의 소송을 제기합니다.",
-    "summary": "이 소송은 작년에 플로리다 주립 대학에서 발생한 총격 사건과 사건에 대한 ChatGPT의 혐의에 부분적으로 영향을 미칩니다.",
-    "source": "TechCrunch",
-    "date": "2026.06.01",
-    "url": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
-    "tags": [
-      "LLM",
-      "규제"
+      "빅테크",
+      "오픈소스"
     ]
   },
   {
     "rank": 4,
-    "title": "공식 NPM 채널을 통해 백도어 처리된 수십 개의 Red Hat 패키지",
-    "summary": "영향을 받는 Red Hat 패키지를 다운로드한 사람은 즉시 조사해야 합니다.",
-    "source": "Ars Technica",
-    "date": "2026.06.01",
-    "url": "https://arstechnica.com/security/2026/06/dozens-of-red-hat-packages-backdoored-through-its-offical-npm-channel/",
+    "title": "마틴 스콜세지가 인공지능을 위한 할리우드의 최신 보이스가 되었습니다.",
+    "summary": "주의할 점은 세계에서 가장 유명한 리빙 디렉터 중 한 명이 이 기술을 스토리보딩에만 사용하고 있다는 것입니다.",
+    "source": "TechCrunch",
+    "date": "2026.06.02",
+    "url": "https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/",
     "tags": [
-      "테크"
+      "AI"
     ]
   },
   {
     "rank": 5,
-    "title": "물 접근은 이제 SpaceX의 IPO에서 위험 요소가 되었습니다.",
-    "summary": "이 회사는 데이터 센터를 식히기 위해 \"상당한\" 수자원이 필요하며 풍부하고 저렴한 물에 대한 접근이 어렵다고 말합니다.",
+    "title": "Microsoft, OpenClaw에서 영감을 얻은 개인 비서 Scout 출시",
+    "summary": "Build에서 시작된 Microsoft Scout은 OpenClaw의 성능과 유연성을 Microsoft 365 시스템에 도입하기 위한 새로운 AI 어시스턴트입니다.",
     "source": "TechCrunch",
-    "date": "2026.06.01",
-    "url": "https://techcrunch.com/2026/06/01/water-access-is-now-a-risk-factor-in-spacexs-ipo/",
+    "date": "2026.06.02",
+    "url": "https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/",
     "tags": [
-      "테크"
+      "AI",
+      "빅테크",
+      "규제"
     ]
   }
 ]
