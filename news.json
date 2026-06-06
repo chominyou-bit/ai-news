@@ -1,57 +1,59 @@
 [
   {
     "rank": 1,
-    "title": "IPO를 앞두고 Anthropic의 Daniela Amodei는 AI의 수익에 대한 의구심을 떨쳐버립니다.",
-    "summary": "인류는 급격한 속도로 성장하고 있습니다. 이 회사는 5 월에 연간 매출이 470 억 달러를 넘었다 고 발표했는데, 이는 2025 년 말의 약 90 억 달러에서 크게 증가한 것입니다.",
-    "source": "TechCrunch",
-    "date": "2026.06.04",
-    "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+    "title": "USB로 연결된 스피커를 만지지 않고도 PC를 감염시킬 수 있는 방법",
+    "summary": "Sound Blaster Katana V2X의 판매자는 이 동작을 취약점으로 간주하지 않습니다.",
+    "source": "Ars Technica",
+    "date": "2026.06.05",
+    "url": "https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/",
     "tags": [
-      "LLM"
+      "보안"
     ]
   },
   {
     "rank": 2,
-    "title": "에어비앤비의 브라이언 체스키 (Brian Chesky) 는 새로운 인공지능 실험실을 시작할 계획입니다.",
-    "summary": "에어비앤비 CEO는 작년에 기존 제품이 제대로 준비되지 않았기 때문에 LLM 파트너십을 체결하지 않았다고 말했습니다.",
+    "title": "시동 Battlefield 200 애플리케이션이 3일 만에 공식 종료됩니다",
+    "summary": "스타트업 Battlefield 200 신청은 6월 8일 오후 11시 59분 (태평양 표준시 기준) 에 공식적으로 마감됩니다. 더 이상 기다리지 마세요. 올 10월 TechCrunch Disrupt 2026의 Disrupt Stage에서 경쟁할 기회를 확보하세요.",
     "source": "TechCrunch",
-    "date": "2026.06.04",
-    "url": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
+    "date": "2026.06.05",
+    "url": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
     "tags": [
-      "AI"
+      "스타트업"
     ]
   },
   {
     "rank": 3,
-    "title": "6월 18일 로스앤젤레스 StrictlyVC에서 국방 기술, AI 및 자금 조달이 중심이 됨",
-    "summary": "6월 18일 목요일, The Aerospace Corporation Campus에서 투자자, 설립자 및 기술 리더들이 모여 가장 중요한 변화에 대해 논의하는 저녁 시간을 갖습니다.",
+    "title": "Google은 월간 SpaceX에 $ 920M의 컴퓨팅 비용을 지불합니다.",
+    "summary": "구글 담당자는 성명서를 통해 이 거래가 최근 출시된 AI 제품에 대한 예상치 못한 수요의 결과라고 설명했습니다.",
     "source": "TechCrunch",
-    "date": "2026.06.04",
-    "url": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
+    "date": "2026.06.05",
+    "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
     "tags": [
-      "테크"
+      "AI",
+      "빅테크"
     ]
   },
   {
     "rank": 4,
-    "title": "Dashlane은 공격자가 암호화된 암호 보관소를 다운로드하는 방법을 설명합니다.",
-    "summary": "많은 수의 사용자를 타겟팅함으로써 공격자는 성공 확률을 높였습니다.",
-    "source": "Ars Technica",
-    "date": "2026.06.04",
-    "url": "https://arstechnica.com/security/2026/06/dashlane-explains-how-attackers-managed-to-download-encrypted-password-vaults/",
+    "title": "현재 가장 흥미로운 신생 기업은 휴대 전화에서 당신을 꺼내고 싶어합니다.",
+    "summary": "AI 자금 조달 기계는 자체 기록을 계속 깨고 있지만 일부 창업자는 다른 방향으로 구축하고 있습니다. 미러 창업자 브린 퍼트넘 (Brynn Putnam) 은 방금 스타트업인 보드 (Board) 를 위해 기금을 모금했습니다.",
+    "source": "TechCrunch",
+    "date": "2026.06.05",
+    "url": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
     "tags": [
-      "테크"
+      "AI",
+      "스타트업"
     ]
   },
   {
     "rank": 5,
-    "title": "메타는 테슬라의 전술을 훔치고 텐트에 데이터 센터를 구축합니다.",
-    "summary": "메타는 대규모 데이터 센터 요금을 삭감하는 한 가지 방법을 찾았을 수 있습니다: 텐트.",
+    "title": "토큰 청구서 마감일: AI의 폭주 비용을 관리하기 위한 업계 내부 스크램블",
+    "summary": "\"전체 대화가 tokenmaxxing에서 '빨리' 에서 '가드레일이 필요합니다. 어떻게 제어해야합니까?' 로 바뀌 었습니다.\"",
     "source": "TechCrunch",
-    "date": "2026.06.04",
-    "url": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/",
+    "date": "2026.06.05",
+    "url": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
     "tags": [
-      "빅테크"
+      "테크"
     ]
   }
 ]
