@@ -1,6 +1,39 @@
 [
   {
     "rank": 1,
+    "title": "이것이 토큰포칼립스의 새벽인가?",
+    "summary": "대기업의 AI 상장 계획에 따라 더 많은 가격 인상이 예상됩니다.",
+    "source": "TechCrunch",
+    "date": "2026.06.07",
+    "url": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "rank": 2,
+    "title": "Notion은 서비스 중단 후 Anthropic에 대한 액세스를 복원합니다",
+    "summary": "Notion의 제품 책임자는 \"이에 대한 사람들의 양\" 에 대해 \"놀랐다\" 고 말했습니다.",
+    "source": "TechCrunch",
+    "date": "2026.06.07",
+    "url": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
+    "tags": [
+      "LLM"
+    ]
+  },
+  {
+    "rank": 3,
+    "title": "OpenAI는 여전히 그 ‘슈퍼 앱‘ 을 개발하고 있습니다.",
+    "summary": "\"채팅은 죽었습니다\" — 적어도 OpenAI 고위 직원에 따르면.",
+    "source": "TechCrunch",
+    "date": "2026.06.07",
+    "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
+    "tags": [
+      "LLM"
+    ]
+  },
+  {
+    "rank": 4,
     "title": "OpenAI, 신속한 주입 공격으로부터 민감한 데이터를 보호하는 잠금 모드 공개",
     "summary": "락다운 모드에서도 ChatGPT는 여전히 즉각적인 주입에 취약할 수 있지만, 그 과정에서 민감한 데이터가 공유될 가능성을 줄이는 것이 목표입니다.",
     "source": "TechCrunch",
@@ -11,7 +44,7 @@
     ]
   },
   {
-    "rank": 2,
+    "rank": 5,
     "title": "WWDC 2026에서 기대할 수 있는 것: Siri의 매우 기대되는 개편 및 Apple Intelligence 업데이트",
     "summary": "Apple의 WWDC가 가까워졌습니다. 기대할 수 있는 것은 다음과 같습니다.",
     "source": "TechCrunch",
@@ -19,40 +52,6 @@
     "url": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
     "tags": [
       "빅테크"
-    ]
-  },
-  {
-    "rank": 3,
-    "title": "스리람 크리슈난 (Sriram Krishnan) 이 백악관 AI 고문직을 떠납니다.",
-    "summary": "크리슈난은 트럼프의 인공지능 정책을 계속 형성하기 위해 새로운 기관을 설립하고 있는 것으로 알려졌다.",
-    "source": "TechCrunch",
-    "date": "2026.06.06",
-    "url": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
-    "tags": [
-      "AI",
-      "규제"
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "트럼프 행정부가 OpenAI의 지분을 가져갈 수 있음",
-    "summary": "도널드 트럼프 대통령은 \"미국 국민이 AI의 성공으로 혜택을 볼 수 있는\" 거래에 대해 논의하고 있다고 말했다.",
-    "source": "TechCrunch",
-    "date": "2026.06.06",
-    "url": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
-    "tags": [
-      "LLM"
-    ]
-  },
-  {
-    "rank": 5,
-    "title": "USB로 연결된 스피커를 만지지 않고도 PC를 감염시킬 수 있는 방법",
-    "summary": "Sound Blaster Katana V2X의 판매자는 이 동작을 취약점으로 간주하지 않습니다.",
-    "source": "Ars Technica",
-    "date": "2026.06.05",
-    "url": "https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/",
-    "tags": [
-      "보안"
     ]
   }
 ]
