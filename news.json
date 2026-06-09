@@ -1,57 +1,60 @@
 [
   {
     "rank": 1,
-    "title": "이것이 토큰포칼립스의 새벽인가?",
-    "summary": "대기업의 AI 상장 계획에 따라 더 많은 가격 인상이 예상됩니다.",
+    "title": "애플의 느리고 안정적인 AI 베팅이 꽤 똑똑해 보이기 시작한 이유",
+    "summary": "애플의 새로운 인공지능이 매우 중요한 산업 경쟁에서 패배하고 있다는 비난에 불을 붙일 수 있을까?",
     "source": "TechCrunch",
-    "date": "2026.06.07",
-    "url": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
+    "date": "2026.06.09",
+    "url": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
     "tags": [
-      "AI"
+      "AI",
+      "빅테크"
     ]
   },
   {
     "rank": 2,
-    "title": "Notion은 서비스 중단 후 Anthropic에 대한 액세스를 복원합니다",
-    "summary": "Notion의 제품 책임자는 \"이에 대한 사람들의 양\" 에 대해 \"놀랐다\" 고 말했습니다.",
+    "title": "Mercor의 Brendan Foody는 Sequoia를 불러 '이중 가격‘ 평가 요령이라고 비난합니다.",
+    "summary": "세쿼이아는 동일한 지분을 두 가지 다른 가격으로 판매하는 최고의 회사 중 하나일 뿐입니다.",
     "source": "TechCrunch",
-    "date": "2026.06.07",
-    "url": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
+    "date": "2026.06.09",
+    "url": "https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks/",
     "tags": [
-      "LLM"
+      "테크"
     ]
   },
   {
     "rank": 3,
-    "title": "OpenAI는 여전히 그 ‘슈퍼 앱‘ 을 개발하고 있습니다.",
-    "summary": "\"채팅은 죽었습니다\" — 적어도 OpenAI 고위 직원에 따르면.",
+    "title": "보고서에 따르면 IPO를 위한 OpenAI 파일로서 Sam Altman의 눈 스캔 회사는 정리 해고를 수행하고 있습니다.",
+    "summary": "Sam Altman의 신원 확인 회사인 Tools for Humanity는 수익 창출에 어려움을 겪고 있으며 직원 규모를 축소할 것으로 알려졌습니다.",
     "source": "TechCrunch",
-    "date": "2026.06.07",
-    "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
+    "date": "2026.06.08",
+    "url": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
     "tags": [
       "LLM"
     ]
   },
   {
     "rank": 4,
-    "title": "OpenAI, 신속한 주입 공격으로부터 민감한 데이터를 보호하는 잠금 모드 공개",
-    "summary": "락다운 모드에서도 ChatGPT는 여전히 즉각적인 주입에 취약할 수 있지만, 그 과정에서 민감한 데이터가 공유될 가능성을 줄이는 것이 목표입니다.",
+    "title": "$ 250M 허위 광고 정산 후 Apple의 WWDC AI 데모가 더 현실적으로 보였습니다.",
+    "summary": "Apple의 2026 WWDC 기조 연설의 분위기는 배우자가 자랑스럽게 다루는 모든 꿀 목록 항목을 나열하는 것처럼 느껴졌습니다. 한 가지 미묘한 예: 손에 전화기를 들고 서 있는 사람의 수많은 AI 데모.",
     "source": "TechCrunch",
-    "date": "2026.06.06",
-    "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+    "date": "2026.06.08",
+    "url": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
     "tags": [
-      "LLM"
+      "AI",
+      "빅테크"
     ]
   },
   {
     "rank": 5,
-    "title": "WWDC 2026에서 기대할 수 있는 것: Siri의 매우 기대되는 개편 및 Apple Intelligence 업데이트",
-    "summary": "Apple의 WWDC가 가까워졌습니다. 기대할 수 있는 것은 다음과 같습니다.",
+    "title": "Anthropic에 따라 IPO를 위해 기밀로 OpenAI 파일",
+    "summary": "주요 라이벌인 Anthropic도 상장 신청을 한 지 1주일 조금 넘게 지났을 때, 두 AI 회사 간의 경쟁이 치열해졌습니다.",
     "source": "TechCrunch",
-    "date": "2026.06.06",
-    "url": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+    "date": "2026.06.08",
+    "url": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
     "tags": [
-      "빅테크"
+      "AI",
+      "LLM"
     ]
   }
 ]
