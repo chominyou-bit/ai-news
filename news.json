@@ -1,11 +1,11 @@
 [
   {
     "rank": 1,
-    "title": "애플의 느리고 안정적인 AI 베팅이 꽤 똑똑해 보이기 시작한 이유",
-    "summary": "애플의 새로운 인공지능이 매우 중요한 산업 경쟁에서 패배하고 있다는 비난에 불을 붙일 수 있을까?",
+    "title": "Google은 방금 AI 구독 가격 전쟁에서 경고 샷을 발사했습니다.",
+    "summary": "Google은 예산이 저렴한 AI 구독 플랜을 훨씬 저렴하게 이용할 수 있도록 했습니다.",
     "source": "TechCrunch",
-    "date": "2026.06.09",
-    "url": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
+    "date": "2026.06.10",
+    "url": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
     "tags": [
       "AI",
       "빅테크"
@@ -13,47 +13,48 @@
   },
   {
     "rank": 2,
-    "title": "Mercor의 Brendan Foody는 Sequoia를 불러 '이중 가격‘ 평가 요령이라고 비난합니다.",
-    "summary": "세쿼이아는 동일한 지분을 두 가지 다른 가격으로 판매하는 최고의 회사 중 하나일 뿐입니다.",
+    "title": "저스틴 어니스트 (Justin Ernest) 가 전통적인 VC 펀드 없이 핫 스타트업에 약 5억 $ 를 투자한 방법",
+    "summary": "Sabertooth VC 설립자는 정식 벤처 펀드를 모금하는 데 1년을 투자하는 대신 LP의 포로 네트워크를 사용하여 Anthropic, Anduril 및 SpaceX와 같은 신생 기업에 투자했습니다.",
     "source": "TechCrunch",
     "date": "2026.06.09",
-    "url": "https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks/",
+    "url": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
     "tags": [
-      "테크"
+      "LLM",
+      "스타트업"
     ]
   },
   {
     "rank": 3,
-    "title": "보고서에 따르면 IPO를 위한 OpenAI 파일로서 Sam Altman의 눈 스캔 회사는 정리 해고를 수행하고 있습니다.",
-    "summary": "Sam Altman의 신원 확인 회사인 Tools for Humanity는 수익 창출에 어려움을 겪고 있으며 직원 규모를 축소할 것으로 알려졌습니다.",
-    "source": "TechCrunch",
-    "date": "2026.06.08",
-    "url": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
+    "title": "연구원과의 격렬한 경쟁에 갇혀 있던 Microsoft는 공개한 날을 0일로 수정했습니다.",
+    "summary": "나이트메어 이클립스 (Nightmare Eclipse) 가 공개한 별도의 제로 데이도 패치된 것으로 보입니다.",
+    "source": "Ars Technica",
+    "date": "2026.06.09",
+    "url": "https://arstechnica.com/security/2026/06/locked-in-heated-rivalry-with-researcher-microsoft-fixes-0-day-they-disclosed/",
     "tags": [
-      "LLM"
+      "빅테크",
+      "연구"
     ]
   },
   {
     "rank": 4,
-    "title": "$ 250M 허위 광고 정산 후 Apple의 WWDC AI 데모가 더 현실적으로 보였습니다.",
-    "summary": "Apple의 2026 WWDC 기조 연설의 분위기는 배우자가 자랑스럽게 다루는 모든 꿀 목록 항목을 나열하는 것처럼 느껴졌습니다. 한 가지 미묘한 예: 손에 전화기를 들고 서 있는 사람의 수많은 AI 데모.",
+    "title": "Siri 님, AI에서 제가 실제로 원하는 것은 다음과 같습니다.",
+    "summary": "개인 인공지능 비서가 절실한데, 정말 휴대폰의 친근한 로봇 목소리 없이는 제 기능을 할 수 없는 사람이 되고 싶은 걸까요?",
     "source": "TechCrunch",
-    "date": "2026.06.08",
-    "url": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
+    "date": "2026.06.09",
+    "url": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
     "tags": [
       "AI",
-      "빅테크"
+      "로보틱스"
     ]
   },
   {
     "rank": 5,
-    "title": "Anthropic에 따라 IPO를 위해 기밀로 OpenAI 파일",
-    "summary": "주요 라이벌인 Anthropic도 상장 신청을 한 지 1주일 조금 넘게 지났을 때, 두 AI 회사 간의 경쟁이 치열해졌습니다.",
+    "title": "Anthropic의 Fable 5는 버튼 클릭 한 번으로 이상하게 재미있는 비디오 게임을 만들 수 있습니다.",
+    "summary": "Anthropic의 Claude Fable 5는 웹의 분위기 코더로 큰 인기를 끌 것입니다.",
     "source": "TechCrunch",
-    "date": "2026.06.08",
-    "url": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
+    "date": "2026.06.09",
+    "url": "https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/",
     "tags": [
-      "AI",
       "LLM"
     ]
   }
