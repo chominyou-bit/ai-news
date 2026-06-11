@@ -1,61 +1,60 @@
 [
   {
     "rank": 1,
-    "title": "Google은 방금 AI 구독 가격 전쟁에서 경고 샷을 발사했습니다.",
-    "summary": "Google은 예산이 저렴한 AI 구독 플랜을 훨씬 저렴하게 이용할 수 있도록 했습니다.",
+    "title": "Opendoor의 인도 출구는 AI 및 아웃소싱에 대한 더 큰 대화를 촉진하고 있습니다.",
+    "summary": "이 결정은 인도가 세계 최대의 GCC 시장으로 부상함에 따라 이루어집니다.",
     "source": "TechCrunch",
-    "date": "2026.06.10",
-    "url": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
+    "date": "2026.06.11",
+    "url": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
     "tags": [
-      "AI",
-      "빅테크"
+      "AI"
     ]
   },
   {
     "rank": 2,
-    "title": "저스틴 어니스트 (Justin Ernest) 가 전통적인 VC 펀드 없이 핫 스타트업에 약 5억 $ 를 투자한 방법",
-    "summary": "Sabertooth VC 설립자는 정식 벤처 펀드를 모금하는 데 1년을 투자하는 대신 LP의 포로 네트워크를 사용하여 Anthropic, Anduril 및 SpaceX와 같은 신생 기업에 투자했습니다.",
+    "title": "Anthropic의 Dario Amodei는 단 하나의 직속 부하 직원을 두고 있습니다.",
+    "summary": "그의 천재성을 의심했다면 더 이상 의심하지 마라.",
     "source": "TechCrunch",
-    "date": "2026.06.09",
-    "url": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
+    "date": "2026.06.11",
+    "url": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
     "tags": [
-      "LLM",
-      "스타트업"
+      "LLM"
     ]
   },
   {
     "rank": 3,
-    "title": "연구원과의 격렬한 경쟁에 갇혀 있던 Microsoft는 공개한 날을 0일로 수정했습니다.",
-    "summary": "나이트메어 이클립스 (Nightmare Eclipse) 가 공개한 별도의 제로 데이도 패치된 것으로 보입니다.",
-    "source": "Ars Technica",
-    "date": "2026.06.09",
-    "url": "https://arstechnica.com/security/2026/06/locked-in-heated-rivalry-with-researcher-microsoft-fixes-0-day-they-disclosed/",
+    "title": "xAI는 Grok 안전, 새로운 소송 청구에 대한 경보를 제기한 엔지니어를 해고했습니다.",
+    "summary": "전직 xAI 엔지니어가 SpaceX의 역사적인 IPO가 있기 며칠 전에 Grok에 대한 AI 안전 우려를 제기하여 해고되었다고 주장하면서 회사와 SpaceX를 고소하고 있습니다.",
+    "source": "TechCrunch",
+    "date": "2026.06.10",
+    "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
     "tags": [
-      "빅테크",
-      "연구"
+      "AI",
+      "규제"
     ]
   },
   {
     "rank": 4,
-    "title": "Siri 님, AI에서 제가 실제로 원하는 것은 다음과 같습니다.",
-    "summary": "개인 인공지능 비서가 절실한데, 정말 휴대폰의 친근한 로봇 목소리 없이는 제 기능을 할 수 없는 사람이 되고 싶은 걸까요?",
+    "title": "신선한 채권 판매로, 아마존은 AI 지출이 계속됨에 따라 은행에서 $ 17.5B를 차입합니다.",
+    "summary": "기업들은 AI 군비 경쟁에 발맞추기 위해 엄청난 돈을 쏟아 붓고 있습니다. 부채가 증가하고 있습니다.",
     "source": "TechCrunch",
-    "date": "2026.06.09",
-    "url": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
+    "date": "2026.06.10",
+    "url": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
     "tags": [
       "AI",
-      "로보틱스"
+      "빅테크",
+      "규제"
     ]
   },
   {
     "rank": 5,
-    "title": "Anthropic의 Fable 5는 버튼 클릭 한 번으로 이상하게 재미있는 비디오 게임을 만들 수 있습니다.",
-    "summary": "Anthropic의 Claude Fable 5는 웹의 분위기 코더로 큰 인기를 끌 것입니다.",
+    "title": "‘AI 가득한’ 기업은 AI에 대해 매월 직원당 $ 7,500를 지출합니다.",
+    "summary": "AI에 가장 집착하는 기업은 Ramp AI Index에 따라 직원당 매월 약 $ 7,500를 AI에 지출하고 있습니다. 이는 엔지니어의 급여에 지나지 않습니다.",
     "source": "TechCrunch",
-    "date": "2026.06.09",
-    "url": "https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/",
+    "date": "2026.06.10",
+    "url": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
     "tags": [
-      "LLM"
+      "AI"
     ]
   }
 ]
