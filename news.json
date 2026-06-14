@@ -1,6 +1,52 @@
 [
   {
     "rank": 1,
+    "title": "메타는 베이징의 수요 이후 $ 2B 마누스 거래를 풀기 위해 움직이는 것으로 알려졌다.",
+    "summary": "메타는 베이징이 거래를 취소하라고 명령한 후 20억 $ 규모의 마누스 인수를 해체하기 시작합니다.",
+    "source": "TechCrunch",
+    "date": "2026.06.14",
+    "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+    "tags": [
+      "빅테크"
+    ]
+  },
+  {
+    "rank": 2,
+    "title": "KPMG는 명백한 환각으로 인한 AI 사용에 대한 보고서를 가져옵니다",
+    "summary": "다시 한 번, 인공지능은 인공지능에 대한 신뢰할 수 없는 정보원임이 입증되었습니다.",
+    "source": "TechCrunch",
+    "date": "2026.06.13",
+    "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "rank": 3,
+    "title": "아마존 CEO는 정부 단속 전에 인류 모델에 대한 우려를 제기한 것으로 알려졌다.",
+    "summary": "아마존 CEO 앤디 재시 (Andy Jassy) 는 Anthropic이 금요일에 두 가지 모델에 대한 전 세계 접근을 차단하게 만든 보안 우려의 원인이었을 수 있습니다.",
+    "source": "TechCrunch",
+    "date": "2026.06.13",
+    "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+    "tags": [
+      "LLM",
+      "빅테크",
+      "보안"
+    ]
+  },
+  {
+    "rank": 4,
+    "title": "OpenAI는 주 법무장관의 조사에 직면해 있습니다.",
+    "summary": "어떤 주가 관련되어 있는지는 분명하지 않지만 OpenAI의 광고 정책부터 건강 데이터 처리까지 모든 것에 대해 질문하고 있습니다.",
+    "source": "TechCrunch",
+    "date": "2026.06.13",
+    "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+    "tags": [
+      "LLM"
+    ]
+  },
+  {
+    "rank": 5,
     "title": "앤드류 양 (Andrew Yang) 은 다음 큰 창업 기회가 생활비를 낮추는 것이라고 생각합니다.",
     "summary": "앤드류 양 (Andrew Yang) 은 주택, 음식, 무선 등 미국인들이 초과 지불하는 모든 것의 목록을 만들었고 다음 스타트업 골드 러시가 그 돈을 돌려주고 있다고 생각합니다.",
     "source": "TechCrunch",
@@ -8,53 +54,6 @@
     "url": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
     "tags": [
       "스타트업"
-    ]
-  },
-  {
-    "rank": 2,
-    "title": "Anthropic의 안전 경고가 방금 역효과를 일으켰을 수 있습니다. 정부는 가장 강력한 AI에 플러그를 꽂았습니다.",
-    "summary": "인류는 좌절감을 숨기지 않습니다. \"우리는 좁은 잠재적 탈옥의 발견이 수억 명의 사람들에게 배포된 상업적 모델을 회상하는 원인이 되어야 한다는 데 동의하지 않습니다.\"",
-    "source": "TechCrunch",
-    "date": "2026.06.13",
-    "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
-    "tags": [
-      "AI",
-      "LLM"
-    ]
-  },
-  {
-    "rank": 3,
-    "title": "SpaceX IPO: 알아야 할 모든 것에 대한 실시간 업데이트",
-    "summary": "TechCrunch는 초창기부터 SpaceX의 시작, 투쟁 및 성공을 이어 왔습니다. 그리고 우리는 또한 다음에 일어날 일을 위해 여기에 있습니다. 이 SpaceX IPO 커버리지 패키지에는 누가 이길 것인가 (그리고 메이브",
-    "source": "TechCrunch",
-    "date": "2026.06.12",
-    "url": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
-    "tags": [
-      "테크"
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "메타의 수개월 된 인공지능 유닛은 영혼을 짓누르는 굴라그입니다. 엔지니어들이 그 안에 갇혀 있다고 말합니다.",
-    "summary": "새로운 보고서에 따르면 6,500명이 근무하는 이 부대는 반란 직전에 있다고 합니다.",
-    "source": "TechCrunch",
-    "date": "2026.06.12",
-    "url": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
-    "tags": [
-      "AI",
-      "빅테크"
-    ]
-  },
-  {
-    "rank": 5,
-    "title": "인공지능을 이용해 구글이 고소한 ‘수십만 명의 피해자‘ 를 사기친 중국의 사이버 범죄 행위",
-    "summary": "이 기술 대기업은 '아웃사이더 엔터프라이즈 (Outsider Enterprise)' 라는 그룹이 AI를 사용하여 수십만 명의 희생자를 사기를 치고 2주에 걸쳐 250만 개의 문자 메시지를 보냈다고 말했습니다.",
-    "source": "TechCrunch",
-    "date": "2026.06.12",
-    "url": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
-    "tags": [
-      "AI",
-      "빅테크"
     ]
   }
 ]
