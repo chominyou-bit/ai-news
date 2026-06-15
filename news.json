@@ -1,6 +1,30 @@
 [
   {
     "rank": 1,
+    "title": "인공지능 기업들이 공개 경쟁을 벌이고 있는 가운데, 또 누가 이 차량 서비스를 이용하고 있을까요?",
+    "summary": "스타트업들은 \"그 SpaceX IPO 웨이브를 타려고\" 노력하고 있습니다.",
+    "source": "TechCrunch",
+    "date": "2026.06.14",
+    "url": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
+    "tags": [
+      "AI",
+      "스타트업"
+    ]
+  },
+  {
+    "rank": 2,
+    "title": "Anthropic이 새로운 모델에 대한 액세스를 일시 중지함에 따라 인도는 AI의 미래에 대해 논의합니다.",
+    "summary": "기술 리더들은 Anthropic 에피소드가 인도의 AI 야망에 대한 모닝콜인지 여부에 대해 토론합니다.",
+    "source": "TechCrunch",
+    "date": "2026.06.14",
+    "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+    "tags": [
+      "AI",
+      "LLM"
+    ]
+  },
+  {
+    "rank": 3,
     "title": "메타는 베이징의 수요 이후 $ 2B 마누스 거래를 풀기 위해 움직이는 것으로 알려졌다.",
     "summary": "메타는 베이징이 거래를 취소하라고 명령한 후 20억 $ 규모의 마누스 인수를 해체하기 시작합니다.",
     "source": "TechCrunch",
@@ -11,7 +35,7 @@
     ]
   },
   {
-    "rank": 2,
+    "rank": 4,
     "title": "KPMG는 명백한 환각으로 인한 AI 사용에 대한 보고서를 가져옵니다",
     "summary": "다시 한 번, 인공지능은 인공지능에 대한 신뢰할 수 없는 정보원임이 입증되었습니다.",
     "source": "TechCrunch",
@@ -22,7 +46,7 @@
     ]
   },
   {
-    "rank": 3,
+    "rank": 5,
     "title": "아마존 CEO는 정부 단속 전에 인류 모델에 대한 우려를 제기한 것으로 알려졌다.",
     "summary": "아마존 CEO 앤디 재시 (Andy Jassy) 는 Anthropic이 금요일에 두 가지 모델에 대한 전 세계 접근을 차단하게 만든 보안 우려의 원인이었을 수 있습니다.",
     "source": "TechCrunch",
@@ -32,28 +56,6 @@
       "LLM",
       "빅테크",
       "보안"
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "OpenAI는 주 법무장관의 조사에 직면해 있습니다.",
-    "summary": "어떤 주가 관련되어 있는지는 분명하지 않지만 OpenAI의 광고 정책부터 건강 데이터 처리까지 모든 것에 대해 질문하고 있습니다.",
-    "source": "TechCrunch",
-    "date": "2026.06.13",
-    "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
-    "tags": [
-      "LLM"
-    ]
-  },
-  {
-    "rank": 5,
-    "title": "앤드류 양 (Andrew Yang) 은 다음 큰 창업 기회가 생활비를 낮추는 것이라고 생각합니다.",
-    "summary": "앤드류 양 (Andrew Yang) 은 주택, 음식, 무선 등 미국인들이 초과 지불하는 모든 것의 목록을 만들었고 다음 스타트업 골드 러시가 그 돈을 돌려주고 있다고 생각합니다.",
-    "source": "TechCrunch",
-    "date": "2026.06.13",
-    "url": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
-    "tags": [
-      "스타트업"
     ]
   }
 ]
