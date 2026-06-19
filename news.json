@@ -1,59 +1,60 @@
 [
   {
     "rank": 1,
-    "title": "Google 문서도구에서 AI를 끄는 방법",
-    "summary": "성가신 \"Gemini로 작성\" 팝업을 없애기 위해 해야 할 일은 다음과 같습니다.",
+    "title": "출처: Elastic은 CRV 기반 DeductiveAI를 최대 $ 85M에 구매하는 데 동의합니다",
+    "summary": "AI를 사용하여 소프트웨어의 버그를 포착하고 해결하는 스타트업인 DeductiveAI는 불과 3년 전에 설립되었습니다.",
     "source": "TechCrunch",
-    "date": "2026.06.18",
-    "url": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
+    "date": "2026.06.19",
+    "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
     "tags": [
       "AI",
-      "LLM",
-      "빅테크"
+      "스타트업"
     ]
   },
   {
     "rank": 2,
-    "title": "Roelof Botha, SpaceX 이사회 합류",
-    "summary": "전 Sequoia Capital 리더는 회사가 사상 최대 규모의 IPO에서 상장한 지 며칠 후 SpaceX 이사회에 \"기존 공석\" 을 채우고 있습니다.",
-    "source": "TechCrunch",
-    "date": "2026.06.17",
-    "url": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/",
+    "title": "Microsoft, 암호 화폐를 훔치는 새로운 경량 백도어 발견",
+    "summary": "Crypto Clipper는 USB를 통해 확산되고 Tor를 통해 통신합니다.",
+    "source": "Ars Technica",
+    "date": "2026.06.18",
+    "url": "https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/",
     "tags": [
-      "테크"
+      "빅테크"
     ]
   },
   {
     "rank": 3,
-    "title": "터무니없이 비싼 AR 안경을 공개한 후, Snap의 재고가 잠수합니다.",
-    "summary": "Snap의 대망의 스마트 안경 데뷔는 회사의 주식에 대한 경이로움을 정확히 이루지 못했습니다.",
+    "title": "인공지능 (AI) 추론 스타트업 바세텐 (Baseten) 이 마지막 메가 라운드 이후 $ 1.5B 개월을 모금한 것으로 알려졌다.",
+    "summary": "스타트업 Baseten은 \"추론 골드 러시\" 가 진행됨에 따라 130억 달러에서 15억 달러의 라운드를 마무리할 것으로 알려졌습니다.",
     "source": "TechCrunch",
-    "date": "2026.06.17",
-    "url": "https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/",
+    "date": "2026.06.18",
+    "url": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
     "tags": [
-      "테크"
+      "스타트업"
     ]
   },
   {
     "rank": 4,
-    "title": "NEA의 티파니 럭 (Tiffany Luck) 은 기업이 여전히 AI ROI를 파악하고 있다고 말합니다.",
-    "summary": "Tokenmaxxing은 올해 초 실리콘 밸리에서 가장 뜨거운 트렌드였으며, CEO들은 직원들이 AI 사용을 최대한 밀어붙이도록 장려했습니다. 그런 다음 청구서가 마감되었습니다. Uber re",
+    "title": "Snap은 비용으로 인해 AI 동영상 팀을 새로운 회사인 Dotmo로 전환합니다.",
+    "summary": "Snapchat Maker가 또 다른 내부 장치를 돌리고 있습니다. Dotmo는 AI 동영상 개발에 집중하기 위해 소셜 미디어 회사를 떠나는 현재 Snap 직원으로 구성됩니다.",
     "source": "TechCrunch",
-    "date": "2026.06.17",
-    "url": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
+    "date": "2026.06.18",
+    "url": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
     "tags": [
       "AI"
     ]
   },
   {
     "rank": 5,
-    "title": "대규모 침해로 인해 수천 개의 민감한 네트워크에 대한 자격 증명이 유출됨",
-    "summary": "여기에는 Oracle, Lenovo, FedEx, NATO 계약업체 및 Fortinet이 포함됩니다.",
-    "source": "Ars Technica",
-    "date": "2026.06.17",
-    "url": "https://arstechnica.com/security/2026/06/massive-breach-spills-credentials-for-thousands-of-sensitive-networks/",
+    "title": "OpenAI는 IPO를 앞두고 몇 가지 큰 총을 들고 있습니다.",
+    "summary": "OpenAI는 IPO를 앞두고 Google DeepMind의 Transformer 공동 발명가 Noam Shazeer와 같은 주에 전직 Trump AI 정책 담당자 Dean Ball을 착륙시키고 있습니다.",
+    "source": "TechCrunch",
+    "date": "2026.06.18",
+    "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
     "tags": [
-      "보안"
+      "AI",
+      "LLM",
+      "빅테크"
     ]
   }
 ]
