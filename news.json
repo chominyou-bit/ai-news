@@ -1,7 +1,41 @@
 [
   {
     "rank": 1,
-    "title": "암호화, 스파이웨어 및 이제 신화: 역사는 사이버 수출 통제가 작동하지 않는 이유를 보여줍니다.",
+    "title": "Signal의 메레디스 휘태커 (Meredith Whittaker) 는 AI 챗봇이 ‘당신의 친구가 아니다‘ 라는 것을 기억하기를 원합니다.",
+    "summary": "“네 친구들이 아니야. 이들은 의식이 있는 존재가 아닙니다. 이들은 지각 있는 대화 상대가 아닙니다.”",
+    "source": "TechCrunch",
+    "date": "2026.06.20",
+    "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "rank": 2,
+    "title": "In the Weights는 AI 중심의 새로운 허영심 검색 기능입니다.",
+    "summary": "그렇다면... 가중치 점수는 얼마인가요?",
+    "source": "TechCrunch",
+    "date": "2026.06.20",
+    "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+    "tags": [
+      "테크"
+    ]
+  },
+  {
+    "rank": 3,
+    "title": "노벨상 수상자 John Jumper가 라이벌 Anthropic을 위해 DeepMind를 떠납니다.",
+    "summary": "점퍼가 Google DeepMind를 떠나는 유일한 큰 이름은 아닙니다.",
+    "source": "TechCrunch",
+    "date": "2026.06.20",
+    "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+    "tags": [
+      "LLM",
+      "빅테크"
+    ]
+  },
+  {
+    "rank": 4,
+    "title": "PGP에서 Mythos로: 누구도 막지 못한 수출 통제의 간략한 역사",
     "summary": "지난 30년 동안 사이버 보안 관련 소프트웨어의 흐름을 막는 것은 효과가 없는 것으로 입증되었습니다. Anthropic의 사이버 보안 모델 Mythos와 함께 작동하는 이유는 분명하지 않습니다.",
     "source": "TechCrunch",
     "date": "2026.06.19",
@@ -12,7 +46,7 @@
     ]
   },
   {
-    "rank": 2,
+    "rank": 5,
     "title": "미국 정부의 Anthropic 금지가 실수로 브랜드에 도움이 됩니까?",
     "summary": "지난 주가 끝났을 때 미국 정부는 아마존 연구원들이 주장한 후 국가 안보 문제를 인용하여 Anthropic이 두 가지 최신 모델 인 Fable 5와 Mythos 5를 가져 오도록 강요했습니다.",
     "source": "TechCrunch",
@@ -22,43 +56,6 @@
       "LLM",
       "빅테크",
       "보안"
-    ]
-  },
-  {
-    "rank": 3,
-    "title": "미국은 Anthropic의 Fable 5 출시를 금지했지만 숫자는 신경 쓰지 않는 것 같습니다.",
-    "summary": "지난 주가 끝났을 때 미국 정부는 아마존 연구원들이 주장한 후 국가 안보 문제를 인용하여 Anthropic이 두 가지 최신 모델 인 Fable 5와 Mythos 5를 가져 오도록 강요했습니다.",
-    "source": "TechCrunch",
-    "date": "2026.06.19",
-    "url": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
-    "tags": [
-      "LLM",
-      "빅테크",
-      "보안"
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "억만장자 암바니는 모든 통화, 앱 및 가정에서 AI를 원합니다",
-    "summary": "신뢰는 AI를 5억 명이 넘는 사람들이 사용하는 통신 서비스로 엮어내고 있습니다.",
-    "source": "TechCrunch",
-    "date": "2026.06.19",
-    "url": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
-    "tags": [
-      "AI",
-      "규제"
-    ]
-  },
-  {
-    "rank": 5,
-    "title": "Allbirds의 새로운 AI biz의 CEO는 계획이 있지만 팀이 없습니다.",
-    "summary": "단독 창업자와 매우 큰 종자 라운드가 있는 스타트업이라고 부르지만, 다음 단계는 덜 명확합니다.",
-    "source": "TechCrunch",
-    "date": "2026.06.19",
-    "url": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
-    "tags": [
-      "AI",
-      "스타트업"
     ]
   }
 ]
