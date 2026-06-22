@@ -1,6 +1,30 @@
 [
   {
     "rank": 1,
+    "title": "트럼프 행정부가 Anthropic을 단속 할 때 누가 이익을 얻습니까?",
+    "summary": "에퀴티의 새로운 에피소드에서 우리는 실제로 Anthropic에 대한 행정부의 최신 움직임이 무엇인지, 그리고 이것이 AI 생태계에 어떤 영향을 미칠 수 있는지에 대해 논의했습니다.",
+    "source": "TechCrunch",
+    "date": "2026.06.21",
+    "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+    "tags": [
+      "AI",
+      "LLM"
+    ]
+  },
+  {
+    "rank": 2,
+    "title": "Siri를 넘어서: iOS 27에서 iPhone에 제공되는 실용적인 AI 기능을 소개합니다.",
+    "summary": "Siri의 AI 개편으로 WWDC의 헤드라인이 잡혔을 수 있지만, Apple의 가장 유용한 AI 기능 중 일부는 iOS 27의 다른 곳에 도착하고 있습니다.",
+    "source": "TechCrunch",
+    "date": "2026.06.21",
+    "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+    "tags": [
+      "AI",
+      "빅테크"
+    ]
+  },
+  {
+    "rank": 3,
     "title": "Signal의 메레디스 휘태커 (Meredith Whittaker) 는 AI 챗봇이 ‘당신의 친구가 아니다‘ 라는 것을 기억하기를 원합니다.",
     "summary": "“네 친구들이 아니야. 이들은 의식이 있는 존재가 아닙니다. 이들은 지각 있는 대화 상대가 아닙니다.”",
     "source": "TechCrunch",
@@ -11,7 +35,7 @@
     ]
   },
   {
-    "rank": 2,
+    "rank": 4,
     "title": "In the Weights는 AI 중심의 새로운 허영심 검색 기능입니다.",
     "summary": "그렇다면... 가중치 점수는 얼마인가요?",
     "source": "TechCrunch",
@@ -22,7 +46,7 @@
     ]
   },
   {
-    "rank": 3,
+    "rank": 5,
     "title": "노벨상 수상자 John Jumper가 라이벌 Anthropic을 위해 DeepMind를 떠납니다.",
     "summary": "점퍼가 Google DeepMind를 떠나는 유일한 큰 이름은 아닙니다.",
     "source": "TechCrunch",
@@ -31,31 +55,6 @@
     "tags": [
       "LLM",
       "빅테크"
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "PGP에서 Mythos로: 누구도 막지 못한 수출 통제의 간략한 역사",
-    "summary": "지난 30년 동안 사이버 보안 관련 소프트웨어의 흐름을 막는 것은 효과가 없는 것으로 입증되었습니다. Anthropic의 사이버 보안 모델 Mythos와 함께 작동하는 이유는 분명하지 않습니다.",
-    "source": "TechCrunch",
-    "date": "2026.06.19",
-    "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
-    "tags": [
-      "LLM",
-      "보안"
-    ]
-  },
-  {
-    "rank": 5,
-    "title": "미국 정부의 Anthropic 금지가 실수로 브랜드에 도움이 됩니까?",
-    "summary": "지난 주가 끝났을 때 미국 정부는 아마존 연구원들이 주장한 후 국가 안보 문제를 인용하여 Anthropic이 두 가지 최신 모델 인 Fable 5와 Mythos 5를 가져 오도록 강요했습니다.",
-    "source": "TechCrunch",
-    "date": "2026.06.19",
-    "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
-    "tags": [
-      "LLM",
-      "빅테크",
-      "보안"
     ]
   }
 ]
