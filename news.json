@@ -1,58 +1,61 @@
 [
   {
     "rank": 1,
-    "title": "인도의 MoEngage는 마케팅의 미래가 수백만 명의 AI 에이전트라고 내기를 걸고 있습니다.",
-    "summary": "전체 현금 거래를 통해 MoEngage는 개별 고객에게 AI 에이전트를 할당하는 기술에 액세스할 수 있습니다.",
+    "title": "유럽은 워싱턴의 칩 전쟁에 반발하고 있습니다.",
+    "summary": "ASML의 CEO인 크리스토프 푸케 (Christophe Fouquet) 가 지난 5월 테크크런치 (TechCrunch) 와의 인터뷰에서 말했듯이, 현재 중국에서 구입할 수 있는 것은 약 10년 전에 처음 출시된 구세대 심층 자외선 도구이며, Ac와 동일한 기계입니다.",
     "source": "TechCrunch",
-    "date": "2026.06.23",
-    "url": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
+    "date": "2026.06.25",
+    "url": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
     "tags": [
-      "AI"
+      "반도체",
+      "규제"
     ]
   },
   {
     "rank": 2,
-    "title": "백악관, 양자 취약 암호화폐 삭제 기한 대폭 단축",
-    "summary": "주문은 양자 후 암호화가 제때 채택되지 않으면 국가 안보 위험을 경고합니다.",
-    "source": "Ars Technica",
-    "date": "2026.06.23",
-    "url": "https://arstechnica.com/information-technology/2026/06/executive-order-bumps-up-deadline-to-move-off-quantum-vulnerable-crypto/",
+    "title": "전 인포시스 수석이 IT 서비스 세계에 도전하고자하는 새로운 신생 기업을 보유하고 있습니다.",
+    "summary": "Mayfield와 Aramco Ventures가 후원하는 Vishal Sikka의 새로운 벤처는 SAP, Infosys 및 VianAI의 베테랑들을 모았습니다.",
+    "source": "TechCrunch",
+    "date": "2026.06.24",
+    "url": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
     "tags": [
-      "보안"
+      "스타트업"
     ]
   },
   {
     "rank": 3,
-    "title": "오라클의 21,000 건의 해고는 부채를 유발하는 AI 투자를 촉진하는 데 도움이 됩니다.",
-    "summary": "오라클은 AI를 지원하기 위해 데이터 센터 인프라에 수십억 달러를 지출하고 있습니다.",
-    "source": "Ars Technica",
-    "date": "2026.06.23",
-    "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
+    "title": "CEO가 마진 전망이 오해되었다고 말하면서 수익 후 Cerebras 주가가 급락합니다.",
+    "summary": "상장 이후 첫 번째 수익 보고서에서 인공지능 칩 제조사는 핵심 사업에서 더 좁은 매출 총이익을 예측하여 투자자들을 놀라게 했습니다.",
+    "source": "TechCrunch",
+    "date": "2026.06.24",
+    "url": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
+    "tags": [
+      "AI",
+      "반도체"
+    ]
+  },
+  {
+    "rank": 4,
+    "title": "AI는 엔지니어링 일자리를 없애기로 되어 있었지만, 새로운 데이터에 따르면 AI가 가장 탄력적이라고 합니다.",
+    "summary": "SignalFire 데이터에 따르면 AI가 정리 해고 서사를 지배하지만 엔지니어는 실제로 신입 사원의 더 많은 부분을 차지하고 있습니다.",
+    "source": "TechCrunch",
+    "date": "2026.06.24",
+    "url": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
     "tags": [
       "AI"
     ]
   },
   {
-    "rank": 4,
-    "title": "Anthropic의 Claude Tag가 한 번에 하나의 Slack 메시지로 귀사를 학습하고 있습니다.",
-    "summary": "Anthropic의 새로운 Claude Tag는 Slack에 상시 상주하는 AI 팀원을 데려옵니다. 그러나 이 기능은 생산성을 넘어 조직의 맥락, 제도적 지식 및 기업을 포착하기 위한 전략적 플레이입니다.",
+    "rank": 5,
+    "title": "AI 연구원은 라이벌을 위해 Google을 계속 떠납니다.",
+    "summary": "최고의 AI 연구원인 조나스 아들러 (Jonas Adler) 와 알렉산더 프리첼 (Alexander Pritzel) 은 최고의 과학자 노암 셰이저 (Noam Shazeer) 와 존 점퍼 (John Jumper) 의 탈퇴에 따라 구글 앤서픽 (Anth",
     "source": "TechCrunch",
-    "date": "2026.06.23",
-    "url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
+    "date": "2026.06.24",
+    "url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
     "tags": [
       "AI",
-      "LLM"
-    ]
-  },
-  {
-    "rank": 5,
-    "title": "TechCrunch Founder Summit 2026에서 최대 $ 190를 절약할 수 있는 기간이 4일 남았습니다",
-    "summary": "얼리버드 요금이 6월 26일 오후 11시 59분 (태평양 표준시 기준) 에 종료되기 전에 4일 이내에 테크크런치 파운더 서밋 2026 (최고의 파운더 부트캠프) 이용권을 최대 $ 190까지 할인받으세요. 오늘 등록하세요.",
-    "source": "TechCrunch",
-    "date": "2026.06.23",
-    "url": "https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
-    "tags": [
-      "테크"
+      "LLM",
+      "빅테크"
     ]
   }
 ]
