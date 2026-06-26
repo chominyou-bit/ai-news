@@ -1,61 +1,60 @@
 [
   {
     "rank": 1,
-    "title": "유럽은 워싱턴의 칩 전쟁에 반발하고 있습니다.",
-    "summary": "ASML의 CEO인 크리스토프 푸케 (Christophe Fouquet) 가 지난 5월 테크크런치 (TechCrunch) 와의 인터뷰에서 말했듯이, 현재 중국에서 구입할 수 있는 것은 약 10년 전에 처음 출시된 구세대 심층 자외선 도구이며, Ac와 동일한 기계입니다.",
+    "title": "백악관은 OpenAI에 안전 문제에 대한 새로운 모델의 출시를 늦출 것을 요청하고 있습니다.",
+    "summary": "penAI는 최신 모델인 GPT 5.6을 일반 대중이 아닌 일부 파트너 그룹과 공유할 계획이라고 합니다. 그 이유는 트럼프 행정부가 그렇게 말했기 때문입니다.",
     "source": "TechCrunch",
     "date": "2026.06.25",
-    "url": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
+    "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
     "tags": [
-      "반도체",
-      "규제"
+      "LLM"
     ]
   },
   {
     "rank": 2,
-    "title": "전 인포시스 수석이 IT 서비스 세계에 도전하고자하는 새로운 신생 기업을 보유하고 있습니다.",
-    "summary": "Mayfield와 Aramco Ventures가 후원하는 Vishal Sikka의 새로운 벤처는 SAP, Infosys 및 VianAI의 베테랑들을 모았습니다.",
+    "title": "Patronus AI는 인공지능 에이전트에게 스트레스를 테스트하는 ‘디지털 세계‘ 를 구축하기 위해 $ 50M에 상륙합니다",
+    "summary": "전 Meta AI 연구원이 설립한 에이전트 테스트 스타트업 Patronus AI는 거의 만족할 수 없는 수요를 경험하고 있다고 투자자는 말합니다.",
     "source": "TechCrunch",
-    "date": "2026.06.24",
-    "url": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
+    "date": "2026.06.25",
+    "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
     "tags": [
+      "AI",
+      "빅테크",
       "스타트업"
     ]
   },
   {
     "rank": 3,
-    "title": "CEO가 마진 전망이 오해되었다고 말하면서 수익 후 Cerebras 주가가 급락합니다.",
-    "summary": "상장 이후 첫 번째 수익 보고서에서 인공지능 칩 제조사는 핵심 사업에서 더 좁은 매출 총이익을 예측하여 투자자들을 놀라게 했습니다.",
-    "source": "TechCrunch",
-    "date": "2026.06.24",
-    "url": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
-    "tags": [
-      "AI",
-      "반도체"
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "AI는 엔지니어링 일자리를 없애기로 되어 있었지만, 새로운 데이터에 따르면 AI가 가장 탄력적이라고 합니다.",
-    "summary": "SignalFire 데이터에 따르면 AI가 정리 해고 서사를 지배하지만 엔지니어는 실제로 신입 사원의 더 많은 부분을 차지하고 있습니다.",
-    "source": "TechCrunch",
-    "date": "2026.06.24",
-    "url": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
+    "title": "대부분의 사용자가 AI 에이전트를 대신 사용하기 때문에 Skiff의 영향을 받은 이메일 앱 죽이기",
+    "summary": "개념은 \"상담원을 사용하여 받은 편지함을 실행하는 데 모든 노력을 기울이는 것\" 입니다.",
+    "source": "Ars Technica",
+    "date": "2026.06.25",
+    "url": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
     "tags": [
       "AI"
     ]
   },
   {
-    "rank": 5,
-    "title": "AI 연구원은 라이벌을 위해 Google을 계속 떠납니다.",
-    "summary": "최고의 AI 연구원인 조나스 아들러 (Jonas Adler) 와 알렉산더 프리첼 (Alexander Pritzel) 은 최고의 과학자 노암 셰이저 (Noam Shazeer) 와 존 점퍼 (John Jumper) 의 탈퇴에 따라 구글 앤서픽 (Anth",
+    "rank": 4,
+    "title": "Anthropic의 Claude는 ChatGPT가 소유한 시장인 유료 소비자를 이기고 있습니다.",
+    "summary": "ChatGPT의 주도적인 시장 선점에도 불구하고, AI 비용을 지불하는 소비자들은 Anthropic의 Claude를 점점 더 선택하고 있습니다.",
     "source": "TechCrunch",
-    "date": "2026.06.24",
-    "url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
+    "date": "2026.06.25",
+    "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
     "tags": [
       "AI",
-      "LLM",
-      "빅테크"
+      "LLM"
+    ]
+  },
+  {
+    "rank": 5,
+    "title": "비디오 게임이 실제 세계를 위한 AI 에이전트를 훈련할 수 있다는 General Intuition의 $ 23B 베팅",
+    "summary": "General Intuition은 수백만 시간의 게임 플레이로 훈련된 AI를 확장하기 위해 3억 2천만 달러를 모금했습니다. 베팅 액션 데이터는 AI가 인간의 직관에 더 가까운 것을 개발하는 데 도움이 될 수 있습니다.",
+    "source": "TechCrunch",
+    "date": "2026.06.25",
+    "url": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+    "tags": [
+      "AI"
     ]
   }
 ]
