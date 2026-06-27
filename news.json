@@ -1,60 +1,60 @@
 [
   {
     "rank": 1,
-    "title": "백악관은 OpenAI에 안전 문제에 대한 새로운 모델의 출시를 늦출 것을 요청하고 있습니다.",
-    "summary": "penAI는 최신 모델인 GPT 5.6을 일반 대중이 아닌 일부 파트너 그룹과 공유할 계획이라고 합니다. 그 이유는 트럼프 행정부가 그렇게 말했기 때문입니다.",
+    "title": "트럼프 어드민 (Trump Admin) 은 100개 이상의 미국 기업, 에이전시에서 사용할 수 있는 인류의 신화를 공개합니다.",
+    "summary": "미국인이 아닌 직원을 포함하여 100개 이상의 회사와 정부 기관이 Mythos 5를 사용할 수 있는 권한이 있는 것으로 알려졌습니다.",
     "source": "TechCrunch",
-    "date": "2026.06.25",
-    "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+    "date": "2026.06.27",
+    "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
     "tags": [
       "LLM"
     ]
   },
   {
     "rank": 2,
-    "title": "Patronus AI는 인공지능 에이전트에게 스트레스를 테스트하는 ‘디지털 세계‘ 를 구축하기 위해 $ 50M에 상륙합니다",
-    "summary": "전 Meta AI 연구원이 설립한 에이전트 테스트 스타트업 Patronus AI는 거의 만족할 수 없는 수요를 경험하고 있다고 투자자는 말합니다.",
+    "title": "OpenAI는 정부 요청 후 GPT-5.6 배포를 제한하며, 제한이 표준이 되어서는 안 된다고 말합니다.",
+    "summary": "OpenAI는 \"우리는 이러한 종류의 정부 액세스 프로세스가 장기적인 기본값이 되어야 한다고 생각하지 않습니다.\" 라고 말합니다. \"사용자, 개발자, 기업, 사이버 방어자 및 글로벌 PA로부터 최고의 도구를 보호합니다.",
     "source": "TechCrunch",
-    "date": "2026.06.25",
-    "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+    "date": "2026.06.26",
+    "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
     "tags": [
-      "AI",
-      "빅테크",
-      "스타트업"
-    ]
-  },
-  {
-    "rank": 3,
-    "title": "대부분의 사용자가 AI 에이전트를 대신 사용하기 때문에 Skiff의 영향을 받은 이메일 앱 죽이기",
-    "summary": "개념은 \"상담원을 사용하여 받은 편지함을 실행하는 데 모든 노력을 기울이는 것\" 입니다.",
-    "source": "Ars Technica",
-    "date": "2026.06.25",
-    "url": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "Anthropic의 Claude는 ChatGPT가 소유한 시장인 유료 소비자를 이기고 있습니다.",
-    "summary": "ChatGPT의 주도적인 시장 선점에도 불구하고, AI 비용을 지불하는 소비자들은 Anthropic의 Claude를 점점 더 선택하고 있습니다.",
-    "source": "TechCrunch",
-    "date": "2026.06.25",
-    "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
-    "tags": [
-      "AI",
       "LLM"
     ]
   },
   {
-    "rank": 5,
-    "title": "비디오 게임이 실제 세계를 위한 AI 에이전트를 훈련할 수 있다는 General Intuition의 $ 23B 베팅",
-    "summary": "General Intuition은 수백만 시간의 게임 플레이로 훈련된 AI를 확장하기 위해 3억 2천만 달러를 모금했습니다. 베팅 액션 데이터는 AI가 인간의 직관에 더 가까운 것을 개발하는 데 도움이 될 수 있습니다.",
+    "rank": 3,
+    "title": "OpenAI, 인도 Uber 최고책임자 (COO) 가 미국 외 최대 시장 주도",
+    "summary": "이 채용은 OpenAI가 최근 인도에 진출하여 사무실, 파트너십 및 채용을 확대하고 있음을 나타냅니다.",
     "source": "TechCrunch",
-    "date": "2026.06.25",
-    "url": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+    "date": "2026.06.26",
+    "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
     "tags": [
-      "AI"
+      "LLM"
+    ]
+  },
+  {
+    "rank": 4,
+    "title": "OpenAI에서 SpaceX에 이르기까지 모든 사람들이 자신만의 칩을 만드는 이유 (그리고 엔비디아에서 열을 높이는 이유)",
+    "summary": "엔비디아는 수년 동안 AI 칩 시장을 장악해 왔지만, 완전한 의존의 시대는 끝나고 있을지도 모릅니다. OpenAI는 사용자 정의 추론 인 Jalapeño와 함께 양념을 치려는 계획을 공유했습니다.",
+    "source": "TechCrunch",
+    "date": "2026.06.26",
+    "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+    "tags": [
+      "AI",
+      "LLM",
+      "반도체"
+    ]
+  },
+  {
+    "rank": 5,
+    "title": "더 이상 Anthropic vs. OpenAI에 관한 것이 아닙니다.",
+    "summary": "인공지능 모델은 실제 정치적 결과를 초래할 정도로 발전했습니다. 이러한 결과를 처리하려면 집단적 조치가 필요합니다.",
+    "source": "TechCrunch",
+    "date": "2026.06.26",
+    "url": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
+    "tags": [
+      "AI",
+      "LLM"
     ]
   }
 ]
