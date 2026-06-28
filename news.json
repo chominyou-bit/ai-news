@@ -1,44 +1,34 @@
 [
   {
     "rank": 1,
-    "title": "트럼프 어드민 (Trump Admin) 은 100개 이상의 미국 기업, 에이전시에서 사용할 수 있는 인류의 신화를 공개합니다.",
-    "summary": "미국인이 아닌 직원을 포함하여 100개 이상의 회사와 정부 기관이 Mythos 5를 사용할 수 있는 권한이 있는 것으로 알려졌습니다.",
+    "title": "SoftBank의 CEO만이 Elon Musk의 궤도 데이터 센터 과대 광고에 대해 질문하는 것은 아닙니다.",
+    "summary": "모든 사람이 궤도 데이터 센터에 대한 Elon Musk의 비전을 구매하는 것은 아닙니다.",
     "source": "TechCrunch",
     "date": "2026.06.27",
-    "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+    "url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
     "tags": [
-      "LLM"
+      "규제"
     ]
   },
   {
     "rank": 2,
-    "title": "OpenAI는 정부 요청 후 GPT-5.6 배포를 제한하며, 제한이 표준이 되어서는 안 된다고 말합니다.",
-    "summary": "OpenAI는 \"우리는 이러한 종류의 정부 액세스 프로세스가 장기적인 기본값이 되어야 한다고 생각하지 않습니다.\" 라고 말합니다. \"사용자, 개발자, 기업, 사이버 방어자 및 글로벌 PA로부터 최고의 도구를 보호합니다.",
+    "title": "Apple Vision Pro EXEC이 OpenAI로 떠나는 것으로 알려졌습니다.",
+    "summary": "Vision Pro 헤드셋을 담당하는 Apple 부사장인 Paul Meade는 OpenAI의 하드웨어 팀에 합류하기 위해 회사를 떠나는 것으로 알려졌습니다.",
     "source": "TechCrunch",
-    "date": "2026.06.26",
-    "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+    "date": "2026.06.27",
+    "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
     "tags": [
-      "LLM"
+      "LLM",
+      "빅테크"
     ]
   },
   {
     "rank": 3,
-    "title": "OpenAI, 인도 Uber 최고책임자 (COO) 가 미국 외 최대 시장 주도",
-    "summary": "이 채용은 OpenAI가 최근 인도에 진출하여 사무실, 파트너십 및 채용을 확대하고 있음을 나타냅니다.",
+    "title": "방에서 가장 적자였던 창업자가 암에 걸렸습니다. 다음은 그가 AI를 사용하여 반격하는 방법입니다.",
+    "summary": "암에 걸렸을 때 코너 크리스투는 자신의 정권과 관련된 모든 것 (혈액 결과, 스캔 데이터, 웨어러블 출력, 저널 항목) 을 클로드에게 먹였습니다.",
     "source": "TechCrunch",
-    "date": "2026.06.26",
-    "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
-    "tags": [
-      "LLM"
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "OpenAI에서 SpaceX에 이르기까지 모든 사람들이 자신만의 칩을 만드는 이유 (그리고 엔비디아에서 열을 높이는 이유)",
-    "summary": "엔비디아는 수년 동안 AI 칩 시장을 장악해 왔지만, 완전한 의존의 시대는 끝나고 있을지도 모릅니다. OpenAI는 사용자 정의 추론 인 Jalapeño와 함께 양념을 치려는 계획을 공유했습니다.",
-    "source": "TechCrunch",
-    "date": "2026.06.26",
-    "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+    "date": "2026.06.27",
+    "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
     "tags": [
       "AI",
       "LLM",
@@ -46,14 +36,26 @@
     ]
   },
   {
-    "rank": 5,
-    "title": "더 이상 Anthropic vs. OpenAI에 관한 것이 아닙니다.",
-    "summary": "인공지능 모델은 실제 정치적 결과를 초래할 정도로 발전했습니다. 이러한 결과를 처리하려면 집단적 조치가 필요합니다.",
+    "rank": 4,
+    "title": "Anthropic의 수출 금지가 시작됨에 따라 아시아 AI 스타트업이 신화와 같은 모델을 출시합니다.",
+    "summary": "수출 금지에 대한 두려움 없이 신화와 같은 기능을 약속하는 새로운 모델이 아시아에서 출시되고 있습니다. 미국 AI 연구소는 이 거대한 시장을 결코 회복할 수 없을 것입니다.",
     "source": "TechCrunch",
-    "date": "2026.06.26",
-    "url": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
+    "date": "2026.06.27",
+    "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
     "tags": [
       "AI",
+      "LLM",
+      "스타트업"
+    ]
+  },
+  {
+    "rank": 5,
+    "title": "트럼프 어드민 (Trump Admin) 은 100개 이상의 미국 기업, 에이전시에서 사용할 수 있는 인류의 신화를 공개합니다.",
+    "summary": "미국인이 아닌 직원을 포함하여 100개 이상의 회사와 정부 기관이 Mythos 5를 사용할 수 있는 권한이 있는 것으로 알려졌습니다.",
+    "source": "TechCrunch",
+    "date": "2026.06.27",
+    "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+    "tags": [
       "LLM"
     ]
   }
