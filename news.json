@@ -1,60 +1,60 @@
 [
   {
     "rank": 1,
-    "title": "포드는 AI가 부족한 후 ‘회색 수염’ 엔지니어를 다시 고용합니다.",
-    "summary": "\"우리는 인공 지능을 도입하는 것만으로도... 고품질의 제품을 생산할 수 있다고 잘못 생각했습니다.\"",
+    "title": "AI 일자리 논쟁이 더 지저분해졌습니다.",
+    "summary": "새로운 보고서에 따르면 \"고강도 AI 채택자\" 는 인원이 10.2% 증가한 것으로 나타났습니다. 그 중 엔트리급 인원은 12% 증가해 인공지능이 후배의 일자리를 죽인다는 수사에 반발했다.",
     "source": "TechCrunch",
-    "date": "2026.06.28",
-    "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+    "date": "2026.06.30",
+    "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
     "tags": [
       "AI"
     ]
   },
   {
     "rank": 2,
-    "title": "월스트리트가 미국의 메모리 메이커 마이크론이 차세대 엔비디아라고 생각하는 이유",
-    "summary": "월스트리트 투자자들은 엔비디아뿐만 아니라 더 많은 공공 AI 관련 기업을 찾고 싶어하며 마이크론으로 승자를 찾았다고 생각합니다.",
+    "title": "바이브 코딩 플랫폼 Base44, AI 스타트업들이 방어 가능성을 모색하면서 자체 모델 출시",
+    "summary": "Wix 소유의 바이브 코딩 플랫폼 Base44는 결국 프론티어 모델을 능가할 것이라는 희망으로 자체 AI 모델을 출시하기 시작했습니다.",
     "source": "TechCrunch",
-    "date": "2026.06.28",
-    "url": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
+    "date": "2026.06.30",
+    "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
     "tags": [
-      "반도체"
+      "AI",
+      "스타트업"
     ]
   },
   {
     "rank": 3,
-    "title": "SoftBank의 CEO만이 Elon Musk의 궤도 데이터 센터 과대 광고에 대해 질문하는 것은 아닙니다.",
-    "summary": "모든 사람이 궤도 데이터 센터에 대한 Elon Musk의 비전을 구매하는 것은 아닙니다.",
-    "source": "TechCrunch",
-    "date": "2026.06.27",
-    "url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
+    "title": "미국, Signal 및 WhatsApp 해킹 배후 그룹에 대한 정보로 $ 1,000만 제공",
+    "summary": "두 개의 러시아 국가 그룹에 의한 작전은 적어도 3월부터 진행되고 있다.",
+    "source": "Ars Technica",
+    "date": "2026.06.29",
+    "url": "https://arstechnica.com/information-technology/2026/06/us-offers-10-million-for-info-on-group-behind-signal-and-whatsapp-hacking-spree/",
     "tags": [
-      "규제"
+      "보안"
     ]
   },
   {
     "rank": 4,
-    "title": "Apple Vision Pro EXEC이 OpenAI로 떠나는 것으로 알려졌습니다.",
-    "summary": "Vision Pro 헤드셋을 담당하는 Apple 부사장인 Paul Meade는 OpenAI의 하드웨어 팀에 합류하기 위해 회사를 떠나는 것으로 알려졌습니다.",
+    "title": "Gemini의 개인 맞춤형 AI 이미지 생성을 이제 미국 사용자가 무료로 이용할 수 있습니다.",
+    "summary": "Google은 Gemini의 맞춤형 AI 이미지 생성을 미국의 무료 사용자에게까지 확대하여 챗봇이 사용자의 관심사와 연결된 Google 앱의 데이터를 기반으로 이미지를 만들 수 있도록 하고 있습니다.",
     "source": "TechCrunch",
-    "date": "2026.06.27",
-    "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+    "date": "2026.06.29",
+    "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
     "tags": [
+      "AI",
       "LLM",
       "빅테크"
     ]
   },
   {
     "rank": 5,
-    "title": "방에서 가장 적자였던 창업자가 암에 걸렸습니다. 다음은 그가 AI를 사용하여 반격하는 방법입니다.",
-    "summary": "암에 걸렸을 때 코너 크리스투는 자신의 정권과 관련된 모든 것 (혈액 결과, 스캔 데이터, 웨어러블 출력, 저널 항목) 을 클로드에게 먹였습니다.",
+    "title": "캘리포니아 정부가 Claude를 반값으로 사용할 수 있도록 하는 Anthropic 및 Gov. Newsom 단조 거래",
+    "summary": "Anthropic이 캘리포니아 주와 긴밀한 관계를 구축함에 따라 연방 정부는 OpenAI 경쟁에서 적을 만들었습니다.",
     "source": "TechCrunch",
-    "date": "2026.06.27",
-    "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+    "date": "2026.06.29",
+    "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
     "tags": [
-      "AI",
-      "LLM",
-      "반도체"
+      "LLM"
     ]
   }
 ]
