@@ -1,60 +1,60 @@
 [
   {
     "rank": 1,
-    "title": "AI 일자리 논쟁이 더 지저분해졌습니다.",
-    "summary": "새로운 보고서에 따르면 \"고강도 AI 채택자\" 는 인원이 10.2% 증가한 것으로 나타났습니다. 그 중 엔트리급 인원은 12% 증가해 인공지능이 후배의 일자리를 죽인다는 수사에 반발했다.",
+    "title": "\"인터넷의 아버지\" 가 마침내 은퇴합니다",
+    "summary": "인터넷을 기반으로 하는 프로토콜의 창시자 중 한 명인 Vinton Cerf는 다음 주에 Google의 수석 인터넷 전도사로 물러날 예정입니다.",
     "source": "TechCrunch",
-    "date": "2026.06.30",
-    "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
+    "date": "2026.07.01",
+    "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
     "tags": [
-      "AI"
+      "빅테크"
     ]
   },
   {
     "rank": 2,
-    "title": "바이브 코딩 플랫폼 Base44, AI 스타트업들이 방어 가능성을 모색하면서 자체 모델 출시",
-    "summary": "Wix 소유의 바이브 코딩 플랫폼 Base44는 결국 프론티어 모델을 능가할 것이라는 희망으로 자체 AI 모델을 출시하기 시작했습니다.",
+    "title": "트럼프는 Anthropic의 신화 및 우화 모델에 대한 제한을 해제합니다",
+    "summary": "Anthropic은 7월 1일부터 우화에 대한 액세스를 복원할 것이라고 말했습니다.",
     "source": "TechCrunch",
-    "date": "2026.06.30",
-    "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+    "date": "2026.07.01",
+    "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+    "tags": [
+      "LLM"
+    ]
+  },
+  {
+    "rank": 3,
+    "title": "Wayve, $ 8.5B 밸류에이션으로 $ 8,500만 직원 입찰 제안 시작",
+    "summary": "Wayve의 오퍼링은 직원 입찰을 인재를 유치하고 유지하기 위한 전략적 도구로 사용하는 AI 스타트업의 증가 추세의 일부입니다.",
+    "source": "TechCrunch",
+    "date": "2026.07.01",
+    "url": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
     "tags": [
       "AI",
       "스타트업"
     ]
   },
   {
-    "rank": 3,
-    "title": "미국, Signal 및 WhatsApp 해킹 배후 그룹에 대한 정보로 $ 1,000만 제공",
-    "summary": "두 개의 러시아 국가 그룹에 의한 작전은 적어도 3월부터 진행되고 있다.",
-    "source": "Ars Technica",
-    "date": "2026.06.29",
-    "url": "https://arstechnica.com/information-technology/2026/06/us-offers-10-million-for-info-on-group-behind-signal-and-whatsapp-hacking-spree/",
-    "tags": [
-      "보안"
-    ]
-  },
-  {
     "rank": 4,
-    "title": "Gemini의 개인 맞춤형 AI 이미지 생성을 이제 미국 사용자가 무료로 이용할 수 있습니다.",
-    "summary": "Google은 Gemini의 맞춤형 AI 이미지 생성을 미국의 무료 사용자에게까지 확대하여 챗봇이 사용자의 관심사와 연결된 Google 앱의 데이터를 기반으로 이미지를 만들 수 있도록 하고 있습니다.",
+    "title": "드디어 Android 및 iOS에서 OpenClaw를 사용할 수 있습니다",
+    "summary": "무료 오픈 소스 에이전트 프로그램이 마침내 휴대 전화를 침범하고 있습니다.",
     "source": "TechCrunch",
-    "date": "2026.06.29",
-    "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+    "date": "2026.06.30",
+    "url": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
     "tags": [
-      "AI",
-      "LLM",
-      "빅테크"
+      "오픈소스",
+      "규제"
     ]
   },
   {
     "rank": 5,
-    "title": "캘리포니아 정부가 Claude를 반값으로 사용할 수 있도록 하는 Anthropic 및 Gov. Newsom 단조 거래",
-    "summary": "Anthropic이 캘리포니아 주와 긴밀한 관계를 구축함에 따라 연방 정부는 OpenAI 경쟁에서 적을 만들었습니다.",
+    "title": "포커 AI를 구축한 DeepMind 트리오는 이제 퀀트 헤지 펀드를 위해 돈을 벌고 있습니다.",
+    "summary": "세 명의 전 DeepMind 연구원이 설립한 프라하 기반 AI 연구소인 EquiLibre Technologies는 현재 5억 달러 ($) 이상의 가치를 지니고 있습니다.",
     "source": "TechCrunch",
-    "date": "2026.06.29",
-    "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+    "date": "2026.06.30",
+    "url": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
     "tags": [
-      "LLM"
+      "AI",
+      "연구"
     ]
   }
 ]
