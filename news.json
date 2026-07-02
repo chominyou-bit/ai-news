@@ -1,33 +1,33 @@
 [
   {
     "rank": 1,
-    "title": "\"인터넷의 아버지\" 가 마침내 은퇴합니다",
-    "summary": "인터넷을 기반으로 하는 프로토콜의 창시자 중 한 명인 Vinton Cerf는 다음 주에 Google의 수석 인터넷 전도사로 물러날 예정입니다.",
-    "source": "TechCrunch",
+    "title": "소송 중 VMware에서 수만 대의 가상 머신을 이동하는 T-Mobile",
+    "summary": "T-Mobile은 Broadcom이 VMware 영구 라이선스를 계속 지원하기를 원합니다.",
+    "source": "Ars Technica",
     "date": "2026.07.01",
-    "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+    "url": "https://arstechnica.com/information-technology/2026/07/t-mobile-moving-tens-of-thousands-of-virtual-machines-off-vmware-amid-lawsuit/",
     "tags": [
-      "빅테크"
+      "규제"
     ]
   },
   {
     "rank": 2,
-    "title": "트럼프는 Anthropic의 신화 및 우화 모델에 대한 제한을 해제합니다",
-    "summary": "Anthropic은 7월 1일부터 우화에 대한 액세스를 복원할 것이라고 말했습니다.",
+    "title": "SpaceX에는 AI 장치 프로토타입이 있으며 전화처럼 들립니다.",
+    "summary": "스페이스X는 상장 전 투자자들에게 '핸드셋 같은' AI 기기를 보여준 것으로 알려졌다. SpaceX가 무선으로 확장하고자 하는 또 다른 신호일 수 있습니다.",
     "source": "TechCrunch",
     "date": "2026.07.01",
-    "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+    "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
     "tags": [
-      "LLM"
+      "AI"
     ]
   },
   {
     "rank": 3,
-    "title": "Wayve, $ 8.5B 밸류에이션으로 $ 8,500만 직원 입찰 제안 시작",
-    "summary": "Wayve의 오퍼링은 직원 입찰을 인재를 유치하고 유지하기 위한 전략적 도구로 사용하는 AI 스타트업의 증가 추세의 일부입니다.",
+    "title": "모건 벨러와 함께 새로운 VC 회사를 시작하기 위해 사운드 벤처스를 떠나는 애쉬튼 커처 (Ashton Kutcher)",
+    "summary": "사운드는 카테고리를 선도하는 AI 연구소에서 집중적이고 확신에 찬 베팅을 통해 명성을 쌓은 반면, Kutcher의 새로운 펀드는 그 회사들 아래에서 계층을 쫓고있는 것으로 보입니다. 인프라 a",
     "source": "TechCrunch",
     "date": "2026.07.01",
-    "url": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
+    "url": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
     "tags": [
       "AI",
       "스타트업"
@@ -35,26 +35,27 @@
   },
   {
     "rank": 4,
-    "title": "드디어 Android 및 iOS에서 OpenClaw를 사용할 수 있습니다",
-    "summary": "무료 오픈 소스 에이전트 프로그램이 마침내 휴대 전화를 침범하고 있습니다.",
+    "title": "Cloudflare의 새로운 정책은 AI 회사가 게시자의 콘텐츠에 대해 비용을 지불하도록 합니다.",
+    "summary": "Cloudflare는 AI 교육 및 에이전트에 사용되는 웹 크롤러와 검색에 사용되는 웹 크롤러를 분리하거나 많은 게시자 사이트에서 기본적으로 차단될 위험이 있는 AI 회사를 9월 15일까지 제공합니다.",
     "source": "TechCrunch",
-    "date": "2026.06.30",
-    "url": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
+    "date": "2026.07.01",
+    "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
     "tags": [
-      "오픈소스",
+      "AI",
       "규제"
     ]
   },
   {
     "rank": 5,
-    "title": "포커 AI를 구축한 DeepMind 트리오는 이제 퀀트 헤지 펀드를 위해 돈을 벌고 있습니다.",
-    "summary": "세 명의 전 DeepMind 연구원이 설립한 프라하 기반 AI 연구소인 EquiLibre Technologies는 현재 5억 달러 ($) 이상의 가치를 지니고 있습니다.",
+    "title": "베니스 AI는 프라이버시 기반 AI 플랫폼이 시작되면서 $ 65M 시리즈 A로 유니콘이 되었습니다.",
+    "summary": "CEO 에릭 부어히스 (Erik Voorhees) 는 베니스 AI는 이미 연간 7천만 달러 이상의 수익을 올리고 있으며, $ 이상의 수익을 올리고 있다고 말했다.",
     "source": "TechCrunch",
-    "date": "2026.06.30",
-    "url": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
+    "date": "2026.07.01",
+    "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
     "tags": [
       "AI",
-      "연구"
+      "스타트업",
+      "보안"
     ]
   }
 ]
