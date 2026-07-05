@@ -1,6 +1,54 @@
 [
   {
     "rank": 1,
+    "title": "새로운 Google 광고는 AI의 도움으로 작성된 독립 선언서를 상상합니다.",
+    "summary": "독립 선언서에 서명한 지 250년이 지난 후, 새로운 광고가 묻습니다. 건국의 아버지들이 Google Workspace에 액세스할 수 있다면 어떨까요?",
+    "source": "TechCrunch",
+    "date": "2026.07.04",
+    "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+    "tags": [
+      "AI",
+      "빅테크"
+    ]
+  },
+  {
+    "rank": 2,
+    "title": "미드저니는 할리우드 스튜디오가 AI 사용에 대한 세부 정보를 공개하기를 원합니다.",
+    "summary": "세 개의 할리우드 스튜디오와 진행 중인 법적 분쟁의 일환으로, 미드저니는 이들 스튜디오가 AI를 어떻게 사용하는지 밝히도록 강요하고 있습니다.",
+    "source": "TechCrunch",
+    "date": "2026.07.04",
+    "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "rank": 3,
+    "title": "알리바바는 직원들이 클로드 코드 (Claude Code) 를 사용하는 것을 금지한다고 보도했다.",
+    "summary": "알리바바는 클로드 코드를 고위험 소프트웨어로 분류한 것으로 알려졌다.",
+    "source": "TechCrunch",
+    "date": "2026.07.04",
+    "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+    "tags": [
+      "LLM",
+      "규제"
+    ]
+  },
+  {
+    "rank": 4,
+    "title": "미스트랄 AI란? OpenAI 경쟁업체에 대해 알아야 할 모든 것",
+    "summary": "일부 오픈 소스 AI 모델을 제공하는 Mistral AI는 2023년 창설 이후 \"모든 사람의 손에 국경 AI를 맡기겠다\" 는 포부를 가지고 상당한 자금을 모금했습니다.",
+    "source": "TechCrunch",
+    "date": "2026.07.04",
+    "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+    "tags": [
+      "AI",
+      "LLM",
+      "스타트업"
+    ]
+  },
+  {
+    "rank": 5,
     "title": "올해 필요한 유일한 AI 용어집",
     "summary": "AI의 부상은 새로운 용어와 속어의 눈사태를 가져왔습니다. 다음은 발생할 수 있는 가장 중요한 단어와 문구의 정의가 포함된 용어집입니다.",
     "source": "TechCrunch",
@@ -8,51 +56,6 @@
     "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
     "tags": [
       "AI"
-    ]
-  },
-  {
-    "rank": 2,
-    "title": "브라우저 전쟁은 더 이상 검색에 관한 것이 아닙니다. Chrome 및 Safari에 대한 최고의 대안은 다음과 같습니다.",
-    "summary": "크롬과 사파리에 도전하기 위해 현재 사용 가능한 최고의 대체 브라우저에 대한 개요를 정리했습니다.",
-    "source": "TechCrunch",
-    "date": "2026.07.03",
-    "url": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-    "tags": [
-      "테크"
-    ]
-  },
-  {
-    "rank": 3,
-    "title": "Mark Zuckerberg는 직원들에게 AI 상담원이 기대했던 만큼 빨리 진행되지 않았다고 말합니다.",
-    "summary": "메타 CEO는 내부 회의에서 AI 개발 노력이 예상만큼 빠르게 진행되고 있지 않다고 말한 것으로 전해졌다.",
-    "source": "TechCrunch",
-    "date": "2026.07.02",
-    "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
-    "tags": [
-      "AI",
-      "빅테크"
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "저지 마이크의 IPO는 인공지능 과대 광고가 얼마나 나빠졌는지를 보여준다.",
-    "summary": "킥을 위해 Jersey Mike의 IPO 문서를 살펴보았습니다. 분명 샌드위치 가게라면 굳이 인공지능을 언급할 필요가 없을 것이다. 그러나 보라, 보라.",
-    "source": "TechCrunch",
-    "date": "2026.07.02",
-    "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "rank": 5,
-    "title": "새로 발견된 PamStealer는 일반적인 macOS 멀웨어가 아닙니다.",
-    "summary": "이 발견은 MAC 인포스틸러에게 쏟아지는 노력의 증가를 강조합니다.",
-    "source": "Ars Technica",
-    "date": "2026.07.02",
-    "url": "https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/",
-    "tags": [
-      "테크"
     ]
   }
 ]
