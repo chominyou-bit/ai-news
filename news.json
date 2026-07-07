@@ -1,61 +1,57 @@
 [
   {
     "rank": 1,
-    "title": "Amazon은 Mechanical Turk에 대한 신규 고객 접수를 중단합니다.",
-    "summary": "아마존의 Mechanical Turk의 마지막 날일 수 있습니다.",
+    "title": "‘최초의‘ AI 실행 랜섬웨어 공격에는 여전히 사람이 필요했습니다.",
+    "summary": "인공지능 에이전트가 처음으로 실제 랜섬웨어 공격의 기술적 실행을 수행했지만, 새로운 세부 사항에 따르면 인간이 여전히 피해자를 선택하고 인프라를 설정하고 공급했습니다.",
     "source": "TechCrunch",
-    "date": "2026.07.05",
-    "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
-    "tags": [
-      "빅테크"
-    ]
-  },
-  {
-    "rank": 2,
-    "title": "새로운 Google 광고는 AI의 도움으로 작성된 독립 선언서를 상상합니다.",
-    "summary": "독립 선언서에 서명한 지 250년이 지난 후, 새로운 광고가 묻습니다. 건국의 아버지들이 Google Workspace에 액세스할 수 있다면 어떨까요?",
-    "source": "TechCrunch",
-    "date": "2026.07.04",
-    "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
-    "tags": [
-      "AI",
-      "빅테크"
-    ]
-  },
-  {
-    "rank": 3,
-    "title": "미드저니는 할리우드 스튜디오가 AI 사용에 대한 세부 정보를 공개하기를 원합니다.",
-    "summary": "세 개의 할리우드 스튜디오와 진행 중인 법적 분쟁의 일환으로, 미드저니는 이들 스튜디오가 AI를 어떻게 사용하는지 밝히도록 강요하고 있습니다.",
-    "source": "TechCrunch",
-    "date": "2026.07.04",
-    "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+    "date": "2026.07.06",
+    "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
     "tags": [
       "AI"
     ]
   },
   {
-    "rank": 4,
-    "title": "알리바바는 직원들이 클로드 코드 (Claude Code) 를 사용하는 것을 금지한다고 보도했다.",
-    "summary": "알리바바는 클로드 코드를 고위험 소프트웨어로 분류한 것으로 알려졌다.",
+    "rank": 2,
+    "title": "미국 투자자들은 곧 인공지능 붐을 타고 있는 또 다른 메모리 메이커인 SK 하이닉스에 접근할 수 있게 될 것입니다.",
+    "summary": "SK하이닉스가 인공지능 (AI) 의 붐을 일으키고 있다. 금요일에 열릴 것으로 예상되는 수십억 달러 규모의 미국 IPO까지 올라갈 것입니다.",
     "source": "TechCrunch",
-    "date": "2026.07.04",
-    "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+    "date": "2026.07.06",
+    "url": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
     "tags": [
-      "LLM",
-      "규제"
+      "AI"
+    ]
+  },
+  {
+    "rank": 3,
+    "title": "Vercel CEO Guillermo Rauch는 에이전트로부터 모델을 분리하기 위해 싸우고 있습니다.",
+    "summary": "Guillermo Rauch는 TechCrunch에 \"현실은 생산을 최적화할 때 가격/성능을 살펴보기 시작합니다.\" 라고 말합니다.",
+    "source": "TechCrunch",
+    "date": "2026.07.06",
+    "url": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
+    "tags": [
+      "테크"
+    ]
+  },
+  {
+    "rank": 4,
+    "title": "이제 최신 iOS 27 베타에서 Siri의 속도와 표현력을 사용자 정의할 수 있습니다",
+    "summary": "이 업데이트는 Siri가 생성 AI를 중심으로 어시스턴트를 재구축하기 때문에 Siri가 더 자연스럽고 개인적인 느낌을 갖도록 하기 위한 Apple의 광범위한 노력의 일환입니다.",
+    "source": "TechCrunch",
+    "date": "2026.07.06",
+    "url": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+    "tags": [
+      "빅테크"
     ]
   },
   {
     "rank": 5,
-    "title": "미스트랄 AI란? OpenAI 경쟁업체에 대해 알아야 할 모든 것",
-    "summary": "일부 오픈 소스 AI 모델을 제공하는 Mistral AI는 2023년 창설 이후 \"모든 사람의 손에 국경 AI를 맡기겠다\" 는 포부를 가지고 상당한 자금을 모금했습니다.",
+    "title": "2026년 AI를 확인한 모든 주요 기술 정리 해고",
+    "summary": "올해 AI를 언급한 요인으로 상당한 정리 해고를 발표한 더 큰 기술 회사들을 역순으로 바라보는 러닝 룩.",
     "source": "TechCrunch",
-    "date": "2026.07.04",
-    "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+    "date": "2026.07.06",
+    "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
     "tags": [
-      "AI",
-      "LLM",
-      "스타트업"
+      "AI"
     ]
   }
 ]
