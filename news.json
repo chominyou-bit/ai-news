@@ -1,60 +1,61 @@
 [
   {
     "rank": 1,
-    "title": "회담에서 $ 13.2B로 평가치를 두 배로 높인 것으로 알려졌습니다.",
-    "summary": "$ 300 million round는 Menlo Ventures가 주도할 것으로 Sifted는 보고했습니다.",
+    "title": "OpenAI는 GPT 5.6이 해체 중 Microsoft Copilot 365의 ‘선호 모델’ 이라고 말합니다.",
+    "summary": "OpenAI의 새로운 모델 제품군은 Microsoft의 직장 및 생산성 앱 제품군에 계속 전력을 공급할 것입니다.",
     "source": "TechCrunch",
-    "date": "2026.07.08",
-    "url": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/",
+    "date": "2026.07.10",
+    "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
     "tags": [
-      "스타트업"
-    ]
-  },
-  {
-    "rank": 2,
-    "title": "McConnell 사기 사진을 폭로하는 데 사용되는 Google의 딥페이크 감지기 시스템",
-    "summary": "이번 주 초, 켄터키 주 상원의원 미치 맥코넬 (Mitch McConnell) 이 극심한 고통의 상태에 있는 병원 침대에서 튜브로 덮여 있는 모습이 사진에 담긴 것 같았다. 인공지능이 만든 가짜로 밝혀졌다.",
-    "source": "TechCrunch",
-    "date": "2026.07.08",
-    "url": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
-    "tags": [
+      "LLM",
       "빅테크"
     ]
   },
   {
-    "rank": 3,
-    "title": "SpaceXAI는 Elon이 'Opus 클래스 모델‘ 이라고 설명하는 Grok 4.5를 출시합니다.",
-    "summary": "Elon Musk의 기술 회사는 수요일에 Grok의 최신 버전을 출시하여 다른 강력한 AI 모델보다 저렴하고 효율적인 대안을 약속했습니다.",
+    "rank": 2,
+    "title": "Fidji Simo는 OpenAI의 2번 역할에서 물러납니다.",
+    "summary": "OpenAI의 2위 임원인 피지 시모 (Fidji Simo) 는 의료 휴가가 예상보다 길다는 것이 입증된 후 정규직에서 물러나고 있습니다. 회사의 눈으로 볼 때 까다로운 시기에 찾아오는 리더십 진공 상태입니다.",
     "source": "TechCrunch",
-    "date": "2026.07.08",
-    "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+    "date": "2026.07.09",
+    "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
     "tags": [
-      "AI"
+      "LLM"
+    ]
+  },
+  {
+    "rank": 3,
+    "title": "OpenAI, GPT-5.6으로 새로운 모델 제품군 출시",
+    "summary": "OpenAI의 최신 모델 제품군은 사이버 보안을 포함한 다양한 영역에서 개선을 약속합니다.",
+    "source": "TechCrunch",
+    "date": "2026.07.09",
+    "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+    "tags": [
+      "LLM",
+      "보안"
     ]
   },
   {
     "rank": 4,
-    "title": "이 신생 기업은 로봇 공학이 ChatGPT 순간을 가질 것이라고 생각합니다.",
-    "summary": "General Intuition은 수백만 시간의 비디오 게임 데이터가 물리적 AI를 위한 기초 모델을 훈련할 수 있으므로 최소의 실제 데이터로 더 스마트한 로봇을 쉽게 구축할 수 있습니다.",
+    "title": "AI 에이전트 스타트업은 에이전트가 $ 100M 기금 모금을 실행할 수 있도록 합니다.",
+    "summary": "기업용 AI 에이전트를 구축하는 신생 기업인 Lyzr는 자체 AI 에이전트를 사용하여 $ 100 백만 라운드를 모금했습니다. 제품이 실제로 작동한다는 증거가 분명합니다.",
     "source": "TechCrunch",
-    "date": "2026.07.08",
-    "url": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+    "date": "2026.07.09",
+    "url": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
     "tags": [
-      "LLM",
-      "로보틱스",
+      "AI",
       "스타트업"
     ]
   },
   {
     "rank": 5,
-    "title": "Google은 게스트 VM 이스케이프를 허용하는 Linux 취약점에 대해 $ 250,000를 지불합니다.",
-    "summary": "두 취약점 모두 신뢰할 수 없는 사용자가 루트 권한을 얻을 수 있습니다.",
-    "source": "Ars Technica",
-    "date": "2026.07.08",
-    "url": "https://arstechnica.com/security/2026/07/high-severity-guest-vm-escape-is-1-of-2-linux-vulnerabilities-to-surface-this-week/",
+    "title": "OpenAI는 Atlas를 종료하지만 AI 브라우저 야망은 여전히 커지고 있습니다.",
+    "summary": "OpenAI는 1년도 채 지나지 않아 AI 기반 브라우저를 일몰하고 있습니다. 하지만 일부 에이전트 브라우징 기능을 데스크톱 앱과 Chrome 확장 프로그램으로 옮기고 있습니다.",
+    "source": "TechCrunch",
+    "date": "2026.07.09",
+    "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
     "tags": [
-      "빅테크",
-      "보안"
+      "AI",
+      "LLM"
     ]
   }
 ]
