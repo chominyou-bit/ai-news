@@ -1,6 +1,17 @@
 [
   {
     "rank": 1,
+    "title": "ChatGPT가 가계 깊숙이 들어감에 따라 OpenAI가 가족에게 베팅합니다",
+    "summary": "ChatGPT는 채용 공고에 따라 가족, 간병인 및 노인을 위한 경험을 쌓기 위해 전담 제품 관리자를 고용하고 있습니다.",
+    "source": "TechCrunch",
+    "date": "2026.07.11",
+    "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+    "tags": [
+      "LLM"
+    ]
+  },
+  {
+    "rank": 2,
     "title": "메타는 반발 후 인스타그램에서 논란이 되는 AI 기능을 제거합니다",
     "summary": "이 회사는 블로그 게시물을 통해 \"우리의 의도는 유용한 크리에이티브 도구를 제공하고 사람들이 공개 콘텐츠를 이러한 방식으로 참조할 수 있는지 여부를 제어할 수 있도록 하는 것이었습니다.\" 라고 말했습니다. \"우리는 feedb를 들었습니다.",
     "source": "TechCrunch",
@@ -12,7 +23,7 @@
     ]
   },
   {
-    "rank": 2,
+    "rank": 3,
     "title": "Apple, 영업비밀 도용 혐의로 OpenAI 고소",
     "summary": "Apple은 이 위법 행위가 오랜 전직 직원을 포함한 OpenAI의 고위 경영진에 의해 지휘되었다고 주장합니다.",
     "source": "TechCrunch",
@@ -24,7 +35,7 @@
     ]
   },
   {
-    "rank": 3,
+    "rank": 4,
     "title": "Hugging Face의 Clem Delangue에 따르면 오픈 소스 AI는 그 어느 때보다 중요합니다.",
     "summary": "Hugging Face CEO Clem Delangue에 따르면 오픈 소스 AI가 급성장하고 있다고 합니다. 이 회사는 최근 몇 년 동안 AI용 GitHub와 같은 것으로 성장하여 AI 빌더가 공유하고 다운로",
     "source": "TechCrunch",
@@ -36,7 +47,7 @@
     ]
   },
   {
-    "rank": 4,
+    "rank": 5,
     "title": "SK하이닉스는 미국 역사상 가장 큰 해외 IPO에서 $ 26.5B를 올리고, 새로운 미국 팹을 구축할 것을 촉구합니다.",
     "summary": "AI 칩 붐은 아직 가장 큰 월스트리트 순간을 만들어 냈습니다. 이제 SK 하이닉스와 삼성은 미국 공장을 건설하라는 요청을 받고 있습니다.",
     "source": "TechCrunch",
@@ -46,18 +57,6 @@
       "AI",
       "반도체",
       "스타트업"
-    ]
-  },
-  {
-    "rank": 5,
-    "title": "기업이 AI 대여를 완료한 이유에 대한 Hugging Face의 CEO",
-    "summary": "Hugging Face CEO Clem Delangue에 따르면 오픈 소스 AI가 급성장하고 있다고 합니다. 이 회사는 최근 몇 년 동안 AI용 GitHub와 같은 것으로 성장하여 AI 빌더가 공유하고 다운로",
-    "source": "TechCrunch",
-    "date": "2026.07.10",
-    "url": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
-    "tags": [
-      "AI",
-      "오픈소스"
     ]
   }
 ]
