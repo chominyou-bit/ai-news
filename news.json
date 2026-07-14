@@ -1,62 +1,59 @@
 [
   {
     "rank": 1,
-    "title": "ChatGPT가 가계 깊숙이 들어감에 따라 OpenAI가 가족에게 베팅합니다",
-    "summary": "ChatGPT는 채용 공고에 따라 가족, 간병인 및 노인을 위한 경험을 쌓기 위해 전담 제품 관리자를 고용하고 있습니다.",
+    "title": "이미 부유하고, 이미 성공했으며, 마지막 기술 수상자들이 다시 연마하는 이유",
+    "summary": "그들은 AI의 결정적인 순간, 그리고 아마도 더 많은 돈을 벌 수 있다는 거부할 수 없는 매력에 대한 두려움 때문에 소매를 다시 걷고 있는 것 같습니다. 잠재적으로 훨씬 더.",
     "source": "TechCrunch",
-    "date": "2026.07.11",
-    "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+    "date": "2026.07.14",
+    "url": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
     "tags": [
-      "LLM"
+      "테크"
     ]
   },
   {
     "rank": 2,
-    "title": "메타는 반발 후 인스타그램에서 논란이 되는 AI 기능을 제거합니다",
-    "summary": "이 회사는 블로그 게시물을 통해 \"우리의 의도는 유용한 크리에이티브 도구를 제공하고 사람들이 공개 콘텐츠를 이러한 방식으로 참조할 수 있는지 여부를 제어할 수 있도록 하는 것이었습니다.\" 라고 말했습니다. \"우리는 feedb를 들었습니다.",
+    "title": "호텔, 로봇 택시, 회사가 '모두를 위한 모든 것' 이 되고 싶지 않은 이유에 대한 Uber의 제품 책임자",
+    "summary": "Uber의 최고 제품 책임자인 Sachin Kansal은 회사의 금융 서비스 야망, 점점 더 복잡해지는 Waymo와의 관계, 새로운 AV Labs 데이터 운영 및",
     "source": "TechCrunch",
-    "date": "2026.07.10",
-    "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+    "date": "2026.07.14",
+    "url": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
     "tags": [
-      "AI",
-      "빅테크"
+      "로보틱스"
     ]
   },
   {
     "rank": 3,
-    "title": "Apple, 영업비밀 도용 혐의로 OpenAI 고소",
-    "summary": "Apple은 이 위법 행위가 오랜 전직 직원을 포함한 OpenAI의 고위 경영진에 의해 지휘되었다고 주장합니다.",
+    "title": "비디오 세대 스타트업 PixVerse, $ 4억 3천9백만 모금, $ 20억을 넘어 가치 평가 급증",
+    "summary": "현금으로, 이 회사는 세계 모델 제공을 확장하고 지역을 초월하여 고객에게 다가가는 것을 목표로 합니다.",
     "source": "TechCrunch",
-    "date": "2026.07.10",
-    "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+    "date": "2026.07.14",
+    "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
     "tags": [
-      "LLM",
-      "빅테크"
+      "스타트업"
     ]
   },
   {
     "rank": 4,
-    "title": "Hugging Face의 Clem Delangue에 따르면 오픈 소스 AI는 그 어느 때보다 중요합니다.",
-    "summary": "Hugging Face CEO Clem Delangue에 따르면 오픈 소스 AI가 급성장하고 있다고 합니다. 이 회사는 최근 몇 년 동안 AI용 GitHub와 같은 것으로 성장하여 AI 빌더가 공유하고 다운로",
+    "title": "에르메스 에이전트 메이커 누스 리서치 (Nous Research), $ 1.5B 밸류에이션으로 신규 자금 조달을 위한 간담회",
+    "summary": "이 회사는 USV 및 기타 저명한 투자자로부터 상당한 참여를 얻어 Robot Ventures가 이끄는 최소 7,500만 달러 ($) 를 모금하고 있습니다.",
     "source": "TechCrunch",
-    "date": "2026.07.10",
-    "url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+    "date": "2026.07.13",
+    "url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
     "tags": [
-      "AI",
-      "오픈소스"
+      "로보틱스",
+      "스타트업",
+      "연구"
     ]
   },
   {
     "rank": 5,
-    "title": "SK하이닉스는 미국 역사상 가장 큰 해외 IPO에서 $ 26.5B를 올리고, 새로운 미국 팹을 구축할 것을 촉구합니다.",
-    "summary": "AI 칩 붐은 아직 가장 큰 월스트리트 순간을 만들어 냈습니다. 이제 SK 하이닉스와 삼성은 미국 공장을 건설하라는 요청을 받고 있습니다.",
-    "source": "TechCrunch",
-    "date": "2026.07.10",
-    "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+    "title": "미국 정부는 러시아 주 해커가 라우터를 뒤쫓고 있다고 경고합니다.",
+    "summary": "CISA는 주거용 프록시를 통해 라우터 사용자에게 경각심을 가질 것을 촉구합니다.",
+    "source": "Ars Technica",
+    "date": "2026.07.13",
+    "url": "https://arstechnica.com/security/2026/07/the-us-government-warns-that-russia-state-hackers-are-coming-after-your-router/",
     "tags": [
-      "AI",
-      "반도체",
-      "스타트업"
+      "보안"
     ]
   }
 ]
