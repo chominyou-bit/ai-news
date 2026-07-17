@@ -1,59 +1,58 @@
 [
   {
     "rank": 1,
-    "title": "Microsoft는 영업 사원에게 OpenAI 및 Anthropic에 대해 논의하도록 교육하고 있다고 합니다.",
-    "summary": "Microsoft는 사내 AI 모델을 경쟁사의 모델보다 더 효율적이고 비용 효율적으로 판매하려고 합니다.",
-    "source": "TechCrunch",
-    "date": "2026.07.15",
-    "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
-    "tags": [
-      "AI",
-      "LLM",
-      "빅테크"
-    ]
-  },
-  {
-    "rank": 2,
-    "title": "에이전트 오케스트레이션: 엔터프라이즈 AI 조직은 플랫폼 문제가 아닌 배포 문제가 있으며, 대부분 챗봇 에이전트를 호출합니다.",
-    "summary": "101개 엔터프라이즈 전반에 걸쳐 에이전트 오케스트레이션은 모델 제공자 플랫폼으로 통합되고 있습니다. Anthropic의 Claude는 기본 모델의 중력을 위해 선택되어 광범위한 마진으로 이어지고 재심사를 받습니다.",
-    "source": "VentureBeat",
-    "date": "2026.07.15",
-    "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
-    "tags": [
-      "AI",
-      "LLM"
-    ]
-  },
-  {
-    "rank": 3,
-    "title": "Sheetz는 VMware를 종료하고 11,000개의 가상 시스템을 마이그레이션합니다.",
-    "summary": "편의점 체인은 StorMagic을 대신 사용합니다.",
+    "title": "HP는 잉크 카트리지, 토너, PC의 \"카르텔화\" 에 대해 14억 루피의 벌금을 부과했습니다.",
+    "summary": "리셀러들은 위조품에 대한 HP 인쇄 용품을 버리겠다고 위협했습니다.",
     "source": "Ars Technica",
-    "date": "2026.07.15",
-    "url": "https://arstechnica.com/information-technology/2026/07/sheetz-moves-838-stores-off-vmware-broadcom-created-too-much-uncertainty/",
+    "date": "2026.07.16",
+    "url": "https://arstechnica.com/gadgets/2026/07/hp-fined-1-4-billion-rupees-for-cartelization-of-ink-cartridges-toner-pcs/",
     "tags": [
       "테크"
     ]
   },
   {
-    "rank": 4,
-    "title": "Windows 0일은 Microsoft가 기록적인 수의 패치를 릴리스하는 당일에 종료됩니다.",
-    "summary": "HiveLegacy는 다른 사악한 행동을 할 수 있는 \"강력한 원시적\" 입니다.",
+    "rank": 2,
+    "title": "이제 러시아의 최정예 해커들조차도 Clickfix를 사용하여 장치를 감염시키고 있습니다.",
+    "summary": "사회 공학 기술은 주로 재정적으로 동기를 부여받은 범죄자의 도구였습니다.",
     "source": "Ars Technica",
-    "date": "2026.07.15",
-    "url": "https://arstechnica.com/security/2026/07/windows-0-day-drops-the-same-day-microsoft-releases-record-number-of-patches/",
+    "date": "2026.07.16",
+    "url": "https://arstechnica.com/security/2026/07/now-even-russias-most-elite-hackers-are-using-clickfix-to-infect-devices/",
     "tags": [
-      "빅테크"
+      "보안"
+    ]
+  },
+  {
+    "rank": 3,
+    "title": "AI 컴퓨팅 격차: 기업은 비용을 측정할 수 있는 것보다 더 빠르게 인프라를 구매하고 있습니다.",
+    "summary": "107개 기업에서 AI 인프라 지출은 경제성을 확인하거나 조종할 수 있는 능력보다 훨씬 빨라지고 있습니다. 대부분의 조직은 익숙한 하이퍼스케일러 및 모델 기반에서 AI를 실행합니다.",
+    "source": "VentureBeat",
+    "date": "2026.07.16",
+    "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "rank": 4,
+    "title": "상담원 보안 격차: 기업의 54% 가 이미 AI 상담원 사고를 겪었으며, 대부분의 경우 상담원은 여전히 자격 증명을 공유할 수 있습니다.",
+    "summary": "107개 기업에서 AI 에이전트는 시스템과 데이터에 대한 실제 액세스 권한을 부여받고 있으며, 이를 포함하기 위한 통제는 뒤처지고 있습니다. 절반 이상이 이미 상담원 보안 침입이 확인된 상태입니다.",
+    "source": "VentureBeat",
+    "date": "2026.07.16",
+    "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+    "tags": [
+      "AI",
+      "보안"
     ]
   },
   {
     "rank": 5,
-    "title": "하드웨어 법적 분쟁이 진행 중인 가운데, OpenAI는 코덱스용 $ 230 키보드를 출시합니다.",
-    "summary": "하드웨어 거래 도용 혐의로 애플과 법적 싸움을 벌이고 있는 OpenAI가 에이전트 코딩 앱과 페어링되도록 설계된 라이트업 키보드를 출시했습니다.",
+    "title": "이제 Google Vids를 통해 나만의 AI 동영상에 별표를 표시할 수 있습니다.",
+    "summary": "Google은 사용자가 PROMP에서 동영상을 생성하고 편집하기 위한 Gemini Omni 기반 도구와 함께 디지털 버전이 포함된 동영상을 만들 수 있도록 Vids에 개인화된 AI 아바타를 추가하고 있습니다.",
     "source": "TechCrunch",
-    "date": "2026.07.15",
-    "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+    "date": "2026.07.16",
+    "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
     "tags": [
+      "AI",
       "LLM",
       "빅테크"
     ]
