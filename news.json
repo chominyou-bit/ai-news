@@ -1,6 +1,52 @@
 [
   {
     "rank": 1,
+    "title": "젠슨 황 (Jensen Huang) 의 일본 방문 후 주의해야 할 점",
+    "summary": "Jensen Huang은 일본의 기술 생태계 전체에 걸친 거래를 통해 도쿄를 떠났습니다.",
+    "source": "TechCrunch",
+    "date": "2026.07.19",
+    "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+    "tags": [
+      "테크"
+    ]
+  },
+  {
+    "rank": 2,
+    "title": "Apple 소송이 OpenAI의 하드웨어 계획에 영향을 미칠 수 있습니까?",
+    "summary": "에퀴티의 최신 에피소드에서 우리는 애플의 소송이 하드웨어에 들어가 상장하려는 OpenAi의 많은 논의된 계획에 영향을 미칠지 여부를 논의합니다.",
+    "source": "TechCrunch",
+    "date": "2026.07.19",
+    "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+    "tags": [
+      "LLM",
+      "빅테크",
+      "규제"
+    ]
+  },
+  {
+    "rank": 3,
+    "title": "‘오디세이’ 감독 크리스토퍼 놀란 (Christopher Nolan) 은 AI를 명백한 ‘트로이 목마‘ 라고 부릅니다.",
+    "summary": "\"모두들 그리스인들이 안에 있다는 것을 알고 있습니다.\"",
+    "source": "TechCrunch",
+    "date": "2026.07.19",
+    "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "rank": 4,
+    "title": "비영리단체 Current AI는 누구나 무료로 이용할 수 있는 World Wide Web of AI를 구축하기 위해 경쟁하고 있습니다.",
+    "summary": "아무도 문화를 남기지 않는 비영리 건물 인공지능인 현재의 인공지능은 기기, 인공지능 채팅 등 다양한 분야에서 놀라운 발전을 이루었습니다.",
+    "source": "TechCrunch",
+    "date": "2026.07.19",
+    "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "rank": 5,
     "title": "키미: 위협인가요, 위협인가요?",
     "summary": "중국 기업 문샷 AI (Moonshot AI) 는 이번 주에 키미 모델의 새 버전을 출시하여 \"완전한 AI 공산주의\" 에 대한 우려를 불러일으켰다.",
     "source": "TechCrunch",
@@ -8,53 +54,6 @@
     "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
     "tags": [
       "AI"
-    ]
-  },
-  {
-    "rank": 2,
-    "title": "닐 라이머 (Neil Rimer) 는 AI 자금이 다시 나오고 있다고 생각합니다.",
-    "summary": "인덱스 벤처스 (Index Ventures) 를 공동 설립한 벤처 캐피털리스트 닐 라이머 (Neil Rimer) 는 AI가 실리콘 밸리에서 창출하는 역사적인 부를 자발적으로 또는 비자발적으로 재분배해야 할 것이라고 예측합니다.",
-    "source": "TechCrunch",
-    "date": "2026.07.18",
-    "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
-    "tags": [
-      "AI",
-      "스타트업"
-    ]
-  },
-  {
-    "rank": 3,
-    "title": "Vertu는 경영진이 AI 에이전트에 대해 $ 6,880를 지불하기를 원합니다. 실제 수행 방법은 다음과 같습니다.",
-    "summary": "AI 워크플로우에서 배터리 수명 및 보안에 이르기까지, Vertu의 고급 폴더블을 매일 사용하는 것이 정말 좋습니다.",
-    "source": "TechCrunch",
-    "date": "2026.07.17",
-    "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
-    "tags": [
-      "AI",
-      "보안"
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "Databricks는 $ 188b 밸류에이션을 달성하여 AI가 가장 좋아하는 두 번째 행동으로 실행을 확장합니다.",
-    "summary": "Databricks는 인공지능 회사로 이미지를 리메이크했으며 코딩을 위한 개방형 인공지능 모델의 비용 절감에 대한 연구를 발표했습니다.",
-    "source": "TechCrunch",
-    "date": "2026.07.17",
-    "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
-    "tags": [
-      "AI",
-      "연구"
-    ]
-  },
-  {
-    "rank": 5,
-    "title": "'나를 녹화하지 마세요‘ 라는 줌 해킹",
-    "summary": "모든 회의, 수냉기 대화 및 날짜가 기록되고 요약되면 실제로 누가 그것을 읽고 있습니까?",
-    "source": "TechCrunch",
-    "date": "2026.07.17",
-    "url": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
-    "tags": [
-      "보안"
     ]
   }
 ]
