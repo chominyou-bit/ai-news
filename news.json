@@ -1,59 +1,60 @@
 [
   {
     "rank": 1,
-    "title": "젠슨 황 (Jensen Huang) 의 일본 방문 후 주의해야 할 점",
-    "summary": "Jensen Huang은 일본의 기술 생태계 전체에 걸친 거래를 통해 도쿄를 떠났습니다.",
+    "title": "Anthropic의 랜드마크인 $ 1.5B 저작권 정산이 승인되었습니다",
+    "summary": "최종 승인은 하나의 사례를 해결하지만 저작권이 있는 저작물을 사용하여 AI 모델을 교육하는 더 광범위한 문제는 해결되지 않습니다.",
     "source": "TechCrunch",
-    "date": "2026.07.19",
-    "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+    "date": "2026.07.21",
+    "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+    "tags": [
+      "AI",
+      "LLM"
+    ]
+  },
+  {
+    "rank": 2,
+    "title": "트럼프의 최신 AI 황제는 이미 사임했다",
+    "summary": "CAISI (Center for AI Standards and Innovation) 의 디렉터 역할은 David Sacks가 황제 자리를 떠난 이후 회전하는 문이 되었습니다.",
+    "source": "TechCrunch",
+    "date": "2026.07.20",
+    "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "rank": 3,
+    "title": "Google은 Gemini의 효율성을 높이기 위해 새로운 AI 칩을 개발하고 있습니다.",
+    "summary": "Google의 모회사인 Alphabet은 Gemini 모델을 훨씬 더 효율적으로 실행할 수 있도록 설계된 새로운 칩을 개발하고 있는 것으로 알려졌습니다.",
+    "source": "TechCrunch",
+    "date": "2026.07.20",
+    "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+    "tags": [
+      "AI",
+      "LLM",
+      "반도체"
+    ]
+  },
+  {
+    "rank": 4,
+    "title": "AI의 가장 중요한 프로토콜은 사용하기가 조금 더 쉬워지는 것입니다.",
+    "summary": "새로운 시스템에서 프로토콜은 대부분의 일반 웹 사이트가 이미 작동하는 방식과 유사하게 서버 측의 세션 ID에 대해 더 느슨한 \"상태 비저장\" 접근 방식을 취합니다.",
+    "source": "TechCrunch",
+    "date": "2026.07.20",
+    "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
     "tags": [
       "테크"
     ]
   },
   {
-    "rank": 2,
-    "title": "Apple 소송이 OpenAI의 하드웨어 계획에 영향을 미칠 수 있습니까?",
-    "summary": "에퀴티의 최신 에피소드에서 우리는 애플의 소송이 하드웨어에 들어가 상장하려는 OpenAi의 많은 논의된 계획에 영향을 미칠지 여부를 논의합니다.",
-    "source": "TechCrunch",
-    "date": "2026.07.19",
-    "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
-    "tags": [
-      "LLM",
-      "빅테크",
-      "규제"
-    ]
-  },
-  {
-    "rank": 3,
-    "title": "‘오디세이’ 감독 크리스토퍼 놀란 (Christopher Nolan) 은 AI를 명백한 ‘트로이 목마‘ 라고 부릅니다.",
-    "summary": "\"모두들 그리스인들이 안에 있다는 것을 알고 있습니다.\"",
-    "source": "TechCrunch",
-    "date": "2026.07.19",
-    "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "비영리단체 Current AI는 누구나 무료로 이용할 수 있는 World Wide Web of AI를 구축하기 위해 경쟁하고 있습니다.",
-    "summary": "아무도 문화를 남기지 않는 비영리 건물 인공지능인 현재의 인공지능은 기기, 인공지능 채팅 등 다양한 분야에서 놀라운 발전을 이루었습니다.",
-    "source": "TechCrunch",
-    "date": "2026.07.19",
-    "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
     "rank": 5,
-    "title": "키미: 위협인가요, 위협인가요?",
-    "summary": "중국 기업 문샷 AI (Moonshot AI) 는 이번 주에 키미 모델의 새 버전을 출시하여 \"완전한 AI 공산주의\" 에 대한 우려를 불러일으켰다.",
+    "title": "X는 1년간의 노력 끝에 재구축된 Android 앱을 다시 실행합니다.",
+    "summary": "X는 Android 앱의 재구축 버전이 이제 전 세계적으로 제공된다고 말합니다.",
     "source": "TechCrunch",
-    "date": "2026.07.18",
-    "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+    "date": "2026.07.20",
+    "url": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
     "tags": [
-      "AI"
+      "테크"
     ]
   }
 ]
