@@ -1,11 +1,11 @@
 [
   {
     "rank": 1,
-    "title": "Anthropic의 랜드마크인 $ 1.5B 저작권 정산이 승인되었습니다",
-    "summary": "최종 승인은 하나의 사례를 해결하지만 저작권이 있는 저작물을 사용하여 AI 모델을 교육하는 더 광범위한 문제는 해결되지 않습니다.",
+    "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
+    "summary": "Anthropic과 OpenAI의 공격적인 2026년 인수 계획은 주말 소문의 무대를 마련했습니다.",
     "source": "TechCrunch",
-    "date": "2026.07.21",
-    "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+    "date": "2026.07.22",
+    "url": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
     "tags": [
       "AI",
       "LLM"
@@ -13,48 +13,49 @@
   },
   {
     "rank": 2,
-    "title": "트럼프의 최신 AI 황제는 이미 사임했다",
-    "summary": "CAISI (Center for AI Standards and Innovation) 의 디렉터 역할은 David Sacks가 황제 자리를 떠난 이후 회전하는 문이 되었습니다.",
+    "title": "Meta는 상상력이 없는 사람들을 위해 인공지능 취침 스토리 앱을 테스트하고 있습니다.",
+    "summary": "마침내 기술 회사는 인류의 가장 오래된 취미를 아웃소싱할 수 있는 방법을 찾았습니다. 바로 상상력을 사용하는 것입니다.",
     "source": "TechCrunch",
-    "date": "2026.07.20",
-    "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+    "date": "2026.07.21",
+    "url": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
+    "tags": [
+      "AI",
+      "빅테크"
+    ]
+  },
+  {
+    "rank": 3,
+    "title": "OpenAI는 Hugging Face가 출시 전 모델에 의해 위반되었다고 말합니다.",
+    "summary": "OpenAI는 내부 테스트 결과 잘못되었다며 Hugging Face 위반에 대한 책임을 주장하기 위해 나섰습니다.",
+    "source": "TechCrunch",
+    "date": "2026.07.21",
+    "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
+    "tags": [
+      "LLM",
+      "오픈소스",
+      "보안"
+    ]
+  },
+  {
+    "rank": 4,
+    "title": "잭 도시 (Jack Dorsey) 는 팀과 AI 상담원을 위한 그룹 채팅 플랫폼인 버즈 (Buzz) 와 함께 슬랙을 진행하고 있습니다.",
+    "summary": "Buzz는 인간과 인공지능 에이전트를 동일한 대화에 참여시키는 직장을 위한 그룹 채팅 플랫폼입니다.",
+    "source": "TechCrunch",
+    "date": "2026.07.21",
+    "url": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
     "tags": [
       "AI"
     ]
   },
   {
-    "rank": 3,
-    "title": "Google은 Gemini의 효율성을 높이기 위해 새로운 AI 칩을 개발하고 있습니다.",
-    "summary": "Google의 모회사인 Alphabet은 Gemini 모델을 훨씬 더 효율적으로 실행할 수 있도록 설계된 새로운 칩을 개발하고 있는 것으로 알려졌습니다.",
-    "source": "TechCrunch",
-    "date": "2026.07.20",
-    "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
-    "tags": [
-      "AI",
-      "LLM",
-      "반도체"
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "AI의 가장 중요한 프로토콜은 사용하기가 조금 더 쉬워지는 것입니다.",
-    "summary": "새로운 시스템에서 프로토콜은 대부분의 일반 웹 사이트가 이미 작동하는 방식과 유사하게 서버 측의 세션 ID에 대해 더 느슨한 \"상태 비저장\" 접근 방식을 취합니다.",
-    "source": "TechCrunch",
-    "date": "2026.07.20",
-    "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
-    "tags": [
-      "테크"
-    ]
-  },
-  {
     "rank": 5,
-    "title": "X는 1년간의 노력 끝에 재구축된 Android 앱을 다시 실행합니다.",
-    "summary": "X는 Android 앱의 재구축 버전이 이제 전 세계적으로 제공된다고 말합니다.",
+    "title": "AI와 범용 엔터테인먼트 앱의 등장",
+    "summary": "지난 10년 동안 스트리밍 플랫폼은 음악, 비디오, 팟캐스트 또는 오디오북과 같은 개별 형식을 지배하면서 경쟁했습니다. 이제 AI를 통해 콘텐츠를 쉽게 만들고, 구성하고, 추천할 수 있기 때문에",
     "source": "TechCrunch",
-    "date": "2026.07.20",
-    "url": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
+    "date": "2026.07.21",
+    "url": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
     "tags": [
-      "테크"
+      "AI"
     ]
   }
 ]
