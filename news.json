@@ -1,6 +1,39 @@
 [
   {
     "rank": 1,
+    "title": "Monday.com은 해고에 대해 AI를 비난하는 최신 기술 회사입니다. 여기 20 개가 있습니다.",
+    "summary": "올해 AI를 언급한 요인으로 상당한 정리 해고를 발표한 더 큰 기술 회사들을 역순으로 바라보는 러닝 룩.",
+    "source": "TechCrunch",
+    "date": "2026.07.26",
+    "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "rank": 2,
+    "title": "사서들은 빅 테크에 질린 사람들을 위해 ’인공지능 피하기’ 워크숍을 개최하고 있습니다.",
+    "summary": "전국 도서관에서 '인공지능 피하기' 워크숍은 전례 없는 수요를 이끌어냈다.",
+    "source": "TechCrunch",
+    "date": "2026.07.25",
+    "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+    "tags": [
+      "테크"
+    ]
+  },
+  {
+    "rank": 3,
+    "title": "떨어진 전력선 하나가 증가하는 AI 데이터 센터 문제를 드러냈습니다. 문제를 해결하는 방법은 다음과 같습니다.",
+    "summary": "북부 버지니아의 긴밀한 통화에서 데이터 센터가 그리드 중단에 얼마나 잘 대응하지 못하는지 알 수 있었습니다. 문제를 해결하는 방법은 다음과 같습니다.",
+    "source": "TechCrunch",
+    "date": "2026.07.25",
+    "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "rank": 4,
     "title": "OpenAI의 새로운 AI 키패드를 사용해 보았습니다. 일부 코더에게는 재미있고 다른 모든 사람들에게는 약간 신비로울 것입니다.",
     "summary": "OpenAI의 멋진 새로운 AI 키패드는 어떤 사람들에게는 많은 재미를 줄 것이며, 다른 많은 사람들은 그것을 만지지 않을 것입니다.",
     "source": "TechCrunch",
@@ -12,7 +45,7 @@
     ]
   },
   {
-    "rank": 2,
+    "rank": 5,
     "title": "프렌티스 (Prentis), 리드 호프만 (Reid Hoffman), 마크 핀커스 (Mark Pincus) 가 $ 100M을 모금하기 위해 공동 설립한 새로운 인공지능 연구소",
     "summary": "네오랩은 일상적인 컴퓨터 작업을 자동화하는 것이 곧 AI의 가장 큰 사용 사례인 코딩을 능가할 것이라고 내다보고 있습니다.",
     "source": "TechCrunch",
@@ -20,41 +53,6 @@
     "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
     "tags": [
       "AI"
-    ]
-  },
-  {
-    "rank": 3,
-    "title": "Cognition이 Poke를 인수한 이유: AI 개성이 경쟁 우위가 되고 있습니다",
-    "summary": "이번 인수는 Cognition의 코딩 에이전트 Devin에게 Poke의 대화 스타일과 상호 작용 모델을 제공하며, AI 어시스턴트가 사용자와 상호 작용하는 방식이 사용자만큼 중요하다는 믿음이 커지고 있음을 반영합니다.",
-    "source": "TechCrunch",
-    "date": "2026.07.24",
-    "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "Anthropic, Opus 5 출시",
-    "summary": "Opus 5는 Fable보다 저렴하면서도 제한이 적기 때문에 대부분의 사용 사례에서 선호될 수 있습니다.",
-    "source": "TechCrunch",
-    "date": "2026.07.24",
-    "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
-    "tags": [
-      "LLM"
-    ]
-  },
-  {
-    "rank": 5,
-    "title": "미국이 중국 AI에 대한 대응에 무게를 두면서 업계는 광범위한 개방형 체중 제한에 대해 촉구합니다.",
-    "summary": "엔비디아와 미스트랄을 포함한 인공지능 기업들은 워싱턴이 중국 인공지능에 대한 대응과 모델 증류 의혹에 대해 논의함에 따라 정책 입안자들에게 개방형 인공지능 모델에 대한 광범위한 제한을 피할 것을 촉구한다.",
-    "source": "TechCrunch",
-    "date": "2026.07.24",
-    "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
-    "tags": [
-      "AI",
-      "반도체",
-      "규제"
     ]
   }
 ]
