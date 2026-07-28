@@ -1,59 +1,63 @@
 [
   {
     "rank": 1,
-    "title": "뇌파가 물리적 AI를 위한 다음 잠금 해제인가요?",
-    "summary": "YouTube 동영상은 잊어버리세요. 프론티어 실물 AI 모델에는 여러 카메라 각도, 고밀도 주석, 그리고 곧 뇌파 판독값이 필요합니다.",
+    "title": "Anthropic의 Dario Amodei는 다음과 같이 응답합니다. 개방형 가중치 모델에 반대하지는 않지만 중국 AI를 두려워합니다.",
+    "summary": "인류학의 창시자이자 CEO인 다리오 아모데이 (Dario Amodei) 는 오픈 웨이트 모델과 중국의 성장하는 AI 역량에 대해 자신의 견해를 분명히 했습니다.",
     "source": "TechCrunch",
-    "date": "2026.07.27",
-    "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+    "date": "2026.07.28",
+    "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
     "tags": [
-      "AI"
+      "AI",
+      "LLM"
     ]
   },
   {
     "rank": 2,
-    "title": "중국 인공지능에 대한 공황을 이해하기",
-    "summary": "Equity의 최신 에피소드에서 Moonshot AI의 Kimi가 실리콘 밸리와 월스트리트에 당황하는 것처럼 보이는 이유에 대해 논의했습니다.",
-    "source": "TechCrunch",
-    "date": "2026.07.26",
-    "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+    "title": "Microsoft, 경쟁 플랫폼보다 우수하다고 말하는 AI 보안 도구 공개",
+    "summary": "Microsoft는 도구가 경쟁 제품보다 비용이 적게 들고 성능도 우수하다고 말합니다.",
+    "source": "Ars Technica",
+    "date": "2026.07.27",
+    "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
     "tags": [
-      "AI"
+      "AI",
+      "빅테크",
+      "보안"
     ]
   },
   {
     "rank": 3,
-    "title": "Hugging Face CEO는 '전례 없는‘ OpenAI 해킹 이후 ’급진적 투명성’ 을 요구합니다.",
-    "summary": "\"최초의 자율 요원 사이버 공격은 전례 없는 사건입니다. 그것은 전례 없는 응답을 받을 자격이 있습니다!”",
+    "title": "Satya Nadella는 모든 것에 대해 하나의 AI를 신뢰하는 기업은 살아남지 못할 수도 있다고 말합니다.",
+    "summary": "Nadella는 자체 모델이 없거나 모델 자체에서 프롬프트를 분리하는 AI 게이트웨이로 알려진 AI 인프라 계층이 없는 회사는 곤경에 처할 것이라고 말합니다.",
     "source": "TechCrunch",
-    "date": "2026.07.26",
-    "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
-    "tags": [
-      "LLM",
-      "로보틱스",
-      "오픈소스"
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "Monday.com은 해고에 대해 AI를 비난하는 최신 기술 회사입니다. 여기 20 개가 있습니다.",
-    "summary": "올해 AI를 언급한 요인으로 상당한 정리 해고를 발표한 더 큰 기술 회사들을 역순으로 바라보는 러닝 룩.",
-    "source": "TechCrunch",
-    "date": "2026.07.26",
-    "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+    "date": "2026.07.27",
+    "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
     "tags": [
       "AI"
     ]
   },
   {
-    "rank": 5,
-    "title": "사서들은 빅 테크에 질린 사람들을 위해 ’인공지능 피하기’ 워크숍을 개최하고 있습니다.",
-    "summary": "전국 도서관에서 '인공지능 피하기' 워크숍은 전례 없는 수요를 이끌어냈다.",
+    "rank": 4,
+    "title": "PSA: Claude가 공유한 채팅 및 아티팩트가 Google에 게시되었을 수 있습니다.",
+    "summary": "이 문제는 할당된 URL을 가진 모든 사용자가 대화 또는 프로젝트를 볼 수 있는 링크를 만들 수 있는 Claude의 \"채팅 공유\" 기능에서 비롯된 것으로 보입니다.",
     "source": "TechCrunch",
-    "date": "2026.07.25",
-    "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+    "date": "2026.07.27",
+    "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
     "tags": [
-      "테크"
+      "LLM",
+      "빅테크"
+    ]
+  },
+  {
+    "rank": 5,
+    "title": "Microsoft, 최초의 사이버 보안 모델과 새로운 에이전트형 사이버 보안 시스템 출시",
+    "summary": "Microsoft는 이번 주에 첫 번째 AI 보안 모델과 새로운 보안 플랫폼을 출시하여 AI 사이버 보안 오퍼링을 강화했습니다.",
+    "source": "TechCrunch",
+    "date": "2026.07.27",
+    "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+    "tags": [
+      "AI",
+      "빅테크",
+      "보안"
     ]
   }
 ]
