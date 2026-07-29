@@ -1,62 +1,59 @@
 [
   {
     "rank": 1,
-    "title": "Anthropic의 Dario Amodei는 다음과 같이 응답합니다. 개방형 가중치 모델에 반대하지는 않지만 중국 AI를 두려워합니다.",
-    "summary": "인류학의 창시자이자 CEO인 다리오 아모데이 (Dario Amodei) 는 오픈 웨이트 모델과 중국의 성장하는 AI 역량에 대해 자신의 견해를 분명히 했습니다.",
+    "title": "Cyera는 급증하는 AI 요원을 보호하기 위해 $ 10억에 Oasis Security를 인수하는 데 동의합니다.",
+    "summary": "이 거래는 올해 Cyera의 세 번째 인수입니다.",
     "source": "TechCrunch",
-    "date": "2026.07.28",
-    "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+    "date": "2026.07.29",
+    "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
     "tags": [
       "AI",
-      "LLM"
+      "보안"
     ]
   },
   {
     "rank": 2,
-    "title": "Microsoft, 경쟁 플랫폼보다 우수하다고 말하는 AI 보안 도구 공개",
-    "summary": "Microsoft는 도구가 경쟁 제품보다 비용이 적게 들고 성능도 우수하다고 말합니다.",
+    "title": "이제 OpenAI가 Hugging Face를 어떻게 해킹했는지 더 잘 이해할 수 있습니다.",
+    "summary": "JFrog Artifactory 0 일을 악용하는 OpenAI 모델에서 패치 릴리스까지 10 일이 지났습니다.",
     "source": "Ars Technica",
-    "date": "2026.07.27",
-    "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+    "date": "2026.07.28",
+    "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
     "tags": [
-      "AI",
-      "빅테크",
+      "LLM",
+      "오픈소스",
       "보안"
     ]
   },
   {
     "rank": 3,
-    "title": "Satya Nadella는 모든 것에 대해 하나의 AI를 신뢰하는 기업은 살아남지 못할 수도 있다고 말합니다.",
-    "summary": "Nadella는 자체 모델이 없거나 모델 자체에서 프롬프트를 분리하는 AI 게이트웨이로 알려진 AI 인프라 계층이 없는 회사는 곤경에 처할 것이라고 말합니다.",
+    "title": "봇 탐지 스타트업 Spur, Insight에서 $ 200M 인수",
+    "summary": "Spur Intelligence는 봇으로부터 합법적인 인간 트래픽을 식별할 수 있는 기술로 Insight Partners로부터 2억 달러를 모금했습니다.",
     "source": "TechCrunch",
-    "date": "2026.07.27",
-    "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+    "date": "2026.07.28",
+    "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
     "tags": [
-      "AI"
+      "스타트업"
     ]
   },
   {
     "rank": 4,
-    "title": "PSA: Claude가 공유한 채팅 및 아티팩트가 Google에 게시되었을 수 있습니다.",
-    "summary": "이 문제는 할당된 URL을 가진 모든 사용자가 대화 또는 프로젝트를 볼 수 있는 링크를 만들 수 있는 Claude의 \"채팅 공유\" 기능에서 비롯된 것으로 보입니다.",
+    "title": "MCP 스타트업 런레이어 (Runlayer) 가 리플링 (Rippling) 이 제품 아이디어를 훔쳤다고 비난",
+    "summary": "Rippling이 신생 기업의 MCP 게이트웨이 제품을 평가한 후 자체 구축을 선택한 후 Runlayer가 Rippling을 고소하고 있습니다.",
     "source": "TechCrunch",
-    "date": "2026.07.27",
-    "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+    "date": "2026.07.28",
+    "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
     "tags": [
-      "LLM",
-      "빅테크"
+      "스타트업"
     ]
   },
   {
     "rank": 5,
-    "title": "Microsoft, 최초의 사이버 보안 모델과 새로운 에이전트형 사이버 보안 시스템 출시",
-    "summary": "Microsoft는 이번 주에 첫 번째 AI 보안 모델과 새로운 보안 플랫폼을 출시하여 AI 사이버 보안 오퍼링을 강화했습니다.",
+    "title": "샘 알트먼이 감속할 준비가 되었습니다",
+    "summary": "그의 입장 변화는 \"내가 매우 본능적으로 느낀 첫 번째 보안 사고\" 이후에 온다.",
     "source": "TechCrunch",
-    "date": "2026.07.27",
-    "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+    "date": "2026.07.28",
+    "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
     "tags": [
-      "AI",
-      "빅테크",
       "보안"
     ]
   }
