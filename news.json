@@ -1,60 +1,62 @@
 [
   {
     "rank": 1,
-    "title": "Cyera는 급증하는 AI 요원을 보호하기 위해 $ 10억에 Oasis Security를 인수하는 데 동의합니다.",
-    "summary": "이 거래는 올해 Cyera의 세 번째 인수입니다.",
+    "title": "Microsoft는 OpenAI, Anthropic과 그 어느 때보다 공개적으로 경쟁하고 있습니다.",
+    "summary": "Microsoft는 수요일에 자체 개발한 AI 모델, 하네스, 심지어 Mythos 경쟁사까지 투구하여 월스트리트에 지속적인 성장을 계획하고 있다고 말했습니다.",
     "source": "TechCrunch",
-    "date": "2026.07.29",
-    "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+    "date": "2026.07.30",
+    "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
     "tags": [
       "AI",
-      "보안"
+      "LLM",
+      "빅테크"
     ]
   },
   {
     "rank": 2,
-    "title": "이제 OpenAI가 Hugging Face를 어떻게 해킹했는지 더 잘 이해할 수 있습니다.",
-    "summary": "JFrog Artifactory 0 일을 악용하는 OpenAI 모델에서 패치 릴리스까지 10 일이 지났습니다.",
-    "source": "Ars Technica",
-    "date": "2026.07.28",
-    "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
+    "title": "Mark Zuckerberg는 5 년 내에 수십억 명의 사람들이 개인 AI 에이전트를 갖게 될 것이라고 예측합니다.",
+    "summary": "메타가 AI 인프라와 에이전트에 수십억 달러를 쏟아 붓는 동안, 저커버그는 투자자들에게 가격 대비 가치가 있을 것이라고 설득하기 위해 노력하고 있습니다.",
+    "source": "TechCrunch",
+    "date": "2026.07.29",
+    "url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
     "tags": [
-      "LLM",
-      "오픈소스",
-      "보안"
+      "AI",
+      "빅테크"
     ]
   },
   {
     "rank": 3,
-    "title": "봇 탐지 스타트업 Spur, Insight에서 $ 200M 인수",
-    "summary": "Spur Intelligence는 봇으로부터 합법적인 인간 트래픽을 식별할 수 있는 기술로 Insight Partners로부터 2억 달러를 모금했습니다.",
+    "title": "Microsoft는 Anthropic 투자에서 $ 3.2b를 기록하지만 OpenAI는 혼합 가방이었습니다.",
+    "summary": "Microsoft가 2026 회계 연도 (6 월 30 일 종료) 의 킬러 4 분기 수입을보고했을 때, 가장 큰 두 가지에 대한 투자에 대한 흥미로운 소소한 이야기에 빠져 들었습니다.",
     "source": "TechCrunch",
-    "date": "2026.07.28",
-    "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+    "date": "2026.07.29",
+    "url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
     "tags": [
-      "스타트업"
+      "LLM",
+      "빅테크"
     ]
   },
   {
     "rank": 4,
-    "title": "MCP 스타트업 런레이어 (Runlayer) 가 리플링 (Rippling) 이 제품 아이디어를 훔쳤다고 비난",
-    "summary": "Rippling이 신생 기업의 MCP 게이트웨이 제품을 평가한 후 자체 구축을 선택한 후 Runlayer가 Rippling을 고소하고 있습니다.",
+    "title": "저커버그는 메타의 엔터프라이즈 AI 기회가 에이전트를 넘어선다고 말합니다.",
+    "summary": "마크 저커버그 (Mark Zuckerberg) CEO는 수요일 회사의 2분기 실적 발표에서 메타가 AI 에이전트, API, 컴퓨팅 및 내부 소프트웨어에 이르는 \"대기업 기회\" 를 보고 있다고 말했습니다.",
     "source": "TechCrunch",
-    "date": "2026.07.28",
-    "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
+    "date": "2026.07.29",
+    "url": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
     "tags": [
-      "스타트업"
+      "AI",
+      "빅테크"
     ]
   },
   {
     "rank": 5,
-    "title": "샘 알트먼이 감속할 준비가 되었습니다",
-    "summary": "그의 입장 변화는 \"내가 매우 본능적으로 느낀 첫 번째 보안 사고\" 이후에 온다.",
-    "source": "TechCrunch",
-    "date": "2026.07.28",
-    "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
+    "title": "3라운드 PQC 알고리즘 후보에 대한 신화 공격으로 인해 수수료를 받지 못하게 됨",
+    "summary": "호크는 미토스를 통해 발견된 치명적인 약점을 아직 밝혀내지 못한 수년간의 테스트를 견뎌냈다.",
+    "source": "Ars Technica",
+    "date": "2026.07.29",
+    "url": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
     "tags": [
-      "보안"
+      "테크"
     ]
   }
 ]
