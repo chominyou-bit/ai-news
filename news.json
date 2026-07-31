@@ -1,62 +1,62 @@
 [
   {
     "rank": 1,
-    "title": "Microsoft는 OpenAI, Anthropic과 그 어느 때보다 공개적으로 경쟁하고 있습니다.",
-    "summary": "Microsoft는 수요일에 자체 개발한 AI 모델, 하네스, 심지어 Mythos 경쟁사까지 투구하여 월스트리트에 지속적인 성장을 계획하고 있다고 말했습니다.",
+    "title": "Anthropic은 자체 AI 모델이 보안 테스트 중 세 회사에 침입했다고 말합니다.",
+    "summary": "OpenAI의 모델이 Hugging Face에 침입한 후, Anthropic은 자신의 기록을 확인하고 세 가지 유사한 사건을 발견했습니다.",
     "source": "TechCrunch",
-    "date": "2026.07.30",
-    "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+    "date": "2026.07.31",
+    "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
     "tags": [
       "AI",
       "LLM",
-      "빅테크"
+      "오픈소스"
     ]
   },
   {
     "rank": 2,
-    "title": "Mark Zuckerberg는 5 년 내에 수십억 명의 사람들이 개인 AI 에이전트를 갖게 될 것이라고 예측합니다.",
-    "summary": "메타가 AI 인프라와 에이전트에 수십억 달러를 쏟아 붓는 동안, 저커버그는 투자자들에게 가격 대비 가치가 있을 것이라고 설득하기 위해 노력하고 있습니다.",
+    "title": "AI 헤지펀드 상황 인식은 공공 포트폴리오를 매각했을 수 있지만, 여전히 앤서로픽 지분을 보유하고 있습니다.",
+    "summary": "전 OpenAI 연구원의 기금은 레버리지 공개 베팅이 급락한 후 공개 주식을 풀 수밖에 없었다. 하지만 그는 여전히 플레이할 카드가 있습니다.",
     "source": "TechCrunch",
-    "date": "2026.07.29",
-    "url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+    "date": "2026.07.30",
+    "url": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
     "tags": [
-      "AI",
-      "빅테크"
+      "LLM",
+      "연구"
     ]
   },
   {
     "rank": 3,
-    "title": "Microsoft는 Anthropic 투자에서 $ 3.2b를 기록하지만 OpenAI는 혼합 가방이었습니다.",
-    "summary": "Microsoft가 2026 회계 연도 (6 월 30 일 종료) 의 킬러 4 분기 수입을보고했을 때, 가장 큰 두 가지에 대한 투자에 대한 흥미로운 소소한 이야기에 빠져 들었습니다.",
+    "title": "Reddit은 견고한 분기를보고하지만 AI의 영향의 징후를 보여줍니다.",
+    "summary": "Reddit의 재정 상황은 양호해 보이지만 Google과 새로운 AI 기반 웹과의 관계에 대한 불확실성은 시장의 우려를 불러일으키고 있습니다.",
     "source": "TechCrunch",
-    "date": "2026.07.29",
-    "url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+    "date": "2026.07.30",
+    "url": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
     "tags": [
-      "LLM",
       "빅테크"
     ]
   },
   {
     "rank": 4,
-    "title": "저커버그는 메타의 엔터프라이즈 AI 기회가 에이전트를 넘어선다고 말합니다.",
-    "summary": "마크 저커버그 (Mark Zuckerberg) CEO는 수요일 회사의 2분기 실적 발표에서 메타가 AI 에이전트, API, 컴퓨팅 및 내부 소프트웨어에 이르는 \"대기업 기회\" 를 보고 있다고 말했습니다.",
+    "title": "클라우드 호스트라면, 투자자들은 AI를 좋아합니다.",
+    "summary": "아마존은 데이터 센터 지출을 늦추고 있지 않지만 투자자들은 신경 쓰지 않는 것 같습니다.",
     "source": "TechCrunch",
-    "date": "2026.07.29",
-    "url": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
+    "date": "2026.07.30",
+    "url": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
     "tags": [
-      "AI",
       "빅테크"
     ]
   },
   {
     "rank": 5,
-    "title": "3라운드 PQC 알고리즘 후보에 대한 신화 공격으로 인해 수수료를 받지 못하게 됨",
-    "summary": "호크는 미토스를 통해 발견된 치명적인 약점을 아직 밝혀내지 못한 수년간의 테스트를 견뎌냈다.",
-    "source": "Ars Technica",
-    "date": "2026.07.29",
-    "url": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
+    "title": "판사는 트럼프 행정부가 여전히 인류의 ‘공급망 위험‘ 라벨에 대한 증거가 부족하다고 말합니다.",
+    "summary": "연방 판사는 트럼프 행정부가 Anthropic을 공급망 위험으로 분류하는 것을 정당화 할 충분한 증거를 제시하지 않았으며 정부의 AI 기술 금지에 의구심을 제기했다.",
+    "source": "TechCrunch",
+    "date": "2026.07.30",
+    "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
     "tags": [
-      "테크"
+      "AI",
+      "LLM",
+      "규제"
     ]
   }
 ]
