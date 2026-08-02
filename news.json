@@ -1,6 +1,50 @@
 [
   {
     "rank": 1,
+    "title": "판사는 미네소타의 '나체화‘ 앱 차단에 대한 xAI의 요청을 거부합니다",
+    "summary": "XAI의 소송에도 불구하고 미네소타는 사용자가 이미지를 \"나체화\" 할 수 있는 앱을 금지할 수 있습니다.",
+    "source": "TechCrunch",
+    "date": "2026.08.01",
+    "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+    "tags": [
+      "규제"
+    ]
+  },
+  {
+    "rank": 2,
+    "title": "유튜버 행크 그린 (Hank Green) 은 자신의 AI 사용이 '건강에 좋지 않다‘ 고 말합니다.",
+    "summary": "그린은 \"LLM과 상호 작용하면서 얻은 도파민의 수준은 나에게 건강하지 않거나 세상에 좋지 않다\" 며 놀라운 사과를 했다.",
+    "source": "TechCrunch",
+    "date": "2026.08.01",
+    "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "rank": 3,
+    "title": "Sam Altman은 여전히 ChatGPT를 통해 육아에 대한 사례를 만들고 있습니다.",
+    "summary": "OpenAI의 CEO는 부모를 위한 \"멋진 사용 사례\" 를 공유하게 되어 기뻤습니다.",
+    "source": "TechCrunch",
+    "date": "2026.08.01",
+    "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+    "tags": [
+      "LLM"
+    ]
+  },
+  {
+    "rank": 4,
+    "title": "이 $ 9 키는 가장 중독성 있는 앱을 물리적으로 잠급니다",
+    "summary": "이 $ 9 NFC 키를 사용하려면 휴대폰에서 주의를 산만하게 하는 앱을 잠금 해제하기 위해 물리적으로 스캔해야 합니다.",
+    "source": "TechCrunch",
+    "date": "2026.08.01",
+    "url": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
+    "tags": [
+      "테크"
+    ]
+  },
+  {
+    "rank": 5,
     "title": "OpenAI는 더 많은 에이전트가 AMOK을 실행했다는 증거를 발견했다고 보고했습니다.",
     "summary": "OpenAI는 Hugging Face에서 발생한 사건을 조사하면서 추가 상담원의 잘못된 행동에 대한 증거를 발견한 것으로 알려졌습니다.",
     "source": "TechCrunch",
@@ -9,53 +53,6 @@
     "tags": [
       "LLM",
       "오픈소스"
-    ]
-  },
-  {
-    "rank": 2,
-    "title": "인도는 단순히 앱을 다운로드하는 것이 아니라 앱에 대한 비용을 지불하기 시작했습니다.",
-    "summary": "인도의 앱 시장은 2분기에 3억 4500만 달러 ($) 를 기록했습니다.",
-    "source": "TechCrunch",
-    "date": "2026.07.31",
-    "url": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
-    "tags": [
-      "테크"
-    ]
-  },
-  {
-    "rank": 3,
-    "title": "Claude는 인터넷에 악성 코드를 게시하고 3 개의 실제 회사를 공격했습니다.",
-    "summary": "해킹이 기존의 방법을 사용했다면 누군가는 감옥에 갈 것입니다.",
-    "source": "Ars Technica",
-    "date": "2026.07.31",
-    "url": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
-    "tags": [
-      "LLM",
-      "보안"
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "Google은 출시 하루 후 자사의 Earth AI 기능을 악용하여 잘못된 정보를 퍼뜨릴 수 있다는 비판을 받고 있습니다.",
-    "summary": "누구나 가짜 AI 생성 이미지를 생성하고 실제 Google 어스 지도 위에 중첩할 수 있는 도구가 빠르게 반발을 불러일으켰습니다.",
-    "source": "TechCrunch",
-    "date": "2026.07.31",
-    "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
-    "tags": [
-      "AI",
-      "빅테크"
-    ]
-  },
-  {
-    "rank": 5,
-    "title": "Sam Altman만이 AI에 브레이크를 밟고 싶어하는 것은 아닙니다.",
-    "summary": "OpenAI의 CEO인 샘 알트만 (Sam Altman) 은 수년 동안 AI에 대해 전속력으로 밀어붙인 후, 이제 AI 업계가 스스로 \"속도를 내야\" 할 때가 되었다고 말합니다. 이 의견은 OpenAI 중 하나가 나온 지 며칠 만에 나왔습니다.",
-    "source": "TechCrunch",
-    "date": "2026.07.31",
-    "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
-    "tags": [
-      "AI",
-      "LLM"
     ]
   }
 ]
