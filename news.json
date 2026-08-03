@@ -1,6 +1,17 @@
 [
   {
     "rank": 1,
+    "title": "샘 알트먼과 인공지능의 디셀 논쟁",
+    "summary": "Equity의 최신 에피소드에서는 Sam Altman이 업계에 \"AI 개발 속도 가속화\" 를 요구하는 이유에 대해 논의합니다.",
+    "source": "TechCrunch",
+    "date": "2026.08.02",
+    "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "rank": 2,
     "title": "판사는 미네소타의 '나체화‘ 앱 차단에 대한 xAI의 요청을 거부합니다",
     "summary": "XAI의 소송에도 불구하고 미네소타는 사용자가 이미지를 \"나체화\" 할 수 있는 앱을 금지할 수 있습니다.",
     "source": "TechCrunch",
@@ -11,7 +22,7 @@
     ]
   },
   {
-    "rank": 2,
+    "rank": 3,
     "title": "유튜버 행크 그린 (Hank Green) 은 자신의 AI 사용이 '건강에 좋지 않다‘ 고 말합니다.",
     "summary": "그린은 \"LLM과 상호 작용하면서 얻은 도파민의 수준은 나에게 건강하지 않거나 세상에 좋지 않다\" 며 놀라운 사과를 했다.",
     "source": "TechCrunch",
@@ -22,7 +33,7 @@
     ]
   },
   {
-    "rank": 3,
+    "rank": 4,
     "title": "Sam Altman은 여전히 ChatGPT를 통해 육아에 대한 사례를 만들고 있습니다.",
     "summary": "OpenAI의 CEO는 부모를 위한 \"멋진 사용 사례\" 를 공유하게 되어 기뻤습니다.",
     "source": "TechCrunch",
@@ -33,7 +44,7 @@
     ]
   },
   {
-    "rank": 4,
+    "rank": 5,
     "title": "이 $ 9 키는 가장 중독성 있는 앱을 물리적으로 잠급니다",
     "summary": "이 $ 9 NFC 키를 사용하려면 휴대폰에서 주의를 산만하게 하는 앱을 잠금 해제하기 위해 물리적으로 스캔해야 합니다.",
     "source": "TechCrunch",
@@ -41,18 +52,6 @@
     "url": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
     "tags": [
       "테크"
-    ]
-  },
-  {
-    "rank": 5,
-    "title": "OpenAI는 더 많은 에이전트가 AMOK을 실행했다는 증거를 발견했다고 보고했습니다.",
-    "summary": "OpenAI는 Hugging Face에서 발생한 사건을 조사하면서 추가 상담원의 잘못된 행동에 대한 증거를 발견한 것으로 알려졌습니다.",
-    "source": "TechCrunch",
-    "date": "2026.07.31",
-    "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
-    "tags": [
-      "LLM",
-      "오픈소스"
     ]
   }
 ]
