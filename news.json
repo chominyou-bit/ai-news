@@ -1,57 +1,59 @@
 [
   {
     "rank": 1,
-    "title": "샘 알트먼과 인공지능의 디셀 논쟁",
-    "summary": "Equity의 최신 에피소드에서는 Sam Altman이 업계에 \"AI 개발 속도 가속화\" 를 요구하는 이유에 대해 논의합니다.",
+    "title": "킬러 쿼터 이후, 팔란티르 CEO 알렉스 카프 (Alex Karp) 는 인공지능 산업을 ‘마르크스주의자’ 라고",
+    "summary": "$ 10억의 이익을 낸 분기 이후, Palantir CEO Alex Karp는 월요일에 AI 프론티어 랩이 기업에 너무 신뢰할 수 없다고 다시 한 번 경고했습니다.",
     "source": "TechCrunch",
-    "date": "2026.08.02",
-    "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+    "date": "2026.08.03",
+    "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
     "tags": [
       "AI"
     ]
   },
   {
     "rank": 2,
-    "title": "판사는 미네소타의 '나체화‘ 앱 차단에 대한 xAI의 요청을 거부합니다",
-    "summary": "XAI의 소송에도 불구하고 미네소타는 사용자가 이미지를 \"나체화\" 할 수 있는 앱을 금지할 수 있습니다.",
+    "title": "AWS는 바이브 코딩 스타트업 Superblocks를 돕고 있으며, 그 의미는 매우 큽니다.",
+    "summary": "AWS는 이제 바이브 코딩 도구인 수퍼블록을 AWS 고객의 프라이빗 클라우드에 내장할 수 있습니다. 이는 앱을 모델에서 분리하기 위한 또 다른 단계입니다.",
     "source": "TechCrunch",
-    "date": "2026.08.01",
-    "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+    "date": "2026.08.03",
+    "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
     "tags": [
-      "규제"
+      "스타트업"
     ]
   },
   {
     "rank": 3,
-    "title": "유튜버 행크 그린 (Hank Green) 은 자신의 AI 사용이 '건강에 좋지 않다‘ 고 말합니다.",
-    "summary": "그린은 \"LLM과 상호 작용하면서 얻은 도파민의 수준은 나에게 건강하지 않거나 세상에 좋지 않다\" 며 놀라운 사과를 했다.",
+    "title": "Design Arena 크리에이터는 인공지능 모델의 취향을 살리기 위해 $ 7.9 million을 모금합니다.",
+    "summary": "Design Arena는 전 세계 530만 명이 사용하고 있으며, 프론티어 랩에 중요한 인적 평가를 제공합니다.",
     "source": "TechCrunch",
-    "date": "2026.08.01",
-    "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+    "date": "2026.08.03",
+    "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
     "tags": [
       "AI"
     ]
   },
   {
     "rank": 4,
-    "title": "Sam Altman은 여전히 ChatGPT를 통해 육아에 대한 사례를 만들고 있습니다.",
-    "summary": "OpenAI의 CEO는 부모를 위한 \"멋진 사용 사례\" 를 공유하게 되어 기뻤습니다.",
+    "title": "인플루언서들은 OpenAI의 첫 번째 럭셔리 여행에 참석한 것에 대한 반발을 불러일으킵니다.",
+    "summary": "OpenAI의 최초의 인플루언서 브랜드 여행은 AI 사용에 대한 긴장이 계속됨에 따라 온라인 반발을 불러일으키고 있습니다.",
     "source": "TechCrunch",
-    "date": "2026.08.01",
-    "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+    "date": "2026.08.03",
+    "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
     "tags": [
+      "AI",
       "LLM"
     ]
   },
   {
     "rank": 5,
-    "title": "이 $ 9 키는 가장 중독성 있는 앱을 물리적으로 잠급니다",
-    "summary": "이 $ 9 NFC 키를 사용하려면 휴대폰에서 주의를 산만하게 하는 앱을 잠금 해제하기 위해 물리적으로 스캔해야 합니다.",
+    "title": "Apple은 마침내 Siri를 수정했습니다. 그렇다면 왜 항기후성이 느껴질까요?",
+    "summary": "오랫동안 기다려온 Apple의 AI 개편은 마침내 Siri를 항상 있어야 할 비서로 만듭니다. 그러나 단순히 유능한 AI 비서가 되는 것이 더 이상 혁명적이라고 느껴지지 않는 순간에 도달합니다.",
     "source": "TechCrunch",
-    "date": "2026.08.01",
-    "url": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
+    "date": "2026.08.03",
+    "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
     "tags": [
-      "테크"
+      "AI",
+      "빅테크"
     ]
   }
 ]
