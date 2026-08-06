@@ -1,60 +1,62 @@
 [
   {
     "rank": 1,
-    "title": "SpaceX는 올해까지 $ 329M 상당의 Tesla Megapacks를 구입했습니다.",
-    "summary": "이 구매는 Elon Musk의 우주가 얼마나 상호 연결되어 있는지를 보여줍니다.",
-    "source": "TechCrunch",
-    "date": "2026.08.04",
-    "url": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
+    "title": "버그가 많은 마더보드 컨트롤러를 사용하여 수천 대의 서버를 백도어할 수 있습니다.",
+    "summary": "세계 최대 제조업체의 베이스보드 관리 컨트롤러는 보안이 엉망입니다.",
+    "source": "Ars Technica",
+    "date": "2026.08.05",
+    "url": "https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/",
     "tags": [
-      "빅테크"
+      "보안"
     ]
   },
   {
     "rank": 2,
-    "title": "오픈 웨이트 AI 모델이 경계를 따라잡고 있습니다. 안전 격차는 여전히 남아 있습니다.",
-    "summary": "새로운 SaferAI 보고서에 따르면 Z.ai의 개방형 가중치 GLM-5.2는 주요 안전 완화가 부족하면서도 국경 AI 기능에 접근하여 강력한 개방형 모델이 거버넌스를 능가하고",
+    "title": "Meta, 대규모 코드 베이스용 AI 에이전트 Muse Code 출시",
+    "summary": "Meta는 복잡한 소프트웨어로 복잡한 작업을 처리할 수 있는 새로운 에이전트로 AI 코딩 제품을 확장했습니다.",
     "source": "TechCrunch",
-    "date": "2026.08.04",
-    "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+    "date": "2026.08.05",
+    "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
     "tags": [
-      "AI"
+      "AI",
+      "빅테크"
     ]
   },
   {
     "rank": 3,
-    "title": "Anthropic, AI 클라우드 스타트업 Volta와 $ 10B 계약 체결",
-    "summary": "Anthropic은 최근 몇 달 동안 클라우드 파트너십을 추진하고 있으며, 최근에는 AI 클라우드 스타트업 Volta와 100억 달러 ($) 규모의 계약을 체결한 것으로 알려졌습니다.",
+    "title": "Klaviyo, 기술 창업자를 위한 전체 동창회에서 Elias Torres ’Agency 인수",
+    "summary": "연쇄 창업가는 전자 상거래 회사에 CPO로 합류하여 AI 에이전트를 이끌고 있습니다.",
     "source": "TechCrunch",
-    "date": "2026.08.04",
-    "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+    "date": "2026.08.05",
+    "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
     "tags": [
       "AI",
-      "LLM",
-      "스타트업"
+      "규제"
     ]
   },
   {
     "rank": 4,
-    "title": "주변 장소의 숨겨진 이야기를 찾아주는 앱, 링클즈 (Wrinkles) 를 만나보세요.",
-    "summary": "IOS와 Android에서 모두 사용할 수 있는 주름은 기본적으로 숨겨진 역사와 현지 이야기를 보여주는 AI 기반 오디오 투어 가이드 역할을 합니다.",
+    "title": "제프 딘 (Jeff Dean) 과 다른 최고 인공지능 연구원들이 구글을 떠나 자체 스타트업을 시작하고 있다.",
+    "summary": "전설적인 Google 임원은 과학적 발견 과정을 추진하기 위해 AI를 사용하는 공동 임무에서 다른 나가는 Google 임원들과 합류합니다.",
     "source": "TechCrunch",
-    "date": "2026.08.04",
-    "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
+    "date": "2026.08.05",
+    "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
     "tags": [
-      "테크"
+      "AI",
+      "빅테크",
+      "스타트업"
     ]
   },
   {
     "rank": 5,
-    "title": "엔비디아는 주변을 어지럽히지 않습니다: 오픈 AI 산업 그룹이 형성된 지 일주일 후, 이미 진전을 보이고 있습니다.",
-    "summary": "엔비디아가 주도하고 120개 이상의 회사로 성장한 일주일 된 오픈 시큐어 AI 얼라이언스 (Open Secure AI Alliance) 는 이미 AI 요원을 방어하기 위한 제안을 가지고 있습니다.",
+    "title": "Shopify는 AI 검색이 Google을 대체하지 않고 더 많은 트래픽과 매출을 유도하고 있다고 말합니다.",
+    "summary": "Shopify는 AI가 퍼블리셔에게 있어 검색 트래픽을 잡아먹는 방식이 아니라고 말합니다. 대신 2분기에 AI 중심의 트래픽과 Shopify 매장 주문은 전년 대비 3배 증가했습니다.",
     "source": "TechCrunch",
-    "date": "2026.08.04",
-    "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+    "date": "2026.08.05",
+    "url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
     "tags": [
       "AI",
-      "반도체"
+      "빅테크"
     ]
   }
 ]
