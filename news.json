@@ -1,62 +1,60 @@
 [
   {
     "rank": 1,
-    "title": "버그가 많은 마더보드 컨트롤러를 사용하여 수천 대의 서버를 백도어할 수 있습니다.",
-    "summary": "세계 최대 제조업체의 베이스보드 관리 컨트롤러는 보안이 엉망입니다.",
-    "source": "Ars Technica",
-    "date": "2026.08.05",
-    "url": "https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/",
+    "title": "OpenAI의 새로운 AI 스마트 스피커는 300 ~ 400달러에 판매될 것으로 알려졌다.",
+    "summary": "OpenAI의 신비로운 새로운 AI 장치에 대한 추가 세부 사항으로 인해 값 비싼 스마트 스피커처럼 들립니다.",
+    "source": "TechCrunch",
+    "date": "2026.08.06",
+    "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
     "tags": [
-      "보안"
+      "AI",
+      "LLM"
     ]
   },
   {
     "rank": 2,
-    "title": "Meta, 대규모 코드 베이스용 AI 에이전트 Muse Code 출시",
-    "summary": "Meta는 복잡한 소프트웨어로 복잡한 작업을 처리할 수 있는 새로운 에이전트로 AI 코딩 제품을 확장했습니다.",
+    "title": "ChatGPT는 무료 사용자에게 무제한 텍스트 채팅을 제공합니다",
+    "summary": "OpenAI는 ChatGPT 무료 및 Go 사용자도 복잡한 쿼리에 대한 새로운 생각 버튼을 얻고 있다고 말했습니다.",
     "source": "TechCrunch",
-    "date": "2026.08.05",
-    "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+    "date": "2026.08.06",
+    "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
     "tags": [
-      "AI",
-      "빅테크"
+      "LLM"
     ]
   },
   {
     "rank": 3,
-    "title": "Klaviyo, 기술 창업자를 위한 전체 동창회에서 Elias Torres ’Agency 인수",
-    "summary": "연쇄 창업가는 전자 상거래 회사에 CPO로 합류하여 AI 에이전트를 이끌고 있습니다.",
+    "title": "Naïve는 회사를 설립하고 운영하는 투덜거리는 작업을 자동화하기 위해 $ 2,850만 달러를 모금합니다.",
+    "summary": "바이브 코딩을 한 단계 더 발전시킨 Naïve는 인프라가 비즈니스를 설정하고 운영하는 대부분의 작업을 자동화할 수 있다고 주장합니다.",
     "source": "TechCrunch",
-    "date": "2026.08.05",
-    "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
+    "date": "2026.08.06",
+    "url": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
     "tags": [
-      "AI",
-      "규제"
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "제프 딘 (Jeff Dean) 과 다른 최고 인공지능 연구원들이 구글을 떠나 자체 스타트업을 시작하고 있다.",
-    "summary": "전설적인 Google 임원은 과학적 발견 과정을 추진하기 위해 AI를 사용하는 공동 임무에서 다른 나가는 Google 임원들과 합류합니다.",
-    "source": "TechCrunch",
-    "date": "2026.08.05",
-    "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
-    "tags": [
-      "AI",
-      "빅테크",
       "스타트업"
     ]
   },
   {
-    "rank": 5,
-    "title": "Shopify는 AI 검색이 Google을 대체하지 않고 더 많은 트래픽과 매출을 유도하고 있다고 말합니다.",
-    "summary": "Shopify는 AI가 퍼블리셔에게 있어 검색 트래픽을 잡아먹는 방식이 아니라고 말합니다. 대신 2분기에 AI 중심의 트래픽과 Shopify 매장 주문은 전년 대비 3배 증가했습니다.",
+    "rank": 4,
+    "title": "Ditto ditch swiping in favor of AI matchmaking과 같은 Z세대 데이트 앱",
+    "summary": "이 20대 세대는 스와이프 기반 데이트 앱에 환멸을 느껴서 말 그대로 다른 모든 것을 시도합니다. 심지어 인공지능 중매인도 마찬가지입니다.",
     "source": "TechCrunch",
-    "date": "2026.08.05",
-    "url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
+    "date": "2026.08.06",
+    "url": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
     "tags": [
-      "AI",
-      "빅테크"
+      "AI"
+    ]
+  },
+  {
+    "rank": 5,
+    "title": "OpenAI는 Apple의 자체 보안 관행이 영업 비밀 사례를 훼손한다고 말합니다.",
+    "summary": "새로 제출된 법원 증거물은 Apple의 영업 비밀 소송에서 OpenAI의 법적 전략을 보여줍니다. Apple 관리자가 FO에 액세스할 수 있도록 허용하는 것을 포함하여 Apple의 자체 보안 및 오프보딩 관행을 주장합니다.",
+    "source": "TechCrunch",
+    "date": "2026.08.06",
+    "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
+    "tags": [
+      "LLM",
+      "빅테크",
+      "보안"
     ]
   }
 ]
