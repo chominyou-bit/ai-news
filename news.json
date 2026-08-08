@@ -1,60 +1,58 @@
 [
   {
     "rank": 1,
-    "title": "OpenAI의 새로운 AI 스마트 스피커는 300 ~ 400달러에 판매될 것으로 알려졌다.",
-    "summary": "OpenAI의 신비로운 새로운 AI 장치에 대한 추가 세부 사항으로 인해 값 비싼 스마트 스피커처럼 들립니다.",
+    "title": "OpenAI는 보안 문제에 대한 Astra 모델 개발을 늦추었다고 말합니다.",
+    "summary": "OpenAI는 아직 개발 중인 이 모델이 \"중요한 사이버 보안 임계값\" 에 도달했다고 말했습니다. 즉, 전통적으로 잘 수행된 공격에 대한 사이버 공격을 독립적으로 식별하고 수행할 수 있습니다.",
     "source": "TechCrunch",
-    "date": "2026.08.06",
-    "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+    "date": "2026.08.07",
+    "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
     "tags": [
-      "AI",
-      "LLM"
+      "LLM",
+      "보안"
     ]
   },
   {
     "rank": 2,
-    "title": "ChatGPT는 무료 사용자에게 무제한 텍스트 채팅을 제공합니다",
-    "summary": "OpenAI는 ChatGPT 무료 및 Go 사용자도 복잡한 쿼리에 대한 새로운 생각 버튼을 얻고 있다고 말했습니다.",
+    "title": "리플링이 수개월 만에 AI에 수백만 달러를 날린 후 직원 ROI 도구를 구축했습니다.",
+    "summary": "Rippling은 이번 주에 자체 AI 사용 모닝콜 후 개인 및 팀 직원 AI 지출을 추적하는 제품인 AI 지출 콘솔을 공개했습니다.",
     "source": "TechCrunch",
-    "date": "2026.08.06",
-    "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+    "date": "2026.08.07",
+    "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
     "tags": [
-      "LLM"
+      "AI"
     ]
   },
   {
     "rank": 3,
-    "title": "Naïve는 회사를 설립하고 운영하는 투덜거리는 작업을 자동화하기 위해 $ 2,850만 달러를 모금합니다.",
-    "summary": "바이브 코딩을 한 단계 더 발전시킨 Naïve는 인프라가 비즈니스를 설정하고 운영하는 대부분의 작업을 자동화할 수 있다고 주장합니다.",
+    "title": "Cloudflare, AI 에이전트용 브라우저 Kitesurf 출시",
+    "summary": "Kitesurf는 사람이 아닌 AI 상담원을 위해 설계된 클라우드 호스팅 브라우저입니다. 일반적인 자동화 작업에 Chromium보다 적은 컴퓨팅 파워를 사용하므로 개발자가 브라우저 기반 AI 에이전트를 구축하는 데 도움이 됩니다.",
     "source": "TechCrunch",
-    "date": "2026.08.06",
-    "url": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
+    "date": "2026.08.07",
+    "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
     "tags": [
-      "스타트업"
+      "AI"
     ]
   },
   {
     "rank": 4,
-    "title": "Ditto ditch swiping in favor of AI matchmaking과 같은 Z세대 데이트 앱",
-    "summary": "이 20대 세대는 스와이프 기반 데이트 앱에 환멸을 느껴서 말 그대로 다른 모든 것을 시도합니다. 심지어 인공지능 중매인도 마찬가지입니다.",
+    "title": "에어비앤비는 AI가 새로운 검색 기능을 테스트하면서 더 빠르게 기능을 제공할 수 있도록 지원하고 있다고 밝혔습니다.",
+    "summary": "에어비앤비는 토글 기능을 통해 인공지능 기반의 새로운 검색 환경을 선보일 예정입니다.",
     "source": "TechCrunch",
-    "date": "2026.08.06",
-    "url": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
+    "date": "2026.08.07",
+    "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
     "tags": [
       "AI"
     ]
   },
   {
     "rank": 5,
-    "title": "OpenAI는 Apple의 자체 보안 관행이 영업 비밀 사례를 훼손한다고 말합니다.",
-    "summary": "새로 제출된 법원 증거물은 Apple의 영업 비밀 소송에서 OpenAI의 법적 전략을 보여줍니다. Apple 관리자가 FO에 액세스할 수 있도록 허용하는 것을 포함하여 Apple의 자체 보안 및 오프보딩 관행을 주장합니다.",
+    "title": "질 르포어 (Jill Lepore) 는 ‘인공 상태’ 와 실리콘 밸리의 지도자들이 왜 나쁜 공상 과학 독자인지에 대해 이야기합니다.",
+    "summary": "역사학자 질 레포어 (Jill Lepore) 는 기술 회사들이 새로운 정부를 구성하는 것처럼 제품을 설명하기 위해 종종 급증하는 언어를 사용하는 이유에 대한 이론을 가지고 있습니다. 그리고 여부",
     "source": "TechCrunch",
-    "date": "2026.08.06",
-    "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
+    "date": "2026.08.07",
+    "url": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
     "tags": [
-      "LLM",
-      "빅테크",
-      "보안"
+      "테크"
     ]
   }
 ]
