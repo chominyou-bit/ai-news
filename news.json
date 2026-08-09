@@ -1,6 +1,29 @@
 [
   {
     "rank": 1,
+    "title": "계획된 아마존 데이터 센터는 미국에서 가장 큰 기후 오염원이 될 수 있습니다.",
+    "summary": "계획된 텍사스 데이터 센터의 일환으로 아마존은 미국에서 가장 큰 기후 오염원이 될 수 있는 현장 발전소에 투자하고 있습니다.",
+    "source": "TechCrunch",
+    "date": "2026.08.08",
+    "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+    "tags": [
+      "빅테크"
+    ]
+  },
+  {
+    "rank": 2,
+    "title": "OpenAI, 프레젠테이션 시작 NextSlide 인수",
+    "summary": "NextSlide는 팀원들이 현재 ChatGPT를 작업하고 있다고 말합니다.",
+    "source": "TechCrunch",
+    "date": "2026.08.08",
+    "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+    "tags": [
+      "LLM",
+      "스타트업"
+    ]
+  },
+  {
+    "rank": 3,
     "title": "OpenAI는 보안 문제에 대한 Astra 모델 개발을 늦추었다고 말합니다.",
     "summary": "OpenAI는 아직 개발 중인 이 모델이 \"중요한 사이버 보안 임계값\" 에 도달했다고 말했습니다. 즉, 전통적으로 잘 수행된 공격에 대한 사이버 공격을 독립적으로 식별하고 수행할 수 있습니다.",
     "source": "TechCrunch",
@@ -12,7 +35,7 @@
     ]
   },
   {
-    "rank": 2,
+    "rank": 4,
     "title": "리플링이 수개월 만에 AI에 수백만 달러를 날린 후 직원 ROI 도구를 구축했습니다.",
     "summary": "Rippling은 이번 주에 자체 AI 사용 모닝콜 후 개인 및 팀 직원 AI 지출을 추적하는 제품인 AI 지출 콘솔을 공개했습니다.",
     "source": "TechCrunch",
@@ -23,7 +46,7 @@
     ]
   },
   {
-    "rank": 3,
+    "rank": 5,
     "title": "Cloudflare, AI 에이전트용 브라우저 Kitesurf 출시",
     "summary": "Kitesurf는 사람이 아닌 AI 상담원을 위해 설계된 클라우드 호스팅 브라우저입니다. 일반적인 자동화 작업에 Chromium보다 적은 컴퓨팅 파워를 사용하므로 개발자가 브라우저 기반 AI 에이전트를 구축하는 데 도움이 됩니다.",
     "source": "TechCrunch",
@@ -31,28 +54,6 @@
     "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
     "tags": [
       "AI"
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "에어비앤비는 AI가 새로운 검색 기능을 테스트하면서 더 빠르게 기능을 제공할 수 있도록 지원하고 있다고 밝혔습니다.",
-    "summary": "에어비앤비는 토글 기능을 통해 인공지능 기반의 새로운 검색 환경을 선보일 예정입니다.",
-    "source": "TechCrunch",
-    "date": "2026.08.07",
-    "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "rank": 5,
-    "title": "질 르포어 (Jill Lepore) 는 ‘인공 상태’ 와 실리콘 밸리의 지도자들이 왜 나쁜 공상 과학 독자인지에 대해 이야기합니다.",
-    "summary": "역사학자 질 레포어 (Jill Lepore) 는 기술 회사들이 새로운 정부를 구성하는 것처럼 제품을 설명하기 위해 종종 급증하는 언어를 사용하는 이유에 대한 이론을 가지고 있습니다. 그리고 여부",
-    "source": "TechCrunch",
-    "date": "2026.08.07",
-    "url": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
-    "tags": [
-      "테크"
     ]
   }
 ]
