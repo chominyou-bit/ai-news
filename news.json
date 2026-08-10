@@ -1,6 +1,53 @@
 [
   {
     "rank": 1,
+    "title": "Embattled hedge fund Situational Awareness, 칩 스타트업에 $ 400M 투자 Source Foundry",
+    "summary": "AI 중심의 헤지펀드는 여전히 큰 베팅을 하고 있습니다.",
+    "source": "TechCrunch",
+    "date": "2026.08.09",
+    "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+    "tags": [
+      "반도체",
+      "스타트업"
+    ]
+  },
+  {
+    "rank": 2,
+    "title": "Anthropic은 기본적으로 Claude Code의 자동 모드를 켜고 있습니다",
+    "summary": "Claude Code로 프로그래밍하는 것은 곧 인간의 감독을 훨씬 덜 필요로 할 것입니다.",
+    "source": "TechCrunch",
+    "date": "2026.08.09",
+    "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+    "tags": [
+      "LLM"
+    ]
+  },
+  {
+    "rank": 3,
+    "title": "역사가 질 르포어 (Jill Lepore) 는 실리콘 밸리가 공상 과학 소설을 잘못 읽고 민주주의를 훼손한다고 말합니다.",
+    "summary": "Equity의 최신 에피소드에서 우리는 Jill Lepore에게 \"기계에 의한 정부\" 와 Elon Musk가 나쁜 공상 과학 소설 독자인 이유에 대해 이야기했습니다.",
+    "source": "TechCrunch",
+    "date": "2026.08.09",
+    "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
+    "tags": [
+      "테크"
+    ]
+  },
+  {
+    "rank": 4,
+    "title": "AI 안전성 테스트가 안전 위험 요소가 되고 있습니다.",
+    "summary": "AI 요원들은 사이버 보안 테스트 환경에서 벗어나 실제 시스템에 도달하여 안전 인프라, 업계 표준 및 규제가 I와 보조를 맞출 수 있는지에 대한 질문을 제기합니다.",
+    "source": "TechCrunch",
+    "date": "2026.08.09",
+    "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+    "tags": [
+      "AI",
+      "보안",
+      "규제"
+    ]
+  },
+  {
+    "rank": 5,
     "title": "계획된 아마존 데이터 센터는 미국에서 가장 큰 기후 오염원이 될 수 있습니다.",
     "summary": "계획된 텍사스 데이터 센터의 일환으로 아마존은 미국에서 가장 큰 기후 오염원이 될 수 있는 현장 발전소에 투자하고 있습니다.",
     "source": "TechCrunch",
@@ -8,52 +55,6 @@
     "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
     "tags": [
       "빅테크"
-    ]
-  },
-  {
-    "rank": 2,
-    "title": "OpenAI, 프레젠테이션 시작 NextSlide 인수",
-    "summary": "NextSlide는 팀원들이 현재 ChatGPT를 작업하고 있다고 말합니다.",
-    "source": "TechCrunch",
-    "date": "2026.08.08",
-    "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-    "tags": [
-      "LLM",
-      "스타트업"
-    ]
-  },
-  {
-    "rank": 3,
-    "title": "OpenAI는 보안 문제에 대한 Astra 모델 개발을 늦추었다고 말합니다.",
-    "summary": "OpenAI는 아직 개발 중인 이 모델이 \"중요한 사이버 보안 임계값\" 에 도달했다고 말했습니다. 즉, 전통적으로 잘 수행된 공격에 대한 사이버 공격을 독립적으로 식별하고 수행할 수 있습니다.",
-    "source": "TechCrunch",
-    "date": "2026.08.07",
-    "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-    "tags": [
-      "LLM",
-      "보안"
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "리플링이 수개월 만에 AI에 수백만 달러를 날린 후 직원 ROI 도구를 구축했습니다.",
-    "summary": "Rippling은 이번 주에 자체 AI 사용 모닝콜 후 개인 및 팀 직원 AI 지출을 추적하는 제품인 AI 지출 콘솔을 공개했습니다.",
-    "source": "TechCrunch",
-    "date": "2026.08.07",
-    "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "rank": 5,
-    "title": "Cloudflare, AI 에이전트용 브라우저 Kitesurf 출시",
-    "summary": "Kitesurf는 사람이 아닌 AI 상담원을 위해 설계된 클라우드 호스팅 브라우저입니다. 일반적인 자동화 작업에 Chromium보다 적은 컴퓨팅 파워를 사용하므로 개발자가 브라우저 기반 AI 에이전트를 구축하는 데 도움이 됩니다.",
-    "source": "TechCrunch",
-    "date": "2026.08.07",
-    "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-    "tags": [
-      "AI"
     ]
   }
 ]
