@@ -1,62 +1,57 @@
 [
   {
     "rank": 1,
-    "title": "OpenAI가 70억 달러 규모의 직원 입찰 제안을 완료했다고 합니다 ($ 70 billion employee tender offer).",
-    "summary": "샌프란시스코 주택 시장이 또 다시 위기를 맞고 있습니다.",
+    "title": "델타항공 항공편의 가짜 핫스팟 공격으로 의심되는 군중의 방어",
+    "summary": "FBI 애틀랜타는 사건을 조사 중이며 체포는 이루어지지 않았음을 확인합니다.",
+    "source": "Ars Technica",
+    "date": "2026.08.12",
+    "url": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
+    "tags": [
+      "테크"
+    ]
+  },
+  {
+    "rank": 2,
+    "title": "ACCEL은 마지막 가입 후 19개월 이내에 초과 가입한 $ 5억 5천만 인도 펀드를 마감합니다.",
+    "summary": "미국 VC 회사는 여전히 이전의 6억 5천만 $ 인도 펀드의 55% 이상을 배치할 수 있습니다.",
     "source": "TechCrunch",
     "date": "2026.08.11",
-    "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+    "url": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+    "tags": [
+      "테크"
+    ]
+  },
+  {
+    "rank": 3,
+    "title": "Chrome은 계정 탈취에 대비하여 최선의 보호 수단을 채택합니다.",
+    "summary": "기기 바인딩 세션 자격 증명은 점점 더 일반적인 형태의 계정 인수를 방해합니다.",
+    "source": "Ars Technica",
+    "date": "2026.08.11",
+    "url": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/",
+    "tags": [
+      "테크"
+    ]
+  },
+  {
+    "rank": 4,
+    "title": "OpenAI, Linux용 ChatGPT 데스크톱 앱 출시",
+    "summary": "OpenAI는 마침내 전용 ChatGPT 데스크톱 앱을 Linux 운영 체제에 도입합니다.",
+    "source": "TechCrunch",
+    "date": "2026.08.11",
+    "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
     "tags": [
       "LLM"
     ]
   },
   {
-    "rank": 2,
-    "title": "AI 주도 공격이 증가함에 따라 OpenAI는 새로운 사이버 모델을 출시합니다.",
-    "summary": "OpenAI는 AI 사이버 보안 방어 프로그램인 Daybreak를 확장하고 이를 통해 새로운 사이버 훈련 AI 모델을 출시합니다.",
-    "source": "TechCrunch",
-    "date": "2026.08.10",
-    "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
-    "tags": [
-      "AI",
-      "LLM",
-      "보안"
-    ]
-  },
-  {
-    "rank": 3,
-    "title": "Mark Zuckerberg의 인공지능 선언문은 사람들이 인공지능을 싫어하는 이유입니다.",
-    "summary": "월요일, 마크 저커버그 (Mark Zuckerberg) 는 메타 AI가 구축하고 있는 \"개인 초지능\" 시스템의 가능성에 대한 6,500단어 선언문을 발표했다.",
-    "source": "TechCrunch",
-    "date": "2026.08.10",
-    "url": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
-    "tags": [
-      "AI",
-      "빅테크"
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "Claude 에이전트가 헬스장을 해킹한 후 기술 업계가 떠들썩합니다.",
-    "summary": "OpenClaw 상담원이 체육관의 예약 시스템을 해킹하여 직원이 수업 대기자 명단에서 더 높게 부딪혔습니다. 그리고 기술 업계가 주목했습니다.",
-    "source": "TechCrunch",
-    "date": "2026.08.10",
-    "url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
-    "tags": [
-      "LLM",
-      "보안",
-      "규제"
-    ]
-  },
-  {
     "rank": 5,
-    "title": "Meta의 새로운 Glimmer AI 모델은 Zuckerberg의 개인 인텔리전스 비전에 대한 힌트를 제공합니다.",
-    "summary": "Meta의 새로운 오픈 웨이트 Muse Glimmer 모델은 Mark Zuckerberg의 개인 초지능 비전을 엿볼 수 있을 뿐만 아니라 AI 사용자 간의 새로운 분열을 통해 소유하고 액세스할 수 있습니다.",
+    "title": "Google의 Gemini 앱 사용자 수가 10억 명으로 급증했습니다.",
+    "summary": "또한 Google은 사람들이 실제로 챗봇을 사용하는 방식에 대한 숫자를 공유했으며, Gemini 사용자의 63% 가 음성 기능을 사용하여 도우미와 직접 대화했습니다. 또한, Gemini는 이제 150마일 이상을 생성합니다.",
     "source": "TechCrunch",
-    "date": "2026.08.10",
-    "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
+    "date": "2026.08.11",
+    "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
     "tags": [
-      "AI",
+      "LLM",
       "빅테크"
     ]
   }
