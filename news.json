@@ -1,58 +1,59 @@
 [
   {
     "rank": 1,
-    "title": "델타항공 항공편의 가짜 핫스팟 공격으로 의심되는 군중의 방어",
-    "summary": "FBI 애틀랜타는 사건을 조사 중이며 체포는 이루어지지 않았음을 확인합니다.",
-    "source": "Ars Technica",
+    "title": "일부 Claude 사용자는 Anthropic의 새로운 워터 마크가 자신의 직업, 수업에서 그것을 사용하는 것을 포착 할 것이라고 화를 냈습니다.",
+    "summary": "Anthropic의 새로운 워터마킹 시스템은 트레스트인가요? 어떤 사람들은 소셜 미디어에 불만을 제기했습니다.",
+    "source": "TechCrunch",
     "date": "2026.08.12",
-    "url": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
-    "tags": [
-      "테크"
-    ]
-  },
-  {
-    "rank": 2,
-    "title": "ACCEL은 마지막 가입 후 19개월 이내에 초과 가입한 $ 5억 5천만 인도 펀드를 마감합니다.",
-    "summary": "미국 VC 회사는 여전히 이전의 6억 5천만 $ 인도 펀드의 55% 이상을 배치할 수 있습니다.",
-    "source": "TechCrunch",
-    "date": "2026.08.11",
-    "url": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
-    "tags": [
-      "테크"
-    ]
-  },
-  {
-    "rank": 3,
-    "title": "Chrome은 계정 탈취에 대비하여 최선의 보호 수단을 채택합니다.",
-    "summary": "기기 바인딩 세션 자격 증명은 점점 더 일반적인 형태의 계정 인수를 방해합니다.",
-    "source": "Ars Technica",
-    "date": "2026.08.11",
-    "url": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/",
-    "tags": [
-      "테크"
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "OpenAI, Linux용 ChatGPT 데스크톱 앱 출시",
-    "summary": "OpenAI는 마침내 전용 ChatGPT 데스크톱 앱을 Linux 운영 체제에 도입합니다.",
-    "source": "TechCrunch",
-    "date": "2026.08.11",
-    "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+    "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
     "tags": [
       "LLM"
     ]
   },
   {
-    "rank": 5,
-    "title": "Google의 Gemini 앱 사용자 수가 10억 명으로 급증했습니다.",
-    "summary": "또한 Google은 사람들이 실제로 챗봇을 사용하는 방식에 대한 숫자를 공유했으며, Gemini 사용자의 63% 가 음성 기능을 사용하여 도우미와 직접 대화했습니다. 또한, Gemini는 이제 150마일 이상을 생성합니다.",
-    "source": "TechCrunch",
-    "date": "2026.08.11",
-    "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+    "rank": 2,
+    "title": "대규모 공급망 공격으로 유출된 테라바이트의 자격 증명",
+    "summary": "이 데이터는 손상된 AI 패키지의 2,500명의 사용자로부터 스크랩되고 유출되었습니다.",
+    "source": "Ars Technica",
+    "date": "2026.08.12",
+    "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
     "tags": [
-      "LLM",
+      "AI"
+    ]
+  },
+  {
+    "rank": 3,
+    "title": "Amazon은 수신을 거부하지 않는 한 기본적으로 Twitch 스트리머의 콘텐츠를 교육합니다.",
+    "summary": "트위치 CPO 마이크 민턴 (Mike Minton) 은 사용자 피드백에 응답하는 라이브스트림에 대해 \"이것이 옵트인이라면 아무도 옵트인하지 않을 것\" 이라고 말했다. “정답입니다.”",
+    "source": "TechCrunch",
+    "date": "2026.08.12",
+    "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+    "tags": [
       "빅테크"
+    ]
+  },
+  {
+    "rank": 4,
+    "title": "AI 코딩 스타트업 코그니션 (Cognition) 은 이미 $ 40B 가치로 모금하기 위해 강연을 하고 있는 것으로 알려졌다.",
+    "summary": "코그니션은 260억 달러의 가치 평가로 10억 달러를 모금한 후 불과 몇 달 만에 또 다른 메가 라운드를 모으려고 할 수 있습니다.",
+    "source": "TechCrunch",
+    "date": "2026.08.12",
+    "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+    "tags": [
+      "스타트업"
+    ]
+  },
+  {
+    "rank": 5,
+    "title": "AI 안전이 우려됨에 따라 세 명의 선구자가 개방 상태를 유지하는 사례를 만듭니다.",
+    "summary": "Ai4에서는 세계에서 가장 존경받는 AI 전문가인 제프리 힌튼 (Geoffrey Hinton), 페이페이 리 (Fei-Fei Li), 앤드류 응 (Andrew Ng) 세 사람이 규제, 오픈 소스 액세스, 중국이 아시아에서 발전함에 따라 미국이 경쟁할 수 있는 방법에 대해 논의했습니다.",
+    "source": "TechCrunch",
+    "date": "2026.08.12",
+    "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+    "tags": [
+      "AI",
+      "오픈소스",
+      "규제"
     ]
   }
 ]
