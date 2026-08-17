@@ -1,6 +1,41 @@
 [
   {
     "rank": 1,
+    "title": "Stripe가 AI 게이트웨이 스타트업 OpenRouter를 $ 7B 이상에 인수할 예정인 것으로 알려졌습니다.",
+    "summary": "OpenRouter의 CEO는 최근 이 스타트업을 Stripe for AI라고 설명했습니다.",
+    "source": "TechCrunch",
+    "date": "2026.08.16",
+    "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+    "tags": [
+      "AI",
+      "스타트업"
+    ]
+  },
+  {
+    "rank": 2,
+    "title": "사람들이 마크 주커버그의 인공지능 미래를 구매하지 않는 이유",
+    "summary": "Equity 팟캐스트의 최신 에피소드에서는 모든 사람이 Zuckerberg의 비전을 구매하지 않는 이유에 대해 논의합니다.",
+    "source": "TechCrunch",
+    "date": "2026.08.16",
+    "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "rank": 3,
+    "title": "Anthropic CEO는 AI에 대한 반발이 ‘근본적으로 신뢰의 위기' 라고 말합니다.",
+    "summary": "다리오 아모데이 (Dario Amodei) 는 지나치게 비관적인 인공지능 그림을 그렸다는 생각에 반대하고 있습니다.",
+    "source": "TechCrunch",
+    "date": "2026.08.16",
+    "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+    "tags": [
+      "AI",
+      "LLM"
+    ]
+  },
+  {
+    "rank": 4,
     "title": "계부가 어린 시절 사진을 노골적인 이미지로 바꾸기 위해 그록을 사용했다고 주장하는 여성",
     "summary": "이 여성은 인공지능 도구가 \"일상 생활을 아동 성적 학대로 바꾸고 있다\" 고 주장했다.",
     "source": "TechCrunch",
@@ -11,7 +46,7 @@
     ]
   },
   {
-    "rank": 2,
+    "rank": 5,
     "title": "Anthropic은 Claude의 새로운 워터마크가 어떻게 작동하는지 자세히 공유합니다.",
     "summary": "워터마킹은 실제로 어떻게 작동하나요? 편집으로 숨길 수 있나요? 그리고 이것이 코드에 어떤 영향을 미칩니까?",
     "source": "TechCrunch",
@@ -19,40 +54,6 @@
     "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
     "tags": [
       "LLM"
-    ]
-  },
-  {
-    "rank": 3,
-    "title": "SpaceX, 커서 획득 공식 종료",
-    "summary": "AI 코딩 시작 Cursor는 이제 공식적으로 SpaceX의 일부가 되었습니다.",
-    "source": "TechCrunch",
-    "date": "2026.08.15",
-    "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
-    "tags": [
-      "AI",
-      "스타트업"
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "공격자가 Mac을 완전히 제어할 수 있는 취약성이 공격을 받고 있습니다.",
-    "summary": "화면 공유 버그를 사용하면 원격 해커가 암호 없이 로그인할 수 있습니다.",
-    "source": "Ars Technica",
-    "date": "2026.08.14",
-    "url": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
-    "tags": [
-      "보안"
-    ]
-  },
-  {
-    "rank": 5,
-    "title": "PBS 스테이션은 클라우드 스토리지 제공업체로부터 고스팅된 후 50TB의 데이터 손실을 두려워합니다.",
-    "summary": "Iron Mountain은 ARS에 \"하드웨어/서버의 데이터에 액세스할 수 없습니다.\" 라고 말했습니다.",
-    "source": "Ars Technica",
-    "date": "2026.08.14",
-    "url": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
-    "tags": [
-      "테크"
     ]
   }
 ]
