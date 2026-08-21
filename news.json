@@ -1,11 +1,11 @@
 [
   {
     "rank": 1,
-    "title": "Stripe는 ‘특이점‘ 때문에 OpenRouter를 실제로 구입하지 않았습니다.",
-    "summary": "다양한 AI 모델 간에 프롬프트를 라우팅하는 스타트업에서 거대 결제사가 원하는 것은 무엇일까요? Stripe는 그것이 \"특이점\" 때문이라고 말하지만 실제로는 훨씬 더 현실적이고 강력한 이유 때문입니다.",
+    "title": "AI 데이터 스타트업 Micro1, AI 교육 붐 속에서 총 실행률 $ 500M 달성",
+    "summary": "AI 교육 데이터에 대한 수요가 급증하면서 스타트업과 경쟁 업체의 급격한 성장을 이끌고 있습니다.",
     "source": "TechCrunch",
-    "date": "2026.08.19",
-    "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+    "date": "2026.08.21",
+    "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
     "tags": [
       "AI",
       "스타트업"
@@ -13,50 +13,48 @@
   },
   {
     "rank": 2,
-    "title": "OpenAI는 새로운 고객 개인 정보 보호를 통해 Anthropic을 통합하고자 합니다.",
-    "summary": "기업 고객 데이터에 대한 최고의 개인 정보 보호를 제공할 수 있는 사람을 놓고 OpenAI와 Anthropic 간의 경쟁이 전개되고 있습니다.",
+    "title": "OpenAI는 비즈니스 사용자와 함께 Anthropic에서 얻고 있으며, 새로운 데이터는",
+    "summary": "각 연구소가 새로운 모델을 출시함에 따라 기업은 기꺼이 앞뒤로 뒤집을 수 있습니다. 이 변동성은 두 회사의 투자자에게 AI 지출이 실제로 얼마나 \"끈적한\" 기업인지에 대해 잠시 멈춰야합니다.",
     "source": "TechCrunch",
-    "date": "2026.08.19",
-    "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+    "date": "2026.08.20",
+    "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
     "tags": [
-      "LLM",
-      "보안"
+      "AI",
+      "LLM"
     ]
   },
   {
     "rank": 3,
-    "title": "Cognition CEO는 SpaceX가 스타트업을 인수하려고 했다는 보고서를 거부합니다.",
-    "summary": "스페이스X는 AI 코딩 스타트업 '코그니션 (Cognition)' 을 사기 위한 강연에 나선 것으로 알려졌다. SpaceX는 엔터프라이즈 AI에서 OpenAI 및 Anthropic과 같은 라이벌을 따라잡기 위해 경쟁하면서 이미 Cursor를 인수했습니다.",
+    "title": "ChatGPT는 이제 새로운 Apple Messages 플러그인으로 문자 메시지를 보낼 수 있습니다.",
+    "summary": "다른 사람이 문자 메시지를 보내달라고 요청한 적이 있나요? ChatGPT는 새로운 Apple Messages 통합을 통해 자동 텍스트 스크라이브로 제공됩니다.",
     "source": "TechCrunch",
-    "date": "2026.08.19",
-    "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+    "date": "2026.08.20",
+    "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
     "tags": [
-      "AI",
       "LLM",
-      "스타트업"
+      "빅테크"
     ]
   },
   {
     "rank": 4,
-    "title": "AI는 지금쯤 사람들을 이길 예정이었습니다.",
-    "summary": "AI가 피하기 어려워짐에 따라 소비자들은이 기술을 더욱 경계하고 있습니다. 실리콘 밸리는 광범위한 채택이 반드시 수용으로 이어지는 것은 아니라는 것을 발견하고 있습니다.",
+    "title": "좋아요, 실제로 PEE로 데이터 센터를 냉각시킬 수 있을까요?",
+    "summary": "제이슨 켈체 (Jason Kelce) 는 사람들이 식수가 아닌 오줌으로 데이터 센터를 식혀야 한다고 농담했지만 그의 제안은 완전히 터무니없는 것은 아닙니다.",
     "source": "TechCrunch",
-    "date": "2026.08.19",
-    "url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+    "date": "2026.08.20",
+    "url": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
     "tags": [
-      "AI"
+      "테크"
     ]
   },
   {
     "rank": 5,
-    "title": "새로운 AI 연구 도구로 Google Packs Search 및 Gemini",
-    "summary": "새로운 연구 기능의 출시는 OpenA와 같은 회사와 계속 경쟁하면서 학생들이 배우고 공부할 때 Gemini를 AI 비서로 만들려는 Google의 최신 노력을 나타냅니다.",
+    "title": "Google은 AI 기반 트래픽 손실에 대처할 수 있는 새로운 방법을 게시자에게 제공합니다.",
+    "summary": "Google은 독자들이 검색, 검색 및 Google 뉴스에서 선호하는 소스로 만들 수 있는 새로운 버튼을 게시자에게 제공하고 있으며, AI 검색으로 인해 클릭 수가 감소함에 따라 잠재적으로 트래픽을 증가시킬 수 있습니다.",
     "source": "TechCrunch",
-    "date": "2026.08.19",
-    "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+    "date": "2026.08.20",
+    "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
     "tags": [
       "AI",
-      "LLM",
       "빅테크"
     ]
   }
