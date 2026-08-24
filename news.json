@@ -1,62 +1,57 @@
 [
   {
     "rank": 1,
-    "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-    "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+    "title": "새로운 '스텔스 모델‘ 옥스 알파의 배후에는 누가 있을까요?",
+    "summary": "Ox Alpha라는 신비한 새로운 AI 모델은 인터넷의 특정 모서리를 추측의 광란으로 몰아 넣었습니다.",
+    "source": "TechCrunch",
+    "date": "2026.08.23",
+    "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "rank": 2,
+    "title": "Linkdaze의 스마트 캘린더는 단순히 일정을 추적하는 것이 아니라 가정을 운영하도록 설계되었습니다.",
+    "summary": "Linkdaze의 스마트 디지털 캘린더는 AI 식사 플래너 도구를 포함하여 유료 벽 뒤에 기능을 넣지 않은 것이 두드러집니다.",
+    "source": "TechCrunch",
+    "date": "2026.08.23",
+    "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "rank": 3,
+    "title": "Flock CEO는 감시 회사가 성장하는 반발에 직면함에 따라 ‘타협’ 을 요구합니다.",
+    "summary": "Flock Safety는 감시 기술이 오용될 수 있다는 우려로 인해 점점 더 많은 대중의 외침에 직면해 있습니다.",
+    "source": "TechCrunch",
+    "date": "2026.08.23",
+    "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+    "tags": [
+      "테크"
+    ]
+  },
+  {
+    "rank": 4,
+    "title": "저작권이 있는 책에서 AI 모델을 교육하는 것이 합법적인가요? 복잡합니다.",
+    "summary": "대부분의 출판된 저자들은 자신의 지식이나 동의 없이도 생계를 위협하는 동일한 AI 도구를 개발하는 데 기여했습니다. 불법인 것 같죠?",
+    "source": "TechCrunch",
+    "date": "2026.08.23",
+    "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "rank": 5,
+    "title": "하버드의 $ 699 스타트업 부트캠프는 강사의 AI 아바타를 제공합니다",
+    "summary": "HBS 파운드리 프로그램에서 AI 아바타는 연습 피치 및 이사회 회의 중에 피드백을 제공합니다.",
     "source": "TechCrunch",
     "date": "2026.08.22",
     "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
     "tags": [
       "AI",
-      "스타트업"
-    ]
-  },
-  {
-    "rank": 2,
-    "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-    "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
-    "source": "TechCrunch",
-    "date": "2026.08.22",
-    "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-    "tags": [
-      "AI",
-      "LLM",
-      "연구"
-    ]
-  },
-  {
-    "rank": 3,
-    "title": "OpenAI says California should strengthen its AI safety bill",
-    "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
-    "source": "TechCrunch",
-    "date": "2026.08.22",
-    "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-    "tags": [
-      "AI",
-      "LLM"
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
-    "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially",
-    "source": "TechCrunch",
-    "date": "2026.08.22",
-    "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
-    "tags": [
-      "AI",
-      "연구"
-    ]
-  },
-  {
-    "rank": 5,
-    "title": "Anthropic’s Opus 4.6 is a smut-machine",
-    "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
-    "source": "TechCrunch",
-    "date": "2026.08.21",
-    "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-    "tags": [
-      "LLM",
       "스타트업"
     ]
   }
