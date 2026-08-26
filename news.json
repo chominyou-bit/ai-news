@@ -1,58 +1,61 @@
 [
   {
     "rank": 1,
-    "title": "상황 인식, 거의 파산할 뻔한 스타 AI 헤지 펀드, 현재 SEC의 조사를 받고 있음",
-    "summary": "AI 헤지 펀드는 \"월스트리트의 이야기\" 에서 \"포트폴리오를 다양화\" 하는 것보다 더 빨리 \"연방 소환장의 대상\" 으로 바뀌었습니다.",
+    "title": "로보틱스 스타트업 제너럴리스트 (Generalist) 가 $ 3B 밸류에이션에 도달했다고 소식통은 전합니다.",
+    "summary": "2억 달러 연장은 실제 AI 스타트업이 $ 20억 $ 가치 평가에 도달한 지 불과 몇 달 만에 이루어집니다.",
     "source": "TechCrunch",
-    "date": "2026.08.25",
-    "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+    "date": "2026.08.26",
+    "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
     "tags": [
-      "AI"
+      "AI",
+      "로보틱스",
+      "스타트업"
     ]
   },
   {
     "rank": 2,
-    "title": "트럼프는 블록버스터 IPO 2주 후 스페이스X 주식을 샀다.",
-    "summary": "회장은 주식이 $ 150 중반 범위에 있을 때 매수했습니다. SpaceX는 월요일에 IPO 가격인 $ 135로 거래를 마쳤습니다.",
+    "title": "OpenAI는 최고의 데이터 센터 경영진을 잃었습니다. 높은 인지도로 떠나는 스트림이 계속되기 때문입니다.",
+    "summary": "Malone이 떠나기 전에 OpenAI는 이미 인프라 조직을 재편하여 Greg Brockman 대통령으로부터 보고 라인을 변경하고 Sachin Katti 부사장을 그룹의 책임자로 임명했습니다.",
     "source": "TechCrunch",
-    "date": "2026.08.24",
-    "url": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
+    "date": "2026.08.26",
+    "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
     "tags": [
-      "테크"
+      "LLM"
     ]
   },
   {
     "rank": 3,
-    "title": "Replit의 CEO 겸 공동 설립자 Amjad Masad가 TechCrunch Disrupt 2026의 Disrupt Stage에 합류합니다.",
-    "summary": "TechCrunch Disrupt 2026에서 Replit CEO Amjad Masad는 프로그래밍의 미래와 이를 개발하는 Replit의 역할에 대한 자신의 관점을 공유할 것입니다.",
+    "title": "이미지 생성기 Stable Diffusion의 제조사인 Stability AI는 $ 7,600만 달러의 신규 자금을 조달합니다.",
+    "summary": "이 회사의 새로운 자금 조달 총액은 현재 2억 3천 2백만 달러 ($) 에 달합니다.",
     "source": "TechCrunch",
-    "date": "2026.08.24",
-    "url": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
+    "date": "2026.08.25",
+    "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
     "tags": [
-      "테크"
+      "스타트업"
     ]
   },
   {
     "rank": 4,
-    "title": "지문 인식 브라우저에 사용되는 들리지 않는 소리가 AliExpress를 빨간색으로 잡습니다.",
-    "summary": "기술이 오래되었습니까? 네. 아직도 오싹한가요? 그리고 네.",
-    "source": "Ars Technica",
-    "date": "2026.08.24",
-    "url": "https://arstechnica.com/security/2026/08/aliexpress-caught-fingerprinting-visitors-after-sending-inaudible-sounds-to-browsers/",
+    "title": "Claude Cowork는 마침내 채팅에서 앱에 말한 내용을 기억합니다.",
+    "summary": "Anthropic은 채팅과 코워크에서 Claude에게 공유 메모리를 제공하므로 사용자는 더 이상 프로젝트, 환경 설정 및 기타 컨텍스트에 대해 반복적으로 AI에 브리핑할 필요가 없습니다.",
+    "source": "TechCrunch",
+    "date": "2026.08.25",
+    "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
     "tags": [
-      "테크"
+      "AI",
+      "LLM"
     ]
   },
   {
     "rank": 5,
-    "title": "본능의 강력한 AI 비서가 개인 정보 보호 및 보안 문제를 제기하고 있습니다.",
-    "summary": "초기 테스터들은 Instinct가 무엇을 할 수 있는지에 대해 열광하고 있지만, 일부 사람들은 AI 어시스턴트의 포괄적인 액세스, 광범위한 용어 및 사용자를 대신하여 행동하는 능력이 불편한 트레이드 오프와 함께 제공된다고 말합니다.",
+    "title": "Gamma, Accel 지원 디자인 스타트업 Lica 인수",
+    "summary": "Lica 공동 설립자는 Gamma의 새로운 연구 팀에서 일할 예정입니다.",
     "source": "TechCrunch",
-    "date": "2026.08.24",
-    "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+    "date": "2026.08.25",
+    "url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
     "tags": [
-      "AI",
-      "보안"
+      "스타트업",
+      "연구"
     ]
   }
 ]
