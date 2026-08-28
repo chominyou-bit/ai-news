@@ -1,63 +1,65 @@
 [
   {
     "rank": 1,
-    "title": "Nvidia, Hugging Face 인수 마무리",
-    "summary": "Nvidia는 인기 있는 오픈 소스 AI 허브인 Hugging Face를 $ 129억에 구매하여 Nvidia가 칩 제국을 보호하고 클라우드 사업에 다시 뛰어들 수 있도록 하기로 합의한 것으로 전해졌습니다.",
+    "title": "Anthropic과 OpenAI가 TechCrunch Disrupt 2026에서 AI 단계에 합류합니다.",
+    "summary": "TechCrunch Disrupt 2026에서 AI 스테이지는 Google for Startups에서 발표한 지난 몇 년 동안 커뮤니티에서 가장 인기 있는 단일 주제를 다시 파헤칩니다.",
     "source": "TechCrunch",
     "date": "2026.08.27",
-    "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+    "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
     "tags": [
       "AI",
-      "반도체",
-      "오픈소스"
+      "LLM",
+      "빅테크"
     ]
   },
   {
     "rank": 2,
-    "title": "바이럴 AI 스타트업 인스팅트 (Instinct) 가 $ 2.5B 가치로 $ 350M를 모금했습니다",
-    "summary": "이 스타트업은 불과 1년 밖에 되지 않았지만 이미 엄청난 양의 과대 광고 (및 돈) 를 생성했으며 동시에 개인 정보 보호에 대한 우려를 불러일으켰습니다.",
+    "title": "OpenAI에 합류하기 전에 퇴출된 Thinking Machines 공동 창업자 Barret Zoph가 Google에 합류했습니다.",
+    "summary": "Mira Murati와 함께 Thinking Machines Lab을 공동 설립하고 스타트업의 CTO를 역임한 Zoph는 OpenAI에서 잠시 근무했으며 현재 Google에 있습니다.",
     "source": "TechCrunch",
     "date": "2026.08.27",
-    "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+    "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
     "tags": [
-      "AI",
-      "스타트업",
-      "보안"
+      "LLM",
+      "빅테크",
+      "스타트업"
     ]
   },
   {
     "rank": 3,
-    "title": "아마존은 '수요 급증‘ 에 비해 엔비디아 칩 주문을 3배나 늘렸다.",
-    "summary": "아마존은 향후 2년 동안 데이터 센터에 2백만 개의 엔비디아 GPU 칩을 추가하고 있습니다. 그러나 이러한 확장된 파트너십은 더 많은 칩을 구매하는 것 이상으로 확장됩니다.",
+    "title": "OpenAI, Anthropic, Google 및 기타 100개 기업은 악의적인 AI를 방어하기 위한 조치를 촉구합니다.",
+    "summary": "세계 최대의 기술 회사와 AI 신생 기업 중 일부가 모여 사이버 보안의 현재 상태를 비판하고 새로운 세대를 막을 수 있다고 말하는 새로운 솔루션을 광고했습니다.",
     "source": "TechCrunch",
-    "date": "2026.08.26",
-    "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+    "date": "2026.08.27",
+    "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
     "tags": [
-      "반도체",
+      "AI",
+      "LLM",
       "빅테크"
     ]
   },
   {
     "rank": 4,
-    "title": "Anthropic은 Nscale과의 $ 45B 거래에서 컴퓨팅 고블링 행진을 계속합니다.",
-    "summary": "인프라 공급자와의 새로운 거래는 Anthropic의 화이트 핫 컴퓨팅 고블링 행렬의 최신 예입니다.",
+    "title": "Google의 AI 모드를 통해 항공권 가격 추적, 호텔 예약 지원 등 다양한 기능을 이용할 수 있습니다.",
+    "summary": "업데이트에 따르면 Google은 AI 모드를 AI 여행사로 포지셔닝하려고 합니다. 이는 사용자가 단순히 정보를 찾는 것을 넘어 여행 계획의 일부를 실제로 처리하는 데 도움이 되기 때문입니다.",
     "source": "TechCrunch",
-    "date": "2026.08.26",
-    "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+    "date": "2026.08.27",
+    "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
     "tags": [
-      "LLM"
+      "AI",
+      "빅테크"
     ]
   },
   {
     "rank": 5,
-    "title": "메타 근로자를 대체하기 위한 AI 상담원은 \"대규모의 파괴적인 조치\" 를 취했습니다.",
-    "summary": "보고서는 사람을 AI 에이전트로 대체하는 Meta의 어려움을 보여줍니다.",
-    "source": "Ars Technica",
-    "date": "2026.08.26",
-    "url": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
+    "title": "Hugging Face는 귀여운 $ 399 오픈 소스 오리 로봇인 Microduck을 판매하고 있습니다.",
+    "summary": "허깅 페이스 (Hugging Face) 의 CEO인 클렘 들랑그 (Clem Delangue) 는 마이크로덕이 \"강화 학습으로 새로운 트릭을 가르칠 수 있는 오픈 소스 로봇\" 이라고 말했습니다.",
+    "source": "TechCrunch",
+    "date": "2026.08.27",
+    "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
     "tags": [
-      "AI",
-      "빅테크"
+      "로보틱스",
+      "오픈소스"
     ]
   }
 ]
