@@ -1,65 +1,64 @@
 [
   {
     "rank": 1,
-    "title": "Anthropic과 OpenAI가 TechCrunch Disrupt 2026에서 AI 단계에 합류합니다.",
-    "summary": "TechCrunch Disrupt 2026에서 AI 스테이지는 Google for Startups에서 발표한 지난 몇 년 동안 커뮤니티에서 가장 인기 있는 단일 주제를 다시 파헤칩니다.",
+    "title": "Neocloud Lambda는 더 많은 칩을 구매하기 위해 $ 10억의 부채를 확보합니다",
+    "summary": "Neocloud Lambda는 Nvidia AI 칩을 구입하여 Microsoft에 임대하기 위해 사모 부채로 $ 10억을 모금했습니다. 그것은 AI 붐의 높은 비용을 강조하는 일련의 대출의 최신입니다.",
     "source": "TechCrunch",
-    "date": "2026.08.27",
-    "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+    "date": "2026.08.28",
+    "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
     "tags": [
       "AI",
-      "LLM",
+      "반도체",
       "빅테크"
     ]
   },
   {
     "rank": 2,
-    "title": "OpenAI에 합류하기 전에 퇴출된 Thinking Machines 공동 창업자 Barret Zoph가 Google에 합류했습니다.",
-    "summary": "Mira Murati와 함께 Thinking Machines Lab을 공동 설립하고 스타트업의 CTO를 역임한 Zoph는 OpenAI에서 잠시 근무했으며 현재 Google에 있습니다.",
+    "title": "인류학 연구원이 자기 계발 AI를 엿볼 수 있게 해주었습니다.",
+    "summary": "특정 잘못 정렬된 행동에 대한 10개의 벤치마크를 감안할 때, 자동화 시스템은 전반적인 성능을 저하시키지 않고 모든 개별 시스템에 대한 성능을 향상시킬 수 있었습니다.",
     "source": "TechCrunch",
-    "date": "2026.08.27",
-    "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
+    "date": "2026.08.28",
+    "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
     "tags": [
+      "AI",
       "LLM",
-      "빅테크",
-      "스타트업"
+      "연구"
     ]
   },
   {
     "rank": 3,
-    "title": "OpenAI, Anthropic, Google 및 기타 100개 기업은 악의적인 AI를 방어하기 위한 조치를 촉구합니다.",
-    "summary": "세계 최대의 기술 회사와 AI 신생 기업 중 일부가 모여 사이버 보안의 현재 상태를 비판하고 새로운 세대를 막을 수 있다고 말하는 새로운 솔루션을 광고했습니다.",
+    "title": "오픈 웨이트 AI 회사는 밸리에서 가장 인기있는 인수 목표입니다.",
+    "summary": "모델을 제공하는 사업에 많은 자본이 쏟아져 나오고 있습니다.",
     "source": "TechCrunch",
-    "date": "2026.08.27",
-    "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+    "date": "2026.08.28",
+    "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
     "tags": [
-      "AI",
-      "LLM",
-      "빅테크"
+      "AI"
     ]
   },
   {
     "rank": 4,
-    "title": "Google의 AI 모드를 통해 항공권 가격 추적, 호텔 예약 지원 등 다양한 기능을 이용할 수 있습니다.",
-    "summary": "업데이트에 따르면 Google은 AI 모드를 AI 여행사로 포지셔닝하려고 합니다. 이는 사용자가 단순히 정보를 찾는 것을 넘어 여행 계획의 일부를 실제로 처리하는 데 도움이 되기 때문입니다.",
+    "title": "Anthropic은 펜타곤의 공급망 위험 라벨에 대한 첫 번째 법원의 승리를 얻습니다.",
+    "summary": "연방 판사는 트럼프 행정부가 Anthropic을 불법적으로 공급망 위험으로 분류하여 워싱턴에서 두 번째 국방부 소송이 계속됨에 따라 AI 회사에 승리를 안겼다고 판결했습니다.",
     "source": "TechCrunch",
-    "date": "2026.08.27",
-    "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
+    "date": "2026.08.28",
+    "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
     "tags": [
       "AI",
-      "빅테크"
+      "LLM",
+      "규제"
     ]
   },
   {
     "rank": 5,
-    "title": "Hugging Face는 귀여운 $ 399 오픈 소스 오리 로봇인 Microduck을 판매하고 있습니다.",
-    "summary": "허깅 페이스 (Hugging Face) 의 CEO인 클렘 들랑그 (Clem Delangue) 는 마이크로덕이 \"강화 학습으로 새로운 트릭을 가르칠 수 있는 오픈 소스 로봇\" 이라고 말했습니다.",
+    "title": "메타 임원은 인도에서 소셜 미디어 거대 기업이 점점 더 면밀한 조사를 받고 있는 가운데 OpenAI로 떠납니다.",
+    "summary": "Sandhya Devanathan은 새로운 역할로 동남아시아와 호주 전역의 일부 OpenAI 운영을 감독할 것입니다.",
     "source": "TechCrunch",
-    "date": "2026.08.27",
-    "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
+    "date": "2026.08.28",
+    "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
     "tags": [
-      "로보틱스",
-      "오픈소스"
+      "LLM",
+      "빅테크"
     ]
   }
 ]
