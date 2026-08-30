@@ -1,6 +1,41 @@
 [
   {
     "rank": 1,
+    "title": "소니 뮤직, 워너, 앤서로픽 고소, 지적 재산권 절도의 \"뻔뻔한 캠페인\" 주장",
+    "summary": "이 최신 소송은 특히 광범위하며 불법 복제 혐의를 받고 있습니다.",
+    "source": "TechCrunch",
+    "date": "2026.08.29",
+    "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+    "tags": [
+      "LLM",
+      "규제"
+    ]
+  },
+  {
+    "rank": 2,
+    "title": "“We 're not doing 30 bets a year”: Vijay Pande on betting small after running $ 40 billion at a16z",
+    "summary": "작년에 AI 네이티브 VZVC를 시작하기 위해 a16z의 약 40억 $ 규모의 생명 공학 실습을 떠난 Vijay Pande는 생물학이 마침내 \"발견\" 과학에서 \"발견\" 과학으로 전환하는 이유에 대해 이야기합니다.",
+    "source": "TechCrunch",
+    "date": "2026.08.29",
+    "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+    "tags": [
+      "테크"
+    ]
+  },
+  {
+    "rank": 3,
+    "title": "엔비디아의 AI 장점은 GPU를 넘어서는 것입니다.",
+    "summary": "차세대 데이터 센터 시스템은 더 많은 프로세서 사이클 대신 더 스마트한 트래픽 제어로 효율성을 높이고 있습니다.",
+    "source": "TechCrunch",
+    "date": "2026.08.29",
+    "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+    "tags": [
+      "AI",
+      "반도체"
+    ]
+  },
+  {
+    "rank": 4,
     "title": "Neocloud Lambda는 더 많은 칩을 구매하기 위해 $ 10억의 부채를 확보합니다",
     "summary": "Neocloud Lambda는 Nvidia AI 칩을 구입하여 Microsoft에 임대하기 위해 사모 부채로 $ 10억을 모금했습니다. 그것은 AI 붐의 높은 비용을 강조하는 일련의 대출의 최신입니다.",
     "source": "TechCrunch",
@@ -13,7 +48,7 @@
     ]
   },
   {
-    "rank": 2,
+    "rank": 5,
     "title": "인류학 연구원이 자기 계발 AI를 엿볼 수 있게 해주었습니다.",
     "summary": "특정 잘못 정렬된 행동에 대한 10개의 벤치마크를 감안할 때, 자동화 시스템은 전반적인 성능을 저하시키지 않고 모든 개별 시스템에 대한 성능을 향상시킬 수 있었습니다.",
     "source": "TechCrunch",
@@ -23,42 +58,6 @@
       "AI",
       "LLM",
       "연구"
-    ]
-  },
-  {
-    "rank": 3,
-    "title": "오픈 웨이트 AI 회사는 밸리에서 가장 인기있는 인수 목표입니다.",
-    "summary": "모델을 제공하는 사업에 많은 자본이 쏟아져 나오고 있습니다.",
-    "source": "TechCrunch",
-    "date": "2026.08.28",
-    "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "Anthropic은 펜타곤의 공급망 위험 라벨에 대한 첫 번째 법원의 승리를 얻습니다.",
-    "summary": "연방 판사는 트럼프 행정부가 Anthropic을 불법적으로 공급망 위험으로 분류하여 워싱턴에서 두 번째 국방부 소송이 계속됨에 따라 AI 회사에 승리를 안겼다고 판결했습니다.",
-    "source": "TechCrunch",
-    "date": "2026.08.28",
-    "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
-    "tags": [
-      "AI",
-      "LLM",
-      "규제"
-    ]
-  },
-  {
-    "rank": 5,
-    "title": "메타 임원은 인도에서 소셜 미디어 거대 기업이 점점 더 면밀한 조사를 받고 있는 가운데 OpenAI로 떠납니다.",
-    "summary": "Sandhya Devanathan은 새로운 역할로 동남아시아와 호주 전역의 일부 OpenAI 운영을 감독할 것입니다.",
-    "source": "TechCrunch",
-    "date": "2026.08.28",
-    "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
-    "tags": [
-      "LLM",
-      "빅테크"
     ]
   }
 ]
