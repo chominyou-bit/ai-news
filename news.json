@@ -1,60 +1,62 @@
 [
   {
     "rank": 1,
-    "title": "미국은 드론과 로봇을 둘러싼 장벽을 구축하고 있지만, 중국은 이를 극복할 수 있는 규모를 가지고 있다.",
-    "summary": "미국은 더 많은 외국산 드론과 로봇을 차단하고 있다. 중국의 규모는 글로벌 경쟁이 단순히 다른 곳으로 이동할 수 있음을 의미합니다.",
+    "title": "Apple, OpenAI를 위해 회사 데이터를 훔친 혐의로 기소된 전 직원에 대해 ‘충격적인 증거’ 공유",
+    "summary": "애플은 전직 직원이 조사 중이라는 사실을 알게 된 후 데이터 유출의 증거를 파괴했다는 증거가 있다고 말합니다.",
     "source": "TechCrunch",
-    "date": "2026.08.31",
-    "url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
+    "date": "2026.09.01",
+    "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
     "tags": [
-      "로보틱스"
-    ]
-  },
-  {
-    "rank": 2,
-    "title": "더 많은 가스 터빈으로 향하는 머스크의 더 빠른 길은 오염 문제와 함께 제공됩니다.",
-    "summary": "엘론 머스크 (Elon Musk) 는 비밀스러운 새로운 스페이스 엑스 파운드리 (SpaceX Foundry) 를 통해 자신의 터빈 블레이드를 시전하고 다른 누구보다 18개월 빠르게 온라인으로 가스 전원을 공급받을 수 있다고 말합니다. 하지만 이미 트리거된 연료원에 대한 내기입니다.",
-    "source": "TechCrunch",
-    "date": "2026.08.30",
-    "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
-    "tags": [
-      "테크"
-    ]
-  },
-  {
-    "rank": 3,
-    "title": "Caterpillar는 채굴 자동화를 통해 배운 것을 AI 배포에 적용하고 있습니다.",
-    "summary": "Caterpillar는 수십 년 동안 원격 채굴 현장에서 자율 주행 기계를 작동시켰습니다. 이제 AI 배포에 이러한 경험을 제공하고 있습니다.",
-    "source": "TechCrunch",
-    "date": "2026.08.30",
-    "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
-    "tags": [
-      "AI",
-      "로보틱스"
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "데이터 센터에서 로봇을 작동시키려는 Meta의 노력",
-    "summary": "이 회사는 기술자가 수행할 수 있는 작업에 대해 로봇을 테스트하고 있습니다.",
-    "source": "Ars Technica",
-    "date": "2026.08.30",
-    "url": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
-    "tags": [
-      "로보틱스",
+      "LLM",
       "빅테크"
     ]
   },
   {
-    "rank": 5,
-    "title": "소니 뮤직, 워너, 앤서로픽 고소, 지적 재산권 절도의 \"뻔뻔한 캠페인\" 주장",
-    "summary": "이 최신 소송은 특히 광범위하며 불법 복제 혐의를 받고 있습니다.",
+    "rank": 2,
+    "title": "펜타곤에는 이제 자체 버전의 ChatGPT와 Grok가 있습니다.",
+    "summary": "OpenAI의 ChatGPT 및 SpaceXAI의 Grok 버전은 펜타곤의 AI 도구용 중앙 포털에서 Google의 Gemini에 합류할 예정입니다.",
     "source": "TechCrunch",
-    "date": "2026.08.29",
-    "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+    "date": "2026.08.31",
+    "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
     "tags": [
+      "AI",
       "LLM",
+      "빅테크"
+    ]
+  },
+  {
+    "rank": 3,
+    "title": "Instagram은 공개되지 않은 AI 프로필에 새로운 제한을 둡니다",
+    "summary": "AI 인플루언서에 대한 불만이 커지면서 Instagram은 공개되지 않은 AI 프로필의 범위를 제한하고 있습니다.",
+    "source": "TechCrunch",
+    "date": "2026.08.31",
+    "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "rank": 4,
+    "title": "하버드 법대 중퇴자, '경찰관을 위한 하비‘ 구축을 위해 Blue Voice에 $ 6M 모금",
+    "summary": "Blue Voice는 일반 목적의 AI 도구가 공용 인터넷에서 액세스할 수 없는 부서별 법률, 현지 조례, 프로토콜 및 지침에 대해 교육합니다.",
+    "source": "TechCrunch",
+    "date": "2026.08.31",
+    "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+    "tags": [
+      "AI",
+      "스타트업",
       "규제"
+    ]
+  },
+  {
+    "rank": 5,
+    "title": "무료 영화가 유망한 이 장치를 설치하기 전에 두 번 생각하십시오",
+    "summary": "무료 물품과 교환하여 장치는 홈 연결을 프록시 네트워크의 일부로 만듭니다.",
+    "source": "Ars Technica",
+    "date": "2026.08.31",
+    "url": "https://arstechnica.com/security/2026/08/how-some-media-streaming-devices-open-home-networks-to-a-world-of-harm/",
+    "tags": [
+      "테크"
     ]
   }
 ]
