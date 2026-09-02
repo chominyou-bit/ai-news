@@ -1,62 +1,60 @@
 [
   {
     "rank": 1,
-    "title": "Apple, OpenAI를 위해 회사 데이터를 훔친 혐의로 기소된 전 직원에 대해 ‘충격적인 증거’ 공유",
-    "summary": "애플은 전직 직원이 조사 중이라는 사실을 알게 된 후 데이터 유출의 증거를 파괴했다는 증거가 있다고 말합니다.",
+    "title": "AfterQuery가 Y Combinator의 가장 빠른 유니콘이 되었다고 합니다. 현재 $ 3.2B로 평가되고 있습니다.",
+    "summary": "인공지능 모델 트레이닝 스타트업 애프터쿼리 (AfterQuery) 는 지난 4월 3억 달러의 가치 평가로 3천만 달러 규모의 시리즈 A를 발표한 지 불과 5개월 만에 32억 달러 상당의 라운드를 조성한 것으로 알려졌다.",
     "source": "TechCrunch",
     "date": "2026.09.01",
-    "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+    "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
     "tags": [
-      "LLM",
-      "빅테크"
+      "AI",
+      "스타트업"
     ]
   },
   {
     "rank": 2,
-    "title": "펜타곤에는 이제 자체 버전의 ChatGPT와 Grok가 있습니다.",
-    "summary": "OpenAI의 ChatGPT 및 SpaceXAI의 Grok 버전은 펜타곤의 AI 도구용 중앙 포털에서 Google의 Gemini에 합류할 예정입니다.",
+    "title": "OpenAI의 Astra 모델이 출시되고 있으며 컴퓨터 시스템에 침입하는 데 매우 능숙합니다.",
+    "summary": "OpenAI는 최신 사이버 크리티컬 LLM인 Astra를 출시할 때 취하는 예방 조치를 미리 살펴보았습니다.",
     "source": "TechCrunch",
-    "date": "2026.08.31",
-    "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+    "date": "2026.09.01",
+    "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
     "tags": [
-      "AI",
+      "LLM"
+    ]
+  },
+  {
+    "rank": 3,
+    "title": "멀미, 접근성 등을 해결하는 Google의 Android 업데이트",
+    "summary": "일부 기능은 Google이 이미 iPhone 사용자에게 유사한 기능을 제공하는 Apple을 따라 잡는 것을 볼 수 있지만 다른 기능은 특히 Gemini를 활용하여 다양한 개선 사항을 제공합니다.",
+    "source": "TechCrunch",
+    "date": "2026.09.01",
+    "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+    "tags": [
       "LLM",
       "빅테크"
     ]
   },
   {
-    "rank": 3,
-    "title": "Instagram은 공개되지 않은 AI 프로필에 새로운 제한을 둡니다",
-    "summary": "AI 인플루언서에 대한 불만이 커지면서 Instagram은 공개되지 않은 AI 프로필의 범위를 제한하고 있습니다.",
-    "source": "TechCrunch",
-    "date": "2026.08.31",
-    "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
     "rank": 4,
-    "title": "하버드 법대 중퇴자, '경찰관을 위한 하비‘ 구축을 위해 Blue Voice에 $ 6M 모금",
-    "summary": "Blue Voice는 일반 목적의 AI 도구가 공용 인터넷에서 액세스할 수 없는 부서별 법률, 현지 조례, 프로토콜 및 지침에 대해 교육합니다.",
+    "title": "Anthropic의 새로운 Fable 릴리스는 더 저렴하고 덜 제한적입니다",
+    "summary": "Fable 5.1에는 토큰 비용을 줄이기 위한 변경 사항과 모델의 안전 장치에 대한 오탐 제한이 포함되어 있습니다.",
     "source": "TechCrunch",
-    "date": "2026.08.31",
-    "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+    "date": "2026.09.01",
+    "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
     "tags": [
-      "AI",
-      "스타트업",
-      "규제"
+      "LLM"
     ]
   },
   {
     "rank": 5,
-    "title": "무료 영화가 유망한 이 장치를 설치하기 전에 두 번 생각하십시오",
-    "summary": "무료 물품과 교환하여 장치는 홈 연결을 프록시 네트워크의 일부로 만듭니다.",
-    "source": "Ars Technica",
-    "date": "2026.08.31",
-    "url": "https://arstechnica.com/security/2026/08/how-some-media-streaming-devices-open-home-networks-to-a-world-of-harm/",
+    "title": "Canva에 대한 Google의 답변은 디자인 대신 메시지를 표시하는 AI 도구입니다.",
+    "summary": "Google Pics를 통해 Google은 Canva와 Adobe가 지배하는 크리에이티브 소프트웨어 시장에 더 깊이 뛰어들고 있지만, 뚜렷한 AI 우선 접근 방식을 채택하고 있습니다.",
+    "source": "TechCrunch",
+    "date": "2026.09.01",
+    "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
     "tags": [
-      "테크"
+      "AI",
+      "빅테크"
     ]
   }
 ]
