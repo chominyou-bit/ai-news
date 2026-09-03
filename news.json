@@ -1,60 +1,61 @@
 [
   {
     "rank": 1,
-    "title": "AfterQuery가 Y Combinator의 가장 빠른 유니콘이 되었다고 합니다. 현재 $ 3.2B로 평가되고 있습니다.",
-    "summary": "인공지능 모델 트레이닝 스타트업 애프터쿼리 (AfterQuery) 는 지난 4월 3억 달러의 가치 평가로 3천만 달러 규모의 시리즈 A를 발표한 지 불과 5개월 만에 32억 달러 상당의 라운드를 조성한 것으로 알려졌다.",
+    "title": "Builders Stage는 TechCrunch Disrupt 2026에 스타트업을 확장하기 위한 실용적인 전략을 제공합니다.",
+    "summary": "Builders Stage는 TechCrunch Disrupt로 돌아와 창업자, 스타트업 운영자 및 투자자를 모아 구축 및 확장에 필요한 사항에 대한 실질적인 대화를 나눕니다.",
     "source": "TechCrunch",
-    "date": "2026.09.01",
-    "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+    "date": "2026.09.02",
+    "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+    "tags": [
+      "스타트업"
+    ]
+  },
+  {
+    "rank": 2,
+    "title": "소식통에 따르면 Palo Alto Networks는 Thrive 지원 콘솔에 대해 $ 500M를 지불했습니다.",
+    "summary": "업계 전문가들은 이번 인수로 Sequoia의 지원을 받는 Serval이 AI IT 서비스 자동화의 사실상 스타트업 리더가 되었다고 믿고 있습니다.",
+    "source": "TechCrunch",
+    "date": "2026.09.02",
+    "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
     "tags": [
       "AI",
       "스타트업"
     ]
   },
   {
-    "rank": 2,
-    "title": "OpenAI의 Astra 모델이 출시되고 있으며 컴퓨터 시스템에 침입하는 데 매우 능숙합니다.",
-    "summary": "OpenAI는 최신 사이버 크리티컬 LLM인 Astra를 출시할 때 취하는 예방 조치를 미리 살펴보았습니다.",
-    "source": "TechCrunch",
-    "date": "2026.09.01",
-    "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
-    "tags": [
-      "LLM"
-    ]
-  },
-  {
     "rank": 3,
-    "title": "멀미, 접근성 등을 해결하는 Google의 Android 업데이트",
-    "summary": "일부 기능은 Google이 이미 iPhone 사용자에게 유사한 기능을 제공하는 Apple을 따라 잡는 것을 볼 수 있지만 다른 기능은 특히 Gemini를 활용하여 다양한 개선 사항을 제공합니다.",
+    "title": "TechCrunch Disrupt 2026의 새로운 Real World AI Stage는 엔비디아, 로봇 및 멸종한 동물을 특징으로 합니다.",
+    "summary": "새로운 Real World AI 무대에서는 디지털과 실제의 교차점과 이 두 가지의 혼합을 계속 볼 수 있는 모든 방법에 초점을 맞출 것입니다.",
     "source": "TechCrunch",
-    "date": "2026.09.01",
-    "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+    "date": "2026.09.02",
+    "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
     "tags": [
-      "LLM",
-      "빅테크"
+      "AI",
+      "로보틱스",
+      "반도체"
     ]
   },
   {
     "rank": 4,
-    "title": "Anthropic의 새로운 Fable 릴리스는 더 저렴하고 덜 제한적입니다",
-    "summary": "Fable 5.1에는 토큰 비용을 줄이기 위한 변경 사항과 모델의 안전 장치에 대한 오탐 제한이 포함되어 있습니다.",
-    "source": "TechCrunch",
-    "date": "2026.09.01",
-    "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+    "title": "렌터카를 빌렸는데 몇 시간 안에 운전면허증이 판매되었습니다.",
+    "summary": "FBI는 실시간으로 전개되는 대규모 데이터 유출을 조사하고 있는 것으로 알려졌습니다.",
+    "source": "Ars Technica",
+    "date": "2026.09.02",
+    "url": "https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/",
     "tags": [
-      "LLM"
+      "보안"
     ]
   },
   {
     "rank": 5,
-    "title": "Canva에 대한 Google의 답변은 디자인 대신 메시지를 표시하는 AI 도구입니다.",
-    "summary": "Google Pics를 통해 Google은 Canva와 Adobe가 지배하는 크리에이티브 소프트웨어 시장에 더 깊이 뛰어들고 있지만, 뚜렷한 AI 우선 접근 방식을 채택하고 있습니다.",
+    "title": "AI 안전 전문가에게 알리는 OpenAI의 새로운 추론 기술",
+    "summary": "OpenAI의 새로운 Astra 모델은 대부분의 추론 모델을 특징짓는 순차적 사고를 벗어나 모델이 작동할 수 있도록 하는 기술인 \"반복 깊이\" 를 사용합니다.",
     "source": "TechCrunch",
-    "date": "2026.09.01",
-    "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+    "date": "2026.09.02",
+    "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
     "tags": [
       "AI",
-      "빅테크"
+      "LLM"
     ]
   }
 ]
