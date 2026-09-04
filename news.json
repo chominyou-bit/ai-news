@@ -1,61 +1,58 @@
 [
   {
     "rank": 1,
-    "title": "Builders Stage는 TechCrunch Disrupt 2026에 스타트업을 확장하기 위한 실용적인 전략을 제공합니다.",
-    "summary": "Builders Stage는 TechCrunch Disrupt로 돌아와 창업자, 스타트업 운영자 및 투자자를 모아 구축 및 확장에 필요한 사항에 대한 실질적인 대화를 나눕니다.",
+    "title": "크루소가 300억 달러의 가치로 30억 달러를 모금했다고 합니다.",
+    "summary": "이 라운드는 데이터 센터 개발자가 제인 스트리트와 130억 달러 ($) 규모의 계약을 체결한 후 이루어졌습니다.",
     "source": "TechCrunch",
-    "date": "2026.09.02",
-    "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+    "date": "2026.09.04",
+    "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
     "tags": [
       "스타트업"
     ]
   },
   {
     "rank": 2,
-    "title": "소식통에 따르면 Palo Alto Networks는 Thrive 지원 콘솔에 대해 $ 500M를 지불했습니다.",
-    "summary": "업계 전문가들은 이번 인수로 Sequoia의 지원을 받는 Serval이 AI IT 서비스 자동화의 사실상 스타트업 리더가 되었다고 믿고 있습니다.",
-    "source": "TechCrunch",
-    "date": "2026.09.02",
-    "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+    "title": "어떤 VPN이 옳은지 혼란스러워하는 미국 상원의원은 NSA에 지침을 요청합니다.",
+    "summary": "오픈 소스, 상업용, 싱글 홉, 멀티 홉, 믹스넷? 옵션 배열이 어지럽습니다.",
+    "source": "Ars Technica",
+    "date": "2026.09.03",
+    "url": "https://arstechnica.com/security/2026/09/us-senator-calls-on-the-nsa-to-give-guidance-for-use-of-vpns/",
     "tags": [
-      "AI",
-      "스타트업"
+      "오픈소스"
     ]
   },
   {
     "rank": 3,
-    "title": "TechCrunch Disrupt 2026의 새로운 Real World AI Stage는 엔비디아, 로봇 및 멸종한 동물을 특징으로 합니다.",
-    "summary": "새로운 Real World AI 무대에서는 디지털과 실제의 교차점과 이 두 가지의 혼합을 계속 볼 수 있는 모든 방법에 초점을 맞출 것입니다.",
+    "title": "Accel은 회담에서 400억 달러의 가치 평가로 Thinking Machines에 대해 10억 달러 라운드를 이끌었다고 합니다.",
+    "summary": "유명 스타트업의 연간 매출 실행률은 1억 달러 ($) 를 상회합니다.",
     "source": "TechCrunch",
-    "date": "2026.09.02",
-    "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+    "date": "2026.09.03",
+    "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
     "tags": [
-      "AI",
-      "로보틱스",
-      "반도체"
+      "스타트업"
     ]
   },
   {
     "rank": 4,
-    "title": "렌터카를 빌렸는데 몇 시간 안에 운전면허증이 판매되었습니다.",
-    "summary": "FBI는 실시간으로 전개되는 대규모 데이터 유출을 조사하고 있는 것으로 알려졌습니다.",
+    "title": "VMware 마이그레이션으로 Tottenham Hotspur의 라이선스 수수료 85% 절감",
+    "summary": "프로 축구 팀의 CTO는 \"Broadcom 인수 문제\" 를 지적합니다.",
     "source": "Ars Technica",
-    "date": "2026.09.02",
-    "url": "https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/",
+    "date": "2026.09.03",
+    "url": "https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/",
     "tags": [
-      "보안"
+      "테크"
     ]
   },
   {
     "rank": 5,
-    "title": "AI 안전 전문가에게 알리는 OpenAI의 새로운 추론 기술",
-    "summary": "OpenAI의 새로운 Astra 모델은 대부분의 추론 모델을 특징짓는 순차적 사고를 벗어나 모델이 작동할 수 있도록 하는 기술인 \"반복 깊이\" 를 사용합니다.",
+    "title": "Abliteration.ai는 AI 가드레일을 제거하여 비즈니스를 만들고 있습니다.",
+    "summary": "Abliteration.AI는 가드레일이 없는 강력한 AI 모델을 액세스하기 쉽게 만들고 있으며, 방어자에게 나쁜 행위자와 동일한 도구를 제공하면 궁극적으로 사이버 보안을 향상시킬 수 있다고 주장합니다.",
     "source": "TechCrunch",
-    "date": "2026.09.02",
-    "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+    "date": "2026.09.03",
+    "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
     "tags": [
       "AI",
-      "LLM"
+      "보안"
     ]
   }
 ]
