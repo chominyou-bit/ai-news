@@ -1,6 +1,28 @@
 [
   {
     "rank": 1,
+    "title": "출판사와 에이전트가 Anthropic settlement에 대해 클레임을 제기함에 따라 저자들은 반발하고 있습니다.",
+    "summary": "저자들은 출판사가 정산금의 정당한 몫 이상을 청구하는 것 같다고 말합니다.",
+    "source": "TechCrunch",
+    "date": "2026.09.06",
+    "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+    "tags": [
+      "LLM"
+    ]
+  },
+  {
+    "rank": 2,
+    "title": "Travis Kalanick의 Atoms가 로봇 택시 사업에 뛰어들고 있을지도 모릅니다.",
+    "summary": "Uber 창립자는 Atoms를 통해 '미완성 비즈니스' 를 완료할 수 있다고 말했습니다.",
+    "source": "TechCrunch",
+    "date": "2026.09.06",
+    "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+    "tags": [
+      "로보틱스"
+    ]
+  },
+  {
+    "rank": 3,
     "title": "시애틀 타임스와 뉴스데이는 OpenAI와 Microsoft를 고소하기 위한 최신 간행물입니다.",
     "summary": "두 개의 뉴스 조직이 AI 훈련을 위해 저널리즘을 사용하는 것에 대해 OpenAI와 Microsoft를 고소하고 있습니다.",
     "source": "TechCrunch",
@@ -12,7 +34,7 @@
     ]
   },
   {
-    "rank": 2,
+    "rank": 4,
     "title": "계획 수립을 위해 Google Gemini를 사용한 후 구조된 등산객",
     "summary": "보안관 사무실은 등산객들이 \"쌍둥이 자리의 일행이 요구하는 것보다 훨씬 적은 양의 음식과 물을 가져 오라고 권고 받았다\" 고 말했다.",
     "source": "TechCrunch",
@@ -24,7 +46,7 @@
     ]
   },
   {
-    "rank": 3,
+    "rank": 5,
     "title": "OpenAI는 ‘위키 사건' 을 확인하며, 더 많은 공개를 위해 ‘프레임워크 작업 중’ 이라고 말합니다.",
     "summary": "OpenAI는 AI 요원이 독일 위키 포럼을 장악한 최근 보고된 사건에서 자신의 역할을 인정했습니다.",
     "source": "TechCrunch",
@@ -33,31 +55,6 @@
     "tags": [
       "AI",
       "LLM"
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "XDOF, 스텔스에서 불과 3 개월 만에 $ 1.2B 가치의 시리즈 B에 대한 회담 중입니다.",
-    "summary": "이 라운드는 로봇 데이터 스타트업이 스텔스에서 빠져나간 지 불과 몇 달 만에 제기되고 있습니다.",
-    "source": "TechCrunch",
-    "date": "2026.09.04",
-    "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-    "tags": [
-      "로보틱스",
-      "스타트업"
-    ]
-  },
-  {
-    "rank": 5,
-    "title": "OpenAI의 불량 상담원은 공식적인 조사 절차 없이 계속 탈출하고 있습니다.",
-    "summary": "OpenAI의 최신 에이전트 스웜 사건은 연구자와 의원이 인공지능 실험실이 자체 안전성 검토 범위를 통제해야 하는지에 대해 의문을 제기함에 따라 독립적인 조사를 촉구하는 데 시급함을 더합니다.",
-    "source": "TechCrunch",
-    "date": "2026.09.04",
-    "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
-    "tags": [
-      "AI",
-      "LLM",
-      "규제"
     ]
   }
 ]
