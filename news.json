@@ -1,8 +1,19 @@
 [
   {
     "rank": 1,
-    "title": "출판사와 에이전트가 Anthropic settlement에 대해 클레임을 제기함에 따라 저자들은 반발하고 있습니다.",
-    "summary": "저자들은 출판사가 정산금의 정당한 몫 이상을 청구하는 것 같다고 말합니다.",
+    "title": "Opaque recurrence, and other AI terms that you should probably know",
+    "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+    "source": "TechCrunch",
+    "date": "2026.09.07",
+    "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "rank": 2,
+    "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+    "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
     "source": "TechCrunch",
     "date": "2026.09.06",
     "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
@@ -11,9 +22,9 @@
     ]
   },
   {
-    "rank": 2,
-    "title": "Travis Kalanick의 Atoms가 로봇 택시 사업에 뛰어들고 있을지도 모릅니다.",
-    "summary": "Uber 창립자는 Atoms를 통해 '미완성 비즈니스' 를 완료할 수 있다고 말했습니다.",
+    "rank": 3,
+    "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+    "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
     "source": "TechCrunch",
     "date": "2026.09.06",
     "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
@@ -22,9 +33,9 @@
     ]
   },
   {
-    "rank": 3,
-    "title": "시애틀 타임스와 뉴스데이는 OpenAI와 Microsoft를 고소하기 위한 최신 간행물입니다.",
-    "summary": "두 개의 뉴스 조직이 AI 훈련을 위해 저널리즘을 사용하는 것에 대해 OpenAI와 Microsoft를 고소하고 있습니다.",
+    "rank": 4,
+    "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+    "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
     "source": "TechCrunch",
     "date": "2026.09.05",
     "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
@@ -34,27 +45,15 @@
     ]
   },
   {
-    "rank": 4,
-    "title": "계획 수립을 위해 Google Gemini를 사용한 후 구조된 등산객",
-    "summary": "보안관 사무실은 등산객들이 \"쌍둥이 자리의 일행이 요구하는 것보다 훨씬 적은 양의 음식과 물을 가져 오라고 권고 받았다\" 고 말했다.",
+    "rank": 5,
+    "title": "Hikers rescued after using Google Gemini for planning",
+    "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
     "source": "TechCrunch",
     "date": "2026.09.05",
     "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
     "tags": [
       "LLM",
       "빅테크"
-    ]
-  },
-  {
-    "rank": 5,
-    "title": "OpenAI는 ‘위키 사건' 을 확인하며, 더 많은 공개를 위해 ‘프레임워크 작업 중’ 이라고 말합니다.",
-    "summary": "OpenAI는 AI 요원이 독일 위키 포럼을 장악한 최근 보고된 사건에서 자신의 역할을 인정했습니다.",
-    "source": "TechCrunch",
-    "date": "2026.09.05",
-    "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-    "tags": [
-      "AI",
-      "LLM"
     ]
   }
 ]
