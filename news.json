@@ -1,60 +1,62 @@
 [
   {
     "rank": 1,
-    "title": "이번 달 Microsoft 패치 릴리스가 두지 (doozy) 인 이유",
-    "summary": "보안 노움은 AI 지원 공격의 예상되는 공격을 앞두고 패치를 펌핑하고 있습니다.",
-    "source": "Ars Technica",
-    "date": "2026.09.08",
-    "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+    "title": "AI 리서치 스타트업인 Listen Labs는 Salesforce 간담회를 위해 $ 1.5B 펀딩 라운드를 실시했습니다.",
+    "summary": "소식통에 따르면 Listen Labs는 Menlo Ventures의 서명된 시리즈 C 용어 시트에서 벗어났습니다.",
+    "source": "TechCrunch",
+    "date": "2026.09.10",
+    "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
     "tags": [
-      "빅테크",
-      "보안"
+      "스타트업",
+      "연구"
     ]
   },
   {
     "rank": 2,
-    "title": "해커가 구독자로부터 Claude 토큰을 훔치고 있습니다",
-    "summary": "지난달, 한 Claude 사용자가 자신의 계정이 작동하지 않음에도 불구하고 토큰을 소비하고 있음을 발견했습니다. Anthropic은 이후 사용자에게 해커에 대해 경고했습니다.",
+    "title": "OpenAI는 이사회에 저명한 AI 파멸자를 추가합니다",
+    "summary": "정렬에 중점을 둔 영향력 있는 AI 연구원인 Paul Christiano가 OpenAI 재단의 이사로 합류합니다.",
     "source": "TechCrunch",
-    "date": "2026.09.08",
-    "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+    "date": "2026.09.09",
+    "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
     "tags": [
+      "AI",
       "LLM",
-      "보안"
+      "연구"
     ]
   },
   {
     "rank": 3,
-    "title": "코그니션이 $ 48B 밸류에이션에 도달하여 투자자들은 AI 코딩이 승자 독식 시장과는 거리가 멀다고 생각합니다.",
-    "summary": "Cognition의 평가 배수는 SpaceX에 판매하기 전의 Cursor보다 높습니다.",
+    "title": "매사추세츠는 새로운 청정 전력 규칙으로 데이터 센터를 강타합니다",
+    "summary": "매사추세츠는 몇 달 만에 데이터 센터 개발에 대한 새로운 제한을 완화한 세 번째 주가 되었습니다.",
     "source": "TechCrunch",
-    "date": "2026.09.08",
-    "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+    "date": "2026.09.09",
+    "url": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
     "tags": [
-      "AI"
+      "테크"
     ]
   },
   {
     "rank": 4,
-    "title": "Meta가 Muse AI 에이전트를 출시합니다. 소비자가 이를 신뢰할까요?",
-    "summary": "Meta의 새로운 개인 AI 에이전트 Muse는 사용자의 이메일, 캘린더, 결제, 의료 서비스 등에 대한 액세스를 원합니다. 회사의 가장 큰 소비자 AI 베팅을 여전히 사람들이 여전히 사용하고 있는지 여부에 대한 주요 테스트로 만듭니다.",
-    "source": "TechCrunch",
-    "date": "2026.09.08",
-    "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+    "title": "동일한 Chrome 및 Windows 취약점 공격 키트를 사용하여 적발된 4개의 그룹",
+    "summary": "패치 격차와 AI 기반 취약점 발견 속도가 빨라진 것이 원인일 수 있습니다.",
+    "source": "Ars Technica",
+    "date": "2026.09.09",
+    "url": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
     "tags": [
-      "AI",
-      "빅테크"
+      "보안"
     ]
   },
   {
     "rank": 5,
-    "title": "NYU 수학자는 OpenAI가 커리어를 만드는 수학 문제에 대해 더럽게 싸웠다고 말합니다.",
-    "summary": "Navier-Stokes의 존재와 매끄러움 문제에 대한 해결책을 제공하는 첫 번째 사람에게는 $ 100만의 포상금이 있습니다.",
+    "title": "Apple Watch의 새로운 AI 기능은 기술이 항상 경청하고 있다는 생각을 정상화하고 있습니다.",
+    "summary": "Apple은 새로운 시계가 원시 오디오를 저장하지는 않지만 최근 연설을 기록하고 주변 대화를 요약 할 수있는 기능은 동의, 개인 정보 보호 및 사람들의 행동 방식에 대한 새로운 질문을 제기합니다.",
     "source": "TechCrunch",
-    "date": "2026.09.08",
-    "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+    "date": "2026.09.09",
+    "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
     "tags": [
-      "LLM"
+      "AI",
+      "빅테크",
+      "보안"
     ]
   }
 ]
