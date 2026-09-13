@@ -1,6 +1,29 @@
 [
   {
     "rank": 1,
+    "title": "OpenAI의 샘 알트만 (Sam Altman) 은 2026년에 상장하는 것이 ‘부적절할 것' 이라고 말합니다.",
+    "summary": "OpenAI가 IPO를 기밀로 신청했지만, CEO Sam Altman에 따르면 회사는 올해 상장하지 않을 것이라고 합니다.",
+    "source": "TechCrunch",
+    "date": "2026.09.12",
+    "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+    "tags": [
+      "LLM"
+    ]
+  },
+  {
+    "rank": 2,
+    "title": "Anthropic CEO, AI 개발을 늦추기 위한 계획 설명",
+    "summary": "Anthropic의 Dario Amodei와 OpenAI의 Sam Altman은 \"국경에 발맞출 때\" 라고 동의하는 것 같습니다. “저게 실제로 어떻게 생겼을까?",
+    "source": "TechCrunch",
+    "date": "2026.09.12",
+    "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+    "tags": [
+      "AI",
+      "LLM"
+    ]
+  },
+  {
+    "rank": 3,
     "title": "메카 AI, 로봇 훈련 데이터에 대한 서두로 세쿼이아 주도 거래에서 $ 500M 가치 평가에 근접",
     "summary": "2세 스타트업을 위한 라운드는 메카가 시리즈 A를 발표한 지 몇 달 만에 함께 진행됩니다.",
     "source": "TechCrunch",
@@ -13,7 +36,7 @@
     ]
   },
   {
-    "rank": 2,
+    "rank": 4,
     "title": "Y Combinator의 Garry Tan은 미국 오픈 웨이트 AI 연구소도 프론티어 모델을 ‘증류’ 하기를 원합니다.",
     "summary": "Tan은 소규모의 미국 개방형 인공지능 실험실이 미국 프론티어 인공지능 실험실에서 동일한 종류의 훈련 기술을 사용하기를 원하며, 미국은 중국인이 아닌 보다 강력한 개방형 무게 옵션을 제공합니다.",
     "source": "TechCrunch",
@@ -24,7 +47,7 @@
     ]
   },
   {
-    "rank": 3,
+    "rank": 5,
     "title": "OpenAI의 수학자와의 불화는 점점 더 심화되고 있습니다.",
     "summary": "25명의 주요 수학자들이 인공지능 실험실이 그들의 지적 작업을 위협하고 있다고 주장하는 공개 서한에 서명했습니다.",
     "source": "TechCrunch",
@@ -34,28 +57,6 @@
       "AI",
       "LLM",
       "규제"
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "TechCrunch Disrupt 2026 전시회 테이블을 예약할 수 있는 기간이 일주일 남았습니다",
-    "summary": "전시 테이블을 확보할 수 있는 기간이 일주일밖에 남지 않았습니다. 테이블은 한정되어 있으며 9월 18일 마감일 전에 매진될 수 있습니다.",
-    "source": "TechCrunch",
-    "date": "2026.09.11",
-    "url": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
-    "tags": [
-      "테크"
-    ]
-  },
-  {
-    "rank": 5,
-    "title": "TechCrunch Disrupt 2026 사이드 이벤트에 대한 최종, 최종, 최종 소명",
-    "summary": "TechCrunch Disrupt 2026 기간 동안 공식 사이드 이벤트를 개최할 수 있는 마지막 기회는 오늘 9월 11일 밤 11시 59분 (태평양 표준시 기준) 입니다.",
-    "source": "TechCrunch",
-    "date": "2026.09.11",
-    "url": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
-    "tags": [
-      "테크"
     ]
   }
 ]
