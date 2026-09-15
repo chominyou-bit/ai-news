@@ -1,60 +1,59 @@
 [
   {
     "rank": 1,
-    "title": "AI 업계가 최근 경고한 파멸의 배후에는 무엇이 있을까요?",
-    "summary": "Equity에서 우리는 AI가 인류에 실존적 위협을 초래하는지 여부에 대한 AI 업계의 최신 논쟁에 대해 논의했습니다.",
+    "title": "젠슨 황 (Jensen Huang) 은 트럼프의 전화를 받고 다른 것을 과시했다.",
+    "summary": "젠슨 황 (Jensen Huang) 이 트럼프로부터 생방송 전화를 받았을 때, 우리 중 일부는 그가 가져갈 때 사용했던 전화에 더 집중했습니다.",
     "source": "TechCrunch",
-    "date": "2026.09.13",
-    "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+    "date": "2026.09.15",
+    "url": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
     "tags": [
-      "AI"
+      "테크"
     ]
   },
   {
     "rank": 2,
-    "title": "오바마는 민주당에게 인공지능 안전장치를 위한 ‘명확한 계획‘ 을 세울 것을 촉구한다.",
-    "summary": "오바마 대통령은 최근 민주당이 인공 지능을 \"중심 의제\" 중 하나로 만들고 기술의 경제적 영향과 안전에 대한 우려를 해결하기 위해 \"매우 명확한 계획을 세워야한다\" 고 말했다.",
+    "title": "엔비디아 CEO 젠슨 황 (Jensen Huang) 은 트럼프에게 ‘우리는 [AI 둔화] 가 일어나도록 내버려두지 않을 것’ 이라고 말한다.",
+    "summary": "일론 머스크 (Elon Musk) 와 샘 알트만 (Sam Altman) 은 AI 개발 속도를 늦추라는 다리오 아모데이 (Dario Amodei) 의 요청을 지지했지만, 젠슨 황 (Jensen Huang) 은 다르게 느끼는 것 같습니다.",
     "source": "TechCrunch",
-    "date": "2026.09.13",
-    "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+    "date": "2026.09.14",
+    "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
     "tags": [
-      "AI"
+      "AI",
+      "반도체"
     ]
   },
   {
     "rank": 3,
-    "title": "OpenAI의 샘 알트만 (Sam Altman) 은 2026년에 상장하는 것이 ‘부적절할 것' 이라고 말합니다.",
-    "summary": "OpenAI가 IPO를 기밀로 신청했지만, CEO Sam Altman에 따르면 회사는 올해 상장하지 않을 것이라고 합니다.",
-    "source": "TechCrunch",
-    "date": "2026.09.12",
-    "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+    "title": "AI 봇 \"Timmy\", \"Ren\" 및 \"Jackie\" 가 소셜 미디어에 넘쳐나고 있습니다.",
+    "summary": "“안녕하세요. 저는 며칠 전, 에이전트를 위한 작은 플랫폼에 살고 있는 알 에이전트입니다.”",
+    "source": "Ars Technica",
+    "date": "2026.09.14",
+    "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
     "tags": [
-      "LLM"
+      "테크"
     ]
   },
   {
     "rank": 4,
-    "title": "Anthropic CEO, AI 개발을 늦추기 위한 계획 설명",
-    "summary": "Anthropic의 Dario Amodei와 OpenAI의 Sam Altman은 \"국경에 발맞출 때\" 라고 동의하는 것 같습니다. “저게 실제로 어떻게 생겼을까?",
+    "title": "보고서에 따르면 OpenAI는 스마트폰 카메라 메이커 글래스 이미징 (Glass Imaging) 을 3억 달러 ($) 에 구매합니다.",
+    "summary": "Glass Imaging은 이전에 Apple의 인물 사진 모드를 개발한 팀을 이끌었던 한 쌍의 전직 Apple 엔지니어에 의해 설립되었습니다.",
     "source": "TechCrunch",
-    "date": "2026.09.12",
-    "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+    "date": "2026.09.14",
+    "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
     "tags": [
-      "AI",
-      "LLM"
+      "LLM",
+      "빅테크"
     ]
   },
   {
     "rank": 5,
-    "title": "메카 AI, 로봇 훈련 데이터에 대한 서두로 세쿼이아 주도 거래에서 $ 500M 가치 평가에 근접",
-    "summary": "2세 스타트업을 위한 라운드는 메카가 시리즈 A를 발표한 지 몇 달 만에 함께 진행됩니다.",
+    "title": "IOS 27에서는 실제로 Siri를 다시 사용하고 있습니다.",
+    "summary": "오랫동안 지연되었던 Apple의 Siri 개편이 드디어 iOS 27과 함께 시작되었으며, 이는 어시스턴트가 하루하루 얼마나 유용하게 느껴지는지를 변화시킵니다.",
     "source": "TechCrunch",
-    "date": "2026.09.11",
-    "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+    "date": "2026.09.14",
+    "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
     "tags": [
-      "AI",
-      "로보틱스",
-      "스타트업"
+      "빅테크"
     ]
   }
 ]
