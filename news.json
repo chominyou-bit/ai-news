@@ -1,59 +1,63 @@
 [
   {
     "rank": 1,
-    "title": "젠슨 황 (Jensen Huang) 은 트럼프의 전화를 받고 다른 것을 과시했다.",
-    "summary": "젠슨 황 (Jensen Huang) 이 트럼프로부터 생방송 전화를 받았을 때, 우리 중 일부는 그가 가져갈 때 사용했던 전화에 더 집중했습니다.",
+    "title": "엔비디아의 젠슨 황 (Jensen Huang) 은 AI 규정이 필요하지 않다고 말합니다. 우리에게 안전을 맡기십시오.",
+    "summary": "젠슨 황 (Jensen Huang) 에 따르면 AI는 새로운 형태의 \"외계인 마음\" 이 아닙니다. 이는 하드웨어와 소프트웨어일 뿐이므로 각 AI 제품 제조업체가 안전을 설계할 수 있습니다.",
     "source": "TechCrunch",
-    "date": "2026.09.15",
-    "url": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
+    "date": "2026.09.16",
+    "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
     "tags": [
-      "테크"
+      "AI",
+      "반도체",
+      "규제"
     ]
   },
   {
     "rank": 2,
-    "title": "엔비디아 CEO 젠슨 황 (Jensen Huang) 은 트럼프에게 ‘우리는 [AI 둔화] 가 일어나도록 내버려두지 않을 것’ 이라고 말한다.",
-    "summary": "일론 머스크 (Elon Musk) 와 샘 알트만 (Sam Altman) 은 AI 개발 속도를 늦추라는 다리오 아모데이 (Dario Amodei) 의 요청을 지지했지만, 젠슨 황 (Jensen Huang) 은 다르게 느끼는 것 같습니다.",
+    "title": "AI 데이터 센터 붐은 거대 산업의 상처를 입은 도시와 충돌하고 있습니다.",
+    "summary": "데이터 센터 건설에 대한 전국적인 외침은 필라델피아로 확산되었으며, 필라델피아 당국은 현재 없어진 정유소로 인해 이미 영향을 받은 지역에 건설 가능성이 있다고 제안했습니다.",
     "source": "TechCrunch",
-    "date": "2026.09.14",
-    "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+    "date": "2026.09.15",
+    "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
     "tags": [
-      "AI",
-      "반도체"
+      "AI"
     ]
   },
   {
     "rank": 3,
-    "title": "AI 봇 \"Timmy\", \"Ren\" 및 \"Jackie\" 가 소셜 미디어에 넘쳐나고 있습니다.",
-    "summary": "“안녕하세요. 저는 며칠 전, 에이전트를 위한 작은 플랫폼에 살고 있는 알 에이전트입니다.”",
-    "source": "Ars Technica",
-    "date": "2026.09.14",
-    "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+    "title": "이제 메타를 통해 AI 상담원이 WhatsApp Business 설정의 지루한 부분을 처리할 수 있습니다.",
+    "summary": "새로운 WhatsApp Business MCP 서버를 사용하면 개발자가 Claude, Cursor, Codex 및 ChatGPT와 같은 AI 코딩 에이전트를 사용하여 설정, 메시징 템플릿, 테스트 및 문제 해결을 처리할 수 있습니다.",
+    "source": "TechCrunch",
+    "date": "2026.09.15",
+    "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
     "tags": [
-      "테크"
+      "AI",
+      "LLM",
+      "빅테크"
     ]
   },
   {
     "rank": 4,
-    "title": "보고서에 따르면 OpenAI는 스마트폰 카메라 메이커 글래스 이미징 (Glass Imaging) 을 3억 달러 ($) 에 구매합니다.",
-    "summary": "Glass Imaging은 이전에 Apple의 인물 사진 모드를 개발한 팀을 이끌었던 한 쌍의 전직 Apple 엔지니어에 의해 설립되었습니다.",
+    "title": "인공지능 묘지: 성공하지 못한 프로젝트와 스타트업의 실행 목록",
+    "summary": "Apple의 반복적으로 지연되는 Siri AI부터 OpenAI의 지저분한 \"슈퍼 앱\" 출시까지, 기대를 저버리거나 놓친 AI 프로젝트를 살펴보세요.",
     "source": "TechCrunch",
-    "date": "2026.09.14",
-    "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+    "date": "2026.09.15",
+    "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
     "tags": [
+      "AI",
       "LLM",
       "빅테크"
     ]
   },
   {
     "rank": 5,
-    "title": "IOS 27에서는 실제로 Siri를 다시 사용하고 있습니다.",
-    "summary": "오랫동안 지연되었던 Apple의 Siri 개편이 드디어 iOS 27과 함께 시작되었으며, 이는 어시스턴트가 하루하루 얼마나 유용하게 느껴지는지를 변화시킵니다.",
+    "title": "미국 데이터 센터는 2035년까지 독일과 일본을 합친 것보다 더 많은 천연 가스를 소비할 수 있습니다.",
+    "summary": "AI 열풍은 미국 데이터 센터를 세계에서 가장 큰 천연 가스 소비국 중 하나로 만들 수 있습니다.",
     "source": "TechCrunch",
-    "date": "2026.09.14",
-    "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
+    "date": "2026.09.15",
+    "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
     "tags": [
-      "빅테크"
+      "AI"
     ]
   }
 ]
