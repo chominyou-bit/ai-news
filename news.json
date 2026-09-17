@@ -1,63 +1,60 @@
 [
   {
     "rank": 1,
-    "title": "엔비디아의 젠슨 황 (Jensen Huang) 은 AI 규정이 필요하지 않다고 말합니다. 우리에게 안전을 맡기십시오.",
-    "summary": "젠슨 황 (Jensen Huang) 에 따르면 AI는 새로운 형태의 \"외계인 마음\" 이 아닙니다. 이는 하드웨어와 소프트웨어일 뿐이므로 각 AI 제품 제조업체가 안전을 설계할 수 있습니다.",
+    "title": "스타트업의 다음 팀원은 AI 에이전트일 수 있습니다. Gusto, Insight Partners, Leland는 TechCrunch Disrupt 2026에서 어떤 변화가 있는지 설명합니다.",
+    "summary": "이 세션에서는 초기 단계의 회사가 인간과 AI 에이전트가 함께 일하는 팀을 구축하는 방법과 창업자가 속도, 책임성 또는",
     "source": "TechCrunch",
-    "date": "2026.09.16",
-    "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+    "date": "2026.09.17",
+    "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
     "tags": [
       "AI",
-      "반도체",
-      "규제"
+      "스타트업"
     ]
   },
   {
     "rank": 2,
-    "title": "AI 데이터 센터 붐은 거대 산업의 상처를 입은 도시와 충돌하고 있습니다.",
-    "summary": "데이터 센터 건설에 대한 전국적인 외침은 필라델피아로 확산되었으며, 필라델피아 당국은 현재 없어진 정유소로 인해 이미 영향을 받은 지역에 건설 가능성이 있다고 제안했습니다.",
+    "title": "Snap이 $ 2,200 상당의 스마트 안경 케이스를 다시 제작하려고 합니다.",
+    "summary": "올해 초 Specs가 데뷔한 이래, Snap은 스마트 안경이 존재할 자격이 있는 이유를 명확하게 설명할 기회를 찾고 있었습니다.",
     "source": "TechCrunch",
-    "date": "2026.09.15",
-    "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+    "date": "2026.09.17",
+    "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
     "tags": [
-      "AI"
+      "테크"
     ]
   },
   {
     "rank": 3,
-    "title": "이제 메타를 통해 AI 상담원이 WhatsApp Business 설정의 지루한 부분을 처리할 수 있습니다.",
-    "summary": "새로운 WhatsApp Business MCP 서버를 사용하면 개발자가 Claude, Cursor, Codex 및 ChatGPT와 같은 AI 코딩 에이전트를 사용하여 설정, 메시징 템플릿, 테스트 및 문제 해결을 처리할 수 있습니다.",
+    "title": "앨 고어 (Al Gore) 는 실제 AI 위험은 데이터 센터가 아니라고 말합니다.",
+    "summary": "앨 고어 (Al Gore) 는 테크크런치 (TechCrunch) 와의 인터뷰에서 AI 데이터 센터 배출량으로 수면을 잃지 않을 것이라고 제안했습니다. 그는 AI 업계가 기술이 어디로 향하고 있는지에 대한 경고에 대해 더 우려하고 있습니다.",
     "source": "TechCrunch",
-    "date": "2026.09.15",
-    "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+    "date": "2026.09.16",
+    "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
     "tags": [
-      "AI",
-      "LLM",
-      "빅테크"
+      "AI"
     ]
   },
   {
     "rank": 4,
-    "title": "인공지능 묘지: 성공하지 못한 프로젝트와 스타트업의 실행 목록",
-    "summary": "Apple의 반복적으로 지연되는 Siri AI부터 OpenAI의 지저분한 \"슈퍼 앱\" 출시까지, 기대를 저버리거나 놓친 AI 프로젝트를 살펴보세요.",
-    "source": "TechCrunch",
-    "date": "2026.09.15",
-    "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "title": "사이버 공격으로 인한 \"치명타\" 로 인한 유성우를 추적하는 비영리 단체",
+    "summary": "그룹은 몇 주 동안 주로 위임에서 벗어날 계획입니다.",
+    "source": "Ars Technica",
+    "date": "2026.09.16",
+    "url": "https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/",
     "tags": [
-      "AI",
-      "LLM",
-      "빅테크"
+      "테크"
     ]
   },
   {
     "rank": 5,
-    "title": "미국 데이터 센터는 2035년까지 독일과 일본을 합친 것보다 더 많은 천연 가스를 소비할 수 있습니다.",
-    "summary": "AI 열풍은 미국 데이터 센터를 세계에서 가장 큰 천연 가스 소비국 중 하나로 만들 수 있습니다.",
+    "title": "Anthropic 및 OpenAI는 안전 평가자를 포함하고자 합니다. 과연 그들은 독립할 수 있을까?",
+    "summary": "Anthropic과 OpenAI는 AI 실험실에 독립적인 안전 평가자를 포함시키고자 합니다. 연구자들은 전례 없는 접근을 환영하지만, 의미 있는 감독에는 투명성, 독립성,",
     "source": "TechCrunch",
-    "date": "2026.09.15",
-    "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
+    "date": "2026.09.16",
+    "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
     "tags": [
-      "AI"
+      "AI",
+      "LLM",
+      "연구"
     ]
   }
 ]
