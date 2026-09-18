@@ -1,60 +1,58 @@
 [
   {
     "rank": 1,
-    "title": "스타트업의 다음 팀원은 AI 에이전트일 수 있습니다. Gusto, Insight Partners, Leland는 TechCrunch Disrupt 2026에서 어떤 변화가 있는지 설명합니다.",
-    "summary": "이 세션에서는 초기 단계의 회사가 인간과 AI 에이전트가 함께 일하는 팀을 구축하는 방법과 창업자가 속도, 책임성 또는",
+    "title": "Crusoe, 대규모 데이터 센터와 소형 모듈식 ‘AI 공장‘ 건설을 위해 $ 39억 모금",
+    "summary": "이 라운드는 데이터 센터 대기업의 가치를 $ 309억 달러로 평가합니다.",
     "source": "TechCrunch",
     "date": "2026.09.17",
-    "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+    "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
     "tags": [
-      "AI",
       "스타트업"
     ]
   },
   {
     "rank": 2,
-    "title": "Snap이 $ 2,200 상당의 스마트 안경 케이스를 다시 제작하려고 합니다.",
-    "summary": "올해 초 Specs가 데뷔한 이래, Snap은 스마트 안경이 존재할 자격이 있는 이유를 명확하게 설명할 기회를 찾고 있었습니다.",
+    "title": "Google DeepMind, AGI 토론을 확대하기 위한 연구소 출범",
+    "summary": "새로운 연구소는 Google, Google DeepMind 및 AGI를 둘러싼 광범위한 글로벌 연구 커뮤니티 간에 서로 다른 견해를 표출하는 것을 목표로 합니다. \"그들은 항상 동의하지 않을 것이며, 아마도 자신의",
     "source": "TechCrunch",
     "date": "2026.09.17",
-    "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
+    "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
     "tags": [
-      "테크"
+      "빅테크",
+      "연구"
     ]
   },
   {
     "rank": 3,
-    "title": "앨 고어 (Al Gore) 는 실제 AI 위험은 데이터 센터가 아니라고 말합니다.",
-    "summary": "앨 고어 (Al Gore) 는 테크크런치 (TechCrunch) 와의 인터뷰에서 AI 데이터 센터 배출량으로 수면을 잃지 않을 것이라고 제안했습니다. 그는 AI 업계가 기술이 어디로 향하고 있는지에 대한 경고에 대해 더 우려하고 있습니다.",
+    "title": "PrismML은 작은 LLM이 우리 모두가 AI를 사용하는 방식을 바꿀 수 있기를 희망합니다.",
+    "summary": "인공지능 실험실 PrismML이 아직 레이더에 없는 경우, 레이더에 있어야 합니다.",
     "source": "TechCrunch",
-    "date": "2026.09.16",
-    "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
+    "date": "2026.09.17",
+    "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
     "tags": [
       "AI"
     ]
   },
   {
     "rank": 4,
-    "title": "사이버 공격으로 인한 \"치명타\" 로 인한 유성우를 추적하는 비영리 단체",
-    "summary": "그룹은 몇 주 동안 주로 위임에서 벗어날 계획입니다.",
-    "source": "Ars Technica",
-    "date": "2026.09.16",
-    "url": "https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/",
+    "title": "FAA의 항공 교통 문제 해결 계획은? $ 875M 상당의 AI",
+    "summary": "항공 교통 관제사가 미국 하늘을 지키는 경비원으로서 자신의 직업을 더 잘 탐색할 수 있도록 새로운 AI 기반 소프트웨어 프로그램이 시작되고 있습니다.",
+    "source": "TechCrunch",
+    "date": "2026.09.17",
+    "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
     "tags": [
-      "테크"
+      "AI"
     ]
   },
   {
     "rank": 5,
-    "title": "Anthropic 및 OpenAI는 안전 평가자를 포함하고자 합니다. 과연 그들은 독립할 수 있을까?",
-    "summary": "Anthropic과 OpenAI는 AI 실험실에 독립적인 안전 평가자를 포함시키고자 합니다. 연구자들은 전례 없는 접근을 환영하지만, 의미 있는 감독에는 투명성, 독립성,",
+    "title": "악의적인 AI 상담원을 위한 수정 사항은 더 많은 AI가 될 수 있습니다.",
+    "summary": "기업이 AI 상담원에게 더 길고 복잡한 작업을 인계함에 따라, 그들은 감독 문제에 직면하고 있습니다. 상담원은 인간이 현실적으로 검토할 수 있는 것보다 더 빠르고, 더 길고, 더 많은 양으로 행동할 수 있습니다.",
     "source": "TechCrunch",
-    "date": "2026.09.16",
-    "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+    "date": "2026.09.17",
+    "url": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
     "tags": [
-      "AI",
-      "LLM",
-      "연구"
+      "AI"
     ]
   }
 ]
