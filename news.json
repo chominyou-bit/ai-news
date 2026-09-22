@@ -1,57 +1,63 @@
 [
   {
     "rank": 1,
-    "title": "TechCrunch Disrupt 2026에 최대 $ 200를 절약할 수 있는 기간이 6일 남았습니다",
-    "summary": "현재 티켓 가격은 9월 25일 오후 11시 59분 (태평양 표준시 기준) 에 6일 후에 종료됩니다. Disrupt에서 10,000명 이상의 창업자, 투자자, 기술 리더와 함께하고 그때까지 티켓을 최대 $ 200 할인받으세요.",
+    "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+    "summary": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
     "source": "TechCrunch",
-    "date": "2026.09.20",
-    "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+    "date": "2026.09.21",
+    "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
     "tags": [
-      "테크"
+      "AI",
+      "빅테크"
     ]
   },
   {
     "rank": 2,
-    "title": "세계 모델 회사들은 많은 비밀을 지키고 있습니다",
-    "summary": "세계 모델 공간의 모든 사람들이 현금 더미와 수많은 버즈에 앉아 있지만, 창업자에서부터 자신의 데이터 공급자에 이르기까지 누구에게나 그들이 실제로 무엇을 말하고 있는지 알려주는 행운을 빕니다.",
+    "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+    "summary": "A simple ClickFix attack is only one way to completely hijack the new agent.",
+    "source": "Ars Technica",
+    "date": "2026.09.21",
+    "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+    "tags": [
+      "AI",
+      "빅테크"
+    ]
+  },
+  {
+    "rank": 3,
+    "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+    "summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
     "source": "TechCrunch",
-    "date": "2026.09.20",
-    "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+    "date": "2026.09.21",
+    "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+    "tags": [
+      "AI",
+      "LLM",
+      "연구"
+    ]
+  },
+  {
+    "rank": 4,
+    "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
+    "summary": "Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15. Grab your",
+    "source": "TechCrunch",
+    "date": "2026.09.21",
+    "url": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
     "tags": [
       "테크"
     ]
   },
   {
-    "rank": 3,
-    "title": "인공지능 산업은 정말 둔화될 준비가 되어 있는가?",
-    "summary": "Equity에서 우리는 Ai 경영진이 속도를 늦추고 싶어하는 것에 대해 진지한지 여부를 논의했습니다.",
-    "source": "TechCrunch",
-    "date": "2026.09.20",
-    "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "Vocci의 링은 회의 메모 작성에 새로운 폼 팩터를 추가합니다",
-    "summary": "Vocci의 경량 링은 $ 249이며 개인 정보 보호에 대한 몇 가지 질문을 제기 할 수 있습니다.",
-    "source": "TechCrunch",
-    "date": "2026.09.20",
-    "url": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
-    "tags": [
-      "보안"
-    ]
-  },
-  {
     "rank": 5,
-    "title": "ScrollEd는 교과서를 TikTok으로 전환하고자 합니다",
-    "summary": "ScrollEd는 교과서를 비디오, 오디오 및 퀴즈와 함께 스크롤 가능한 Instagram 같은 피드로 변환합니다. 학생 공동 창업자 (및 배우자) Utsav Gupta와 Rebecca Neff, pitche가 설립한 Palo Alto 스타트업",
+    "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+    "summary": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfig",
     "source": "TechCrunch",
-    "date": "2026.09.20",
-    "url": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
+    "date": "2026.09.21",
+    "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
     "tags": [
-      "스타트업"
+      "AI",
+      "LLM",
+      "빅테크"
     ]
   }
 ]
