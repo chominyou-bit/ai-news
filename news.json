@@ -1,61 +1,60 @@
 [
   {
     "rank": 1,
-    "title": "TechCrunch 창립자 서밋 일정 공개: 11월 4일 보스턴에서 기금 모금, 채용, AI 통찰력 발휘",
-    "summary": "창업자는 가장 어려운 교훈을 가장 어려운 방법으로 배울 필요가 없습니다. TechCrunch Founder Summit은 회사 설립의 어려움과 그보다 훨씬 더 높은 목표를 달성하기 위해 고안되었습니다.",
+    "title": "Meta의 AI 에이전트 Muse가 새롭게 선보이는 모든 것",
+    "summary": "마크 저커버그 (Mark Zuckerberg) CEO는 수요일 멘로 파크 (Menlo Park) 에서 열린 연례 커넥트 (Connect) 행사를 시작으로 한 가지 분명한 기조 연설을 시작했습니다. 메타가 뮤즈에 올인하고 있습니다. 심지어 메타의 인공지능 글래스로도 나오고 있습니다.",
     "source": "TechCrunch",
-    "date": "2026.09.22",
-    "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
-    "tags": [
-      "테크"
-    ]
-  },
-  {
-    "rank": 2,
-    "title": "스노클링 AI는 AI 훈련 데이터 붐에 대한 수요에 따라 평가액을 $ 3.5B로 3배 증가시킵니다.",
-    "summary": "7년 된 이 스타트업은 서비스형 데이터 (data-as-a-service) 접근 방식을 촉진하기 위해 3억 5천만 달러의 시리즈 E를 모금했습니다.",
-    "source": "TechCrunch",
-    "date": "2026.09.22",
-    "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+    "date": "2026.09.24",
+    "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
     "tags": [
       "AI",
-      "스타트업"
-    ]
-  },
-  {
-    "rank": 3,
-    "title": "퀄컴, AI에 중점을 둔 새로운 스마트폰 칩 2종 출시",
-    "summary": "Qualcomm은 새로운 탑 칩이 30B 전문가 혼합 모델을 로컬에서 실행할 수 있다고 말했습니다.",
-    "source": "TechCrunch",
-    "date": "2026.09.22",
-    "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
-    "tags": [
-      "AI",
-      "반도체"
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "Microsoft, 12,000개의 계정을 훼손한 AI 지원 플랫폼 중단",
-    "summary": "EvilTokens는 대량 타협을 더 빠르고 쉽게 만드는 엔드 투 엔드 플랫폼을 제공했습니다.",
-    "source": "Ars Technica",
-    "date": "2026.09.22",
-    "url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
-    "tags": [
       "빅테크"
     ]
   },
   {
-    "rank": 5,
-    "title": "Meta가 Muse와 OpenClaw의 유사성을 인정하는 것은 우연이 아닙니다.",
-    "summary": "Meta는 Muse가 처음부터 만들어졌다고 말하지만, 일부 작업 공간 파일 이름과 콘텐츠에 이르기까지 OpenClaw에서 AI 비서가 \"큰 영감을 받았다\" 고 인정합니다.",
+    "rank": 2,
+    "title": "Meta는 Muse AI 에이전트를 위해 Tamagotchi-like 웨어러블을 만들었습니다.",
+    "summary": "이 초소형 하드웨어 장치는 AI 에이전트 Muse를 위한 또 다른 모바일 홈을 만듭니다.",
     "source": "TechCrunch",
-    "date": "2026.09.22",
-    "url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+    "date": "2026.09.24",
+    "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
     "tags": [
       "AI",
-      "빅테크",
-      "규제"
+      "빅테크"
+    ]
+  },
+  {
+    "rank": 3,
+    "title": "카메라 없는 인공지능 안경을 소개하는 메타",
+    "summary": "메타는 카메라가 없는 안경이 더 가볍고 최대 12시간의 배터리 수명을 가질 것이라고 말합니다.",
+    "source": "TechCrunch",
+    "date": "2026.09.23",
+    "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+    "tags": [
+      "AI",
+      "빅테크"
+    ]
+  },
+  {
+    "rank": 4,
+    "title": "Anthropic은 생물학 실험실에서 이미 큰 것을 발견했다고 말합니다.",
+    "summary": "그러나 가장 큰 사실은 Anthropic이 생물학 실험실에서 Claude를 풀어 놓지 않았다는 것입니다. 지금까지도 인간은 여전히 순환고리에 있습니다.",
+    "source": "TechCrunch",
+    "date": "2026.09.23",
+    "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+    "tags": [
+      "LLM"
+    ]
+  },
+  {
+    "rank": 5,
+    "title": "엔베다, 더 많은 자연 유래 AI 약물을 임상 시험에 도입하기 위해 $ 311M 확보",
+    "summary": "이 라운드는 AI 생명공학의 가치를 20억 $ 로 평가했습니다. 현재 GLP-1을 중단한 후 피부 질환을 치료하고 체중 감량을 보존하는 약물을 테스트하고 있습니다.",
+    "source": "TechCrunch",
+    "date": "2026.09.23",
+    "url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
+    "tags": [
+      "AI"
     ]
   }
 ]
