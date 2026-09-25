@@ -1,60 +1,58 @@
 [
   {
     "rank": 1,
-    "title": "Meta의 AI 에이전트 Muse가 새롭게 선보이는 모든 것",
-    "summary": "마크 저커버그 (Mark Zuckerberg) CEO는 수요일 멘로 파크 (Menlo Park) 에서 열린 연례 커넥트 (Connect) 행사를 시작으로 한 가지 분명한 기조 연설을 시작했습니다. 메타가 뮤즈에 올인하고 있습니다. 심지어 메타의 인공지능 글래스로도 나오고 있습니다.",
+    "title": "공동 창업자, 파트너 또는 동료를 초대하고 두 번째 TechCrunch Disrupt 2026 이용권을 50% 할인받으세요.",
+    "summary": "TechCrunch Disrupt 2026 이용권 1장을 구매하고 동일한 티켓 유형의 1초를 50% 할인받으세요. 10월 13일 오전 8시 (태평양 표준시) 에 이벤트가 시작되기 전에 등록하세요.",
     "source": "TechCrunch",
     "date": "2026.09.24",
-    "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+    "url": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
     "tags": [
-      "AI",
-      "빅테크"
+      "테크"
     ]
   },
   {
     "rank": 2,
-    "title": "Meta는 Muse AI 에이전트를 위해 Tamagotchi-like 웨어러블을 만들었습니다.",
-    "summary": "이 초소형 하드웨어 장치는 AI 에이전트 Muse를 위한 또 다른 모바일 홈을 만듭니다.",
+    "title": "PrismML은 Qualcomm 기반 스마트 안경에 초소형 LLM을 제공합니다",
+    "summary": "Prism의 더 큰 목표는 장치에서 실행되고 이미 가지고 있는 컴퓨팅 성능을 더 잘 활용하는 개방형 AI입니다.",
     "source": "TechCrunch",
     "date": "2026.09.24",
-    "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+    "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
     "tags": [
-      "AI",
-      "빅테크"
+      "AI"
     ]
   },
   {
     "rank": 3,
-    "title": "카메라 없는 인공지능 안경을 소개하는 메타",
-    "summary": "메타는 카메라가 없는 안경이 더 가볍고 최대 12시간의 배터리 수명을 가질 것이라고 말합니다.",
+    "title": "오라클, 뉴멕시코 스타게이트 데이터 센터에 불가항력 통지 발송",
+    "summary": "이 공지를 통해 오라클은 2028년 온라인 출시 목표를 달성하지 못한 경우 지불을 연기할 수 있습니다.",
     "source": "TechCrunch",
-    "date": "2026.09.23",
-    "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+    "date": "2026.09.24",
+    "url": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
+    "tags": [
+      "규제"
+    ]
+  },
+  {
+    "rank": 4,
+    "title": "메타의 뮤즈 참은 다마고치처럼 보이지만 훨씬 더 새로운 트렌드를 활용하고 있습니다.",
+    "summary": "메타의 새로운 AI 가젯은 다마고치처럼 보일 수 있지만, 매달려 있는 폼 팩터는 가방 매력, 복고풍 기술, 가젯을 패션 액세서리로 바꾸는 훨씬 더 광범위한 Z세대 트렌드를 활용합니다.",
+    "source": "TechCrunch",
+    "date": "2026.09.24",
+    "url": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
     "tags": [
       "AI",
       "빅테크"
     ]
   },
   {
-    "rank": 4,
-    "title": "Anthropic은 생물학 실험실에서 이미 큰 것을 발견했다고 말합니다.",
-    "summary": "그러나 가장 큰 사실은 Anthropic이 생물학 실험실에서 Claude를 풀어 놓지 않았다는 것입니다. 지금까지도 인간은 여전히 순환고리에 있습니다.",
-    "source": "TechCrunch",
-    "date": "2026.09.23",
-    "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
-    "tags": [
-      "LLM"
-    ]
-  },
-  {
     "rank": 5,
-    "title": "엔베다, 더 많은 자연 유래 AI 약물을 임상 시험에 도입하기 위해 $ 311M 확보",
-    "summary": "이 라운드는 AI 생명공학의 가치를 20억 $ 로 평가했습니다. 현재 GLP-1을 중단한 후 피부 질환을 치료하고 체중 감량을 보존하는 약물을 테스트하고 있습니다.",
+    "title": "Google 포토 ‘Clueless’ 에서 영감을 얻은 가상 옷장을 이제 Android 및 iOS에서 사용할 수 있습니다.",
+    "summary": "AI 기반 기능은 사진에서 가상 옷장을 구축하며, 6월에 Android 사용자에게 처음 출시된 후 광범위하게 사용할 수 있습니다.",
     "source": "TechCrunch",
-    "date": "2026.09.23",
-    "url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
+    "date": "2026.09.24",
+    "url": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
     "tags": [
-      "AI"
+      "빅테크"
     ]
   }
 ]
