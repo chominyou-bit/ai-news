@@ -1,56 +1,58 @@
 [
   {
     "rank": 1,
-    "title": "공동 창업자, 파트너 또는 동료를 초대하고 두 번째 TechCrunch Disrupt 2026 이용권을 50% 할인받으세요.",
-    "summary": "TechCrunch Disrupt 2026 이용권 1장을 구매하고 동일한 티켓 유형의 1초를 50% 할인받으세요. 10월 13일 오전 8시 (태평양 표준시) 에 이벤트가 시작되기 전에 등록하세요.",
+    "title": "Meta Connect에서 Meta Connect의 스마트 안경은 어디에나 있었습니다.",
+    "summary": "페이스북과 인스타그램을 이끄는 이 회사는 끊임없이 성장하는 스마트 안경을 통해 소비자를 디지털 세계와 연결하고자 합니다.",
     "source": "TechCrunch",
-    "date": "2026.09.24",
-    "url": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
+    "date": "2026.09.26",
+    "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
     "tags": [
-      "테크"
+      "빅테크"
     ]
   },
   {
     "rank": 2,
-    "title": "PrismML은 Qualcomm 기반 스마트 안경에 초소형 LLM을 제공합니다",
-    "summary": "Prism의 더 큰 목표는 장치에서 실행되고 이미 가지고 있는 컴퓨팅 성능을 더 잘 활용하는 개방형 AI입니다.",
+    "title": "Crusoe, AI 데이터 센터에서 Boom 터빈을 사용하기 위해 $ 12억 5천만 계획 포기",
+    "summary": "Boom Supersonic의 CEO인 Blake Scholl은 회사의 새로운 정지 발전소가 더 이상 Crusoe의 단기 계획에 있지 않다고 말했습니다.",
     "source": "TechCrunch",
-    "date": "2026.09.24",
-    "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+    "date": "2026.09.25",
+    "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
     "tags": [
-      "AI"
-    ]
-  },
-  {
-    "rank": 3,
-    "title": "오라클, 뉴멕시코 스타게이트 데이터 센터에 불가항력 통지 발송",
-    "summary": "이 공지를 통해 오라클은 2028년 온라인 출시 목표를 달성하지 못한 경우 지불을 연기할 수 있습니다.",
-    "source": "TechCrunch",
-    "date": "2026.09.24",
-    "url": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
-    "tags": [
+      "AI",
       "규제"
     ]
   },
   {
-    "rank": 4,
-    "title": "메타의 뮤즈 참은 다마고치처럼 보이지만 훨씬 더 새로운 트렌드를 활용하고 있습니다.",
-    "summary": "메타의 새로운 AI 가젯은 다마고치처럼 보일 수 있지만, 매달려 있는 폼 팩터는 가방 매력, 복고풍 기술, 가젯을 패션 액세서리로 바꾸는 훨씬 더 광범위한 Z세대 트렌드를 활용합니다.",
+    "rank": 3,
+    "title": "보안되지 않은 OpenAI 에이전트가 실험실에서 모르는 사이에 53개의 사용자 이미지를 인터넷에 게시했습니다.",
+    "summary": "OpenAI의 연구 환경에서 활동하는 AI 에이전트는 연구실이 모르는 사이에 공개 이미지 호스팅 사이트에 사용자 이미지를 게시했습니다.",
     "source": "TechCrunch",
-    "date": "2026.09.24",
-    "url": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
+    "date": "2026.09.25",
+    "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
     "tags": [
       "AI",
+      "LLM",
+      "연구"
+    ]
+  },
+  {
+    "rank": 4,
+    "title": "Meta, 새로운 Muse 기능을 위한 선공개 프로그램 개설",
+    "summary": "가입에 관심이 있는 사람은 Muse에게 명단에 올려달라고 요청해야 합니다.",
+    "source": "TechCrunch",
+    "date": "2026.09.25",
+    "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
+    "tags": [
       "빅테크"
     ]
   },
   {
     "rank": 5,
-    "title": "Google 포토 ‘Clueless’ 에서 영감을 얻은 가상 옷장을 이제 Android 및 iOS에서 사용할 수 있습니다.",
-    "summary": "AI 기반 기능은 사진에서 가상 옷장을 구축하며, 6월에 Android 사용자에게 처음 출시된 후 광범위하게 사용할 수 있습니다.",
-    "source": "TechCrunch",
-    "date": "2026.09.24",
-    "url": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
+    "title": "삼촌의 냉동 Mac에서 Google 광고를 본 후 감염되었다고 합니다. 이제 어떻게 해야 할까요?",
+    "summary": "인터넷 곳곳에 게재되는 광고는 사람들에게 사기를 치려고 합니다.",
+    "source": "Ars Technica",
+    "date": "2026.09.25",
+    "url": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/",
     "tags": [
       "빅테크"
     ]
