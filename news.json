@@ -1,6 +1,42 @@
 [
   {
     "rank": 1,
+    "title": "Google은 인도의 Gemini 및 AI 모드를 통해 Walmart 소유의 Flipkart에서 구매를 테스트합니다.",
+    "summary": "제한된 테스트는 일부 제품과 사용자를 대상으로 하며, 10월 말에는 더 광범위한 출시가 계획되어 있습니다.",
+    "source": "TechCrunch",
+    "date": "2026.09.27",
+    "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+    "tags": [
+      "AI",
+      "LLM",
+      "빅테크"
+    ]
+  },
+  {
+    "rank": 2,
+    "title": "보험사들은 AI가 이미 의료 비용을 증가시키고 있다고 주장합니다.",
+    "summary": "블루 크로스 블루 실드 (Blue Cross Blue Shield) 는 병원에서 AI 도구를 사용하면 2 년 동안 의료 지출에 $ 942M가 추가로 지출되었다고 말합니다.",
+    "source": "TechCrunch",
+    "date": "2026.09.26",
+    "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "rank": 3,
+    "title": "나만의 인터랙티브 디지털 아바타를 만들었습니다. 대화할 수 있습니다.",
+    "summary": "대화형 아바타를 얻고 벤처 사기에 대해 논의하기 위해 훈련한 후, 나는 인공지능 복제본을 만드는 것에 대해 혼합된 감정을 가지고 있다.",
+    "source": "TechCrunch",
+    "date": "2026.09.26",
+    "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+    "tags": [
+      "AI",
+      "스타트업"
+    ]
+  },
+  {
+    "rank": 4,
     "title": "Meta Connect에서 Meta Connect의 스마트 안경은 어디에나 있었습니다.",
     "summary": "페이스북과 인스타그램을 이끄는 이 회사는 끊임없이 성장하는 스마트 안경을 통해 소비자를 디지털 세계와 연결하고자 합니다.",
     "source": "TechCrunch",
@@ -11,7 +47,7 @@
     ]
   },
   {
-    "rank": 2,
+    "rank": 5,
     "title": "Crusoe, AI 데이터 센터에서 Boom 터빈을 사용하기 위해 $ 12억 5천만 계획 포기",
     "summary": "Boom Supersonic의 CEO인 Blake Scholl은 회사의 새로운 정지 발전소가 더 이상 Crusoe의 단기 계획에 있지 않다고 말했습니다.",
     "source": "TechCrunch",
@@ -20,41 +56,6 @@
     "tags": [
       "AI",
       "규제"
-    ]
-  },
-  {
-    "rank": 3,
-    "title": "보안되지 않은 OpenAI 에이전트가 실험실에서 모르는 사이에 53개의 사용자 이미지를 인터넷에 게시했습니다.",
-    "summary": "OpenAI의 연구 환경에서 활동하는 AI 에이전트는 연구실이 모르는 사이에 공개 이미지 호스팅 사이트에 사용자 이미지를 게시했습니다.",
-    "source": "TechCrunch",
-    "date": "2026.09.25",
-    "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-    "tags": [
-      "AI",
-      "LLM",
-      "연구"
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "Meta, 새로운 Muse 기능을 위한 선공개 프로그램 개설",
-    "summary": "가입에 관심이 있는 사람은 Muse에게 명단에 올려달라고 요청해야 합니다.",
-    "source": "TechCrunch",
-    "date": "2026.09.25",
-    "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
-    "tags": [
-      "빅테크"
-    ]
-  },
-  {
-    "rank": 5,
-    "title": "삼촌의 냉동 Mac에서 Google 광고를 본 후 감염되었다고 합니다. 이제 어떻게 해야 할까요?",
-    "summary": "인터넷 곳곳에 게재되는 광고는 사람들에게 사기를 치려고 합니다.",
-    "source": "Ars Technica",
-    "date": "2026.09.25",
-    "url": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/",
-    "tags": [
-      "빅테크"
     ]
   }
 ]
