@@ -1,61 +1,60 @@
 [
   {
     "rank": 1,
-    "title": "Anthropic의 CEO가 트럼프 대통령과 저녁 식사를 하려고 합니다.",
-    "summary": "이번 미팅은 다리오 아모데이와 도널드 트럼프의 첫 일대일 미팅이 될 것입니다.",
+    "title": "Anthropic의 투자 설명서는 손실, 성장 및 예, AI가 인류를 끝낼 수 있다는 경고를 자세히 설명합니다.",
+    "summary": "투자 설명서에서 Anthropic은 투자자들에게 매년 수백억 달러의 손실을 보고 있지만 미친 듯이 성장하고 있으며, 자체 AI가 인류에게 실존적 위험을 초래할 수 있다고 말했습니다.",
     "source": "TechCrunch",
-    "date": "2026.09.27",
-    "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+    "date": "2026.09.29",
+    "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
     "tags": [
+      "AI",
       "LLM"
     ]
   },
   {
     "rank": 2,
-    "title": "Muse가 Meta의 신뢰 문제를 극복할 수 있을까요?",
-    "summary": "Equity에서는 Meta의 AI 발표가 어떻게 OpenAI와 Anthropic의 스포트라이트를 훔쳤는지에 대해 논의했습니다.",
+    "title": "피크 XV, 서지 시드 투자 한도 $ 5M로 상향 조정, 18개 스타트업 코호트 공개",
+    "summary": "피크 XV의 최신 서지 코호트의 18개 스타트업 중 13개가 글로벌 시장을 공략하고 있으며, 절반 이상이 인도에 본사를 두고 있습니다.",
     "source": "TechCrunch",
-    "date": "2026.09.27",
-    "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+    "date": "2026.09.29",
+    "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
     "tags": [
-      "AI",
-      "LLM",
-      "빅테크"
+      "스타트업"
     ]
   },
   {
     "rank": 3,
-    "title": "Anthropic의 Dario Amodei는 SNL 치료를 받습니다.",
-    "summary": "\"AI는 악마이고 나는 악마를 만드는 사람이다.\"",
+    "title": "OpenAI는 안전 문제에 대해 모델을 도랑질한다고 보고했습니다.",
+    "summary": "AI 연구소의 최고 경영자는 월스트리트 저널에 문제의 모델이 다음 명령에 대한 적성이 좋지 않다고 말했다.",
     "source": "TechCrunch",
-    "date": "2026.09.27",
-    "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+    "date": "2026.09.28",
+    "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
     "tags": [
+      "AI",
       "LLM"
     ]
   },
   {
     "rank": 4,
-    "title": "Google은 인도의 Gemini 및 AI 모드를 통해 Walmart 소유의 Flipkart에서 구매를 테스트합니다.",
-    "summary": "제한된 테스트는 일부 제품과 사용자를 대상으로 하며, 10월 말에는 더 광범위한 출시가 계획되어 있습니다.",
+    "title": "출처: 추론 제공 업체 Modal Labs, $ 15.75 B 밸류에이션으로 $ 750M 라운드 마감",
+    "summary": "새로운 자금 조달은 불과 4개월 전보다 AI 인프라 스타트업의 가치가 3배 이상 증가할 것으로 예상됩니다.",
     "source": "TechCrunch",
-    "date": "2026.09.27",
-    "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+    "date": "2026.09.28",
+    "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
     "tags": [
       "AI",
-      "LLM",
-      "빅테크"
+      "스타트업"
     ]
   },
   {
     "rank": 5,
-    "title": "보험사들은 AI가 이미 의료 비용을 증가시키고 있다고 주장합니다.",
-    "summary": "블루 크로스 블루 실드 (Blue Cross Blue Shield) 는 병원에서 AI 도구를 사용하면 2 년 동안 의료 지출에 $ 942M가 추가로 지출되었다고 말합니다.",
+    "title": "AMD는 Fei-Fei Li의 World Labs를 82억 달러 ($) 에 인수할 예정입니다.",
+    "summary": "이번 인수를 통해 World Labs의 설립자 페이페이 리 (Fei-Fei Li) 가 AMD의 총괄 부사장 겸 수석 과학자로 합류하게 됩니다.",
     "source": "TechCrunch",
-    "date": "2026.09.26",
-    "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+    "date": "2026.09.28",
+    "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
     "tags": [
-      "AI"
+      "테크"
     ]
   }
 ]
