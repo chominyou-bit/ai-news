@@ -1,34 +1,34 @@
 [
   {
     "rank": 1,
-    "title": "Anthropic의 투자 설명서는 손실, 성장 및 예, AI가 인류를 끝낼 수 있다는 경고를 자세히 설명합니다.",
-    "summary": "투자 설명서에서 Anthropic은 투자자들에게 매년 수백억 달러의 손실을 보고 있지만 미친 듯이 성장하고 있으며, 자체 AI가 인류에게 실존적 위험을 초래할 수 있다고 말했습니다.",
+    "title": "America.gov는 마인크래프트에 대해 물어보면 정말 이상해지지만 결함은 아닙니다.",
+    "summary": "국가 안보를 위해 America.gov가 긴 시를 쓰고 있다는 것을 알면 안심할 수 있습니다.",
     "source": "TechCrunch",
     "date": "2026.09.29",
-    "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+    "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
+    "tags": [
+      "보안"
+    ]
+  },
+  {
+    "rank": 2,
+    "title": "인터넷은 Elon Musk의 xAI가 OpenAI의 ‘Dots‘ 출시를 조종했다고 확신합니다.",
+    "summary": "OpenAI가 화요일에 새로운 AI 에이전트인 Dots를 출시하기 전에 Elon Musk의 xAI는 이미 Grok 챗봇 다운로드 페이지로 리디렉션되는 도메인 이름 \"dot.com\" 을 인수했습니다.",
+    "source": "TechCrunch",
+    "date": "2026.09.29",
+    "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
     "tags": [
       "AI",
       "LLM"
     ]
   },
   {
-    "rank": 2,
-    "title": "피크 XV, 서지 시드 투자 한도 $ 5M로 상향 조정, 18개 스타트업 코호트 공개",
-    "summary": "피크 XV의 최신 서지 코호트의 18개 스타트업 중 13개가 글로벌 시장을 공략하고 있으며, 절반 이상이 인도에 본사를 두고 있습니다.",
+    "rank": 3,
+    "title": "OpenAI의 최신 기능은 앱 스토어 모델을 직접 겨냥합니다",
+    "summary": "OpenAI는 기존 앱 스토어 모델에 대한 대안의 조각을 구축하여 ChatGPT를 사람과 AI 에이전트 모두가 소프트웨어를 발견하고 사용할 수 있는 장소로 바꾸고 있습니다.",
     "source": "TechCrunch",
     "date": "2026.09.29",
-    "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
-    "tags": [
-      "스타트업"
-    ]
-  },
-  {
-    "rank": 3,
-    "title": "OpenAI는 안전 문제에 대해 모델을 도랑질한다고 보고했습니다.",
-    "summary": "AI 연구소의 최고 경영자는 월스트리트 저널에 문제의 모델이 다음 명령에 대한 적성이 좋지 않다고 말했다.",
-    "source": "TechCrunch",
-    "date": "2026.09.28",
-    "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+    "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
     "tags": [
       "AI",
       "LLM"
@@ -36,25 +36,26 @@
   },
   {
     "rank": 4,
-    "title": "출처: 추론 제공 업체 Modal Labs, $ 15.75 B 밸류에이션으로 $ 750M 라운드 마감",
-    "summary": "새로운 자금 조달은 불과 4개월 전보다 AI 인프라 스타트업의 가치가 3배 이상 증가할 것으로 예상됩니다.",
+    "title": "OpenAI는 $ 1.4T 밸류에이션으로 $ 30B 라운드 조달을 위한 간담회에서 보고된 바 있습니다.",
+    "summary": "새로운 라운드는 2027년 공개 데뷔가 지연되기 전 회사의 마지막 라운드가 될 것으로 예상됩니다.",
     "source": "TechCrunch",
-    "date": "2026.09.28",
-    "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+    "date": "2026.09.29",
+    "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
     "tags": [
-      "AI",
-      "스타트업"
+      "LLM"
     ]
   },
   {
     "rank": 5,
-    "title": "AMD는 Fei-Fei Li의 World Labs를 82억 달러 ($) 에 인수할 예정입니다.",
-    "summary": "이번 인수를 통해 World Labs의 설립자 페이페이 리 (Fei-Fei Li) 가 AMD의 총괄 부사장 겸 수석 과학자로 합류하게 됩니다.",
+    "title": "OpenAI가 악의적인 AI 에이전트를 끝내기 위한 엔비디아의 업계 전반의 노력에서 빠진 이유는 다음과 같습니다.",
+    "summary": "OpenAI는 Nvidia의 Open Agent Safety Platform의 공개 후원자는 아니지만 Nvidia와 개인적으로 협력하고 있습니다. TechCrunch는 알게 되었습니다.",
     "source": "TechCrunch",
-    "date": "2026.09.28",
-    "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
+    "date": "2026.09.29",
+    "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
     "tags": [
-      "테크"
+      "AI",
+      "LLM",
+      "반도체"
     ]
   }
 ]
