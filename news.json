@@ -1,61 +1,60 @@
 [
   {
     "rank": 1,
-    "title": "America.gov는 마인크래프트에 대해 물어보면 정말 이상해지지만 결함은 아닙니다.",
-    "summary": "국가 안보를 위해 America.gov가 긴 시를 쓰고 있다는 것을 알면 안심할 수 있습니다.",
+    "title": "Google은 가장 강력한 모델이라고 불리는 Gemini 4 Argon을 출시합니다.",
+    "summary": "Google은 최신 Gemini 모델을 출시하여 코딩 및 사이버 보안 작업을 위한 워크호스로 마케팅하고 있습니다.",
     "source": "TechCrunch",
-    "date": "2026.09.29",
-    "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
+    "date": "2026.09.30",
+    "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
     "tags": [
+      "LLM",
+      "빅테크",
       "보안"
     ]
   },
   {
     "rank": 2,
-    "title": "인터넷은 Elon Musk의 xAI가 OpenAI의 ‘Dots‘ 출시를 조종했다고 확신합니다.",
-    "summary": "OpenAI가 화요일에 새로운 AI 에이전트인 Dots를 출시하기 전에 Elon Musk의 xAI는 이미 Grok 챗봇 다운로드 페이지로 리디렉션되는 도메인 이름 \"dot.com\" 을 인수했습니다.",
+    "title": "Valor, Atreides 및 Sequoia는 AI 스타트업 Flow Engineering을 $ 750M 가치 평가로 후원합니다.",
+    "summary": "AI 에이전트를 하드웨어 설계에 도입하고 있는 Flow Engineering은 또한 Roelof Botha를 엔젤 투자자이자 이사회 멤버로 영입했습니다.",
     "source": "TechCrunch",
-    "date": "2026.09.29",
-    "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+    "date": "2026.09.30",
+    "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
     "tags": [
       "AI",
-      "LLM"
+      "스타트업"
     ]
   },
   {
     "rank": 3,
-    "title": "OpenAI의 최신 기능은 앱 스토어 모델을 직접 겨냥합니다",
-    "summary": "OpenAI는 기존 앱 스토어 모델에 대한 대안의 조각을 구축하여 ChatGPT를 사람과 AI 에이전트 모두가 소프트웨어를 발견하고 사용할 수 있는 장소로 바꾸고 있습니다.",
-    "source": "TechCrunch",
-    "date": "2026.09.29",
-    "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+    "title": "공격자들은 이메일을 훔치기 위해 치명적인 Zimbra 결함을 악용하고 있습니다.",
+    "summary": "간단한 이메일을 통해 공격자는 OS 명령을 원격으로 주입할 수 있습니다.",
+    "source": "Ars Technica",
+    "date": "2026.09.30",
+    "url": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/",
     "tags": [
-      "AI",
-      "LLM"
+      "규제"
     ]
   },
   {
     "rank": 4,
-    "title": "OpenAI는 $ 1.4T 밸류에이션으로 $ 30B 라운드 조달을 위한 간담회에서 보고된 바 있습니다.",
-    "summary": "새로운 라운드는 2027년 공개 데뷔가 지연되기 전 회사의 마지막 라운드가 될 것으로 예상됩니다.",
+    "title": "OpenAI의 Jev 클론은 프론티어 랩이 군집 요원을 막는 데 도움이 될 수 있습니다.",
+    "summary": "OpenAI의 \"Decisions API\" 는 빠르고 저렴한 인텔리전스의 중요성을 확인하는 JEV 클론입니다.",
     "source": "TechCrunch",
-    "date": "2026.09.29",
-    "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+    "date": "2026.09.30",
+    "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
     "tags": [
       "LLM"
     ]
   },
   {
     "rank": 5,
-    "title": "OpenAI가 악의적인 AI 에이전트를 끝내기 위한 엔비디아의 업계 전반의 노력에서 빠진 이유는 다음과 같습니다.",
-    "summary": "OpenAI는 Nvidia의 Open Agent Safety Platform의 공개 후원자는 아니지만 Nvidia와 개인적으로 협력하고 있습니다. TechCrunch는 알게 되었습니다.",
+    "title": "AI 음성 스타트업 ElevenLabs, $ 22B로 밸류에이션 2배 증가",
+    "summary": "$ 300 million 직원 입찰은 Wellington과 T. Rowe Price가 공동으로 주도했습니다.",
     "source": "TechCrunch",
-    "date": "2026.09.29",
-    "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+    "date": "2026.09.30",
+    "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
     "tags": [
-      "AI",
-      "LLM",
-      "반도체"
+      "스타트업"
     ]
   }
 ]
