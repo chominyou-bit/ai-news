@@ -1,59 +1,59 @@
 [
   {
     "rank": 1,
-    "title": "머스크의 인공지능 챗봇 그록 (Grok) 은 트럼프가 베네수엘라의 대통령을 사로잡도록 독려한 것으로 전해졌다.",
-    "summary": "트럼프 대통령은 베네수엘라를 침공하고 니콜라스 마두로를 체포하기 전에 그록의 의견을 요청한 것으로 전해졌다.",
+    "title": "Meta는 다음 가젯이 Muse 주입되기를 원합니다",
+    "summary": "Meta는 TV와 토스터에서 Muse를 원하므로 무료로 코드를 제공합니다.",
     "source": "TechCrunch",
-    "date": "2026.10.01",
-    "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+    "date": "2026.10.03",
+    "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+    "tags": [
+      "빅테크"
+    ]
+  },
+  {
+    "rank": 2,
+    "title": "Apple은 AI 상담원의 악용을 억제하기 위해 전체 디스크 액세스 권한을 변경합니다.",
+    "summary": "메타는 FDA가 읽기 메시지를 뮤즈하기에 충분하지 않다고 말합니다. 애플은 달라지기를 간청한다.",
+    "source": "Ars Technica",
+    "date": "2026.10.02",
+    "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+    "tags": [
+      "AI",
+      "빅테크"
+    ]
+  },
+  {
+    "rank": 3,
+    "title": "Sean Parker는 음악을 중심으로 안정성 AI를 재구축하고 있습니다.",
+    "summary": "한때 음악 업계에 용서를 구하는 것이 어떤 것인지 가르쳤던 숀 파커는 이제 레이블의 축복과 돈으로 돌아왔습니다.",
+    "source": "TechCrunch",
+    "date": "2026.10.02",
+    "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
     "tags": [
       "AI"
     ]
   },
   {
-    "rank": 2,
-    "title": "한 달 동안 2 개의 연방 기관을 해킹하여 민감한 데이터가 쏟아졌습니다.",
-    "summary": "연방 정부 사이버 보안에 안 좋은 달이었습니다.",
-    "source": "Ars Technica",
-    "date": "2026.10.01",
-    "url": "https://arstechnica.com/security/2026/10/hacks-of-2-federal-agencies-in-a-month-have-spilled-a-bonanza-of-sensitive-data/",
-    "tags": [
-      "보안"
-    ]
-  },
-  {
-    "rank": 3,
-    "title": "ChatGPT는 이제 가상으로 옷을 입어볼 수 있습니다",
-    "summary": "OpenAI는 사용자가 자신의 사진을 사용하여 의류 및 액세서리를 가상으로 착용하고 좋아하는 제품을 즐겨찾기 라이브러리에 저장할 수 있는 ChatGPT를 위한 새로운 쇼핑 기능을 출시합니다.",
-    "source": "TechCrunch",
-    "date": "2026.10.01",
-    "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
-    "tags": [
-      "LLM"
-    ]
-  },
-  {
     "rank": 4,
-    "title": "Google은 SpaceX의 우주선이 우주 데이터 센터가 착륙하기 전에 1,800번 발사해야 한다고 생각합니다.",
-    "summary": "Google은 우주 데이터 센터를 위한 길을 열어주기 위해 최초의 첨단 칩을 궤도에 올렸습니다.",
+    "title": "정리해고로 어려움을 겪고 계신가요? TechCrunch Disrupt 2026 Expo + Pass의 $ 75 할인을 놓치지 마세요",
+    "summary": "다음 기회는 한 번의 대화가 될 수 있습니다. 엑스포 + 패스를 단돈 $ 75에 구매하세요. 자격을 갖춘 선착순 100명으로 제한됩니다.",
     "source": "TechCrunch",
-    "date": "2026.10.01",
-    "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
+    "date": "2026.10.02",
+    "url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
     "tags": [
-      "반도체",
-      "빅테크"
+      "테크"
     ]
   },
   {
     "rank": 5,
-    "title": "WSJ에 따르면 OpenAI는 안전 연구원 3명과의 관계를 단절합니다.",
-    "summary": "보고서에 따르면 OpenAI는 내부 조사에서 민감한 회사 정보를 잘못 취급한 것으로 밝혀진 후 세 명의 안전 연구원과 헤어졌습니다.",
+    "title": "Apple은 AI 에이전트의 새로운 위험으로 인해 macOS ‘전체 디스크 액세스’ 제어를 강화하고 있다고 말합니다.",
+    "summary": "Apple은 macOS의 전체 디스크 액세스 권한에 대한 새로운 제어 기능을 추가하여 점점 더 유능해지는 AI 에이전트가 사용자의 파일, 메시지, 메일 및 인터넷 사용 기록 위험에 대한 광범위한 액세스를 허용할 것이라고 경고합니다.",
     "source": "TechCrunch",
-    "date": "2026.10.01",
-    "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+    "date": "2026.10.02",
+    "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
     "tags": [
-      "LLM",
-      "연구"
+      "AI",
+      "빅테크"
     ]
   }
 ]
