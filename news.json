@@ -1,6 +1,40 @@
 [
   {
     "rank": 1,
+    "title": "Amazon은 데이터 센터의 반발에 대응하며 더 이상 NDA를 사용하지 않는다고 말합니다.",
+    "summary": "Amazon Web Services의 CEO는 데이터 센터에 대한 광범위한 의혹에 대해 반발하려고 했습니다.",
+    "source": "TechCrunch",
+    "date": "2026.10.03",
+    "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+    "tags": [
+      "빅테크"
+    ]
+  },
+  {
+    "rank": 2,
+    "title": "OpenAI 안전 직원은 회사의 ‘문화가 깨졌다‘ 고 주장하며 사임합니다.",
+    "summary": "데이비드 로빈슨 (David Robinson) 은 자신의 인정으로 \"진부한 것\" 입니다. 직장에서 사임하면서 끔찍한 경고를 내리는 선도적인 AI 회사의 직원입니다.",
+    "source": "TechCrunch",
+    "date": "2026.10.03",
+    "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+    "tags": [
+      "AI",
+      "LLM"
+    ]
+  },
+  {
+    "rank": 3,
+    "title": "문자 메시지에 포함될 수 있는 모든 AI 상담원",
+    "summary": "일반 도우미부터 가족, 여행 및 직장을 위해 설계된 상담원에 이르기까지 문자 메시지에 포함될 수 있는 가장 주목할 만한 AI 상담원 목록을 만들었습니다.",
+    "source": "TechCrunch",
+    "date": "2026.10.03",
+    "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "rank": 4,
     "title": "Meta는 다음 가젯이 Muse 주입되기를 원합니다",
     "summary": "Meta는 TV와 토스터에서 Muse를 원하므로 무료로 코드를 제공합니다.",
     "source": "TechCrunch",
@@ -11,46 +45,12 @@
     ]
   },
   {
-    "rank": 2,
+    "rank": 5,
     "title": "Apple은 AI 상담원의 악용을 억제하기 위해 전체 디스크 액세스 권한을 변경합니다.",
     "summary": "메타는 FDA가 읽기 메시지를 뮤즈하기에 충분하지 않다고 말합니다. 애플은 달라지기를 간청한다.",
     "source": "Ars Technica",
     "date": "2026.10.02",
     "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
-    "tags": [
-      "AI",
-      "빅테크"
-    ]
-  },
-  {
-    "rank": 3,
-    "title": "Sean Parker는 음악을 중심으로 안정성 AI를 재구축하고 있습니다.",
-    "summary": "한때 음악 업계에 용서를 구하는 것이 어떤 것인지 가르쳤던 숀 파커는 이제 레이블의 축복과 돈으로 돌아왔습니다.",
-    "source": "TechCrunch",
-    "date": "2026.10.02",
-    "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "정리해고로 어려움을 겪고 계신가요? TechCrunch Disrupt 2026 Expo + Pass의 $ 75 할인을 놓치지 마세요",
-    "summary": "다음 기회는 한 번의 대화가 될 수 있습니다. 엑스포 + 패스를 단돈 $ 75에 구매하세요. 자격을 갖춘 선착순 100명으로 제한됩니다.",
-    "source": "TechCrunch",
-    "date": "2026.10.02",
-    "url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
-    "tags": [
-      "테크"
-    ]
-  },
-  {
-    "rank": 5,
-    "title": "Apple은 AI 에이전트의 새로운 위험으로 인해 macOS ‘전체 디스크 액세스’ 제어를 강화하고 있다고 말합니다.",
-    "summary": "Apple은 macOS의 전체 디스크 액세스 권한에 대한 새로운 제어 기능을 추가하여 점점 더 유능해지는 AI 에이전트가 사용자의 파일, 메시지, 메일 및 인터넷 사용 기록 위험에 대한 광범위한 액세스를 허용할 것이라고 경고합니다.",
-    "source": "TechCrunch",
-    "date": "2026.10.02",
-    "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
     "tags": [
       "AI",
       "빅테크"
