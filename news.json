@@ -1,60 +1,59 @@
 [
   {
     "rank": 1,
-    "title": "Google은 AI 제출의 ‘급격한 증가‘ 로 인해 오픈 소스 버그 바운티 프로그램을 중단했습니다.",
-    "summary": "AI slop은 버그 바운티 프로그램을 압도하는 것 같습니다.",
-    "source": "TechCrunch",
-    "date": "2026.10.04",
-    "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-    "tags": [
-      "AI",
-      "빅테크",
-      "오픈소스"
-    ]
-  },
-  {
-    "rank": 2,
-    "title": "‘슈퍼 인텔리전스’ 와 구속력이 없는 안전 협정이 인공지능의 이미지 문제를 해결할 수 있을까?",
-    "summary": "Equity에서는 트럼프 행정부의 AI 브랜드 변경 시도에 대해 논의했습니다.",
-    "source": "TechCrunch",
-    "date": "2026.10.04",
-    "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+    "title": "상담원 간 커뮤니케이션을 위한 MCP는 지금까지 들어본 적이 없는 가장 위험한 프로토콜일 수 있습니다.",
+    "summary": "새로운 프로토콜의 신뢰 격차는 악의적인 프롬프트를 한 에이전트에서 다른 에이전트로 확산시킵니다.",
+    "source": "Ars Technica",
+    "date": "2026.10.05",
+    "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
     "tags": [
       "테크"
     ]
   },
   {
-    "rank": 3,
-    "title": "트럼프, 새로운 슈퍼 인텔리전스 포스 공개",
-    "summary": "이 새로운 태스크포스는 인공지능 안전에 대한 논쟁에 대한 트럼프의 최근 대응이다.",
+    "rank": 2,
+    "title": "OpenAI는 EU에서 ChatGPT의 텍스트를 워터마킹하기 시작합니다.",
+    "summary": "OpenAI는 AI 법을 준수하기 위해 EU에서 ChatGPT 및 Codex 텍스트에 워터마크를 표시합니다. 편집하면 보이지 않는 자국을 감지하기가 더 어려워질 수 있다고 말합니다.",
     "source": "TechCrunch",
-    "date": "2026.10.04",
-    "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+    "date": "2026.10.05",
+    "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+    "tags": [
+      "AI",
+      "LLM",
+      "규제"
+    ]
+  },
+  {
+    "rank": 3,
+    "title": "Reflection은 낮은 컴퓨팅 비용으로 중국 모델과 경쟁할 수 있는 개방형 AI 모델인 Beam을 선보입니다.",
+    "summary": "성찰은 기업과 주권 국가를 대상으로 빔과 미래 모델을 목표로 합니다. \"AI 공장\" 을 구축하는 것이 목표입니다. 이 제품을 통해 기관은 자체 맞춤형 지역 AI 시스템을 구축할 수 있습니다.",
+    "source": "TechCrunch",
+    "date": "2026.10.05",
+    "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
     "tags": [
       "AI"
     ]
   },
   {
     "rank": 4,
-    "title": "Amazon은 데이터 센터의 반발에 대응하며 더 이상 NDA를 사용하지 않는다고 말합니다.",
-    "summary": "Amazon Web Services의 CEO는 데이터 센터에 대한 광범위한 의혹에 대해 반발하려고 했습니다.",
+    "title": "Instinct는 계정이 없는 친구에게도 AI 에이전트를 그룹 채팅에 제공합니다.",
+    "summary": "Instinct는 여행 계획, 카풀 조직, 이벤트 조정과 같은 작업에 친구들이 AI 에이전트를 함께 사용할 수 있는 그룹 채팅을 시작합니다. 회사는 개인 계정이 SEPA로 유지된다고 말합니다.",
     "source": "TechCrunch",
-    "date": "2026.10.03",
-    "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+    "date": "2026.10.05",
+    "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
     "tags": [
-      "빅테크"
+      "AI"
     ]
   },
   {
     "rank": 5,
-    "title": "OpenAI 안전 직원은 회사의 ‘문화가 깨졌다‘ 고 주장하며 사임합니다.",
-    "summary": "데이비드 로빈슨 (David Robinson) 은 자신의 인정으로 \"진부한 것\" 입니다. 직장에서 사임하면서 끔찍한 경고를 내리는 선도적인 AI 회사의 직원입니다.",
+    "title": "TikTok은 AI 쇼핑 도우미를 출시하고 원클릭 결제",
+    "summary": "TikTok은 새로운 쇼핑 도우미를 사용자가 제품을 발견하고 구매할 수 있도록 설계된 대화형 AI 에이전트로 설명합니다.",
     "source": "TechCrunch",
-    "date": "2026.10.03",
-    "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+    "date": "2026.10.05",
+    "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
     "tags": [
-      "AI",
-      "LLM"
+      "AI"
     ]
   }
 ]
