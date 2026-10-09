@@ -1,61 +1,61 @@
 [
   {
     "rank": 1,
-    "title": "Nous Research, $ 1.5B 밸류에이션 달성 확인, 비즈니스 사용자를 위한 AI 에이전트 출시",
-    "summary": "에르메스 에이전트 개발자는 $ 9,000,000 시리즈 B를 모금했습니다.",
+    "title": "이상하게도 상세한 웹사이트의 엘리자베스 홈즈의 책상에 앉아있는 척하십시오.",
+    "summary": "미국 대 엘리자베스 홈즈 재판에서 수천 개가 넘는 이메일, 슬라이드, 텍스트 및 문서를 보유한 익스텐드 엔지니어 보 라우 (Bo Lau) 는 소총을 모방 한 웹 사이트를 만들었습니다.",
     "source": "TechCrunch",
-    "date": "2026.10.07",
-    "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+    "date": "2026.10.08",
+    "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
     "tags": [
-      "AI",
-      "스타트업",
-      "연구"
+      "테크"
     ]
   },
   {
     "rank": 2,
-    "title": "Microsoft, Windows 11이 개편된 새로운 Nvidia 칩 AI PC 출시",
-    "summary": "Microsoft는 AI 모델 및 에이전트를 실행하도록 설계된 Nvidia 칩에서 실행되는 Surface Laptop Ultra, AI PC의 사양 및 가격을 공개했습니다.",
+    "title": "해고된 OpenAI 안전 연구원은 부정행위 주장에 이의를 제기하고, 냉기 효과에 대해 경고합니다.",
+    "summary": "해고된 OpenAI 안전 연구원 3명이 민감한 정보를 잘못 취급했다는 주장에 이의를 제기하고, 공개 서한에서 해고가 회사의 AI 금고에 오싹한 영향을 미치고 있다고 경고합니다.",
     "source": "TechCrunch",
-    "date": "2026.10.07",
-    "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+    "date": "2026.10.08",
+    "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
     "tags": [
       "AI",
-      "반도체",
-      "빅테크"
+      "LLM",
+      "연구"
     ]
   },
   {
     "rank": 3,
-    "title": "Meta's Muse는 모바일 데뷔 후 불과 한 달 만에 iPad에서 출시됩니다.",
-    "summary": "Meta의 AI 에이전트 Muse는 이제 모바일 데뷔 후 한 달 만에 iPad에서 사용할 수 있습니다. 이 회사는 어시스턴트의 범위와 통합을 빠르게 확장합니다.",
+    "title": "Ben Affleck은 인공 지능 괴짜이며 인터넷은 인상적입니다.",
+    "summary": "Ben Affleck은 신경망과 트랜스포머에서 오픈 웨이트에 이르기까지 AI에 대한 깊은 지식으로 인해 화제가 되고 있습니다. 올해 초 자신의 인공지능 영화 제작 스타트업을 넷플릭스에 매각한 배우가",
     "source": "TechCrunch",
-    "date": "2026.10.07",
-    "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+    "date": "2026.10.08",
+    "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
     "tags": [
       "AI",
-      "빅테크"
+      "스타트업",
+      "규제"
     ]
   },
   {
     "rank": 4,
-    "title": "청소년을 위한 ChatGPT는 정신 건강 위기 중에도 청소년이 계속 이야기할 수 있도록 합니다.",
-    "summary": "ChatGPT의 청소년 보호 조치는 취약한 사용자를 보호하기 위한 것이지만, 새로운 테스트에 따르면 챗봇은 위기 동안 참여를 계속 장려하고 잠재적으로 건강에 해로운 관계를 장려합니다.",
+    "title": "인기 AI 리더보드 아레나, 10개월 만에 밸류에이션이 $ 3.1B로 거의 두 배 증가",
+    "summary": "인기있는 LMArena 리더 보드의 배후에있는 회사는 Lightspeed와 Khosla가 이끄는 $ 2 억을 모금했으며 현재 거짓말과 같은 정렬 문제에 대해 AI 모델을 측정하고 있습니다.",
     "source": "TechCrunch",
-    "date": "2026.10.07",
-    "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+    "date": "2026.10.08",
+    "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
     "tags": [
-      "LLM"
+      "AI"
     ]
   },
   {
     "rank": 5,
-    "title": "ChatGPT는 새로운 인터페이스의 출시와 함께 훨씬 더 시각화되고 있습니다.",
-    "summary": "OpenAI는 대화형 비주얼을 ChatGPT에 가져올 새로운 사용자 인터페이스를 출시합니다.",
+    "title": "OpenAI의 매출은 이전에 예상했던 것보다 $ 200억 적다고 합니다.",
+    "summary": "이전에는 AI 연구소의 연간 매출이 약 700억 달러 ($) 였다고 보고되었지만, 새로운 보고서에 따르면 그보다 훨씬 적다고 합니다.",
     "source": "TechCrunch",
-    "date": "2026.10.07",
-    "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+    "date": "2026.10.08",
+    "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
     "tags": [
+      "AI",
       "LLM"
     ]
   }
