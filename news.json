@@ -1,62 +1,59 @@
 [
   {
     "rank": 1,
-    "title": "이상하게도 상세한 웹사이트의 엘리자베스 홈즈의 책상에 앉아있는 척하십시오.",
-    "summary": "미국 대 엘리자베스 홈즈 재판에서 수천 개가 넘는 이메일, 슬라이드, 텍스트 및 문서를 보유한 익스텐드 엔지니어 보 라우 (Bo Lau) 는 소총을 모방 한 웹 사이트를 만들었습니다.",
+    "title": "Anthropic은 AI 에이전트를 안정적으로 제어할 수 없습니다. 대신 실시간 인터넷에서 내부 Evals를 차단하고 있습니다.",
+    "summary": "Anthropic은 추가 공지가 있을 때까지 \"모든 내부 평가\" 에 대해 \"실시간 인터넷 액세스를 차단\" 했다고 말했습니다.",
     "source": "TechCrunch",
-    "date": "2026.10.08",
-    "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+    "date": "2026.10.10",
+    "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
     "tags": [
-      "테크"
+      "AI",
+      "LLM"
     ]
   },
   {
     "rank": 2,
-    "title": "해고된 OpenAI 안전 연구원은 부정행위 주장에 이의를 제기하고, 냉기 효과에 대해 경고합니다.",
-    "summary": "해고된 OpenAI 안전 연구원 3명이 민감한 정보를 잘못 취급했다는 주장에 이의를 제기하고, 공개 서한에서 해고가 회사의 AI 금고에 오싹한 영향을 미치고 있다고 경고합니다.",
+    "title": "텍스트가 아닌 AI 모델 JEV의 제조업체는 출시 직후 $ 7.5B를 평가했습니다.",
+    "summary": "사용자와 대기업이 JEV에 대해 매우 흥분하고 있는 것은 TypeSafe가 LLM보다 훨씬 빠르게 작동하고 토큰을 훨씬 적게 사용한다는 주장입니다.",
     "source": "TechCrunch",
-    "date": "2026.10.08",
-    "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-    "tags": [
-      "AI",
-      "LLM",
-      "연구"
-    ]
-  },
-  {
-    "rank": 3,
-    "title": "Ben Affleck은 인공 지능 괴짜이며 인터넷은 인상적입니다.",
-    "summary": "Ben Affleck은 신경망과 트랜스포머에서 오픈 웨이트에 이르기까지 AI에 대한 깊은 지식으로 인해 화제가 되고 있습니다. 올해 초 자신의 인공지능 영화 제작 스타트업을 넷플릭스에 매각한 배우가",
-    "source": "TechCrunch",
-    "date": "2026.10.08",
-    "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
-    "tags": [
-      "AI",
-      "스타트업",
-      "규제"
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "인기 AI 리더보드 아레나, 10개월 만에 밸류에이션이 $ 3.1B로 거의 두 배 증가",
-    "summary": "인기있는 LMArena 리더 보드의 배후에있는 회사는 Lightspeed와 Khosla가 이끄는 $ 2 억을 모금했으며 현재 거짓말과 같은 정렬 문제에 대해 AI 모델을 측정하고 있습니다.",
-    "source": "TechCrunch",
-    "date": "2026.10.08",
-    "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+    "date": "2026.10.09",
+    "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
     "tags": [
       "AI"
     ]
   },
   {
-    "rank": 5,
-    "title": "OpenAI의 매출은 이전에 예상했던 것보다 $ 200억 적다고 합니다.",
-    "summary": "이전에는 AI 연구소의 연간 매출이 약 700억 달러 ($) 였다고 보고되었지만, 새로운 보고서에 따르면 그보다 훨씬 적다고 합니다.",
+    "rank": 3,
+    "title": "Anthropic AI 모델이 필라델피아 경찰에 허위 살인 제보를 보냈습니다.",
+    "summary": "Anthropic은 AI가 거짓 팁을 제출한 후 2개월이 넘도록 이러한 행동을 발견하지 못했습니다.",
     "source": "TechCrunch",
-    "date": "2026.10.08",
-    "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+    "date": "2026.10.09",
+    "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
     "tags": [
       "AI",
       "LLM"
+    ]
+  },
+  {
+    "rank": 4,
+    "title": "PC 출하량은 2023년 1분기 이후 \"가장 급격한 감소\" 로 20.1% 하락",
+    "summary": "\"현재 하락은 새로운 하락 사이클의 시작에 불과할 수 있습니다.\"",
+    "source": "Ars Technica",
+    "date": "2026.10.09",
+    "url": "https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023/",
+    "tags": [
+      "테크"
+    ]
+  },
+  {
+    "rank": 5,
+    "title": "아마존 등은 데이터 센터 거래를 비밀로 유지하고 있습니다. 신뢰를 쌓기에 충분합니까?",
+    "summary": "아마존은 올해 초 마이크로소프트의 비슷한 움직임에 따라 현지 정부와 데이터 센터 계약을 협상할 때 NDA 사용을 중단할 것이라고 밝혔다. Secrecy는 회사에 연료를 공급했습니다",
+    "source": "TechCrunch",
+    "date": "2026.10.09",
+    "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+    "tags": [
+      "빅테크"
     ]
   }
 ]
