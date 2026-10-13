@@ -1,59 +1,63 @@
 [
   {
     "rank": 1,
-    "title": "HomeView가 Apple의 첫 번째 스마트 홈 성공이 될까요?",
-    "summary": "지난 몇 년 동안 Apple이 새로운 스마트 홈 제품을 개발하고 있다는 보고가 여러 건 있었지만, 이제 제품에 이름과 출시 날짜가 있는 것 같습니다.",
+    "title": "Meta, 첫 번째 프론티어 모델 Muse Wonder 출시",
+    "summary": "Muse Spark가 낮은 지연 시간에서 성능을 발휘할 수 있는 경량 모델을 목표로 한 경우, Wonder 모델은 더 크고 더 높은 벤치마크 점수와 더 나은 결과를 얻을 수 있다고 합니다.",
     "source": "TechCrunch",
-    "date": "2026.10.11",
-    "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+    "date": "2026.10.12",
+    "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
     "tags": [
-      "빅테크"
+      "빅테크",
+      "연구"
     ]
   },
   {
     "rank": 2,
-    "title": "TechCrunch Disrupt 2026까지 48시간 — 다음 단계에 대한 사람들의 의견을 직접 들어보세요",
-    "summary": "TechCrunch Disrupt 2026은 샌프란시스코의 모스콘 웨스트에서 48시간 이내에 시작됩니다. 문 앞에서 요금이 인상되기 전에 이용권을 최대 $ 100 할인받고, 두 번째 이용권을 50% 할인받으세요. 또는 다른 거래 점수 매기기",
+    "title": "WindBorne은 풍선 데이터로 무거운 미 공군 계약을 따냅니다",
+    "summary": "날씨를 예측하기 위해 기상 풍선과 AI를 사용하는 실리콘 밸리의 한 스타트업은 거의 5천만 달러 상당의 미군 계약을 따냈습니다. $",
     "source": "TechCrunch",
-    "date": "2026.10.11",
-    "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
+    "date": "2026.10.12",
+    "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
     "tags": [
-      "테크"
+      "AI",
+      "스타트업"
     ]
   },
   {
     "rank": 3,
-    "title": "AI 산업은 NDA를 제거하여 데이터 센터 상대를 설득할 수 있습니까?",
-    "summary": "Equity에서는 데이터 센터 모라토리엄의 영향과 AI 산업에 통신 문제가 있는지 여부를 논의합니다.",
+    "title": "Honeyjar는 모든 회사의 PR 및 커뮤니케이션을 개선하는 AI 도구를 제공합니다.",
+    "summary": "언론인, 기업가, 심지어 일부 홍보 전문가도 PR 프로세스가 깨졌다고 말할 것입니다. 하지만 인공지능이 실제로 상황을 개선할 수 있을까요?",
     "source": "TechCrunch",
-    "date": "2026.10.11",
-    "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+    "date": "2026.10.12",
+    "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
     "tags": [
-      "AI"
+      "AI",
+      "규제"
     ]
   },
   {
     "rank": 4,
-    "title": "이 임원들은 음성 AI가 아직 ChatGPT 순간에 도달하지 않았다고 생각합니다.",
-    "summary": "음성 AI는 종종 컨텍스트 계층의 중요한 포인트를 놓쳐 전체 파이프라인이 깨지는 원인이 됩니다.",
+    "title": "Microsoft 사장은 영국이 AI 규제를 추진하는 데 가장 적합하다고 말합니다.",
+    "summary": "브래드 스미스 (Brad Smith) 마이크로소프트 회장은 우유와 세탁기가 AI 회사보다 더 많은 감독을 받고 있다고 말하면서 긴급한 AI 규제를 촉구한다.",
     "source": "TechCrunch",
-    "date": "2026.10.11",
-    "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+    "date": "2026.10.12",
+    "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
     "tags": [
       "AI",
-      "LLM"
+      "빅테크",
+      "규제"
     ]
   },
   {
     "rank": 5,
-    "title": "Microsoft의 Satya Nadella는 AI 모델에 ‘비상 브레이크‘ 가 필요하다고 말합니다.",
-    "summary": "토요일 아침 게시물에서 Microsoft의 CEO는 AI의 \"신뢰 아키텍처를 평가하고 평가할 때\" 라고 썼습니다.",
+    "title": "이 AI 스타트업은 몇 분 안에 허가 준비 청사진을 생성할 수 있다고 말합니다.",
+    "summary": "산타모니카에 기반을 둔 부트스트랩 스타트업인 Blueprints AI는 사진, PDF 또는 스케치에서 코드 준수 건설 청사진을 생성하는 소프트웨어를 개발했습니다.",
     "source": "TechCrunch",
-    "date": "2026.10.10",
-    "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+    "date": "2026.10.12",
+    "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
     "tags": [
       "AI",
-      "빅테크"
+      "스타트업"
     ]
   }
 ]
