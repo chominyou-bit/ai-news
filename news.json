@@ -1,63 +1,59 @@
 [
   {
     "rank": 1,
-    "title": "Meta, 첫 번째 프론티어 모델 Muse Wonder 출시",
-    "summary": "Muse Spark가 낮은 지연 시간에서 성능을 발휘할 수 있는 경량 모델을 목표로 한 경우, Wonder 모델은 더 크고 더 높은 벤치마크 점수와 더 나은 결과를 얻을 수 있다고 합니다.",
+    "title": "Science Corporation은 첫 번째 Stargardt 질환 환자에게 시력 회복 칩을 이식합니다.",
+    "summary": "뉴럴링크의 전 사장 겸 공동 설립자인 맥스 호닥 (Max Hodak) 은 테크크런치 (TechCrunch) 무대에서 상세히 설명합니다. 프리마를 사용한 그의 회사가 어떻게 새로운 뇌-컴퓨터 인터페이스 (BCI) 를 향한 길의 일부인지 방해합니다.",
     "source": "TechCrunch",
-    "date": "2026.10.12",
-    "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+    "date": "2026.10.13",
+    "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
     "tags": [
-      "빅테크",
-      "연구"
+      "AI",
+      "반도체",
+      "규제"
     ]
   },
   {
     "rank": 2,
-    "title": "WindBorne은 풍선 데이터로 무거운 미 공군 계약을 따냅니다",
-    "summary": "날씨를 예측하기 위해 기상 풍선과 AI를 사용하는 실리콘 밸리의 한 스타트업은 거의 5천만 달러 상당의 미군 계약을 따냈습니다. $",
+    "title": "Cerebras CEO는 모든 사람이 개인 AI 비서를 집에 두는 미래가 가까워지고 있다고 말합니다.",
+    "summary": "Cerebras의 CEO인 Andrew Feldman은 개인용 AI 비서가 가전 제품처럼 일상화되어 부분적으로는 로컬 장치에서, 부분적으로는 클라우드에서 실행되는 미래를 예측합니다.",
     "source": "TechCrunch",
-    "date": "2026.10.12",
-    "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+    "date": "2026.10.13",
+    "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
     "tags": [
-      "AI",
-      "스타트업"
+      "AI"
     ]
   },
   {
     "rank": 3,
-    "title": "Honeyjar는 모든 회사의 PR 및 커뮤니케이션을 개선하는 AI 도구를 제공합니다.",
-    "summary": "언론인, 기업가, 심지어 일부 홍보 전문가도 PR 프로세스가 깨졌다고 말할 것입니다. 하지만 인공지능이 실제로 상황을 개선할 수 있을까요?",
+    "title": "Industrial Next는 공장 로봇이 몇 주가 아니라 몇 분 안에 작업을 전환하기를 원합니다",
+    "summary": "Industrial Next는 제조업체가 전통적으로 인간의 노동이 필요했던 복잡하고 섬세한 작업을 자동화하는 데 도움을 줍니다.",
     "source": "TechCrunch",
-    "date": "2026.10.12",
-    "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+    "date": "2026.10.13",
+    "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
     "tags": [
-      "AI",
-      "규제"
+      "로보틱스"
     ]
   },
   {
     "rank": 4,
-    "title": "Microsoft 사장은 영국이 AI 규제를 추진하는 데 가장 적합하다고 말합니다.",
-    "summary": "브래드 스미스 (Brad Smith) 마이크로소프트 회장은 우유와 세탁기가 AI 회사보다 더 많은 감독을 받고 있다고 말하면서 긴급한 AI 규제를 촉구한다.",
+    "title": "Cerebras CEO, AI 종말 경고에 반발",
+    "summary": "Cerebras CEO Andrew Feldman은 AI 리더들에게 최후의 날 경고를 전하는 메시지를 전합니다. 말을 멈출 수 있을까요? TechCrunch Disrupt에서 그는 업계가 AI의 위험에 초점을 맞추고 있다고 주장했습니다.",
     "source": "TechCrunch",
-    "date": "2026.10.12",
-    "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+    "date": "2026.10.13",
+    "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
     "tags": [
-      "AI",
-      "빅테크",
-      "규제"
+      "AI"
     ]
   },
   {
     "rank": 5,
-    "title": "이 AI 스타트업은 몇 분 안에 허가 준비 청사진을 생성할 수 있다고 말합니다.",
-    "summary": "산타모니카에 기반을 둔 부트스트랩 스타트업인 Blueprints AI는 사진, PDF 또는 스케치에서 코드 준수 건설 청사진을 생성하는 소프트웨어를 개발했습니다.",
-    "source": "TechCrunch",
-    "date": "2026.10.12",
-    "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+    "title": "Topgolf는 VMware를 떠난 후 $ 1,130만 이상을 절약했습니다.",
+    "summary": "Topgolf와 VMware는 마이그레이션 전에 \"깊이 있게\" 실행되었습니다.",
+    "source": "Ars Technica",
+    "date": "2026.10.13",
+    "url": "https://arstechnica.com/information-technology/2026/10/topgolf-saved-over-11-3-million-after-leaving-vmware/",
     "tags": [
-      "AI",
-      "스타트업"
+      "테크"
     ]
   }
 ]
