@@ -1,59 +1,61 @@
 [
   {
     "rank": 1,
-    "title": "Ricursive Intelligence는 컴퓨팅 위기 해결을 돕기 위해 AI가 설계한 칩에 베팅하고 있습니다.",
-    "summary": "창립자들은 칩을 자동화하고 가속화하는 것을 목표로 칩을 설계하고, 각 반복에서 배우고, 후속 설계를 개선할 수 있는 AI를 개발하는 방법을 자세히 설명했습니다.",
+    "title": "Cal AI의 바이러스 성 성공에 관해서는 소수의 인플루언서 군대가 성과를 거두었습니다.",
+    "summary": "이 회사는 2 년 동안 3 천만 달러 이상의 매출을 올렸으며 3 월에 MyFitnessPal에 공개되지 않은 금액으로 인수되었습니다.",
     "source": "TechCrunch",
     "date": "2026.10.15",
-    "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+    "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
     "tags": [
-      "AI",
-      "반도체",
-      "스타트업"
+      "테크"
     ]
   },
   {
     "rank": 2,
-    "title": "Gudea는 AI를 활용하여 조직이 폭발하기 전에 소셜 미디어 위기를 예방할 수 있도록 지원합니다.",
-    "summary": "매일 전 세계의 소셜 미디어와 웹사이트에서 대화가 전개됩니다. AI가 생성한 잘못된 정보, 증오심 표현 또는 해로운 소문과 관련된 중요하지 않은 게시물은",
-    "source": "TechCrunch",
+    "title": "타겟팅된 광고는 용병 멀웨어를 설치하기 위해 0-클릭 공격을 제공했습니다.",
+    "summary": "이 사건은 표적 광고에 의해 전달된 용병 스파이웨어에 대한 첫 번째 확인일 가능성이 높습니다.",
+    "source": "Ars Technica",
     "date": "2026.10.15",
-    "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+    "url": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/",
     "tags": [
-      "AI"
+      "테크"
     ]
   },
   {
     "rank": 3,
-    "title": "수백만 달러가 드는 냉장고 해킹과 불꽃 튀는 화재는 보안 불량에서 비롯되었습니다.",
-    "summary": "700개의 슈퍼마켓을 강타한 사건은 인터넷에 노출된 오래된 장치를 악용했습니다.",
-    "source": "Ars Technica",
-    "date": "2026.10.14",
-    "url": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
+    "title": "Meta, Mac에서 실행되는 개방형 AI 모델 출시",
+    "summary": "Meta와 Apple은 Apple 실리콘에서 로컬로 실행되는 소셜 미디어 거인의 최신 모델인 Muse Spark Open의 출시를 위해 협력했습니다.",
+    "source": "TechCrunch",
+    "date": "2026.10.15",
+    "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
     "tags": [
-      "보안"
+      "AI",
+      "빅테크"
     ]
   },
   {
     "rank": 4,
-    "title": "Flock CEO는 마이크가 ‘그냥 총소리‘ 를 감지한다고 말합니다. 웹 사이트는 다른 것을 말합니다.",
-    "summary": "Langley의 발언은 ACLU를 포함한 프라이버시 옹호자들과 기술의 오용을 우려하는 대중들로부터 Flock에 대한 조사가 진행되는 가운데 나온 것입니다.",
+    "title": "Amazon 장치 책임자 Panos Panay는 AI 장치가 앱 사용의 필요성을 대체하는 미래를 봅니다.",
+    "summary": "TechCrunch Disrupt에서 Amazon 장치 책임자 인 Panos Panay는 주변 AI 장치가 백그라운드에서 작동하는 미래를 설명하여 명령을 기다리는 대신 사용자의 요구를 예측했습니다.",
     "source": "TechCrunch",
-    "date": "2026.10.14",
-    "url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
+    "date": "2026.10.15",
+    "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
     "tags": [
-      "보안"
+      "AI",
+      "빅테크"
     ]
   },
   {
     "rank": 5,
-    "title": "YouTube Music, AI로 생성된 음악이 스트리밍 플랫폼을 범람시키면서 새로운 레이블 출시",
-    "summary": "레이블은 플레이어 페이지에 표시되며 AI에 의해 전적으로 또는 부분적으로 생성된 노래 (예: 작곡 및 보컬과 관련된 AI) 가 포함됩니다.",
+    "title": "Anthropic은 METR 연구원이 직원 수준의 액세스 권한으로 후드를 볼 수 있도록 합니다",
+    "summary": "METR은 Anthropic의 위험, 사건 및 관행에 대한 자체 평가를 발표할 것이며, 국경 AI 모델 제작자는 이를 차단할 권리를 포기했습니다.",
     "source": "TechCrunch",
-    "date": "2026.10.14",
-    "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
+    "date": "2026.10.15",
+    "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
     "tags": [
-      "AI"
+      "AI",
+      "LLM",
+      "연구"
     ]
   }
 ]
