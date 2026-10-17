@@ -1,61 +1,62 @@
 [
   {
     "rank": 1,
-    "title": "Cal AI의 바이러스 성 성공에 관해서는 소수의 인플루언서 군대가 성과를 거두었습니다.",
-    "summary": "이 회사는 2 년 동안 3 천만 달러 이상의 매출을 올렸으며 3 월에 MyFitnessPal에 공개되지 않은 금액으로 인수되었습니다.",
+    "title": "CEO는 Replit이 Anthropic과 더 이상 협력하지 않는다고 말합니다.",
+    "summary": "Masad는 비용 등 여러 가지 이유로 결정을 내렸다고 말했습니다. Replit은 8 월에 OpenAI와의 파트너십을 발표했지만 더 이상",
     "source": "TechCrunch",
-    "date": "2026.10.15",
-    "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+    "date": "2026.10.16",
+    "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
     "tags": [
-      "테크"
+      "LLM"
     ]
   },
   {
     "rank": 2,
-    "title": "타겟팅된 광고는 용병 멀웨어를 설치하기 위해 0-클릭 공격을 제공했습니다.",
-    "summary": "이 사건은 표적 광고에 의해 전달된 용병 스파이웨어에 대한 첫 번째 확인일 가능성이 높습니다.",
+    "title": "OpenAI 모델이 암호화폐 지갑을 해킹하고 더 많은 웹사이트를 침해했습니다",
+    "summary": "그 행동은 인간이 키보드 뒤에 있었다면 범죄 혐의로 이어졌을 수 있습니다.",
     "source": "Ars Technica",
-    "date": "2026.10.15",
-    "url": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/",
+    "date": "2026.10.16",
+    "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
     "tags": [
-      "테크"
+      "LLM",
+      "보안"
     ]
   },
   {
     "rank": 3,
-    "title": "Meta, Mac에서 실행되는 개방형 AI 모델 출시",
-    "summary": "Meta와 Apple은 Apple 실리콘에서 로컬로 실행되는 소셜 미디어 거인의 최신 모델인 Muse Spark Open의 출시를 위해 협력했습니다.",
+    "title": "인도는 가짜 AI 상담원 활동을 신고하는 최신 국가가 되었습니다.",
+    "summary": "상담원은 자격 증명과 연결 설정을 통해 앱 구성, 공개 코드 저장소 및 지나치게 허용적인 클라우드 역할에 노출되었습니다.",
     "source": "TechCrunch",
-    "date": "2026.10.15",
-    "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+    "date": "2026.10.16",
+    "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
     "tags": [
-      "AI",
-      "빅테크"
+      "AI"
     ]
   },
   {
     "rank": 4,
-    "title": "Amazon 장치 책임자 Panos Panay는 AI 장치가 앱 사용의 필요성을 대체하는 미래를 봅니다.",
-    "summary": "TechCrunch Disrupt에서 Amazon 장치 책임자 인 Panos Panay는 주변 AI 장치가 백그라운드에서 작동하는 미래를 설명하여 명령을 기다리는 대신 사용자의 요구를 예측했습니다.",
+    "title": "로봇공학이 아직 ChatGPT 순간을 맞추지 못한 이유에 대한 엔비디아 내부자 전환 VC",
+    "summary": "NVIDIA의 로봇 플랫폼을 위한 제품 마케팅을 7년간 이끌었던 Amulya Vishwanath는 로봇 공학은 현재 액추에이터, 로봇과 같은 기본 구성 요소를 갖춘 \"레고 시대\" 에 있다고 말합니다.",
     "source": "TechCrunch",
-    "date": "2026.10.15",
-    "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+    "date": "2026.10.16",
+    "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
     "tags": [
-      "AI",
-      "빅테크"
+      "LLM",
+      "로보틱스",
+      "반도체"
     ]
   },
   {
     "rank": 5,
-    "title": "Anthropic은 METR 연구원이 직원 수준의 액세스 권한으로 후드를 볼 수 있도록 합니다",
-    "summary": "METR은 Anthropic의 위험, 사건 및 관행에 대한 자체 평가를 발표할 것이며, 국경 AI 모델 제작자는 이를 차단할 권리를 포기했습니다.",
+    "title": "물리적 AI는 로봇 그 이상이라고 엔비디아 베테랑은 말합니다.",
+    "summary": "NVIDIA의 로봇 플랫폼을 위한 제품 마케팅을 7년간 이끌었던 Amulya Vishwanath는 로봇 공학은 현재 액추에이터, 로봇과 같은 기본 구성 요소를 갖춘 \"레고 시대\" 에 있다고 말합니다.",
     "source": "TechCrunch",
-    "date": "2026.10.15",
-    "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+    "date": "2026.10.16",
+    "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
     "tags": [
       "AI",
-      "LLM",
-      "연구"
+      "로보틱스",
+      "반도체"
     ]
   }
 ]
