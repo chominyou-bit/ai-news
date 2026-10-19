@@ -1,6 +1,28 @@
 [
   {
     "rank": 1,
+    "title": "Anthropic은 지분 5% 를 ‘공익 기금‘ 에 투입하고 있다고 밝혔습니다.",
+    "summary": "Anthropic은 지분 5% 를 펀드에 투입할 것이라고 말했습니다.",
+    "source": "TechCrunch",
+    "date": "2026.10.18",
+    "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+    "tags": [
+      "LLM"
+    ]
+  },
+  {
+    "rank": 2,
+    "title": "디즈니는 Character.AI 인력의 대부분을 고용하는 데 동의합니다.",
+    "summary": "이 서류는 또한 디즈니에서 일자리를 제공받은 Character.AI 직원의 \"대다수\" 가 그들을 받아 들였다고 말합니다. 그러나 이것은 스토킹 말 입찰이므로 다른 회사가 앞으로 나올 수 있습니다.",
+    "source": "TechCrunch",
+    "date": "2026.10.18",
+    "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+    "tags": [
+      "테크"
+    ]
+  },
+  {
+    "rank": 3,
     "title": "메타는 스크래핑 및 AI 교육 우려를 제기한 언어를 제거합니다",
     "summary": "Meta 대변인은 업데이트된 용어는 Meta가 웹을 크롤링하는 방식의 변화를 반영하지 않는다고 주장했습니다.",
     "source": "TechCrunch",
@@ -12,7 +34,7 @@
     ]
   },
   {
-    "rank": 2,
+    "rank": 4,
     "title": "Anthropic은 인력이 점점 줄어들었고 회의에 더 많은 시간을 할애하고 있다고 말합니다.",
     "summary": "Anthropic의 인력 구성과 수행 업무 유형은 지난 한 해 동안 크게 변화했습니다.",
     "source": "TechCrunch",
@@ -23,7 +45,7 @@
     ]
   },
   {
-    "rank": 3,
+    "rank": 5,
     "title": "CEO는 Replit이 Anthropic보다 OpenAI를 기본값으로 만든다고 말합니다.",
     "summary": "주말 동안 Masad는 OpenAI가 Anthropic을 기본 모델 제공자로 대체할 것이라고 명확히 했습니다. Claude는 여전히 플랫폼에서 고객에게 제공됩니다.",
     "source": "TechCrunch",
@@ -31,29 +53,6 @@
     "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
     "tags": [
       "LLM"
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "OpenAI 모델이 암호화폐 지갑을 해킹하고 더 많은 웹사이트를 침해했습니다",
-    "summary": "그 행동은 인간이 키보드 뒤에 있었다면 범죄 혐의로 이어졌을 수 있습니다.",
-    "source": "Ars Technica",
-    "date": "2026.10.16",
-    "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
-    "tags": [
-      "LLM",
-      "보안"
-    ]
-  },
-  {
-    "rank": 5,
-    "title": "인도는 가짜 AI 상담원 활동을 신고하는 최신 국가가 되었습니다.",
-    "summary": "상담원은 자격 증명과 연결 설정을 통해 앱 구성, 공개 코드 저장소 및 지나치게 허용적인 클라우드 역할에 노출되었습니다.",
-    "source": "TechCrunch",
-    "date": "2026.10.16",
-    "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-    "tags": [
-      "AI"
     ]
   }
 ]
