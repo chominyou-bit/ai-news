@@ -1,58 +1,64 @@
 [
   {
     "rank": 1,
-    "title": "Anthropic은 지분 5% 를 ‘공익 기금‘ 에 투입하고 있다고 밝혔습니다.",
-    "summary": "Anthropic은 지분 5% 를 펀드에 투입할 것이라고 말했습니다.",
+    "title": "맘다니는 연맹이 AI로 퇴출되었다고 말하며, 뉴요커들에게 반발할 것을 촉구합니다.",
+    "summary": "조란 맘다니 (Zohran Mamdani) 시장은 월요일 밤 뉴요커들은 AI 인수가 불가피하다는 이야기에 저항하고 대중을 보호하고 권력을 다시 손에 넣는 규제를 요구해야 한다고 말했다.",
     "source": "TechCrunch",
-    "date": "2026.10.18",
-    "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+    "date": "2026.10.20",
+    "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
     "tags": [
-      "LLM"
+      "AI",
+      "규제"
     ]
   },
   {
     "rank": 2,
-    "title": "디즈니는 Character.AI 인력의 대부분을 고용하는 데 동의합니다.",
-    "summary": "이 서류는 또한 디즈니에서 일자리를 제공받은 Character.AI 직원의 \"대다수\" 가 그들을 받아 들였다고 말합니다. 그러나 이것은 스토킹 말 입찰이므로 다른 회사가 앞으로 나올 수 있습니다.",
+    "title": "Nscale과 Anthropic은 또 다른 $ 45B 컴퓨팅 거래를 위해 회담에 참여하고 있는 것으로 알려졌습니다.",
+    "summary": "거래가 성사된다면 Anthropic이 지난 한 해 동안 체결한 대규모 컴퓨팅 거래 중 가장 최근의 거래가 될 것입니다.",
     "source": "TechCrunch",
-    "date": "2026.10.18",
-    "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+    "date": "2026.10.19",
+    "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
     "tags": [
-      "테크"
+      "LLM"
     ]
   },
   {
     "rank": 3,
-    "title": "메타는 스크래핑 및 AI 교육 우려를 제기한 언어를 제거합니다",
-    "summary": "Meta 대변인은 업데이트된 용어는 Meta가 웹을 크롤링하는 방식의 변화를 반영하지 않는다고 주장했습니다.",
+    "title": "Hugging Face의 정책 책임자는 임베디드 AI 평가자가 쉬운 해결책이 될 수 없다고 말합니다.",
+    "summary": "\"중립적\" 인 제3자 관찰자가 AI 조직 내에 배치된 것으로 추정되는 임베디드 평가자의 아이디어는 지난 몇 개월 동안 AI 연구소와 씨름하면서 대중화되었습니다.",
     "source": "TechCrunch",
-    "date": "2026.10.17",
-    "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+    "date": "2026.10.19",
+    "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
     "tags": [
       "AI",
-      "빅테크"
+      "빅테크",
+      "오픈소스"
     ]
   },
   {
     "rank": 4,
-    "title": "Anthropic은 인력이 점점 줄어들었고 회의에 더 많은 시간을 할애하고 있다고 말합니다.",
-    "summary": "Anthropic의 인력 구성과 수행 업무 유형은 지난 한 해 동안 크게 변화했습니다.",
+    "title": "Microsoft는 AI 에이전트가 ‘프론티어 모델을 신뢰할 수 없다‘ 는 내부자 위협과 같다고 말합니다.",
+    "summary": "Microsoft는 기업이 OpenAI 및 Anthropic과 같은 AI 랩에서 제어하지 않는 시스템에서 직원이 사용하는 에이전트를 면밀히 관찰하기를 원합니다.",
     "source": "TechCrunch",
-    "date": "2026.10.17",
-    "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+    "date": "2026.10.19",
+    "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
     "tags": [
-      "LLM"
+      "AI",
+      "LLM",
+      "빅테크"
     ]
   },
   {
     "rank": 5,
-    "title": "CEO는 Replit이 Anthropic보다 OpenAI를 기본값으로 만든다고 말합니다.",
-    "summary": "주말 동안 Masad는 OpenAI가 Anthropic을 기본 모델 제공자로 대체할 것이라고 명확히 했습니다. Claude는 여전히 플랫폼에서 고객에게 제공됩니다.",
+    "title": "Amazon은 새로운 TorchNeuron 개발 도구를 사용하여 Nvidia에서 가장 큰 사진을 찍고 있습니다.",
+    "summary": "아마존은 대부분의 AI 앱을 빌드하는 데 사용되는 무료 툴킷인 PyTorch에 대한 엔비디아의 보류를 해제하여 더 많은 개발자가 자신과 같은 대체 칩에서 앱을 실행하기를 원합니다.",
     "source": "TechCrunch",
-    "date": "2026.10.17",
-    "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "date": "2026.10.19",
+    "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
     "tags": [
-      "LLM"
+      "AI",
+      "반도체",
+      "빅테크"
     ]
   }
 ]
