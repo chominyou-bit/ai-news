@@ -1,64 +1,61 @@
 [
   {
     "rank": 1,
-    "title": "맘다니는 연맹이 AI로 퇴출되었다고 말하며, 뉴요커들에게 반발할 것을 촉구합니다.",
-    "summary": "조란 맘다니 (Zohran Mamdani) 시장은 월요일 밤 뉴요커들은 AI 인수가 불가피하다는 이야기에 저항하고 대중을 보호하고 권력을 다시 손에 넣는 규제를 요구해야 한다고 말했다.",
-    "source": "TechCrunch",
-    "date": "2026.10.20",
-    "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+    "title": "PHP는 2개의 비상 패치를 곧 출시할 계획이라고 경고합니다.",
+    "summary": "확인되지 않은 보고서는 PHP2Shell이 PHP 사이트에서 원격으로 코드를 실행한다고 주장합니다.",
+    "source": "Ars Technica",
+    "date": "2026.10.21",
+    "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
     "tags": [
-      "AI",
-      "규제"
+      "테크"
     ]
   },
   {
     "rank": 2,
-    "title": "Nscale과 Anthropic은 또 다른 $ 45B 컴퓨팅 거래를 위해 회담에 참여하고 있는 것으로 알려졌습니다.",
-    "summary": "거래가 성사된다면 Anthropic이 지난 한 해 동안 체결한 대규모 컴퓨팅 거래 중 가장 최근의 거래가 될 것입니다.",
+    "title": "Anthropic은 50명 이상이 사망할 수 있는 경우 모델을 차단할 수 있는 AI 안전 법안을 제시합니다.",
+    "summary": "제안된 정책은 AI에 대한 보호를 제공하는 것으로 보이지만 실제로 연방 기관이 판사의 허가 없이 모델의 출시를 차단하는 것을 금지합니다.",
     "source": "TechCrunch",
-    "date": "2026.10.19",
-    "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+    "date": "2026.10.20",
+    "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+    "tags": [
+      "AI",
+      "LLM",
+      "규제"
+    ]
+  },
+  {
+    "rank": 3,
+    "title": "허깅 페이스 CEO, 넷플릭스의 OpenAI 해킹 다큐멘터리가 정확하지 않다고 경고",
+    "summary": "넷플릭스 다큐멘터리 \"AI Gone Rogue\" 를 공유하기 전에 참고하세요. 영화에 등장하는 허깅 페이스 (Hugging Face) 의 공동 설립자 클렘 들랑그 (Clem Delangue) 는 \"완전한 파멸자 모드\" 가 되었지만 정확하지 않다고 말합니다.",
+    "source": "TechCrunch",
+    "date": "2026.10.20",
+    "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+    "tags": [
+      "LLM",
+      "오픈소스",
+      "보안"
+    ]
+  },
+  {
+    "rank": 4,
+    "title": "Anthropic의 클라우드 파트너십이 점점 더 엉망이 되고 있습니다",
+    "summary": "Anthropic은 인프라가 계획된 11 월 IPO를 앞두고 풍선을 지출하고 있음에도 불구하고 점점 더 경쟁자로 간주되는 클라우드 제공 업체로부터 충분한 컴퓨팅을 확보하기 위해 고군분투하고 있다고합니다.",
+    "source": "TechCrunch",
+    "date": "2026.10.20",
+    "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
     "tags": [
       "LLM"
     ]
   },
   {
-    "rank": 3,
-    "title": "Hugging Face의 정책 책임자는 임베디드 AI 평가자가 쉬운 해결책이 될 수 없다고 말합니다.",
-    "summary": "\"중립적\" 인 제3자 관찰자가 AI 조직 내에 배치된 것으로 추정되는 임베디드 평가자의 아이디어는 지난 몇 개월 동안 AI 연구소와 씨름하면서 대중화되었습니다.",
-    "source": "TechCrunch",
-    "date": "2026.10.19",
-    "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
-    "tags": [
-      "AI",
-      "빅테크",
-      "오픈소스"
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "Microsoft는 AI 에이전트가 ‘프론티어 모델을 신뢰할 수 없다‘ 는 내부자 위협과 같다고 말합니다.",
-    "summary": "Microsoft는 기업이 OpenAI 및 Anthropic과 같은 AI 랩에서 제어하지 않는 시스템에서 직원이 사용하는 에이전트를 면밀히 관찰하기를 원합니다.",
-    "source": "TechCrunch",
-    "date": "2026.10.19",
-    "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
-    "tags": [
-      "AI",
-      "LLM",
-      "빅테크"
-    ]
-  },
-  {
     "rank": 5,
-    "title": "Amazon은 새로운 TorchNeuron 개발 도구를 사용하여 Nvidia에서 가장 큰 사진을 찍고 있습니다.",
-    "summary": "아마존은 대부분의 AI 앱을 빌드하는 데 사용되는 무료 툴킷인 PyTorch에 대한 엔비디아의 보류를 해제하여 더 많은 개발자가 자신과 같은 대체 칩에서 앱을 실행하기를 원합니다.",
+    "title": "SpaceX의 AI 비즈니스가 기대를 뛰어넘고 있습니다.",
+    "summary": "SpaceX는 3분기에 $ 44억의 당기순이익을 기록하며 수익을 거두었습니다. 인공지능이 엔진이었다.",
     "source": "TechCrunch",
-    "date": "2026.10.19",
-    "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+    "date": "2026.10.20",
+    "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
     "tags": [
-      "AI",
-      "반도체",
-      "빅테크"
+      "AI"
     ]
   }
 ]
