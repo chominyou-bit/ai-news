@@ -1,61 +1,60 @@
 [
   {
     "rank": 1,
-    "title": "PHP는 2개의 비상 패치를 곧 출시할 계획이라고 경고합니다.",
-    "summary": "확인되지 않은 보고서는 PHP2Shell이 PHP 사이트에서 원격으로 코드를 실행한다고 주장합니다.",
+    "title": "블랙스톤의 자스 카이라 (Jas Khaira) 는 AI 구축 부채에 대한 두려움이 과도하다고 말합니다.",
+    "summary": "블랙스톤의 AI는 왜 PE 거물이 시장 불안에 시달리지 않는지에 대해 머리를 맞대고 있습니다.",
+    "source": "TechCrunch",
+    "date": "2026.10.21",
+    "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "rank": 2,
+    "title": "기업은 IT가 상황을 악화시킬 것으로 생각하는 소프트웨어 업그레이드를 계속 구매합니다.",
+    "summary": "대기업의 IT 책임자 2,018명을 대상으로 한 설문 조사는 레버리지 부족을 지적합니다.",
     "source": "Ars Technica",
     "date": "2026.10.21",
-    "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
+    "url": "https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades/",
     "tags": [
       "테크"
     ]
   },
   {
-    "rank": 2,
-    "title": "Anthropic은 50명 이상이 사망할 수 있는 경우 모델을 차단할 수 있는 AI 안전 법안을 제시합니다.",
-    "summary": "제안된 정책은 AI에 대한 보호를 제공하는 것으로 보이지만 실제로 연방 기관이 판사의 허가 없이 모델의 출시를 차단하는 것을 금지합니다.",
+    "rank": 3,
+    "title": "TechCrunch 창립자 서밋 2026: 알아야 할 모든 것",
+    "summary": "TechCrunch Founder Summit은 11 월 4 일 보스턴에서 열리는 전일 모임으로 모든 단계의 설립자가 최고의 VC 및 숙련 된 기업가와 연결하여 구축 및 개발에 대한 전술적 통찰력을 얻습니다.",
     "source": "TechCrunch",
-    "date": "2026.10.20",
-    "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+    "date": "2026.10.21",
+    "url": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
     "tags": [
-      "AI",
-      "LLM",
       "규제"
     ]
   },
   {
-    "rank": 3,
-    "title": "허깅 페이스 CEO, 넷플릭스의 OpenAI 해킹 다큐멘터리가 정확하지 않다고 경고",
-    "summary": "넷플릭스 다큐멘터리 \"AI Gone Rogue\" 를 공유하기 전에 참고하세요. 영화에 등장하는 허깅 페이스 (Hugging Face) 의 공동 설립자 클렘 들랑그 (Clem Delangue) 는 \"완전한 파멸자 모드\" 가 되었지만 정확하지 않다고 말합니다.",
-    "source": "TechCrunch",
-    "date": "2026.10.20",
-    "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
-    "tags": [
-      "LLM",
-      "오픈소스",
-      "보안"
-    ]
-  },
-  {
     "rank": 4,
-    "title": "Anthropic의 클라우드 파트너십이 점점 더 엉망이 되고 있습니다",
-    "summary": "Anthropic은 인프라가 계획된 11 월 IPO를 앞두고 풍선을 지출하고 있음에도 불구하고 점점 더 경쟁자로 간주되는 클라우드 제공 업체로부터 충분한 컴퓨팅을 확보하기 위해 고군분투하고 있다고합니다.",
+    "title": "Meta는 Muse가 1천만 명 이상의 사용자를 보유하고 있으며 최고의 쇼핑 활동을 하고 있다고 말합니다.",
+    "summary": "Meta Muse 사용자들은 쇼핑과 개인 생산성을 위해 앱을 채택하고 있다고 회사는 3분기 수입 중에 밝혔습니다. AI 앱은 현재 1천만 명 이상의 사용자를 보유하고 있습니다.",
     "source": "TechCrunch",
-    "date": "2026.10.20",
-    "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+    "date": "2026.10.21",
+    "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
     "tags": [
-      "LLM"
+      "AI",
+      "빅테크"
     ]
   },
   {
     "rank": 5,
-    "title": "SpaceX의 AI 비즈니스가 기대를 뛰어넘고 있습니다.",
-    "summary": "SpaceX는 3분기에 $ 44억의 당기순이익을 기록하며 수익을 거두었습니다. 인공지능이 엔진이었다.",
+    "title": "Recursive는 주로 AI에 의해 제작된 노트북 코딩 모델인 Flint를 출시합니다.",
+    "summary": "스타트업 리커시브 (Startup Recursive) 는 자체 AI 연구 시스템에 의해 대부분 구축된 무료 노트북 크기의 코딩 모델인 플린트 (Flint) 를 자체적으로 개선되는 AI의 초기 테스트로 출시했습니다.",
     "source": "TechCrunch",
-    "date": "2026.10.20",
-    "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+    "date": "2026.10.21",
+    "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
     "tags": [
-      "AI"
+      "AI",
+      "스타트업",
+      "연구"
     ]
   }
 ]
