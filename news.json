@@ -1,60 +1,58 @@
 [
   {
     "rank": 1,
-    "title": "블랙스톤의 자스 카이라 (Jas Khaira) 는 AI 구축 부채에 대한 두려움이 과도하다고 말합니다.",
-    "summary": "블랙스톤의 AI는 왜 PE 거물이 시장 불안에 시달리지 않는지에 대해 머리를 맞대고 있습니다.",
+    "title": "할 일 없이 홀로 남겨진 인공지능 요원들이 게임을 하기 시작했다.",
+    "summary": "MIT 연구원들은 가상 섬에 13대의 AI를 배치했고, 그들은 게임을 발명하여 잃어버린 반지를 애도하고 결국 자신의 일을 더 잘할 수 있게 되었습니다.",
     "source": "TechCrunch",
-    "date": "2026.10.21",
-    "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+    "date": "2026.10.23",
+    "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
     "tags": [
-      "AI"
+      "AI",
+      "연구"
     ]
   },
   {
     "rank": 2,
-    "title": "기업은 IT가 상황을 악화시킬 것으로 생각하는 소프트웨어 업그레이드를 계속 구매합니다.",
-    "summary": "대기업의 IT 책임자 2,018명을 대상으로 한 설문 조사는 레버리지 부족을 지적합니다.",
+    "title": "IPO를 앞두고 $ 1.25 T 평가에서 새로운 $ 30B 인상을 진행 중인 OpenAI",
+    "summary": "OpenAI가 이번 라운드에서 $ 1조 이상의 평가를 명령한다면, 가장 가치 있는 비상장 기업으로서의 기록을 깰 것입니다.",
+    "source": "TechCrunch",
+    "date": "2026.10.22",
+    "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+    "tags": [
+      "LLM"
+    ]
+  },
+  {
+    "rank": 3,
+    "title": "불명예스러운 eMudhra는 4의 인증서 개인 키를 사용한 후 TLS 비즈니스에서 탈퇴합니다.",
+    "summary": "Flubbed 키 서명 \"의식\" 은 모든 사이트에 대한 웹 자격 증명의 주조를 허용했습니다.",
     "source": "Ars Technica",
-    "date": "2026.10.21",
-    "url": "https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades/",
+    "date": "2026.10.22",
+    "url": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/",
     "tags": [
       "테크"
     ]
   },
   {
-    "rank": 3,
-    "title": "TechCrunch 창립자 서밋 2026: 알아야 할 모든 것",
-    "summary": "TechCrunch Founder Summit은 11 월 4 일 보스턴에서 열리는 전일 모임으로 모든 단계의 설립자가 최고의 VC 및 숙련 된 기업가와 연결하여 구축 및 개발에 대한 전술적 통찰력을 얻습니다.",
-    "source": "TechCrunch",
-    "date": "2026.10.21",
-    "url": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
-    "tags": [
-      "규제"
-    ]
-  },
-  {
     "rank": 4,
-    "title": "Meta는 Muse가 1천만 명 이상의 사용자를 보유하고 있으며 최고의 쇼핑 활동을 하고 있다고 말합니다.",
-    "summary": "Meta Muse 사용자들은 쇼핑과 개인 생산성을 위해 앱을 채택하고 있다고 회사는 3분기 수입 중에 밝혔습니다. AI 앱은 현재 1천만 명 이상의 사용자를 보유하고 있습니다.",
+    "title": "1Password는 AI 상담원이 비밀번호를 확인하지 않고 사용자를 대신해 로그인할 수 있는 방법을 출시합니다.",
+    "summary": "새로운 기능을 통해 상담원은 고객의 개인 계정에 로그인하는 동시에 해당 계정을 보호하는 개인 자격 증명을 보호할 수 있습니다.",
     "source": "TechCrunch",
-    "date": "2026.10.21",
-    "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+    "date": "2026.10.22",
+    "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
     "tags": [
-      "AI",
-      "빅테크"
+      "AI"
     ]
   },
   {
     "rank": 5,
-    "title": "Recursive는 주로 AI에 의해 제작된 노트북 코딩 모델인 Flint를 출시합니다.",
-    "summary": "스타트업 리커시브 (Startup Recursive) 는 자체 AI 연구 시스템에 의해 대부분 구축된 무료 노트북 크기의 코딩 모델인 플린트 (Flint) 를 자체적으로 개선되는 AI의 초기 테스트로 출시했습니다.",
+    "title": "Canva, 첫 번째 이미지 생성 모델 출시",
+    "summary": "Canva는 새로운 이미지 모델을 모든 사용자가 사용할 수 있도록 하여 더 저렴한 비용으로 더 우수하고 사용자 정의 가능한 성능을 약속합니다.",
     "source": "TechCrunch",
-    "date": "2026.10.21",
-    "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+    "date": "2026.10.22",
+    "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
     "tags": [
-      "AI",
-      "스타트업",
-      "연구"
+      "테크"
     ]
   }
 ]
