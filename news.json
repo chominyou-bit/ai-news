@@ -1,6 +1,54 @@
 [
   {
     "rank": 1,
+    "title": "OpenAI는 \"중대한 위험\" 을 이유로 실시간 인터넷에서 AI 모델을 더 이상 교육하지 않을 것이라고 말합니다.",
+    "summary": "OpenAI는 엔지니어 중 한 명이 솔루션이 작동하지 않을 것이라고 말한 후 몇 주 후에 인터넷에서 프론티어 모델을 차단할 것입니다.",
+    "source": "TechCrunch",
+    "date": "2026.10.23",
+    "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+    "tags": [
+      "AI",
+      "LLM"
+    ]
+  },
+  {
+    "rank": 2,
+    "title": "크리스마스에 가장 인기 있는 장난감은? 엔비디아 CEO, 사랑스러운 마이크로덕 로봇과 함께 놀다, 2만 대 판매",
+    "summary": "작은 발을 밟고 작은 R2-D2 소리를 내는 로봇은 앉아서 \"낮잠\" 을 자느라 쓰러졌고, 여름에 음성 명령을 내렸다.",
+    "source": "TechCrunch",
+    "date": "2026.10.23",
+    "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+    "tags": [
+      "로보틱스",
+      "반도체"
+    ]
+  },
+  {
+    "rank": 3,
+    "title": "토스트에서 베서머까지: TechCrunch Founder Summit 2026에서 창업자들의 이야기를 들어보세요.",
+    "summary": "TechCrunch가 피델리티 프라이빗 셰어즈 (Fidelity Private Shares) 와 협력하여 주최하는 이 종일 행사는 자금 조달 및 AI를 넘어 고객 찾기, 팀 구성, 피치 선명화의 현실을 탐구합니다.",
+    "source": "TechCrunch",
+    "date": "2026.10.23",
+    "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "rank": 4,
+    "title": "Pony AI 및 Nvidia와 함께 중앙아시아에서 실시한 Uber 라이벌 inDrive eyes 2027 로봇 택시 테스트",
+    "summary": "이 회사는 2027년 상반기에 카자흐스탄의 수도에서 Pony.ai의 로봇 택시스를 테스트할 계획입니다.",
+    "source": "TechCrunch",
+    "date": "2026.10.23",
+    "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+    "tags": [
+      "AI",
+      "로보틱스",
+      "반도체"
+    ]
+  },
+  {
+    "rank": 5,
     "title": "할 일 없이 홀로 남겨진 인공지능 요원들이 게임을 하기 시작했다.",
     "summary": "MIT 연구원들은 가상 섬에 13대의 AI를 배치했고, 그들은 게임을 발명하여 잃어버린 반지를 애도하고 결국 자신의 일을 더 잘할 수 있게 되었습니다.",
     "source": "TechCrunch",
@@ -9,50 +57,6 @@
     "tags": [
       "AI",
       "연구"
-    ]
-  },
-  {
-    "rank": 2,
-    "title": "IPO를 앞두고 $ 1.25 T 평가에서 새로운 $ 30B 인상을 진행 중인 OpenAI",
-    "summary": "OpenAI가 이번 라운드에서 $ 1조 이상의 평가를 명령한다면, 가장 가치 있는 비상장 기업으로서의 기록을 깰 것입니다.",
-    "source": "TechCrunch",
-    "date": "2026.10.22",
-    "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-    "tags": [
-      "LLM"
-    ]
-  },
-  {
-    "rank": 3,
-    "title": "불명예스러운 eMudhra는 4의 인증서 개인 키를 사용한 후 TLS 비즈니스에서 탈퇴합니다.",
-    "summary": "Flubbed 키 서명 \"의식\" 은 모든 사이트에 대한 웹 자격 증명의 주조를 허용했습니다.",
-    "source": "Ars Technica",
-    "date": "2026.10.22",
-    "url": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/",
-    "tags": [
-      "테크"
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "1Password는 AI 상담원이 비밀번호를 확인하지 않고 사용자를 대신해 로그인할 수 있는 방법을 출시합니다.",
-    "summary": "새로운 기능을 통해 상담원은 고객의 개인 계정에 로그인하는 동시에 해당 계정을 보호하는 개인 자격 증명을 보호할 수 있습니다.",
-    "source": "TechCrunch",
-    "date": "2026.10.22",
-    "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "rank": 5,
-    "title": "Canva, 첫 번째 이미지 생성 모델 출시",
-    "summary": "Canva는 새로운 이미지 모델을 모든 사용자가 사용할 수 있도록 하여 더 저렴한 비용으로 더 우수하고 사용자 정의 가능한 성능을 약속합니다.",
-    "source": "TechCrunch",
-    "date": "2026.10.22",
-    "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-    "tags": [
-      "테크"
     ]
   }
 ]
