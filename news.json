@@ -1,6 +1,54 @@
 [
   {
     "rank": 1,
+    "title": "인공지능 묘지: 성공하지 못한 프로젝트와 스타트업의 실행 목록",
+    "summary": "Apple의 반복적으로 지연되는 Siri AI부터 OpenAI의 지저분한 \"슈퍼 앱\" 출시까지, 기대를 저버리거나 놓친 AI 프로젝트를 살펴보세요.",
+    "source": "TechCrunch",
+    "date": "2026.10.24",
+    "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "tags": [
+      "AI",
+      "LLM",
+      "빅테크"
+    ]
+  },
+  {
+    "rank": 2,
+    "title": "블록의 새로운 음성 모델은 소름끼치게 인간적으로 들린다.",
+    "summary": "Block은 음성 모델이 MacBook M4 Max에서 로컬로 실행될 수 있다고 말했습니다.",
+    "source": "TechCrunch",
+    "date": "2026.10.24",
+    "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+    "tags": [
+      "테크"
+    ]
+  },
+  {
+    "rank": 3,
+    "title": "그록의 인공지능 모델은 공화당을 선택하도록 강요받습니다. OpenAI는 민주당을 뽑습니다.",
+    "summary": "새로운 연구에 따르면 Grok의 AI는 공화당 후보를 압도적으로 추천하는 반면 OpenAI의 GPT는 민주당을 선호하며 두 AI 모델은 거의 500 개의 선거 레이스 중 90% 이상에서 의견이 일치하지 않습니다.",
+    "source": "TechCrunch",
+    "date": "2026.10.24",
+    "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+    "tags": [
+      "AI",
+      "LLM",
+      "연구"
+    ]
+  },
+  {
+    "rank": 4,
+    "title": "다음은 문자 메시지에 포함될 수 있는 최고의 AI 상담원입니다.",
+    "summary": "일반 도우미부터 가족, 여행 및 직장을 위해 설계된 상담원에 이르기까지 문자 메시지에 포함될 수 있는 가장 주목할 만한 AI 상담원 목록을 만들었습니다.",
+    "source": "TechCrunch",
+    "date": "2026.10.24",
+    "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "rank": 5,
     "title": "OpenAI는 \"중대한 위험\" 을 이유로 실시간 인터넷에서 AI 모델을 더 이상 교육하지 않을 것이라고 말합니다.",
     "summary": "OpenAI는 엔지니어 중 한 명이 솔루션이 작동하지 않을 것이라고 말한 후 몇 주 후에 인터넷에서 프론티어 모델을 차단할 것입니다.",
     "source": "TechCrunch",
@@ -9,54 +57,6 @@
     "tags": [
       "AI",
       "LLM"
-    ]
-  },
-  {
-    "rank": 2,
-    "title": "크리스마스에 가장 인기 있는 장난감은? 엔비디아 CEO, 사랑스러운 마이크로덕 로봇과 함께 놀다, 2만 대 판매",
-    "summary": "작은 발을 밟고 작은 R2-D2 소리를 내는 로봇은 앉아서 \"낮잠\" 을 자느라 쓰러졌고, 여름에 음성 명령을 내렸다.",
-    "source": "TechCrunch",
-    "date": "2026.10.23",
-    "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
-    "tags": [
-      "로보틱스",
-      "반도체"
-    ]
-  },
-  {
-    "rank": 3,
-    "title": "토스트에서 베서머까지: TechCrunch Founder Summit 2026에서 창업자들의 이야기를 들어보세요.",
-    "summary": "TechCrunch가 피델리티 프라이빗 셰어즈 (Fidelity Private Shares) 와 협력하여 주최하는 이 종일 행사는 자금 조달 및 AI를 넘어 고객 찾기, 팀 구성, 피치 선명화의 현실을 탐구합니다.",
-    "source": "TechCrunch",
-    "date": "2026.10.23",
-    "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "Pony AI 및 Nvidia와 함께 중앙아시아에서 실시한 Uber 라이벌 inDrive eyes 2027 로봇 택시 테스트",
-    "summary": "이 회사는 2027년 상반기에 카자흐스탄의 수도에서 Pony.ai의 로봇 택시스를 테스트할 계획입니다.",
-    "source": "TechCrunch",
-    "date": "2026.10.23",
-    "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-    "tags": [
-      "AI",
-      "로보틱스",
-      "반도체"
-    ]
-  },
-  {
-    "rank": 5,
-    "title": "할 일 없이 홀로 남겨진 인공지능 요원들이 게임을 하기 시작했다.",
-    "summary": "MIT 연구원들은 가상 섬에 13대의 AI를 배치했고, 그들은 게임을 발명하여 잃어버린 반지를 애도하고 결국 자신의 일을 더 잘할 수 있게 되었습니다.",
-    "source": "TechCrunch",
-    "date": "2026.10.23",
-    "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-    "tags": [
-      "AI",
-      "연구"
     ]
   }
 ]
