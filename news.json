@@ -1,6 +1,39 @@
 [
   {
     "rank": 1,
+    "title": "Grok은 AI로 생성된 ‘Odyssey‘ 의 첫 7분을 공개합니다.",
+    "summary": "예술성, 영감 또는 인간적 관심을 추구하지 않는 한 영상은 괜찮아 보입니다.",
+    "source": "TechCrunch",
+    "date": "2026.10.25",
+    "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+    "tags": [
+      "테크"
+    ]
+  },
+  {
+    "rank": 2,
+    "title": "아폴로 이코노미스트는 AI가 대부분의 기업에 ‘제로 금융 성과’ 를 제공한다고 말합니다.",
+    "summary": "\"막대한 투자와 인공 지능에 대한 과대 광고에도 불구하고, 이 기술은 기술 이외의 기업 미국에 제로 재정적 보상을 제공했습니다.\"",
+    "source": "TechCrunch",
+    "date": "2026.10.25",
+    "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "rank": 3,
+    "title": "알아두어야 할 가장 인기 있는 인공지능 웨어러블 및 기기",
+    "summary": "뮤즈 참 (Muse Charm), 비 (Bee), 프렌드 (Friend), 플라우드 (Plaud) 등 가장 인기 있는 AI 웨어러블 제품 목록을 정리했습니다.",
+    "source": "TechCrunch",
+    "date": "2026.10.25",
+    "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "rank": 4,
     "title": "인공지능 묘지: 성공하지 못한 프로젝트와 스타트업의 실행 목록",
     "summary": "Apple의 반복적으로 지연되는 Siri AI부터 OpenAI의 지저분한 \"슈퍼 앱\" 출시까지, 기대를 저버리거나 놓친 AI 프로젝트를 살펴보세요.",
     "source": "TechCrunch",
@@ -13,7 +46,7 @@
     ]
   },
   {
-    "rank": 2,
+    "rank": 5,
     "title": "블록의 새로운 음성 모델은 소름끼치게 인간적으로 들린다.",
     "summary": "Block은 음성 모델이 MacBook M4 Max에서 로컬로 실행될 수 있다고 말했습니다.",
     "source": "TechCrunch",
@@ -21,42 +54,6 @@
     "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
     "tags": [
       "테크"
-    ]
-  },
-  {
-    "rank": 3,
-    "title": "그록의 인공지능 모델은 공화당을 선택하도록 강요받습니다. OpenAI는 민주당을 뽑습니다.",
-    "summary": "새로운 연구에 따르면 Grok의 AI는 공화당 후보를 압도적으로 추천하는 반면 OpenAI의 GPT는 민주당을 선호하며 두 AI 모델은 거의 500 개의 선거 레이스 중 90% 이상에서 의견이 일치하지 않습니다.",
-    "source": "TechCrunch",
-    "date": "2026.10.24",
-    "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-    "tags": [
-      "AI",
-      "LLM",
-      "연구"
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "다음은 문자 메시지에 포함될 수 있는 최고의 AI 상담원입니다.",
-    "summary": "일반 도우미부터 가족, 여행 및 직장을 위해 설계된 상담원에 이르기까지 문자 메시지에 포함될 수 있는 가장 주목할 만한 AI 상담원 목록을 만들었습니다.",
-    "source": "TechCrunch",
-    "date": "2026.10.24",
-    "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "rank": 5,
-    "title": "OpenAI는 \"중대한 위험\" 을 이유로 실시간 인터넷에서 AI 모델을 더 이상 교육하지 않을 것이라고 말합니다.",
-    "summary": "OpenAI는 엔지니어 중 한 명이 솔루션이 작동하지 않을 것이라고 말한 후 몇 주 후에 인터넷에서 프론티어 모델을 차단할 것입니다.",
-    "source": "TechCrunch",
-    "date": "2026.10.23",
-    "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-    "tags": [
-      "AI",
-      "LLM"
     ]
   }
 ]
