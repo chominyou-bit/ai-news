@@ -1,59 +1,62 @@
 [
   {
     "rank": 1,
-    "title": "Grok은 AI로 생성된 ‘Odyssey‘ 의 첫 7분을 공개합니다.",
-    "summary": "예술성, 영감 또는 인간적 관심을 추구하지 않는 한 영상은 괜찮아 보입니다.",
+    "title": "OpenAI가 상시 개인 비서인 코딩 도구를 점으로 바꾼 방법",
+    "summary": "DOT를 담당하는 OpenAI 임원인 Alexander Embiricos는 다른 사람의 AI 에이전트와 회의를 하고 싶지 않습니다.",
     "source": "TechCrunch",
-    "date": "2026.10.25",
-    "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+    "date": "2026.10.27",
+    "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
     "tags": [
-      "테크"
+      "AI",
+      "LLM"
     ]
   },
   {
     "rank": 2,
-    "title": "아폴로 이코노미스트는 AI가 대부분의 기업에 ‘제로 금융 성과’ 를 제공한다고 말합니다.",
-    "summary": "\"막대한 투자와 인공 지능에 대한 과대 광고에도 불구하고, 이 기술은 기술 이외의 기업 미국에 제로 재정적 보상을 제공했습니다.\"",
+    "title": "Cohere는 Alibaba의 Qwen 모델이 베이징으로 파일을 전송하려고 시도했다고 말합니다.",
+    "summary": "AI 모델은 어떤 도구도 사용하지 않을 것이라고 말한 다음 어쨌든 베이징의 서버에 무언가를 보내려고 시도했습니다. 연구자들은 그것이 간첩이 아닌 훈련 특이점이라고 말하지만, 모든 것이",
     "source": "TechCrunch",
-    "date": "2026.10.25",
-    "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+    "date": "2026.10.27",
+    "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
     "tags": [
-      "AI"
+      "AI",
+      "연구"
     ]
   },
   {
     "rank": 3,
-    "title": "알아두어야 할 가장 인기 있는 인공지능 웨어러블 및 기기",
-    "summary": "뮤즈 참 (Muse Charm), 비 (Bee), 프렌드 (Friend), 플라우드 (Plaud) 등 가장 인기 있는 AI 웨어러블 제품 목록을 정리했습니다.",
+    "title": "Anthropic의 IPO 파일링은 기업 고객을 매료시키는 전략을 보여줍니다",
+    "summary": "Anthropic의 S-1은 현재 $ 100,000 이상의 고객 중 절반 이상이 Claude Platform과 자사 앱을 모두 사용하고 있음을 보여줍니다. 이 앱은 엔터프라이즈 커스트를 만드는 아마존을 연상시키는 교차 판매 플레이북입니다.",
     "source": "TechCrunch",
-    "date": "2026.10.25",
-    "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+    "date": "2026.10.26",
+    "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
     "tags": [
-      "AI"
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "인공지능 묘지: 성공하지 못한 프로젝트와 스타트업의 실행 목록",
-    "summary": "Apple의 반복적으로 지연되는 Siri AI부터 OpenAI의 지저분한 \"슈퍼 앱\" 출시까지, 기대를 저버리거나 놓친 AI 프로젝트를 살펴보세요.",
-    "source": "TechCrunch",
-    "date": "2026.10.24",
-    "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "tags": [
-      "AI",
       "LLM",
       "빅테크"
     ]
   },
   {
-    "rank": 5,
-    "title": "블록의 새로운 음성 모델은 소름끼치게 인간적으로 들린다.",
-    "summary": "Block은 음성 모델이 MacBook M4 Max에서 로컬로 실행될 수 있다고 말했습니다.",
+    "rank": 4,
+    "title": "SpaceX, Apollo와 $ 40B GPU 자금 조달 계약 체결",
+    "summary": "이번 자금 조달을 통해 스페이스X는 전통적인 부채 시장에만 의존하지 않고 빠르게 확장하는 AI 야망에 자금을 조달할 수 있는 또 다른 방법을 제공합니다.",
     "source": "TechCrunch",
-    "date": "2026.10.24",
-    "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+    "date": "2026.10.26",
+    "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
     "tags": [
-      "테크"
+      "AI",
+      "반도체"
+    ]
+  },
+  {
+    "rank": 5,
+    "title": "Anthropic이 공식적으로 공개 데뷔를 신청합니다",
+    "summary": "Anthropic은 공식적으로 IPO를 신청하여 급증하는 매출, 급증하는 손실, 주요 기업 채택 및 창업자의 통제와 AI를 보존하기 위해 고안된 비정상적인 지배 구조를 공개했습니다.",
+    "source": "TechCrunch",
+    "date": "2026.10.26",
+    "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+    "tags": [
+      "AI",
+      "LLM"
     ]
   }
 ]
