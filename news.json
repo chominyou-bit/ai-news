@@ -1,58 +1,60 @@
 [
   {
     "rank": 1,
-    "title": "VC는 Anthropic의 IPO에서 수십억 달러를 벌 것이지만, Amazon은 훨씬 더 많은 수익을 올릴 것입니다.",
-    "summary": "대규모 메모 전환은 Anthropic에서 아마존의 소유권의 진정한 정도를 드러냅니다.",
+    "title": "Microsoft는 Azure의 실제 매출을 $ 332억 달러로 공유했습니다.",
+    "summary": "Microsoft는 Azure의 분기별 수익을 달러로 공개한 적이 없습니다. 그러나 처음으로 시장에서 가장 큰 경쟁자인 AWS에 얼마나 가까워지고 있는지 알 수 있습니다.",
     "source": "TechCrunch",
     "date": "2026.10.28",
-    "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+    "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+    "tags": [
+      "빅테크"
+    ]
+  },
+  {
+    "rank": 2,
+    "title": "Google은 핵심 광고 성장 속도가 느려짐에 따라 전 세계적으로 AI 검색 광고를 확장합니다.",
+    "summary": "이 발표는 모회사인 알파벳 (Alphabet) 의 3분기 실적 보고서와 함께 이루어졌으며, 매출은 전년 대비 25% 증가한 1276억 $ 를 기록했다.",
+    "source": "TechCrunch",
+    "date": "2026.10.28",
+    "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+    "tags": [
+      "AI",
+      "빅테크"
+    ]
+  },
+  {
+    "rank": 3,
+    "title": "Microsoft는 OpenAI를 통해 $ 100억의 매출을 기록했습니다.",
+    "summary": "Microsoft는 9월 30일에 종료되는 분기에 OpenAI와의 상업적 계약을 통해 수익 분배 지불을 포함하여 $ 100억의 수익을 올렸다고 밝혔습니다. 그것은 여전히 거대한 금융을 강조합니다.",
+    "source": "TechCrunch",
+    "date": "2026.10.28",
+    "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
     "tags": [
       "LLM",
       "빅테크"
     ]
   },
   {
-    "rank": 2,
-    "title": "부모는 GPT-4가 딸에게 발작 치료제를 코칭했다고 주장하며 OpenAI를 고소합니다.",
-    "summary": "한 가족이 OpenAI를 고소하고 있습니다. ChatGPT는 딸이 2월에 사망하기 전에 발작 약을 조용히 떼어 의사에게 알리지 말라고 코치했습니다.",
-    "source": "TechCrunch",
-    "date": "2026.10.27",
-    "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
-    "tags": [
-      "LLM"
-    ]
-  },
-  {
-    "rank": 3,
-    "title": "데이터 센터 붐에는 미국 그리드를 위한 혁신이라는 장점이 있습니다.",
-    "summary": "AI 붐이 기존 전력망을 강조함에 따라 전력망 현대화를 위한 모든 종류의 새로운 기회도 생겨나고 있다고 업계 내부자들은 말합니다.",
-    "source": "TechCrunch",
-    "date": "2026.10.27",
-    "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
     "rank": 4,
-    "title": "뱅크오브아메리카는 은행 비밀번호를 AI 비서와 공유하지 말 것을 요청합니다.",
-    "summary": "은행 대기업은 AI 상담원의 액세스로 인해 발생하는 \"활동에 대한 책임은 귀하에게 있습니다\" 라는 사실을 고객에게 상기시킵니다.",
+    "title": "Microsoft, 10분기 연속 기록적인 매출 달성",
+    "summary": "AI의 미래가 어떻게 되든, 현재 상황은 여전히 Microsoft에게 매우 좋습니다. 기술 대기업은 수요일에 분기별 매출에 대한 또 다른 기록을 보고했습니다: $ 92.3 billion, 19% 증가",
     "source": "TechCrunch",
-    "date": "2026.10.27",
-    "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+    "date": "2026.10.28",
+    "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
     "tags": [
       "AI",
-      "규제"
+      "빅테크"
     ]
   },
   {
     "rank": 5,
-    "title": "IPO 이후 Anthropic에서 실제로 담당하는 사람은 누구입니까?",
-    "summary": "Anthropic의 믿을 수 없을 정도로 복잡한 거버넌스 구조에 대한 명확한 설명은 다음과 같습니다.",
+    "title": "Anthropic은 방금 회사에 AI 지출이 무엇을 구매하는지 보여주는 도구를 출시했습니다.",
+    "summary": "프론티어 랩은 계획된 IPO에 앞서 사용자가 모델에 돈을 쓰는 방법에 대한 커튼을 치고 있습니다.",
     "source": "TechCrunch",
-    "date": "2026.10.27",
-    "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+    "date": "2026.10.28",
+    "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
     "tags": [
+      "AI",
       "LLM"
     ]
   }
