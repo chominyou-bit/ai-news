@@ -1,22 +1,22 @@
 [
   {
     "rank": 1,
-    "title": "Microsoft는 Azure의 실제 매출을 $ 332억 달러로 공유했습니다.",
-    "summary": "Microsoft는 Azure의 분기별 수익을 달러로 공개한 적이 없습니다. 그러나 처음으로 시장에서 가장 큰 경쟁자인 AWS에 얼마나 가까워지고 있는지 알 수 있습니다.",
+    "title": "직장에서 AI 사용에 대한 종교적 면제를 받기 위해 신을 믿을 필요는 없습니다.",
+    "summary": "켄터키 대학교 (University of Kentucky) 의 데이비드 더먼 (David Durman) 행정관은 최근 직장에서 AI를 사용하는 것에 대한 종교적 면제를 받았습니다.",
     "source": "TechCrunch",
-    "date": "2026.10.28",
-    "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+    "date": "2026.10.30",
+    "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
     "tags": [
-      "빅테크"
+      "AI"
     ]
   },
   {
     "rank": 2,
-    "title": "Google은 핵심 광고 성장 속도가 느려짐에 따라 전 세계적으로 AI 검색 광고를 확장합니다.",
-    "summary": "이 발표는 모회사인 알파벳 (Alphabet) 의 3분기 실적 보고서와 함께 이루어졌으며, 매출은 전년 대비 25% 증가한 1276억 $ 를 기록했다.",
+    "title": "Jassy는 AWS가 $ 1T 비즈니스가 될 것이라고 말합니다. 그러나 먼저, 그것은 큰 지출을 할 것입니다.",
+    "summary": "아마존은 AI 클라우드 컴퓨팅의 왕이 되어 최초의 1조 $ 매출 비즈니스가 되기를 원합니다. 그러나 이를 위해서는 자본 지출 지출을 계속해야 할 것이라고 CEO는 목요일에 말했다.",
     "source": "TechCrunch",
-    "date": "2026.10.28",
-    "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+    "date": "2026.10.29",
+    "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
     "tags": [
       "AI",
       "빅테크"
@@ -24,38 +24,38 @@
   },
   {
     "rank": 3,
-    "title": "Microsoft는 OpenAI를 통해 $ 100억의 매출을 기록했습니다.",
-    "summary": "Microsoft는 9월 30일에 종료되는 분기에 OpenAI와의 상업적 계약을 통해 수익 분배 지불을 포함하여 $ 100억의 수익을 올렸다고 밝혔습니다. 그것은 여전히 거대한 금융을 강조합니다.",
+    "title": "검색 트래픽이 건조해지면서 Reddit은 로그인한 환경으로 전환한다고 발표했습니다.",
+    "summary": "인공지능이 온라인에서 정보를 찾는 방법을 변화시키면서, 레딧은 청중과 비즈니스를 보호하기 위해 개방형 웹의 뿌리를 재고하고 있습니다.",
     "source": "TechCrunch",
-    "date": "2026.10.28",
-    "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+    "date": "2026.10.29",
+    "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
     "tags": [
-      "LLM",
-      "빅테크"
+      "AI"
     ]
   },
   {
     "rank": 4,
-    "title": "Microsoft, 10분기 연속 기록적인 매출 달성",
-    "summary": "AI의 미래가 어떻게 되든, 현재 상황은 여전히 Microsoft에게 매우 좋습니다. 기술 대기업은 수요일에 분기별 매출에 대한 또 다른 기록을 보고했습니다: $ 92.3 billion, 19% 증가",
+    "title": "리비안, AI 어시스턴트 포함 폭스바겐과 합작 투자 확대",
+    "summary": "Rivian은 그 결과로 58억 $ 규모의 합작 투자의 가치가 확대될지 공개하지 않습니다.",
     "source": "TechCrunch",
-    "date": "2026.10.28",
-    "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+    "date": "2026.10.29",
+    "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
     "tags": [
       "AI",
-      "빅테크"
+      "스타트업"
     ]
   },
   {
     "rank": 5,
-    "title": "Anthropic은 방금 회사에 AI 지출이 무엇을 구매하는지 보여주는 도구를 출시했습니다.",
-    "summary": "프론티어 랩은 계획된 IPO에 앞서 사용자가 모델에 돈을 쓰는 방법에 대한 커튼을 치고 있습니다.",
+    "title": "OpenAI 지원 Thrive Holdings, ADT 인수",
+    "summary": "OpenAI의 지원을 받는 Thrive Holdings는 $ 153억 규모의 거래로 ADT를 매입하고 있으며, AI를 홈 보안 사업에 도입할 계획입니다.",
     "source": "TechCrunch",
-    "date": "2026.10.28",
-    "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+    "date": "2026.10.29",
+    "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
     "tags": [
       "AI",
-      "LLM"
+      "LLM",
+      "보안"
     ]
   }
 ]
