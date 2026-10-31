@@ -1,60 +1,60 @@
 [
   {
     "rank": 1,
-    "title": "직장에서 AI 사용에 대한 종교적 면제를 받기 위해 신을 믿을 필요는 없습니다.",
-    "summary": "켄터키 대학교 (University of Kentucky) 의 데이비드 더먼 (David Durman) 행정관은 최근 직장에서 AI를 사용하는 것에 대한 종교적 면제를 받았습니다.",
+    "title": "엔비디아는 웨스트버지니아에 있는 엔스케일의 AI 데이터 센터에서 코시그너 역할을 맡고 있습니다.",
+    "summary": "투자자들이 AI 지출에 대해 긴장할 때, 칩을 판매하는 칩 메이커가 대출을 코사인하도록 제안하는 것이 도움이 됩니다.",
     "source": "TechCrunch",
-    "date": "2026.10.30",
-    "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+    "date": "2026.10.31",
+    "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
     "tags": [
-      "AI"
+      "AI",
+      "반도체"
     ]
   },
   {
     "rank": 2,
-    "title": "Jassy는 AWS가 $ 1T 비즈니스가 될 것이라고 말합니다. 그러나 먼저, 그것은 큰 지출을 할 것입니다.",
-    "summary": "아마존은 AI 클라우드 컴퓨팅의 왕이 되어 최초의 1조 $ 매출 비즈니스가 되기를 원합니다. 그러나 이를 위해서는 자본 지출 지출을 계속해야 할 것이라고 CEO는 목요일에 말했다.",
+    "title": "개인 정보 보호에 중점을 둔 AI 비서인 올리 (Ollie) 가 서비스를 종료합니다.",
+    "summary": "점점 더 많은 AI 어시스턴트가 시장에 넘쳐나고 있는 가운데, 사용자의 프라이버시를 존중하는 어시스턴트인 Ollie의 창립자는 일주일 안에 서비스가 중단될 것이라고 말합니다.",
     "source": "TechCrunch",
-    "date": "2026.10.29",
-    "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+    "date": "2026.10.30",
+    "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
     "tags": [
       "AI",
-      "빅테크"
+      "보안"
     ]
   },
   {
     "rank": 3,
-    "title": "검색 트래픽이 건조해지면서 Reddit은 로그인한 환경으로 전환한다고 발표했습니다.",
-    "summary": "인공지능이 온라인에서 정보를 찾는 방법을 변화시키면서, 레딧은 청중과 비즈니스를 보호하기 위해 개방형 웹의 뿌리를 재고하고 있습니다.",
+    "title": "인텔의 주가 폭락, 정부 지분에서 $ 12B 하락",
+    "summary": "인공지능 (AI) 산업이 메모리 및 기타 부품을 망가뜨려 PC 가격이 상승함에 따라 인텔은 PC 판매로 인해 피해를 입고 있습니다.",
     "source": "TechCrunch",
-    "date": "2026.10.29",
-    "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+    "date": "2026.10.30",
+    "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
     "tags": [
       "AI"
     ]
   },
   {
     "rank": 4,
-    "title": "리비안, AI 어시스턴트 포함 폭스바겐과 합작 투자 확대",
-    "summary": "Rivian은 그 결과로 58억 $ 규모의 합작 투자의 가치가 확대될지 공개하지 않습니다.",
+    "title": "FT 보고서에 따르면 인류는 IPO 이후 신용 기관으로부터 높은 ‘정크’ 등급을받을 것으로 예상됩니다.",
+    "summary": "블랙스톤의 예측은 단지 예측일 뿐이지만, 당연히 높은 쓰레기 등급은 Anthropic이 자금을 조달하기 위해 자금을 조달하는 것을 더 어렵고 더 비싸게 만들 것입니다.",
     "source": "TechCrunch",
-    "date": "2026.10.29",
-    "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
+    "date": "2026.10.30",
+    "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
     "tags": [
-      "AI",
+      "LLM",
       "스타트업"
     ]
   },
   {
     "rank": 5,
-    "title": "OpenAI 지원 Thrive Holdings, ADT 인수",
-    "summary": "OpenAI의 지원을 받는 Thrive Holdings는 $ 153억 규모의 거래로 ADT를 매입하고 있으며, AI를 홈 보안 사업에 도입할 계획입니다.",
+    "title": "기술 괴짜를 위한 막바지 할로윈 코스튬",
+    "summary": "할로윈 코스튬이 없나요? 믿을 수 없을 정도로 귀여운 인공지능 에이전트 아이콘, PHP 취약점 또는 졸린 시간 브라이언 존슨이 되어보세요.",
     "source": "TechCrunch",
-    "date": "2026.10.29",
-    "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+    "date": "2026.10.30",
+    "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
     "tags": [
       "AI",
-      "LLM",
       "보안"
     ]
   }
