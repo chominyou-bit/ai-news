@@ -1,6 +1,53 @@
 [
   {
     "rank": 1,
+    "title": "애플 CEO는 회사가 ‘AI를 위해 AI를 배송하고 싶지 않다’ 고 말합니다.",
+    "summary": "애플의 새로운 CEO는 AI 환경에서 회사의 현재 위치를 방어했다.",
+    "source": "TechCrunch",
+    "date": "2026.10.31",
+    "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+    "tags": [
+      "AI",
+      "빅테크"
+    ]
+  },
+  {
+    "rank": 2,
+    "title": "4일 남음: TechCrunch 창립자 서밋이 규모에 맞게 더 유용한 연결을 만드는 데 도움이 되는 방법",
+    "summary": "11월 4일 보스턴의 소와 발전소에서 의미 있는 네트워킹 기회, 실행 가능한 통찰력, ID의 궤도를 바꿀 수 있는 연결로 가득한 하루를 준비하세요.",
+    "source": "TechCrunch",
+    "date": "2026.10.31",
+    "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+    "tags": [
+      "테크"
+    ]
+  },
+  {
+    "rank": 3,
+    "title": "판사는 xAI 데이터 센터 오염에 대한 NAACP 소송이 진행될 수 있도록 허용합니다.",
+    "summary": "NAACP 소송은 SpaceX 소유의 AI 회사가 청정 공기법을 위반했다고 비난합니다.",
+    "source": "TechCrunch",
+    "date": "2026.10.31",
+    "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+    "tags": [
+      "AI",
+      "규제"
+    ]
+  },
+  {
+    "rank": 4,
+    "title": "OpenAI가 새로운 라운드에 대한 자금 조달 목표를 낮춘다고 합니다.",
+    "summary": "OpenAI의 최근 자금 조달 라운드는 기대에 부응하지 못하는 것 같습니다.",
+    "source": "TechCrunch",
+    "date": "2026.10.31",
+    "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+    "tags": [
+      "LLM",
+      "스타트업"
+    ]
+  },
+  {
+    "rank": 5,
     "title": "엔비디아는 웨스트버지니아에 있는 엔스케일의 AI 데이터 센터에서 코시그너 역할을 맡고 있습니다.",
     "summary": "투자자들이 AI 지출에 대해 긴장할 때, 칩을 판매하는 칩 메이커가 대출을 코사인하도록 제안하는 것이 도움이 됩니다.",
     "source": "TechCrunch",
@@ -9,53 +56,6 @@
     "tags": [
       "AI",
       "반도체"
-    ]
-  },
-  {
-    "rank": 2,
-    "title": "개인 정보 보호에 중점을 둔 AI 비서인 올리 (Ollie) 가 서비스를 종료합니다.",
-    "summary": "점점 더 많은 AI 어시스턴트가 시장에 넘쳐나고 있는 가운데, 사용자의 프라이버시를 존중하는 어시스턴트인 Ollie의 창립자는 일주일 안에 서비스가 중단될 것이라고 말합니다.",
-    "source": "TechCrunch",
-    "date": "2026.10.30",
-    "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
-    "tags": [
-      "AI",
-      "보안"
-    ]
-  },
-  {
-    "rank": 3,
-    "title": "인텔의 주가 폭락, 정부 지분에서 $ 12B 하락",
-    "summary": "인공지능 (AI) 산업이 메모리 및 기타 부품을 망가뜨려 PC 가격이 상승함에 따라 인텔은 PC 판매로 인해 피해를 입고 있습니다.",
-    "source": "TechCrunch",
-    "date": "2026.10.30",
-    "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "FT 보고서에 따르면 인류는 IPO 이후 신용 기관으로부터 높은 ‘정크’ 등급을받을 것으로 예상됩니다.",
-    "summary": "블랙스톤의 예측은 단지 예측일 뿐이지만, 당연히 높은 쓰레기 등급은 Anthropic이 자금을 조달하기 위해 자금을 조달하는 것을 더 어렵고 더 비싸게 만들 것입니다.",
-    "source": "TechCrunch",
-    "date": "2026.10.30",
-    "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
-    "tags": [
-      "LLM",
-      "스타트업"
-    ]
-  },
-  {
-    "rank": 5,
-    "title": "기술 괴짜를 위한 막바지 할로윈 코스튬",
-    "summary": "할로윈 코스튬이 없나요? 믿을 수 없을 정도로 귀여운 인공지능 에이전트 아이콘, PHP 취약점 또는 졸린 시간 브라이언 존슨이 되어보세요.",
-    "source": "TechCrunch",
-    "date": "2026.10.30",
-    "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
-    "tags": [
-      "AI",
-      "보안"
     ]
   }
 ]
