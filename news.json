@@ -1,6 +1,28 @@
 [
   {
     "rank": 1,
+    "title": "OpenAI는 데이터 센터를 ‘AI 컴퓨팅 캠퍼스‘ 로 리브랜딩할 수 있습니다.",
+    "summary": "데이터 센터는 매우 인기가 없습니다. 그러나 우리가 그들을 다른 것으로 부른다면 어떨까요?",
+    "source": "TechCrunch",
+    "date": "2026.11.01",
+    "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+    "tags": [
+      "LLM"
+    ]
+  },
+  {
+    "rank": 2,
+    "title": "AI는 기술 CEO의 삶을 더 쉽게 만들 수 있습니다. 다른 사람들은 어떻습니까?",
+    "summary": "Equity에서는 기술 CEO의 진술이 왜 그렇게 어조가 없어 보일 수 있는지에 대해 논의합니다.",
+    "source": "TechCrunch",
+    "date": "2026.11.01",
+    "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+    "tags": [
+      "테크"
+    ]
+  },
+  {
+    "rank": 3,
     "title": "애플 CEO는 회사가 ‘AI를 위해 AI를 배송하고 싶지 않다’ 고 말합니다.",
     "summary": "애플의 새로운 CEO는 AI 환경에서 회사의 현재 위치를 방어했다.",
     "source": "TechCrunch",
@@ -12,7 +34,7 @@
     ]
   },
   {
-    "rank": 2,
+    "rank": 4,
     "title": "4일 남음: TechCrunch 창립자 서밋이 규모에 맞게 더 유용한 연결을 만드는 데 도움이 되는 방법",
     "summary": "11월 4일 보스턴의 소와 발전소에서 의미 있는 네트워킹 기회, 실행 가능한 통찰력, ID의 궤도를 바꿀 수 있는 연결로 가득한 하루를 준비하세요.",
     "source": "TechCrunch",
@@ -23,7 +45,7 @@
     ]
   },
   {
-    "rank": 3,
+    "rank": 5,
     "title": "판사는 xAI 데이터 센터 오염에 대한 NAACP 소송이 진행될 수 있도록 허용합니다.",
     "summary": "NAACP 소송은 SpaceX 소유의 AI 회사가 청정 공기법을 위반했다고 비난합니다.",
     "source": "TechCrunch",
@@ -32,30 +54,6 @@
     "tags": [
       "AI",
       "규제"
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "OpenAI가 새로운 라운드에 대한 자금 조달 목표를 낮춘다고 합니다.",
-    "summary": "OpenAI의 최근 자금 조달 라운드는 기대에 부응하지 못하는 것 같습니다.",
-    "source": "TechCrunch",
-    "date": "2026.10.31",
-    "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-    "tags": [
-      "LLM",
-      "스타트업"
-    ]
-  },
-  {
-    "rank": 5,
-    "title": "엔비디아는 웨스트버지니아에 있는 엔스케일의 AI 데이터 센터에서 코시그너 역할을 맡고 있습니다.",
-    "summary": "투자자들이 AI 지출에 대해 긴장할 때, 칩을 판매하는 칩 메이커가 대출을 코사인하도록 제안하는 것이 도움이 됩니다.",
-    "source": "TechCrunch",
-    "date": "2026.10.31",
-    "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-    "tags": [
-      "AI",
-      "반도체"
     ]
   }
 ]
