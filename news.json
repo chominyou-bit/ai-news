@@ -1,59 +1,61 @@
 [
   {
     "rank": 1,
-    "title": "OpenAI는 데이터 센터를 ‘AI 컴퓨팅 캠퍼스‘ 로 리브랜딩할 수 있습니다.",
-    "summary": "데이터 센터는 매우 인기가 없습니다. 그러나 우리가 그들을 다른 것으로 부른다면 어떨까요?",
+    "title": "Google은 대중에게 AI로 생성된 개인적인 이야기를 전달하기 위해 Dreambeans를 인도로 데려갑니다.",
+    "summary": "최신 AI 실험인 Google의 Dreambeans는 이제 13개의 인도 언어를 지원합니다.",
     "source": "TechCrunch",
-    "date": "2026.11.01",
-    "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-    "tags": [
-      "LLM"
-    ]
-  },
-  {
-    "rank": 2,
-    "title": "AI는 기술 CEO의 삶을 더 쉽게 만들 수 있습니다. 다른 사람들은 어떻습니까?",
-    "summary": "Equity에서는 기술 CEO의 진술이 왜 그렇게 어조가 없어 보일 수 있는지에 대해 논의합니다.",
-    "source": "TechCrunch",
-    "date": "2026.11.01",
-    "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
-    "tags": [
-      "테크"
-    ]
-  },
-  {
-    "rank": 3,
-    "title": "애플 CEO는 회사가 ‘AI를 위해 AI를 배송하고 싶지 않다’ 고 말합니다.",
-    "summary": "애플의 새로운 CEO는 AI 환경에서 회사의 현재 위치를 방어했다.",
-    "source": "TechCrunch",
-    "date": "2026.10.31",
-    "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+    "date": "2026.11.03",
+    "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
     "tags": [
       "AI",
       "빅테크"
     ]
   },
   {
-    "rank": 4,
-    "title": "4일 남음: TechCrunch 창립자 서밋이 규모에 맞게 더 유용한 연결을 만드는 데 도움이 되는 방법",
-    "summary": "11월 4일 보스턴의 소와 발전소에서 의미 있는 네트워킹 기회, 실행 가능한 통찰력, ID의 궤도를 바꿀 수 있는 연결로 가득한 하루를 준비하세요.",
+    "rank": 2,
+    "title": "Apple은 타사 AI 앱으로… 무언가를 수행하여 수익을 늘리려고 할 수 있습니다.",
+    "summary": "애플은 월요일 밤 수익 통화에서 제3자 \"기회\" 를 통해 수익을 창출할 수 있는 방법을 암시했다.",
     "source": "TechCrunch",
-    "date": "2026.10.31",
-    "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+    "date": "2026.11.03",
+    "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
     "tags": [
-      "테크"
+      "AI",
+      "빅테크"
+    ]
+  },
+  {
+    "rank": 3,
+    "title": "Y Combinator의 Garry Tan은 AI 에이전트를 너무 많이 사용하여 토큰에 연간 최대 $ 200,000를 지출합니다.",
+    "summary": "Y Combinator Garry Tan은 자신이 \"사이버 정신병\" 을 앓고 있다는 사실을 농담삼아 인정하고 AI 요원과 함께 일하게 되어 너무 기쁘기 때문에 가끔 간신히 잠을 잡니다. 월터의 새로운 에피소드에서",
+    "source": "TechCrunch",
+    "date": "2026.11.03",
+    "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "rank": 4,
+    "title": "비기술 전문가가 AI 모델 교육에 액세스할 수 있도록 궤도에서 $ 45M 인상",
+    "summary": "한 살짜리 스타트업의 가치는 이제 3억 달러 ($) 에 달합니다.",
+    "source": "TechCrunch",
+    "date": "2026.11.02",
+    "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+    "tags": [
+      "AI",
+      "스타트업"
     ]
   },
   {
     "rank": 5,
-    "title": "판사는 xAI 데이터 센터 오염에 대한 NAACP 소송이 진행될 수 있도록 허용합니다.",
-    "summary": "NAACP 소송은 SpaceX 소유의 AI 회사가 청정 공기법을 위반했다고 비난합니다.",
+    "title": "Anthropic은 RSI 기능에 매우 가깝다고 경고하며, 이는 자가 구축 AI라고도 합니다.",
+    "summary": "RSI는 AI가 스스로를 훈련하는 데 매우 능숙하게 성장하여 AI 역량의 급격한 가속화를 낳는 지점입니다. AI doomers에게 RSI는 반환이 없는 대격변을 나타냅니다.",
     "source": "TechCrunch",
-    "date": "2026.10.31",
-    "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+    "date": "2026.11.02",
+    "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
     "tags": [
       "AI",
-      "규제"
+      "LLM"
     ]
   }
 ]
