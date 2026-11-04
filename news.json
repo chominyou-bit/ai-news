@@ -1,61 +1,59 @@
 [
   {
     "rank": 1,
-    "title": "Google은 대중에게 AI로 생성된 개인적인 이야기를 전달하기 위해 Dreambeans를 인도로 데려갑니다.",
-    "summary": "최신 AI 실험인 Google의 Dreambeans는 이제 13개의 인도 언어를 지원합니다.",
+    "title": "Anthropic은 AI 모델의 신원을 증명하는 시스템을 개발 중입니다.",
+    "summary": "플래시프로브 (FlashProve) 라고 불리는 이 시스템은 인공지능 응답이 실제로 해당 모델에서 왔는지 누구나 확인할 수 있도록 합니다.",
     "source": "TechCrunch",
     "date": "2026.11.03",
-    "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+    "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
     "tags": [
       "AI",
-      "빅테크"
+      "LLM"
     ]
   },
   {
     "rank": 2,
-    "title": "Apple은 타사 AI 앱으로… 무언가를 수행하여 수익을 늘리려고 할 수 있습니다.",
-    "summary": "애플은 월요일 밤 수익 통화에서 제3자 \"기회\" 를 통해 수익을 창출할 수 있는 방법을 암시했다.",
+    "title": "데이터 센터는 전력 대기 시간이 늘어남에 따라 오래된 제트 엔진으로 전환하고 있습니다.",
+    "summary": "그리드 및 새로운 터빈에 대한 접근을 수년간 기다린 결과 데이터 센터 빌더는 한 번 폐기된 제트 엔진인 비정상적이고 효율성이 낮으며 환경 친화적이지 않은 솔루션으로 전환하게 되었습니다.",
     "source": "TechCrunch",
     "date": "2026.11.03",
-    "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+    "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
     "tags": [
-      "AI",
-      "빅테크"
+      "테크"
     ]
   },
   {
     "rank": 3,
-    "title": "Y Combinator의 Garry Tan은 AI 에이전트를 너무 많이 사용하여 토큰에 연간 최대 $ 200,000를 지출합니다.",
-    "summary": "Y Combinator Garry Tan은 자신이 \"사이버 정신병\" 을 앓고 있다는 사실을 농담삼아 인정하고 AI 요원과 함께 일하게 되어 너무 기쁘기 때문에 가끔 간신히 잠을 잡니다. 월터의 새로운 에피소드에서",
+    "title": "테드 슐라인 (Ted Schlein) 의 탄도 벤처 (Ballistic Ventures) 는 AI 기반 사이버 보안 붐 속에서 새로운 자금을 위해 $ 4억 9천만 달러를 모색합니다.",
+    "summary": "사이버 보안에 중점을 둔 탄도 벤처 (Ballistic Ventures) 는 새로운 주력 펀드에 3억 6천만 달러를, 별도의 투자 수단에 1억 3천만 달러를 조달하고자 합니다.",
     "source": "TechCrunch",
     "date": "2026.11.03",
-    "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+    "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
     "tags": [
-      "AI"
+      "스타트업",
+      "보안"
     ]
   },
   {
     "rank": 4,
-    "title": "비기술 전문가가 AI 모델 교육에 액세스할 수 있도록 궤도에서 $ 45M 인상",
-    "summary": "한 살짜리 스타트업의 가치는 이제 3억 달러 ($) 에 달합니다.",
+    "title": "팔란티르의 급상승 분기 안에 숨어 있는 것은 예측 신호입니다.",
+    "summary": "Palantir의 미국 상업 매출은 사상 처음으로 미국 정부 매출을 넘어섰습니다.",
     "source": "TechCrunch",
-    "date": "2026.11.02",
-    "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+    "date": "2026.11.03",
+    "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
     "tags": [
-      "AI",
-      "스타트업"
+      "테크"
     ]
   },
   {
     "rank": 5,
-    "title": "Anthropic은 RSI 기능에 매우 가깝다고 경고하며, 이는 자가 구축 AI라고도 합니다.",
-    "summary": "RSI는 AI가 스스로를 훈련하는 데 매우 능숙하게 성장하여 AI 역량의 급격한 가속화를 낳는 지점입니다. AI doomers에게 RSI는 반환이 없는 대격변을 나타냅니다.",
+    "title": "AI 추론 스타트업 Fal, 수요 급증에 따라 평가액 $ 16B로 두 배 증가",
+    "summary": "다섯 살짜리 스타트업은 베세머가 이끄는 $ 13억 라운드를 모금했습니다.",
     "source": "TechCrunch",
-    "date": "2026.11.02",
-    "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+    "date": "2026.11.03",
+    "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
     "tags": [
-      "AI",
-      "LLM"
+      "스타트업"
     ]
   }
 ]
