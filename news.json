@@ -1,58 +1,61 @@
 [
   {
     "rank": 1,
-    "title": "Anthropic은 AI 모델의 신원을 증명하는 시스템을 개발 중입니다.",
-    "summary": "플래시프로브 (FlashProve) 라고 불리는 이 시스템은 인공지능 응답이 실제로 해당 모델에서 왔는지 누구나 확인할 수 있도록 합니다.",
+    "title": "애플은 내부 AI 사용에 대한 예산을 삭감하고 있는 것으로 알려졌다.",
+    "summary": "이 회사는 엔지니어링 팀을 위해 AI에 지출하는 금액을 크게 줄이고 있다고 합니다.",
     "source": "TechCrunch",
-    "date": "2026.11.03",
-    "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+    "date": "2026.11.05",
+    "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
     "tags": [
       "AI",
-      "LLM"
+      "빅테크"
     ]
   },
   {
     "rank": 2,
-    "title": "데이터 센터는 전력 대기 시간이 늘어남에 따라 오래된 제트 엔진으로 전환하고 있습니다.",
-    "summary": "그리드 및 새로운 터빈에 대한 접근을 수년간 기다린 결과 데이터 센터 빌더는 한 번 폐기된 제트 엔진인 비정상적이고 효율성이 낮으며 환경 친화적이지 않은 솔루션으로 전환하게 되었습니다.",
+    "title": "중간고사 이후, 데이터 센터를 둘러싼 더 큰 충돌이 다가올 수 있습니다.",
+    "summary": "데이터 센터의 반대는 화요일 중간고사에서 파티 라인을 넘었습니다.",
     "source": "TechCrunch",
-    "date": "2026.11.03",
-    "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+    "date": "2026.11.05",
+    "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
     "tags": [
       "테크"
     ]
   },
   {
     "rank": 3,
-    "title": "테드 슐라인 (Ted Schlein) 의 탄도 벤처 (Ballistic Ventures) 는 AI 기반 사이버 보안 붐 속에서 새로운 자금을 위해 $ 4억 9천만 달러를 모색합니다.",
-    "summary": "사이버 보안에 중점을 둔 탄도 벤처 (Ballistic Ventures) 는 새로운 주력 펀드에 3억 6천만 달러를, 별도의 투자 수단에 1억 3천만 달러를 조달하고자 합니다.",
+    "title": "AI PAC는 의회를 형성하기 위해 수백만 달러를 지출했습니다. 그들이 성공한 방법은 다음과 같습니다.",
+    "summary": "AI 산업 PAC는 2026년 중간고사에 수백만 달러를 투자하여 영향을 미쳤으며, 결과는 엇갈렸습니다. 정치 단체들은 이미 다음 선거 주기를 모색하고 있습니다.",
     "source": "TechCrunch",
-    "date": "2026.11.03",
-    "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+    "date": "2026.11.04",
+    "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
     "tags": [
-      "스타트업",
-      "보안"
+      "AI",
+      "규제"
     ]
   },
   {
     "rank": 4,
-    "title": "팔란티르의 급상승 분기 안에 숨어 있는 것은 예측 신호입니다.",
-    "summary": "Palantir의 미국 상업 매출은 사상 처음으로 미국 정부 매출을 넘어섰습니다.",
-    "source": "TechCrunch",
-    "date": "2026.11.03",
-    "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+    "title": "해커들은 iOS 및 Android 결함을 이용하여 휴대폰을 감염시켰습니다.",
+    "summary": "연구자들은 그룹이 외교적 목표를 찾기 위해 크렘린의 후원을 받았을 수 있다고 말합니다.",
+    "source": "Ars Technica",
+    "date": "2026.11.04",
+    "url": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
     "tags": [
-      "테크"
+      "보안",
+      "규제",
+      "연구"
     ]
   },
   {
     "rank": 5,
-    "title": "AI 추론 스타트업 Fal, 수요 급증에 따라 평가액 $ 16B로 두 배 증가",
-    "summary": "다섯 살짜리 스타트업은 베세머가 이끄는 $ 13억 라운드를 모금했습니다.",
+    "title": "CEO가 회사의 신비로운 AI 우선 장치가 다음 달에 떨어지고 있다고 말하는 것은 없습니다.",
+    "summary": "스마트폰 스타트업이 어떤 종류의 제품을 조리하고 있는지는 아직 명확하지 않지만, Nothing의 CEO는 이 제품이 생산성 향상을 위해 AI를 활용하도록 설계되었다고 말했습니다.",
     "source": "TechCrunch",
-    "date": "2026.11.03",
-    "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+    "date": "2026.11.04",
+    "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
     "tags": [
+      "AI",
       "스타트업"
     ]
   }
