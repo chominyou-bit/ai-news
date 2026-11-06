@@ -1,62 +1,61 @@
 [
   {
     "rank": 1,
-    "title": "애플은 내부 AI 사용에 대한 예산을 삭감하고 있는 것으로 알려졌다.",
-    "summary": "이 회사는 엔지니어링 팀을 위해 AI에 지출하는 금액을 크게 줄이고 있다고 합니다.",
+    "title": "* sshole을 만나보세요. 해커가 Linux 장치에 SSH를 적용할 수 있는 취약점입니다.",
+    "summary": "알파인의 특정 구성이 영향을 받습니다. 다른 배포판도 마찬가지일 수 있습니다.",
+    "source": "Ars Technica",
+    "date": "2026.11.05",
+    "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
+    "tags": [
+      "보안"
+    ]
+  },
+  {
+    "rank": 2,
+    "title": "에어비앤비는 2027년 상반기에 AI 여행사를 출범한다고 밝혔습니다.",
+    "summary": "에어비앤비는 다가오는 AI 에이전트를 통해 여행 계획을 세우고, 옵션을 비교하고, 예약을 관리하고, 숙박 기간 내내 도움을 받을 수 있다고 밝혔습니다.",
     "source": "TechCrunch",
     "date": "2026.11.05",
-    "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+    "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "rank": 3,
+    "title": "메타는 미국 사용자가 이제 Muse AI 아바타로 화상 채팅을 할 수 있다고 말합니다.",
+    "summary": "Meta의 AI 에이전트는 이제 Muse에 생명을 불어넣기 위해 설계된 Tamagotchi와 같은 웨어러블 출시를 앞두고 통화를 맞춤형 애니메이션 아바타로 사용할 수 있습니다.",
+    "source": "TechCrunch",
+    "date": "2026.11.05",
+    "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
     "tags": [
       "AI",
       "빅테크"
     ]
   },
   {
-    "rank": 2,
-    "title": "중간고사 이후, 데이터 센터를 둘러싼 더 큰 충돌이 다가올 수 있습니다.",
-    "summary": "데이터 센터의 반대는 화요일 중간고사에서 파티 라인을 넘었습니다.",
+    "rank": 4,
+    "title": "메타는 데이터 센터에 대한 선거 반발이 AI 확장을 더 어렵게 만들 수 있다고 경고합니다.",
+    "summary": "메타는 커뮤니티가 대규모 인프라 프로젝트에 반발함에 따라 데이터 센터에 대한 정치적 반대가 커지면 미래의 AI 투자를 위협할 수 있다고 경고합니다.",
     "source": "TechCrunch",
     "date": "2026.11.05",
-    "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
-    "tags": [
-      "테크"
-    ]
-  },
-  {
-    "rank": 3,
-    "title": "AI PAC는 의회를 형성하기 위해 수백만 달러를 지출했습니다. 그들이 성공한 방법은 다음과 같습니다.",
-    "summary": "AI 산업 PAC는 2026년 중간고사에 수백만 달러를 투자하여 영향을 미쳤으며, 결과는 엇갈렸습니다. 정치 단체들은 이미 다음 선거 주기를 모색하고 있습니다.",
-    "source": "TechCrunch",
-    "date": "2026.11.04",
-    "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+    "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
     "tags": [
       "AI",
-      "규제"
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "해커들은 iOS 및 Android 결함을 이용하여 휴대폰을 감염시켰습니다.",
-    "summary": "연구자들은 그룹이 외교적 목표를 찾기 위해 크렘린의 후원을 받았을 수 있다고 말합니다.",
-    "source": "Ars Technica",
-    "date": "2026.11.04",
-    "url": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
-    "tags": [
-      "보안",
-      "규제",
-      "연구"
+      "빅테크"
     ]
   },
   {
     "rank": 5,
-    "title": "CEO가 회사의 신비로운 AI 우선 장치가 다음 달에 떨어지고 있다고 말하는 것은 없습니다.",
-    "summary": "스마트폰 스타트업이 어떤 종류의 제품을 조리하고 있는지는 아직 명확하지 않지만, Nothing의 CEO는 이 제품이 생산성 향상을 위해 AI를 활용하도록 설계되었다고 말했습니다.",
+    "title": "OpenAI는 새로운 사이버 보안 모델을 출시했습니다. 이 정도면 충분할까요?",
+    "summary": "OpenAI의 최신 사이버 보안 모델은 AI 연구소가 디지털 인프라를 보호하기 위한 작업에 대한 면밀한 조사에 직면함에 따라 나옵니다.",
     "source": "TechCrunch",
-    "date": "2026.11.04",
-    "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+    "date": "2026.11.05",
+    "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
     "tags": [
       "AI",
-      "스타트업"
+      "LLM",
+      "보안"
     ]
   }
 ]
