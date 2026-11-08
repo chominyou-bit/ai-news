@@ -1,6 +1,29 @@
 [
   {
     "rank": 1,
+    "title": "중간고사 이후, 일론 머스크 (Elon Musk) 와 데이터 센터에 대한 관심이 높아지고 있습니다.",
+    "summary": "Equity에서 우리는 중간고사가 기술 업계에 의미하는 바를 풀었습니다.",
+    "source": "TechCrunch",
+    "date": "2026.11.07",
+    "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+    "tags": [
+      "테크"
+    ]
+  },
+  {
+    "rank": 2,
+    "title": "미국 정보 메모에 따르면 엔비디아 CEO를 감시하기 위해 Megaspeed EXEC을 모집했다고 합니다.",
+    "summary": "올해 초 유포된 메모에 따르면 중국 국가안보부가 엔비디아 CEO를 감시하기 위해 여성 기술 임원을 영입했다고 한다.",
+    "source": "TechCrunch",
+    "date": "2026.11.07",
+    "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+    "tags": [
+      "반도체",
+      "보안"
+    ]
+  },
+  {
+    "rank": 3,
     "title": "Crusoe는 문제가 있는 와이오밍 데이터 센터 프로젝트를 Google에 판매합니다",
     "summary": "이 거래는 대규모 AI 데이터 센터 개발의 과제를 강조합니다.",
     "source": "TechCrunch",
@@ -12,7 +35,7 @@
     ]
   },
   {
-    "rank": 2,
+    "rank": 4,
     "title": "OpenAI가 1조 2천 5백억 달러 ($) 의 가치 평가로 110억 달러 ($) 를 추가로 모금한다고 보고되었습니다.",
     "summary": "OpenAI는 아직 마감되지 않았지만 앞으로 몇 주 안에 예상되는 자금 조달 라운드의 일환으로 110억 $ 를 추가로 모금한 것으로 알려졌습니다.",
     "source": "TechCrunch",
@@ -24,7 +47,7 @@
     ]
   },
   {
-    "rank": 3,
+    "rank": 5,
     "title": "Chainalysis는 해커가 모든 고객을 위해 자격 증명과 토큰을 훔쳤다고 말합니다.",
     "summary": "회사는 \"다면 사이버 공격\" 에는 AI 요원과 경로 데이터 탈취가 포함된다고 말했습니다.",
     "source": "Ars Technica",
@@ -33,31 +56,6 @@
     "tags": [
       "AI",
       "보안"
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "웹에 공개적으로 노출된 수백 개의 Artex AI 해킹 도구",
-    "summary": "보안 연구원들은 인터넷에 노출된 Artex 침투 테스트 도구를 호스팅하는 수백 대의 서버를 발견하여 누구나 해킹 도구에 액세스할 수 있도록 했습니다.",
-    "source": "TechCrunch",
-    "date": "2026.11.06",
-    "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
-    "tags": [
-      "AI",
-      "보안",
-      "연구"
-    ]
-  },
-  {
-    "rank": 5,
-    "title": "Meta가 Muse 에이전트와 협업할 수 있는 새로운 방법인 Spaces를 소개합니다.",
-    "summary": "Meta의 Muse 상담원은 계속해서 새로운 기능과 통합을 제공합니다. 스페이스는 AI 도우미와 소통할 수 있는 새로운 방법이 될 것입니다.",
-    "source": "TechCrunch",
-    "date": "2026.11.06",
-    "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-    "tags": [
-      "AI",
-      "빅테크"
     ]
   }
 ]
