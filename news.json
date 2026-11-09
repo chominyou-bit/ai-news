@@ -1,6 +1,28 @@
 [
   {
     "rank": 1,
+    "title": "Jensen Huang의 업무가 대기 중입니까? Yale의 Jeffrey Sonnenfeld는 \"약 50-50\" 이라고 추정합니다.",
+    "summary": "엔비디아의 이사회는 젠슨 황 (Jensen Huang) 과 중국 스파이 용의자의 관계를 조사하고 있으며, 예일의 제프리 소넨펠드 (Jeffrey Sonnenfeld) 는 황이 CEO직을 유지하고 있는지 여부를 대략적으로 동전 던지기라고 생각합니다.",
+    "source": "TechCrunch",
+    "date": "2026.11.09",
+    "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+    "tags": [
+      "반도체"
+    ]
+  },
+  {
+    "rank": 2,
+    "title": "엔비디아는 CEO 젠슨 황 (Jensen Huang) 과 중국 스파이와의 관계를 조사할 예정이다.",
+    "summary": "회사에 보낸 메모에서 황씨는 불륜 사실을 인정했다.",
+    "source": "TechCrunch",
+    "date": "2026.11.08",
+    "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+    "tags": [
+      "반도체"
+    ]
+  },
+  {
+    "rank": 3,
     "title": "중간고사 이후, 일론 머스크 (Elon Musk) 와 데이터 센터에 대한 관심이 높아지고 있습니다.",
     "summary": "Equity에서 우리는 중간고사가 기술 업계에 의미하는 바를 풀었습니다.",
     "source": "TechCrunch",
@@ -11,7 +33,7 @@
     ]
   },
   {
-    "rank": 2,
+    "rank": 4,
     "title": "미국 정보 메모에 따르면 엔비디아 CEO를 감시하기 위해 Megaspeed EXEC을 모집했다고 합니다.",
     "summary": "올해 초 유포된 메모에 따르면 중국 국가안보부가 엔비디아 CEO를 감시하기 위해 여성 기술 임원을 영입했다고 한다.",
     "source": "TechCrunch",
@@ -23,7 +45,7 @@
     ]
   },
   {
-    "rank": 3,
+    "rank": 5,
     "title": "Crusoe는 문제가 있는 와이오밍 데이터 센터 프로젝트를 Google에 판매합니다",
     "summary": "이 거래는 대규모 AI 데이터 센터 개발의 과제를 강조합니다.",
     "source": "TechCrunch",
@@ -32,30 +54,6 @@
     "tags": [
       "AI",
       "빅테크"
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "OpenAI가 1조 2천 5백억 달러 ($) 의 가치 평가로 110억 달러 ($) 를 추가로 모금한다고 보고되었습니다.",
-    "summary": "OpenAI는 아직 마감되지 않았지만 앞으로 몇 주 안에 예상되는 자금 조달 라운드의 일환으로 110억 $ 를 추가로 모금한 것으로 알려졌습니다.",
-    "source": "TechCrunch",
-    "date": "2026.11.06",
-    "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-    "tags": [
-      "LLM",
-      "스타트업"
-    ]
-  },
-  {
-    "rank": 5,
-    "title": "Chainalysis는 해커가 모든 고객을 위해 자격 증명과 토큰을 훔쳤다고 말합니다.",
-    "summary": "회사는 \"다면 사이버 공격\" 에는 AI 요원과 경로 데이터 탈취가 포함된다고 말했습니다.",
-    "source": "Ars Technica",
-    "date": "2026.11.06",
-    "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
-    "tags": [
-      "AI",
-      "보안"
     ]
   }
 ]
