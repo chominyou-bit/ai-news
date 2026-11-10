@@ -1,59 +1,61 @@
 [
   {
     "rank": 1,
-    "title": "Jensen Huang의 업무가 대기 중입니까? Yale의 Jeffrey Sonnenfeld는 \"약 50-50\" 이라고 추정합니다.",
-    "summary": "엔비디아의 이사회는 젠슨 황 (Jensen Huang) 과 중국 스파이 용의자의 관계를 조사하고 있으며, 예일의 제프리 소넨펠드 (Jeffrey Sonnenfeld) 는 황이 CEO직을 유지하고 있는지 여부를 대략적으로 동전 던지기라고 생각합니다.",
+    "title": "Anthropic은 IPO 계획을 추진할 계획이라고 합니다.",
+    "summary": "월스트리트 저널은 AI 회사가 이번 주에 평가 범위를 설정할 것으로 예상된다고 보도했다.",
     "source": "TechCrunch",
-    "date": "2026.11.09",
-    "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+    "date": "2026.11.10",
+    "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
     "tags": [
-      "반도체"
+      "AI",
+      "LLM"
     ]
   },
   {
     "rank": 2,
-    "title": "엔비디아는 CEO 젠슨 황 (Jensen Huang) 과 중국 스파이와의 관계를 조사할 예정이다.",
-    "summary": "회사에 보낸 메모에서 황씨는 불륜 사실을 인정했다.",
+    "title": "젠슨 황 (Jensen Huang) 은 1 년 전 유명 성추문 사건을 처리 한 경력이있는 홍보 회사에 종사 한 것으로 알려졌다.",
+    "summary": "Wired는 2025년 10월 뉴욕 타임즈 보고서에서 Alice Huang과 Jensen Huang의 비즈니스 거래를 설명한 직후 PR 회사가 입대했다고 보도했습니다.",
     "source": "TechCrunch",
-    "date": "2026.11.08",
-    "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
-    "tags": [
-      "반도체"
-    ]
-  },
-  {
-    "rank": 3,
-    "title": "중간고사 이후, 일론 머스크 (Elon Musk) 와 데이터 센터에 대한 관심이 높아지고 있습니다.",
-    "summary": "Equity에서 우리는 중간고사가 기술 업계에 의미하는 바를 풀었습니다.",
-    "source": "TechCrunch",
-    "date": "2026.11.07",
-    "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+    "date": "2026.11.09",
+    "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
     "tags": [
       "테크"
     ]
   },
   {
-    "rank": 4,
-    "title": "미국 정보 메모에 따르면 엔비디아 CEO를 감시하기 위해 Megaspeed EXEC을 모집했다고 합니다.",
-    "summary": "올해 초 유포된 메모에 따르면 중국 국가안보부가 엔비디아 CEO를 감시하기 위해 여성 기술 임원을 영입했다고 한다.",
+    "rank": 3,
+    "title": "스캔들이 일어나기 6개월 전에 공매도가 엔비디아 CEO와 중국 스파이가 연관이 있다고 신고했습니다.",
+    "summary": "엔비디아의 스파이 스캔들이 터지기 6개월 전, 컬퍼 리서치는 이미 젠슨 황과 중국 간부의 이례적으로 가까운 관계에 대해 의문을 제기하고 있었다.",
     "source": "TechCrunch",
-    "date": "2026.11.07",
-    "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+    "date": "2026.11.09",
+    "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
     "tags": [
       "반도체",
-      "보안"
+      "연구"
+    ]
+  },
+  {
+    "rank": 4,
+    "title": "엔비디아를 고소하기 위한 경주가 진행 중입니다.",
+    "summary": "엔비디아의 주가는 이사회가 젠슨 황 (Jensen Huang) 과 중국 스파이 용의자의 관계에 대한 조사를 개시한 후 4% 이상 하락했으며, 한 증권법 전문가는 이 회사의 초기 주장에 대해 이렇게 말합니다.",
+    "source": "TechCrunch",
+    "date": "2026.11.09",
+    "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+    "tags": [
+      "반도체",
+      "규제"
     ]
   },
   {
     "rank": 5,
-    "title": "Crusoe는 문제가 있는 와이오밍 데이터 센터 프로젝트를 Google에 판매합니다",
-    "summary": "이 거래는 대규모 AI 데이터 센터 개발의 과제를 강조합니다.",
+    "title": "젠슨 황 (Jensen Huang) 은 엔비디아 논란 속에서 ElevenLabs Summit을 탈퇴합니다.",
+    "summary": "엔비디아 CEO도 앞서 인류애 행사에서 탈퇴했습니다.",
     "source": "TechCrunch",
-    "date": "2026.11.07",
-    "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+    "date": "2026.11.09",
+    "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
     "tags": [
-      "AI",
-      "빅테크"
+      "LLM",
+      "반도체"
     ]
   }
 ]
