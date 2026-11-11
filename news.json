@@ -1,61 +1,60 @@
 [
   {
     "rank": 1,
-    "title": "Anthropic은 IPO 계획을 추진할 계획이라고 합니다.",
-    "summary": "월스트리트 저널은 AI 회사가 이번 주에 평가 범위를 설정할 것으로 예상된다고 보도했다.",
-    "source": "TechCrunch",
+    "title": "Grok Build 코딩 에이전트가 SpaceXSI에 속한 일부 기밀 정보를 유출합니다.",
+    "summary": "연구원은 35,000개의 Grok Build 앱이 누구에게나 열려 있음을 발견했습니다.",
+    "source": "Ars Technica",
     "date": "2026.11.10",
-    "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+    "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
     "tags": [
-      "AI",
-      "LLM"
-    ]
-  },
-  {
-    "rank": 2,
-    "title": "젠슨 황 (Jensen Huang) 은 1 년 전 유명 성추문 사건을 처리 한 경력이있는 홍보 회사에 종사 한 것으로 알려졌다.",
-    "summary": "Wired는 2025년 10월 뉴욕 타임즈 보고서에서 Alice Huang과 Jensen Huang의 비즈니스 거래를 설명한 직후 PR 회사가 입대했다고 보도했습니다.",
-    "source": "TechCrunch",
-    "date": "2026.11.09",
-    "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
-    "tags": [
-      "테크"
-    ]
-  },
-  {
-    "rank": 3,
-    "title": "스캔들이 일어나기 6개월 전에 공매도가 엔비디아 CEO와 중국 스파이가 연관이 있다고 신고했습니다.",
-    "summary": "엔비디아의 스파이 스캔들이 터지기 6개월 전, 컬퍼 리서치는 이미 젠슨 황과 중국 간부의 이례적으로 가까운 관계에 대해 의문을 제기하고 있었다.",
-    "source": "TechCrunch",
-    "date": "2026.11.09",
-    "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
-    "tags": [
-      "반도체",
       "연구"
     ]
   },
   {
-    "rank": 4,
-    "title": "엔비디아를 고소하기 위한 경주가 진행 중입니다.",
-    "summary": "엔비디아의 주가는 이사회가 젠슨 황 (Jensen Huang) 과 중국 스파이 용의자의 관계에 대한 조사를 개시한 후 4% 이상 하락했으며, 한 증권법 전문가는 이 회사의 초기 주장에 대해 이렇게 말합니다.",
+    "rank": 2,
+    "title": "OpenAI, Sonder 창업자가 만든 여행 스타트업 Odessia 인수",
+    "summary": "OpenAI는 아직 여행의 미래에 대한 계획을 밝히지 않았습니다. 하지만 손더의 창업자 프랜시스 데이비슨은 여행 업계에서 잘 알려진 인물입니다.",
     "source": "TechCrunch",
-    "date": "2026.11.09",
-    "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+    "date": "2026.11.10",
+    "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
     "tags": [
-      "반도체",
+      "LLM",
+      "스타트업"
+    ]
+  },
+  {
+    "rank": 3,
+    "title": "뉴욕의 AI 안전법이 발효됨에 따라 OpenAI, Anthropic은 새로운 감독에 직면해 있습니다.",
+    "summary": "뉴욕은 OpenAI 및 Anthropic과 같은 주요 개발자가 등록하고, 안전 관행을 공개하고, 중요한 사건을 보고하거나 벌금을 부과하도록 요구하는 광범위한 AI 안전법을 시행할 준비를 하고 있습니다.",
+    "source": "TechCrunch",
+    "date": "2026.11.10",
+    "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+    "tags": [
+      "AI",
+      "LLM",
       "규제"
     ]
   },
   {
-    "rank": 5,
-    "title": "젠슨 황 (Jensen Huang) 은 엔비디아 논란 속에서 ElevenLabs Summit을 탈퇴합니다.",
-    "summary": "엔비디아 CEO도 앞서 인류애 행사에서 탈퇴했습니다.",
+    "rank": 4,
+    "title": "Anthropic 설립자 7명 모두 각각 약 2억 5천만 $ 의 IPO 수익을 출금합니다.",
+    "summary": "7명의 공동 창업자 각각은 IPO에서 정확히 동일한 수의 주식을 판매할 계획이며, 이는 가격대의 중간 지점에서 각각 약 2억 5천만 $ 의 현금을 가져올 것입니다.",
     "source": "TechCrunch",
-    "date": "2026.11.09",
-    "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+    "date": "2026.11.10",
+    "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
     "tags": [
-      "LLM",
-      "반도체"
+      "LLM"
+    ]
+  },
+  {
+    "rank": 5,
+    "title": "OURA, AI 네이티브 일차 진료 스타트업 Counsel Health를 $ 625M에 인수",
+    "summary": "이번 거래는 Oura가 \"IPO 시장의 불확실성\" 을 이유로 최대 22억 달러의 IPO를 무기한 연기한 지 몇 주 후에 이루어집니다.",
+    "source": "TechCrunch",
+    "date": "2026.11.10",
+    "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+    "tags": [
+      "스타트업"
     ]
   }
 ]
