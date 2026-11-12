@@ -1,60 +1,58 @@
 [
   {
     "rank": 1,
-    "title": "Grok Build 코딩 에이전트가 SpaceXSI에 속한 일부 기밀 정보를 유출합니다.",
-    "summary": "연구원은 35,000개의 Grok Build 앱이 누구에게나 열려 있음을 발견했습니다.",
-    "source": "Ars Technica",
-    "date": "2026.11.10",
-    "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+    "title": "젠슨 황의 뒤를 이을 사람은 누구일까요? 가능한 후계자들에 대한 매우 비과학적인 목록",
+    "summary": "Nvidia는 승계 계획이 없고 CEO는 곤경에 처해 있습니다. 그래서 저희는 후보자 명단을 작성했습니다.",
+    "source": "TechCrunch",
+    "date": "2026.11.12",
+    "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
     "tags": [
-      "연구"
+      "반도체"
     ]
   },
   {
     "rank": 2,
-    "title": "OpenAI, Sonder 창업자가 만든 여행 스타트업 Odessia 인수",
-    "summary": "OpenAI는 아직 여행의 미래에 대한 계획을 밝히지 않았습니다. 하지만 손더의 창업자 프랜시스 데이비슨은 여행 업계에서 잘 알려진 인물입니다.",
+    "title": "전개 중인 젠슨 황 스캔들: 연대표",
+    "summary": "미국과 중국이 가장 발전된 AI 인프라를 개발하기 위해 경쟁하는 가운데, 이 사건은 국가 안보에 영향을 미칠 수 있다.",
     "source": "TechCrunch",
-    "date": "2026.11.10",
-    "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+    "date": "2026.11.11",
+    "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
     "tags": [
-      "LLM",
-      "스타트업"
+      "AI",
+      "보안"
     ]
   },
   {
     "rank": 3,
-    "title": "뉴욕의 AI 안전법이 발효됨에 따라 OpenAI, Anthropic은 새로운 감독에 직면해 있습니다.",
-    "summary": "뉴욕은 OpenAI 및 Anthropic과 같은 주요 개발자가 등록하고, 안전 관행을 공개하고, 중요한 사건을 보고하거나 벌금을 부과하도록 요구하는 광범위한 AI 안전법을 시행할 준비를 하고 있습니다.",
+    "title": "Nvidia의 이사회가 CEO 젠슨 황을 해임할 준비를 하고 있다는 소식에 Nvidia 주가가 하락했습니다.",
+    "summary": "빠르면 수요일 저녁에 엔비디아 이사회가 33년 동안 재직한 창립자 겸 CEO를 해임하기로 결정할 수 있습니다.",
     "source": "TechCrunch",
-    "date": "2026.11.10",
-    "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+    "date": "2026.11.11",
+    "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
     "tags": [
-      "AI",
-      "LLM",
-      "규제"
+      "반도체"
     ]
   },
   {
     "rank": 4,
-    "title": "Anthropic 설립자 7명 모두 각각 약 2억 5천만 $ 의 IPO 수익을 출금합니다.",
-    "summary": "7명의 공동 창업자 각각은 IPO에서 정확히 동일한 수의 주식을 판매할 계획이며, 이는 가격대의 중간 지점에서 각각 약 2억 5천만 $ 의 현금을 가져올 것입니다.",
+    "title": "젠슨 황, 또 다른 불륜 의혹 제기 — 상대는 엔비디아 임원",
+    "summary": "중국 정보원 혐의를 받는 여성과 불륜 관계임을 인정한 젠슨 황(Jensen Huang)이 엔비디아 부하 직원과 별도의 불륜 관계를 맺었다는 혐의를 받고 있다.",
     "source": "TechCrunch",
-    "date": "2026.11.10",
-    "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+    "date": "2026.11.11",
+    "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
     "tags": [
-      "LLM"
+      "반도체"
     ]
   },
   {
     "rank": 5,
-    "title": "OURA, AI 네이티브 일차 진료 스타트업 Counsel Health를 $ 625M에 인수",
-    "summary": "이번 거래는 Oura가 \"IPO 시장의 불확실성\" 을 이유로 최대 22억 달러의 IPO를 무기한 연기한 지 몇 주 후에 이루어집니다.",
+    "title": "귀하가 우려하는 데이터 센터가 아예 건설되지 않을 수도 있는 이유",
+    "summary": "데이터 센터 붐은 광범위한 지역 주민들의 반대와 인허가 지연부터 전력 확보 경쟁에 이르기까지 현실적인 심각한 장애물에 직면해 있습니다. 이러한 문제가 발생하기 전에도",
     "source": "TechCrunch",
-    "date": "2026.11.10",
-    "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+    "date": "2026.11.11",
+    "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
     "tags": [
-      "스타트업"
+      "테크"
     ]
   }
 ]
