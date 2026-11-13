@@ -1,58 +1,62 @@
 [
   {
     "rank": 1,
-    "title": "젠슨 황의 뒤를 이을 사람은 누구일까요? 가능한 후계자들에 대한 매우 비과학적인 목록",
-    "summary": "Nvidia는 승계 계획이 없고 CEO는 곤경에 처해 있습니다. 그래서 저희는 후보자 명단을 작성했습니다.",
+    "title": "민주당, 엔비디아 조사 개시 및 황 CEO의 트럼프 '음모'에 대한 비판적 서한 작성",
+    "summary": "Nvidia의 중국 판매 및 트럼프와의 거래에 대한 이번 의회 조사는 지금까지 알려진 스파이 사건 의혹이 불거진 이후 두 번째입니다.",
     "source": "TechCrunch",
     "date": "2026.11.12",
-    "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+    "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
     "tags": [
-      "반도체"
+      "반도체",
+      "규제"
     ]
   },
   {
     "rank": 2,
-    "title": "전개 중인 젠슨 황 스캔들: 연대표",
-    "summary": "미국과 중국이 가장 발전된 AI 인프라를 개발하기 위해 경쟁하는 가운데, 이 사건은 국가 안보에 영향을 미칠 수 있다.",
+    "title": "이제 Muse를 통해 유료로 미국 내 기업에 전화 걸 수 있습니다.",
+    "summary": "Muse의 AI는 이제 미국 내 기업에 아웃바운드 전화를 걸 수 있지만, 무료는 아닙니다.",
     "source": "TechCrunch",
-    "date": "2026.11.11",
-    "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "date": "2026.11.12",
+    "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
     "tags": [
-      "AI",
-      "보안"
+      "AI"
     ]
   },
   {
     "rank": 3,
-    "title": "Nvidia의 이사회가 CEO 젠슨 황을 해임할 준비를 하고 있다는 소식에 Nvidia 주가가 하락했습니다.",
-    "summary": "빠르면 수요일 저녁에 엔비디아 이사회가 33년 동안 재직한 창립자 겸 CEO를 해임하기로 결정할 수 있습니다.",
+    "title": "진행 중인 젠슨 황 스캔들: 연대표",
+    "summary": "젠슨 황이 불륜 스캔들로 인해 엔비디아에서 사임했습니다. 이는 미국과 중국이 가장 진보된 AI 인프라를 개발하기 위해 경쟁하는 가운데 국가 안보에 영향을 미칠 수 있습니다.",
     "source": "TechCrunch",
-    "date": "2026.11.11",
-    "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+    "date": "2026.11.12",
+    "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
     "tags": [
-      "반도체"
+      "AI",
+      "반도체",
+      "보안"
     ]
   },
   {
     "rank": 4,
-    "title": "젠슨 황, 또 다른 불륜 의혹 제기 — 상대는 엔비디아 임원",
-    "summary": "중국 정보원 혐의를 받는 여성과 불륜 관계임을 인정한 젠슨 황(Jensen Huang)이 엔비디아 부하 직원과 별도의 불륜 관계를 맺었다는 혐의를 받고 있다.",
+    "title": "Nebius, 400억 달러 규모의 계획된 지출로 네오클라우드 플레이북 테스트",
+    "summary": "Nebius는 Microsoft 데이터 센터의 지연으로 인해 자금 조달 모델에 대한 의문이 제기되고 있음에도 불구하고 고객 선불금과 대출을 통해 400억 달러 규모의 AI 인프라 확장을 자금 지원할 계획입니다.",
     "source": "TechCrunch",
-    "date": "2026.11.11",
-    "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+    "date": "2026.11.12",
+    "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
     "tags": [
-      "반도체"
+      "AI",
+      "빅테크"
     ]
   },
   {
     "rank": 5,
-    "title": "귀하가 우려하는 데이터 센터가 아예 건설되지 않을 수도 있는 이유",
-    "summary": "데이터 센터 붐은 광범위한 지역 주민들의 반대와 인허가 지연부터 전력 확보 경쟁에 이르기까지 현실적인 심각한 장애물에 직면해 있습니다. 이러한 문제가 발생하기 전에도",
+    "title": "로이터 통신은 젠슨 황이 세 번째 불륜을 저지르고 있다고 보도했습니다.",
+    "summary": "로이터는 황씨와 연관된 새 직원의 이름을 밝히지 않았지만, 이 직원이 엔비디아 직원이라고 전했다.",
     "source": "TechCrunch",
-    "date": "2026.11.11",
-    "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+    "date": "2026.11.12",
+    "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
     "tags": [
-      "테크"
+      "반도체",
+      "규제"
     ]
   }
 ]
