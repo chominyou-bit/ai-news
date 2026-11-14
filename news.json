@@ -1,62 +1,63 @@
 [
   {
     "rank": 1,
-    "title": "민주당, 엔비디아 조사 개시 및 황 CEO의 트럼프 '음모'에 대한 비판적 서한 작성",
-    "summary": "Nvidia의 중국 판매 및 트럼프와의 거래에 대한 이번 의회 조사는 지금까지 알려진 스파이 사건 의혹이 불거진 이후 두 번째입니다.",
+    "title": "벤처캐피털과 창업자들은 젠슨 황의 퇴장이 AI 스타트업 자금 조달에 큰 구멍을 냈다고 말합니다.",
+    "summary": "Nvidia는 황의 지휘 아래 AI 스타트업에 수십억 달러를 투자했습니다. 그가 경영을 맡지 않는 상황에서 창업자와 벤처캐피털은 더 적은 투자금과 더 낮은 기업 가치를 예상하고 있습니다.",
     "source": "TechCrunch",
-    "date": "2026.11.12",
-    "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+    "date": "2026.11.13",
+    "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
     "tags": [
+      "AI",
       "반도체",
-      "규제"
+      "스타트업"
     ]
   },
   {
     "rank": 2,
-    "title": "이제 Muse를 통해 유료로 미국 내 기업에 전화 걸 수 있습니다.",
-    "summary": "Muse의 AI는 이제 미국 내 기업에 아웃바운드 전화를 걸 수 있지만, 무료는 아닙니다.",
+    "title": "AI 에이전트 스타트업 LangChain, 기업 가치 30억 달러 달성",
+    "summary": "LangChain은 이제 모델 및 플랫폼에 구애받지 않는 에이전트 관리 도구인 LangSmith의 고객이 7,000명에 달한다고 주장합니다.",
     "source": "TechCrunch",
-    "date": "2026.11.12",
-    "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+    "date": "2026.11.13",
+    "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
     "tags": [
-      "AI"
+      "스타트업"
     ]
   },
   {
     "rank": 3,
-    "title": "진행 중인 젠슨 황 스캔들: 연대표",
-    "summary": "젠슨 황이 불륜 스캔들로 인해 엔비디아에서 사임했습니다. 이는 미국과 중국이 가장 진보된 AI 인프라를 개발하기 위해 경쟁하는 가운데 국가 안보에 영향을 미칠 수 있습니다.",
+    "title": "수출 금지된 엔비디아 칩이 중국의 가장 강력한 AI 모델에 사용되고 있습니다 — 이럴 수가, 젠슨!",
+    "summary": "새로운 연구에 따르면 중국의 가장 진보된 AI 모델은 금지된 엔비디아 칩으로 훈련되었습니다.",
     "source": "TechCrunch",
-    "date": "2026.11.12",
-    "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "date": "2026.11.13",
+    "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
     "tags": [
       "AI",
       "반도체",
-      "보안"
+      "규제"
     ]
   },
   {
     "rank": 4,
-    "title": "Nebius, 400억 달러 규모의 계획된 지출로 네오클라우드 플레이북 테스트",
-    "summary": "Nebius는 Microsoft 데이터 센터의 지연으로 인해 자금 조달 모델에 대한 의문이 제기되고 있음에도 불구하고 고객 선불금과 대출을 통해 400억 달러 규모의 AI 인프라 확장을 자금 지원할 계획입니다.",
-    "source": "TechCrunch",
-    "date": "2026.11.12",
-    "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+    "title": "불만을 품은 연구원이 공개한 Windows 제로 데이 취약점으로 인해 해커가 시스템 권한을 획득",
+    "summary": "\"SignDrop\" 취약점 공격을 통해 로컬 사용자가 모든 권한을 가진 시스템 권한을 획득할 수 있습니다.",
+    "source": "Ars Technica",
+    "date": "2026.11.13",
+    "url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
     "tags": [
-      "AI",
-      "빅테크"
+      "보안",
+      "연구"
     ]
   },
   {
     "rank": 5,
-    "title": "로이터 통신은 젠슨 황이 세 번째 불륜을 저지르고 있다고 보도했습니다.",
-    "summary": "로이터는 황씨와 연관된 새 직원의 이름을 밝히지 않았지만, 이 직원이 엔비디아 직원이라고 전했다.",
+    "title": "ChatGPT의 새로운 지갑을 사용하면 AI 에이전트가 사용자를 대신해 쇼핑하고 결제할 수 있습니다.",
+    "summary": "ChatGPT Wallet을 사용하면 AI 에이전트가 사용자를 대신하여 쇼핑하고 결제할 수 있으며, 먼저 미국 Pro 구독자를 대상으로 제한적으로 출시됩니다.",
     "source": "TechCrunch",
-    "date": "2026.11.12",
-    "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
+    "date": "2026.11.13",
+    "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
     "tags": [
-      "반도체",
-      "규제"
+      "AI",
+      "LLM"
     ]
   }
 ]
