@@ -1,8 +1,55 @@
 [
   {
     "rank": 1,
+    "title": "Nvidia의 보안팀은 어디에 있었습니까?",
+    "summary": "엔비디아의 보안 책임자는 지난 8월 조용히 퇴사했으며, 이제 젠슨 황 CEO가 중국에 칩을 유통한 혐의를 받는 회사 임원과의 관계를 포함한 여러 관계 문제로 인해 사임했습니다.",
+    "source": "TechCrunch",
+    "date": "2026.11.15",
+    "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+    "tags": [
+      "반도체",
+      "보안"
+    ]
+  },
+  {
+    "rank": 2,
+    "title": "일론 머스크를 비롯한 여러 기술 기업 임원들이 엔비디아에 젠슨 황 CEO 복직을 촉구하는 청원서에 서명했습니다.",
+    "summary": "이 청원은 토요일 오후 기준 11만 5천 명 이상의 서명을 받았습니다.",
+    "source": "TechCrunch",
+    "date": "2026.11.14",
+    "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+    "tags": [
+      "반도체"
+    ]
+  },
+  {
+    "rank": 3,
+    "title": "AI 묘지: 실패한 프로젝트와 스타트업의 목록",
+    "summary": "애플의 반복적인 지연이 있었던 Siri AI부터 OpenAI의 혼란스러운 '슈퍼 앱' 출시까지, 종료되거나 기대에 미치지 못한 AI 프로젝트를 살펴보겠습니다.",
+    "source": "TechCrunch",
+    "date": "2026.11.14",
+    "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "tags": [
+      "AI",
+      "LLM",
+      "빅테크"
+    ]
+  },
+  {
+    "rank": 4,
+    "title": "엔비디아 CEO 젠슨 황의 퇴임에 대한 아시아 정부의 반응",
+    "summary": "일부 정부는 반도체 공급 약속을 확인하기 위한 조치를 취한 반면, 다른 정부는 현지 프로젝트에 미치는 영향을 모니터링하거나 진행 중인 조사를 처리하고 있습니다.",
+    "source": "TechCrunch",
+    "date": "2026.11.14",
+    "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+    "tags": [
+      "반도체"
+    ]
+  },
+  {
+    "rank": 5,
     "title": "벤처캐피털과 창업자들은 젠슨 황의 퇴장이 AI 스타트업 자금 조달에 큰 구멍을 냈다고 말합니다.",
-    "summary": "Nvidia는 황의 지휘 아래 AI 스타트업에 수십억 달러를 투자했습니다. 그가 경영을 맡지 않는 상황에서 창업자와 벤처캐피털은 더 적은 투자금과 더 낮은 기업 가치를 예상하고 있습니다.",
+    "summary": "Nvidia는 황의 지휘 아래 AI 스타트업에 수십억 달러를 투자했습니다. 그가 경영을 이끌지 않는 상황에서, 창업자와 벤처캐피털(VC)은 더 적은 투자금과 더 낮은 기업 가치를 예상하고 있습니다.",
     "source": "TechCrunch",
     "date": "2026.11.13",
     "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
@@ -10,54 +57,6 @@
       "AI",
       "반도체",
       "스타트업"
-    ]
-  },
-  {
-    "rank": 2,
-    "title": "AI 에이전트 스타트업 LangChain, 기업 가치 30억 달러 달성",
-    "summary": "LangChain은 이제 모델 및 플랫폼에 구애받지 않는 에이전트 관리 도구인 LangSmith의 고객이 7,000명에 달한다고 주장합니다.",
-    "source": "TechCrunch",
-    "date": "2026.11.13",
-    "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-    "tags": [
-      "스타트업"
-    ]
-  },
-  {
-    "rank": 3,
-    "title": "수출 금지된 엔비디아 칩이 중국의 가장 강력한 AI 모델에 사용되고 있습니다 — 이럴 수가, 젠슨!",
-    "summary": "새로운 연구에 따르면 중국의 가장 진보된 AI 모델은 금지된 엔비디아 칩으로 훈련되었습니다.",
-    "source": "TechCrunch",
-    "date": "2026.11.13",
-    "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-    "tags": [
-      "AI",
-      "반도체",
-      "규제"
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "불만을 품은 연구원이 공개한 Windows 제로 데이 취약점으로 인해 해커가 시스템 권한을 획득",
-    "summary": "\"SignDrop\" 취약점 공격을 통해 로컬 사용자가 모든 권한을 가진 시스템 권한을 획득할 수 있습니다.",
-    "source": "Ars Technica",
-    "date": "2026.11.13",
-    "url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
-    "tags": [
-      "보안",
-      "연구"
-    ]
-  },
-  {
-    "rank": 5,
-    "title": "ChatGPT의 새로운 지갑을 사용하면 AI 에이전트가 사용자를 대신해 쇼핑하고 결제할 수 있습니다.",
-    "summary": "ChatGPT Wallet을 사용하면 AI 에이전트가 사용자를 대신하여 쇼핑하고 결제할 수 있으며, 먼저 미국 Pro 구독자를 대상으로 제한적으로 출시됩니다.",
-    "source": "TechCrunch",
-    "date": "2026.11.13",
-    "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-    "tags": [
-      "AI",
-      "LLM"
     ]
   }
 ]
