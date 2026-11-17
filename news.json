@@ -1,60 +1,59 @@
 [
   {
     "rank": 1,
-    "title": "Apple, 사람들이 건강을 위해 AI를 사용하는 방법을 연구하기 위한 새로운 앱 출시",
-    "summary": "Apple의 새로운 연구용 앱이 일상적인 의료 관련 질문에 답해줍니다.",
+    "title": "사이버 보안 AI 스타트업 Corma, 약 3개월 만에 기업 가치 10억 달러 달성",
+    "summary": "AI 사이버 보안 스타트업인 Corba는 제품을 출시한 지 3개월 만에 NEA가 주도하는 10억 달러 규모의 시리즈 A 투자를 유치했습니다.",
     "source": "TechCrunch",
     "date": "2026.11.16",
-    "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+    "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
     "tags": [
       "AI",
-      "빅테크",
-      "연구"
+      "스타트업",
+      "보안"
     ]
   },
   {
     "rank": 2,
-    "title": "인도 칩 스타트업 Bharat Semi, 글로벌 AI 센서 시장을 겨냥해 시드 라운드에서 2,400만 달러 투자 유치",
-    "summary": "Bharat Semi는 General Atomics를 비롯한 여러 기업으로부터 AI 기반 센서 기술에 대한 설계 수주를 확보했다고 밝혔습니다.",
+    "title": "엔비디아가 화요일에 답해야 하지만 아마 답하지 않을 모든 질문",
+    "summary": "Nvidia의 임시 CEO이자 오랜 기간 CFO를 역임한 콜레트 크레스(Colette Kress)는 화요일에 회사가 3분기 실적을 발표할 때 자신의 경력에서 가장 중요한 날 중 하나를 맞이하게 될 예정이다. Nvidia가 처한 혼란을 고려할 때,",
     "source": "TechCrunch",
-    "date": "2026.11.15",
-    "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+    "date": "2026.11.16",
+    "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
     "tags": [
-      "AI",
-      "반도체",
-      "스타트업"
-    ]
-  },
-  {
-    "rank": 3,
-    "title": "젠슨 황에게 나쁜 소식이 AI 업계에도 나쁜 소식인가요?",
-    "summary": "\"젠슨은 엔비디아죠, 그렇죠? 그리고 이 경제의 상당 부분이 엔비디아에 달려 있습니다.\"",
-    "source": "TechCrunch",
-    "date": "2026.11.15",
-    "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
-    "tags": [
-      "AI",
       "반도체"
     ]
   },
   {
-    "rank": 4,
-    "title": "SNL이 데이트와 스파이 기술에 대한 수업을 위해 모든 IT 거물들을 한자리에 모았습니다.",
-    "summary": "어색하고 소름 끼치는 IT 기업 임원들이 새터데이 나이트 라이브의 단골 소재가 되었지만, 이번 주 에피소드에서는 출연진이 한꺼번에 모든 성대모사를 선보일 수 있는 기회를 가졌습니다.",
-    "source": "TechCrunch",
-    "date": "2026.11.15",
-    "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+    "rank": 3,
+    "title": "주가가 하루 만에 28.6% 하락하자 주주들이 인텔, CEO, CFO를 상대로 소송을 제기했습니다.",
+    "summary": "주주들은 PC 판매 부진이 AI 호황으로 인한 이익을 \"상쇄하고도 남는다\"고 말합니다.",
+    "source": "Ars Technica",
+    "date": "2026.11.16",
+    "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
     "tags": [
-      "테크"
+      "AI"
+    ]
+  },
+  {
+    "rank": 4,
+    "title": "캘리포니아주 법무장관, 악성 에이전트 사건으로 OpenAI를 고소",
+    "summary": "캘리포니아 소송은 AI 연구소가 악성 에이전트 사건에 대해 법적 책임을 지도록 하는 최초의 시도 중 하나입니다.",
+    "source": "TechCrunch",
+    "date": "2026.11.16",
+    "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+    "tags": [
+      "AI",
+      "LLM",
+      "규제"
     ]
   },
   {
     "rank": 5,
-    "title": "Nvidia의 보안팀은 어디에 있었습니까?",
-    "summary": "Nvidia의 보안 책임자는 8월에 조용히 퇴사했으며, 이제 젠슨 황 CEO가 칩을 중국에 유통한 혐의를 받는 회사 임원과의 관계를 포함한 여러 관계 문제로 인해 사임했습니다.",
+    "title": "트럼프 대통령, 젠슨 황 전 엔비디아 CEO의 중국 스파이 의혹 관련 스캔들이 국가 안보를 위협하지 않았다고 밝혀",
+    "summary": "트럼프 대통령은 앨리스 황이 중국 스파이로 결론 내렸다고 보도된 자국 정부의 정보기관 관계자들의 주장에 반박했다.",
     "source": "TechCrunch",
-    "date": "2026.11.15",
-    "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+    "date": "2026.11.16",
+    "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
     "tags": [
       "반도체",
       "보안"
