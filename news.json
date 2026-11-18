@@ -1,62 +1,61 @@
 [
   {
     "rank": 1,
-    "title": "사이버 보안 AI 스타트업 Corma, 약 3개월 만에 기업 가치 10억 달러 달성",
-    "summary": "AI 사이버 보안 스타트업인 Corba는 제품을 출시한 지 3개월 만에 NEA가 주도하는 10억 달러 규모의 시리즈 A 투자를 유치했습니다.",
+    "title": "Nvidia의 스타트업 지분은 650억 달러로 급증했지만, 황 CEO의 퇴장으로 향후 거래에 의구심이 제기됩니다.",
+    "summary": "엔비디아의 사모 투자 가치는 젠슨 황의 공격적인 거래와 기존 포트폴리오 기업의 가치 상승에 힘입어 지난 9개월 동안 거의 3배 증가했습니다.",
     "source": "TechCrunch",
-    "date": "2026.11.16",
-    "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+    "date": "2026.11.18",
+    "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
     "tags": [
-      "AI",
-      "스타트업",
-      "보안"
+      "반도체",
+      "스타트업"
     ]
   },
   {
     "rank": 2,
-    "title": "엔비디아가 화요일에 답해야 하지만 아마 답하지 않을 모든 질문",
-    "summary": "Nvidia의 임시 CEO이자 오랜 기간 CFO를 역임한 콜레트 크레스(Colette Kress)는 화요일에 회사가 3분기 실적을 발표할 때 자신의 경력에서 가장 중요한 날 중 하나를 맞이하게 될 예정이다. Nvidia가 처한 혼란을 고려할 때,",
+    "title": "Nvidia, 당분간 매출이 계속 급증할 것이라고 약속",
+    "summary": "불명예를 안은 창립자이자 CEO인 젠슨 황이 퇴임한 후 엔비디아가 혼란에 빠졌음에도 불구하고, 이 회사는 기록적인 매출 행진이 곧 멈출 것이라고 전망했습니다.",
     "source": "TechCrunch",
-    "date": "2026.11.16",
-    "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+    "date": "2026.11.18",
+    "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
     "tags": [
       "반도체"
     ]
   },
   {
     "rank": 3,
-    "title": "주가가 하루 만에 28.6% 하락하자 주주들이 인텔, CEO, CFO를 상대로 소송을 제기했습니다.",
-    "summary": "주주들은 PC 판매 부진이 AI 호황으로 인한 이익을 \"상쇄하고도 남는다\"고 말합니다.",
-    "source": "Ars Technica",
-    "date": "2026.11.16",
-    "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "캘리포니아주 법무장관, 악성 에이전트 사건으로 OpenAI를 고소",
-    "summary": "캘리포니아 소송은 AI 연구소가 악성 에이전트 사건에 대해 법적 책임을 지도록 하는 최초의 시도 중 하나입니다.",
+    "title": "젠슨 황의 퇴진 후 엔비디아, 중국 시장 철수",
+    "summary": "엔비디아의 임시 CEO는 회사가 중국에 칩을 판매하는 것을 중단했다고 밝혔습니다. 그로 인해 발생하는 비용은 얼마일까요?",
     "source": "TechCrunch",
-    "date": "2026.11.16",
-    "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+    "date": "2026.11.17",
+    "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
     "tags": [
-      "AI",
-      "LLM",
+      "반도체",
       "규제"
     ]
   },
   {
-    "rank": 5,
-    "title": "트럼프 대통령, 젠슨 황 전 엔비디아 CEO의 중국 스파이 의혹 관련 스캔들이 국가 안보를 위협하지 않았다고 밝혀",
-    "summary": "트럼프 대통령은 앨리스 황이 중국 스파이로 결론 내렸다고 보도된 자국 정부의 정보기관 관계자들의 주장에 반박했다.",
+    "rank": 4,
+    "title": "Nvidia, 젠슨 황의 퇴임 후에도 오픈 소스 AI 전략은 변함없다고 밝혀",
+    "summary": "Nvidia의 임시 CEO는 Jensen Huang의 갑작스러운 사임에도 불구하고 오픈 소스 AI 전략을 재확인하고 Hugging Face를 인수할 계획임을 밝혔습니다.",
     "source": "TechCrunch",
-    "date": "2026.11.16",
-    "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
+    "date": "2026.11.17",
+    "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
     "tags": [
+      "AI",
       "반도체",
-      "보안"
+      "오픈소스"
+    ]
+  },
+  {
+    "rank": 5,
+    "title": "Nvidia, 젠슨 황 CEO 재임명 계획 없다고 밝혀",
+    "summary": "지난주 사임한 전 CEO가 회사에서 최고 경영진 역할을 다시 맡겠다고 제안했습니다.",
+    "source": "TechCrunch",
+    "date": "2026.11.17",
+    "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
+    "tags": [
+      "반도체"
     ]
   }
 ]
