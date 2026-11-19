@@ -1,61 +1,60 @@
 [
   {
     "rank": 1,
-    "title": "Nvidia의 스타트업 지분은 650억 달러로 급증했지만, 황 CEO의 퇴장으로 향후 거래에 의구심이 제기됩니다.",
-    "summary": "엔비디아의 사모 투자 가치는 젠슨 황의 공격적인 거래와 기존 포트폴리오 기업의 가치 상승에 힘입어 지난 9개월 동안 거의 3배 증가했습니다.",
+    "title": "Microsoft의 사티아 나델라 CEO가 6만 명의 직원에게 퇴사를 요청한 이유를 설명합니다.",
+    "summary": "마이크로소프트(Microsoft)의 사티아 나델라(Satya Nadella) CEO는 지난 10월 6만 명의 직원에게 명예퇴직을 제안한 이유를 설명하며, 대규모 인력 감축 대신 자발적인 퇴사를 촉구했다고 밝혔습니다.",
     "source": "TechCrunch",
-    "date": "2026.11.18",
-    "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+    "date": "2026.11.19",
+    "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
     "tags": [
-      "반도체",
-      "스타트업"
+      "빅테크"
     ]
   },
   {
     "rank": 2,
-    "title": "Nvidia, 당분간 매출이 계속 급증할 것이라고 약속",
-    "summary": "불명예를 안은 창립자이자 CEO인 젠슨 황이 퇴임한 후 엔비디아가 혼란에 빠졌음에도 불구하고, 이 회사는 기록적인 매출 행진이 곧 멈출 것이라고 전망했습니다.",
+    "title": "AI 사이버 공격에 대한 우려 속에서 사티아 나델라는 많은 핵심 인프라가 '패치 불가능'하다고 말합니다.",
+    "summary": "마이크로소프트 CEO는 최근 발생한 Outlook 서비스 중단을 경시하면서도, AI가 연결된 세상의 상당 부분을 보호하는 데 있어 기회와 새로운 도전 과제를 모두 야기하고 있다고 언급했습니다.",
     "source": "TechCrunch",
     "date": "2026.11.18",
-    "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+    "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
     "tags": [
-      "반도체"
+      "AI",
+      "빅테크"
     ]
   },
   {
     "rank": 3,
-    "title": "젠슨 황의 퇴진 후 엔비디아, 중국 시장 철수",
-    "summary": "엔비디아의 임시 CEO는 회사가 중국에 칩을 판매하는 것을 중단했다고 밝혔습니다. 그로 인해 발생하는 비용은 얼마일까요?",
+    "title": "일론 머스크, \"젠슨 황을 내쫓는 것은 마이클 조던을 팀에서 내쫓는 것과 같다\"고 말해",
+    "summary": "머스크는 \"저는 [황이] 미국에 불충실하다고 생각하지 않습니다\"라고 말했다.",
     "source": "TechCrunch",
-    "date": "2026.11.17",
-    "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+    "date": "2026.11.18",
+    "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
     "tags": [
-      "반도체",
-      "규제"
+      "테크"
     ]
   },
   {
     "rank": 4,
-    "title": "Nvidia, 젠슨 황의 퇴임 후에도 오픈 소스 AI 전략은 변함없다고 밝혀",
-    "summary": "Nvidia의 임시 CEO는 Jensen Huang의 갑작스러운 사임에도 불구하고 오픈 소스 AI 전략을 재확인하고 Hugging Face를 인수할 계획임을 밝혔습니다.",
+    "title": "마이크로소프트 CEO 사티아 나델라, 황 CEO의 퇴임 후에도 엔비디아에 대한 신뢰 유지",
+    "summary": "마이크로소프트(Microsoft)의 사티아 나델라(Satya Nadella) CEO는 엔비디아의 임시 CEO를 맡고 있는 젠슨 황(Jensen Huang)의 후임자인 콜레트 크레스(Colette Kress)에 대한 신뢰를 표명했습니다.",
     "source": "TechCrunch",
-    "date": "2026.11.17",
-    "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+    "date": "2026.11.18",
+    "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
     "tags": [
-      "AI",
       "반도체",
-      "오픈소스"
+      "빅테크"
     ]
   },
   {
     "rank": 5,
-    "title": "Nvidia, 젠슨 황 CEO 재임명 계획 없다고 밝혀",
-    "summary": "지난주 사임한 전 CEO가 회사에서 최고 경영진 역할을 다시 맡겠다고 제안했습니다.",
+    "title": "사티아 나델라, AI 에이전트가 웹 경제를 재편할 것이라고 예측",
+    "summary": "Microsoft의 CEO는 AI 에이전트가 광고 중심의 비즈니스 모델을 뒤흔들 수 있으며, 이로 인해 Amazon과 같은 기업들이 고객을 유치하기 위한 경쟁 방식을 재고하게 될 것이라고 말합니다.",
     "source": "TechCrunch",
-    "date": "2026.11.17",
-    "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
+    "date": "2026.11.18",
+    "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
     "tags": [
-      "반도체"
+      "AI",
+      "빅테크"
     ]
   }
 ]
