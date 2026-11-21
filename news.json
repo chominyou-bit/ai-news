@@ -1,62 +1,61 @@
 [
   {
     "rank": 1,
-    "title": "Apple이 Mac을 실행하는 자체 AI 에이전트를 개발하고 있을 수 있습니다.",
-    "summary": "아이폰 제조업체는 Meta Muse, Instinct, Claude, OpenAI Dots와 같은 경쟁사와 경쟁할 수 있는 에이전트를 개발하고 있는 것으로 보입니다.",
-    "source": "TechCrunch",
+    "title": "연구원이 AI 공급망에 200만 마리의 '카나리아'를 심었습니다. 개인정보 보호 관련 사태가 발생했습니다.",
+    "summary": "고유하고 추적 가능한 비밀을 사용하여 프롬프트를 테스트한 결과, 데이터가 비공개로 유지되지 않는다는 것이 입증되었습니다.",
+    "source": "Ars Technica",
     "date": "2026.11.20",
-    "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+    "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
     "tags": [
       "AI",
-      "LLM",
-      "빅테크"
+      "보안",
+      "연구"
     ]
   },
   {
     "rank": 2,
-    "title": "앤트로픽의 7명의 창립자가 사상 최대 규모의 IPO를 통해 약 20억 달러를 현금화했습니다.",
-    "summary": "상향 조정된 주당 83달러의 IPO 가격으로, Anthropic의 7명의 창립자는 각각 2억 8,000만 달러를 챙겼고, 회사는 거의 1,050억 달러를 챙겼습니다.",
+    "title": "다니엘 엑, AI 연구원의 핵융합 에너지 스타트업에 투자. 그들이 구축하고 있는 것은 다음과 같습니다.",
+    "summary": "Spotify의 창립자인 다니엘 엑(Daniel Ek)이 AI 연구원이 설립한 핵융합 에너지 스타트업인 Europa Fusion을 후원하고 있습니다. 이 스타트업이 개발 중인 내용을 소개합니다.",
     "source": "TechCrunch",
     "date": "2026.11.20",
-    "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
-    "tags": [
-      "LLM"
-    ]
-  },
-  {
-    "rank": 3,
-    "title": "Meta의 새로운 Muse Charm 기기 가격은 300달러일 수 있습니다.",
-    "summary": "Meta는 The Information의 보도를 부인하지 않았으며, 곧 출시될 AI 웨어러블 기기에 대해 \"곧 더 많은 정보를 공유할 것\"이라고만 밝혔습니다.",
-    "source": "TechCrunch",
-    "date": "2026.11.19",
-    "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+    "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
     "tags": [
       "AI",
-      "빅테크"
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "이러한 기술 중단은 Y2K, AI 에이전트 스타일을 제공합니다.",
-    "summary": "최근 항공사 예약 시스템, 뱅킹 플랫폼, 생산성 플랫폼에서 발생한 서비스 중단이 정말 우연의 일치일까요? 사이버 보안 전문가들은 실제로 더 심각한 일이 일어나고 있을 가능성이 높다고 말합니다.",
-    "source": "TechCrunch",
-    "date": "2026.11.19",
-    "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
-    "tags": [
-      "AI",
-      "보안",
+      "스타트업",
       "규제"
     ]
   },
   {
-    "rank": 5,
-    "title": "연방 정부, 러시아가 고용한 남성이 실리콘밸리 기술 및 방위 산업체를 스파이했다고 밝혀",
-    "summary": "25세 남성이 커피숍 직원들을 스토킹하고 '공격적으로' 차량 추격을 벌인 혐의로 기소되었습니다.",
-    "source": "Ars Technica",
-    "date": "2026.11.19",
-    "url": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/",
+    "rank": 3,
+    "title": "AI가 167년 된 리만 가설에 대한 해답을 제시했고, 인간도 마찬가지였습니다.",
+    "summary": "수학자들은 최신 AI 기반 결과에 놀라움을 금치 못하고 있습니다. 그리고 이에 맞서는 인간의 해결책도 있습니다.",
+    "source": "TechCrunch",
+    "date": "2026.11.20",
+    "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
     "tags": [
       "테크"
+    ]
+  },
+  {
+    "rank": 4,
+    "title": "칩은 우주 환경에서 생존할 수 있습니다. 그렇다면 칩 관련 투자는 어떨까요?",
+    "summary": "대출 기관은 SpaceX가 담보를 궤도에 쏘아 올리는 것을 원하지 않습니다. 이는 우주 데이터 센터 전반에 어떤 의미가 있을까요?",
+    "source": "TechCrunch",
+    "date": "2026.11.20",
+    "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+    "tags": [
+      "반도체"
+    ]
+  },
+  {
+    "rank": 5,
+    "title": "엔비디아의 젠슨 황 스캔들의 여파가 계속되고 있습니다.",
+    "summary": "젠슨 황 CEO의 퇴진으로 인한 여파에 대처하는 와중에, 엔비디아는 이번 주에 건전한 성장과 호황이 계속될 것이라는 약속과 함께 최신 실적 보고서를 발표했습니다.",
+    "source": "TechCrunch",
+    "date": "2026.11.20",
+    "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+    "tags": [
+      "반도체"
     ]
   }
 ]
