@@ -1,8 +1,53 @@
 [
   {
     "rank": 1,
-    "title": "연구원이 AI 공급망에 200만 마리의 '카나리아'를 심었습니다. 개인정보 보호 관련 사태가 발생했습니다.",
-    "summary": "고유하고 추적 가능한 비밀을 사용하여 프롬프트를 테스트한 결과, 데이터가 비공개로 유지되지 않는다는 것이 입증되었습니다.",
+    "title": "Signal, AI 감시의 '존재 위협'에 맞서 모바일 스크린샷 제한",
+    "summary": "Signal은 Android 및 iOS 앱 모두에서 사용자의 스크린샷 촬영 기능을 제한하고 있습니다.",
+    "source": "TechCrunch",
+    "date": "2026.11.21",
+    "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "rank": 2,
+    "title": "두 개의 엔비디아 이야기",
+    "summary": "우리는 엔비디아에 대해 매우 다른 두 가지 그림을 얻었습니다. 회사의 최근 실적 보고서와 젠슨 황의 복귀를 강력히 요구하는 기술 경영진의 모습입니다.",
+    "source": "TechCrunch",
+    "date": "2026.11.21",
+    "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+    "tags": [
+      "반도체"
+    ]
+  },
+  {
+    "rank": 3,
+    "title": "다음은 문자 메시지에 포함될 수 있는 주요 AI 에이전트입니다.",
+    "summary": "일반적인 비서부터 가족, 여행, 업무용으로 설계된 에이전트까지, 문자 메시지에서 사용할 수 있는 가장 주목할 만한 AI 에이전트 목록을 정리했습니다.",
+    "source": "TechCrunch",
+    "date": "2026.11.21",
+    "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "rank": 4,
+    "title": "이 마이크로드라마 스타트업에 내 얼굴의 AI 버전을 판매하는 것이 할리우드의 미래일까요?",
+    "summary": "한 배우가 자신의 얼굴을 마이크로드라마 스타트업에 라이선싱했습니다. 이는 이미 중국에서 유행하고 있는 트렌드입니다. 전문가들은 이것이 할리우드에서도 트렌드가 될 경우 장기적인 결과에 대해 의문을 제기합니다.",
+    "source": "TechCrunch",
+    "date": "2026.11.21",
+    "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+    "tags": [
+      "AI",
+      "스타트업"
+    ]
+  },
+  {
+    "rank": 5,
+    "title": "연구원이 AI 공급망에 2백만 마리의 '카나리아'를 심었습니다. 개인정보 보호 관련 사태가 발생했습니다.",
+    "summary": "고유하고 추적 가능한 비밀을 사용한 프롬프트 테스트 결과, 데이터가 비공개로 유지되지 않는 것으로 나타났습니다.",
     "source": "Ars Technica",
     "date": "2026.11.20",
     "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
@@ -10,52 +55,6 @@
       "AI",
       "보안",
       "연구"
-    ]
-  },
-  {
-    "rank": 2,
-    "title": "다니엘 엑, AI 연구원의 핵융합 에너지 스타트업에 투자. 그들이 구축하고 있는 것은 다음과 같습니다.",
-    "summary": "Spotify의 창립자인 다니엘 엑(Daniel Ek)이 AI 연구원이 설립한 핵융합 에너지 스타트업인 Europa Fusion을 후원하고 있습니다. 이 스타트업이 개발 중인 내용을 소개합니다.",
-    "source": "TechCrunch",
-    "date": "2026.11.20",
-    "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
-    "tags": [
-      "AI",
-      "스타트업",
-      "규제"
-    ]
-  },
-  {
-    "rank": 3,
-    "title": "AI가 167년 된 리만 가설에 대한 해답을 제시했고, 인간도 마찬가지였습니다.",
-    "summary": "수학자들은 최신 AI 기반 결과에 놀라움을 금치 못하고 있습니다. 그리고 이에 맞서는 인간의 해결책도 있습니다.",
-    "source": "TechCrunch",
-    "date": "2026.11.20",
-    "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
-    "tags": [
-      "테크"
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "칩은 우주 환경에서 생존할 수 있습니다. 그렇다면 칩 관련 투자는 어떨까요?",
-    "summary": "대출 기관은 SpaceX가 담보를 궤도에 쏘아 올리는 것을 원하지 않습니다. 이는 우주 데이터 센터 전반에 어떤 의미가 있을까요?",
-    "source": "TechCrunch",
-    "date": "2026.11.20",
-    "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
-    "tags": [
-      "반도체"
-    ]
-  },
-  {
-    "rank": 5,
-    "title": "엔비디아의 젠슨 황 스캔들의 여파가 계속되고 있습니다.",
-    "summary": "젠슨 황 CEO의 퇴진으로 인한 여파에 대처하는 와중에, 엔비디아는 이번 주에 건전한 성장과 호황이 계속될 것이라는 약속과 함께 최신 실적 보고서를 발표했습니다.",
-    "source": "TechCrunch",
-    "date": "2026.11.20",
-    "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
-    "tags": [
-      "반도체"
     ]
   }
 ]
