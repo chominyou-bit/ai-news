@@ -1,56 +1,57 @@
 [
   {
     "rank": 1,
-    "title": "Notable Capital, GIC, Baillie Gifford가 IPO 전에 Anthropic에 대규모 투자를 한 방법",
-    "summary": "앤트로픽에 수십억 달러를 베팅할 만큼 확신을 갖게 된 이유를 세 명의 주요 후원자가 이야기합니다.",
+    "title": "Anthropic, AI 에이전트가 코드 변경 사항을 검토, 수정 및 승인할 수 있는 Claude Ship 출시",
+    "summary": "AI가 생성한 코드가 쌓여감에 따라, Anthropic의 새로운 개발자 도구는 에이전트가 일상적인 승인을 처리하도록 함으로써 또 다른 병목 현상을 제거하는 것을 목표로 합니다.",
     "source": "TechCrunch",
     "date": "2026.11.23",
-    "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
-    "tags": [
-      "LLM"
-    ]
-  },
-  {
-    "rank": 2,
-    "title": "OpenAI의 수석 과학자가 AI 개발을 제한하는 방법에 대한 생각을 밝혔습니다.",
-    "summary": "AI 개발에 속도 제한을 설정하려면 속도를 측정하는 방법에 대해 합의해야 합니다.",
-    "source": "TechCrunch",
-    "date": "2026.11.22",
-    "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+    "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
     "tags": [
       "AI",
       "LLM"
     ]
   },
   {
-    "rank": 3,
-    "title": "데이터 센터가 빅테크에 대한 반발의 중심에 있는 이유",
-    "summary": "저널리스트 Paris Marx가 그의 신간 'Hyperscale'을 소개합니다.",
+    "rank": 2,
+    "title": "Supertake, AI 에이전트가 시장 예측을 주식 포트폴리오로 전환할 수 있도록 2천만 달러 조달",
+    "summary": "시장이 어디로 향하고 있는지 아신다고 생각하시나요? Supertake라는 스타트업을 통해 직접 주식을 선택하지 않고도 아이디어를 뒷받침하는 자금을 투자할 수 있습니다.",
     "source": "TechCrunch",
-    "date": "2026.11.22",
-    "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+    "date": "2026.11.23",
+    "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+    "tags": [
+      "AI",
+      "스타트업"
+    ]
+  },
+  {
+    "rank": 3,
+    "title": "젠슨 황이 스캔들 속에서 엔비디아에 복직하자 일론 머스크 등 환호",
+    "summary": "\"실수가 정정되었습니다.\"라고 일론 머스크가 거들었습니다.",
+    "source": "TechCrunch",
+    "date": "2026.11.23",
+    "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+    "tags": [
+      "반도체"
+    ]
+  },
+  {
+    "rank": 4,
+    "title": "젠슨 황 스캔들의 중심에 있는 회사인 메가스피드가 미국 블랙리스트에 오를 것으로 보인다.",
+    "summary": "이전에는 앨리스 황이 이끌었던 메가스피드는 연방 정부로부터 특별 허가를 받지 않는 한 미국 기업과 거래할 수 없게 됩니다.",
+    "source": "TechCrunch",
+    "date": "2026.11.23",
+    "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
     "tags": [
       "테크"
     ]
   },
   {
-    "rank": 4,
-    "title": "Signal, AI 감시의 '존재 위협'에 맞서 모바일 스크린샷 제한",
-    "summary": "Signal은 Android 및 iOS 앱 모두에서 사용자의 스크린샷 촬영 기능을 제한하고 있습니다.",
-    "source": "TechCrunch",
-    "date": "2026.11.21",
-    "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
     "rank": 5,
-    "title": "두 개의 엔비디아 이야기",
-    "summary": "우리는 엔비디아에 대한 두 가지 매우 다른 그림을 얻었습니다. 회사의 최근 실적 보고서와 젠슨 황의 복귀를 강력히 요구하는 기술 경영진의 모습입니다.",
+    "title": "엔비디아 직원들이 젠슨 황 CEO가 회사 본사로 돌아오자 영웅을 맞이하듯 환영했습니다.",
+    "summary": "황 CEO는 직원들에게 \"이번에는 더 나은 CEO가 되겠다\"라고 말했습니다.",
     "source": "TechCrunch",
-    "date": "2026.11.21",
-    "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+    "date": "2026.11.23",
+    "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
     "tags": [
       "반도체"
     ]
