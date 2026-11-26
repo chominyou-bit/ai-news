@@ -1,59 +1,59 @@
 [
   {
     "rank": 1,
-    "title": "예일대 손넨펠드 교수: 엔비디아는 미국의 산업적 위력에 '해를 끼치는' 존재이지 챔피언이 아니다",
-    "summary": "예일 대학교의 제프리 손넨펠드 교수는 월요일 시장이 환영했던 젠슨 황의 백악관이 지지하는 엔비디아 CEO 및 이사회 멤버 복귀가 엄청난 실수로 판명되어 이사들이 \"",
+    "title": "S&P, 거버넌스 및 '핵심 인물' 리스크로 인해 엔비디아 신용등급 하향 조정 검토",
+    "summary": "신용평가사는 엔비디아의 신용등급을 네 번째로 높은 등급인 AA-로 하향 조정할 수 있습니다.",
     "source": "TechCrunch",
     "date": "2026.11.25",
-    "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+    "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
     "tags": [
       "반도체"
     ]
   },
   {
     "rank": 2,
-    "title": "젠슨 황은 여전히 승계 계획이 불필요한 위계를 만든다고 생각합니다.",
-    "summary": "지난 2주 동안 창업자 없이 어떤 일이 일어나는지 알아내느라 바빴던 회사치고는 놀라운 입장입니다.",
+    "title": "OpenAI, ChatGPT와 Work를 통합함에 따라 사용량이 많은 ChatGPT 사용자가 한도에 더 빨리 도달할 수 있다고 밝힘",
+    "summary": "OpenAI는 채팅과 업무 경험을 결합한 ChatGPT 전반에 걸쳐 단일 사용량 측정기를 도입할 예정입니다.",
     "source": "TechCrunch",
-    "date": "2026.11.24",
-    "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+    "date": "2026.11.25",
+    "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
     "tags": [
-      "테크"
+      "LLM"
     ]
   },
   {
     "rank": 3,
-    "title": "전사 회의에서 젠슨 황은 백악관에 감사를 표하고 자신이 치료를 받고 있다고 말했습니다.",
-    "summary": "엔비디아의 창립자는 화요일에 직원들에게 사과하고 회사를 이끌 수 있는 두 번째 기회를 얻게 된 것에 감사한다고 말했다.",
+    "title": "젠슨 황은 엔비디아의 행동 강령을 위반했으며, 그의 직원들은 이를 잊지 못할 것입니다.",
+    "summary": "대부분의 행동 강령은 기업 문화의 반영 역할을 합니다. Nvidia의 경우, 이는 결과를 초래할 수 있습니다.",
     "source": "TechCrunch",
-    "date": "2026.11.24",
-    "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+    "date": "2026.11.25",
+    "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
     "tags": [
       "반도체"
     ]
   },
   {
     "rank": 4,
-    "title": "최고의 AI 에이전트조차도 일상생활에서 어려움을 겪습니다.",
-    "summary": "수백만 명의 사람들이 개인 AI 비서를 받아들이는 가운데, 새로운 벤치마크에 따르면 가장 진보된 AI 모델조차도 잠재적인 새로운 문제를 일으키지 않고 일상적인 작업을 안정적이고 안전하게 수행하는 데 어려움을 겪고 있는 것으로 나타났습니다.",
+    "title": "앤트로픽의 다리오 아모데이, 인간의 통제권을 AI에 넘긴다는 비판을 '터무니없는' 주장이라고 일축",
+    "summary": "앤트로픽의 다리오 아모데이 CEO는 주요 AI 기업들이 자체 연구 및 모델 개발을 점점 더 자동화하고 있음에도 불구하고, 자신이 인간의 주체성을 AI에 양보하는 것을 선호한다는 경쟁사들의 비난에 반발하고 있습니다.",
     "source": "TechCrunch",
-    "date": "2026.11.24",
-    "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+    "date": "2026.11.25",
+    "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
     "tags": [
       "AI",
+      "LLM",
       "연구"
     ]
   },
   {
     "rank": 5,
-    "title": "월마트, 메타와 협력하여 AI 에이전트 Muse에 블랙프라이데이 특가 상품 제공",
-    "summary": "월마트는 이제 고객이 Meta의 AI 에이전트인 Muse를 통해 블랙프라이데이 특가 상품을 쇼핑할 수 있도록 했습니다.",
-    "source": "TechCrunch",
-    "date": "2026.11.24",
-    "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+    "title": "Backblaze가 고객 정보를 광고주와 공유하는 이유를 설명합니다.",
+    "summary": "Backblaze는 Ars에 사용자들의 백업, 저장 파일을 광고주와 공유하지 않을 것이라고 밝혔습니다.",
+    "source": "Ars Technica",
+    "date": "2026.11.25",
+    "url": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/",
     "tags": [
-      "AI",
-      "빅테크"
+      "테크"
     ]
   }
 ]
