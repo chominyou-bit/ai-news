@@ -1,6 +1,29 @@
 [
   {
     "rank": 1,
+    "title": "엔비디아, 동남아시아로의 칩 출하 일시 중단",
+    "summary": "Nvidia는 미국이 AI 칩을 중국에 공급하지 않기 위한 조치를 강화함에 따라 제조 파트너사들에게 말레이시아, 싱가포르, 태국, 인도네시아로의 서버 출하를 일시 중단하라고 지시했다.",
+    "source": "TechCrunch",
+    "date": "2026.11.26",
+    "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+    "tags": [
+      "AI",
+      "반도체"
+    ]
+  },
+  {
+    "rank": 2,
+    "title": "그랜드 테프트 오토 VI가 효율성이 미덕이 아닌 이유를 증명합니다",
+    "summary": "Anthropic이 공개 시장에 진출한 바로 그날, 정교하게 인간적인 비디오 게임이 사상 가장 성공적인 엔터테인먼트 출시작 중 하나가 되었습니다.",
+    "source": "TechCrunch",
+    "date": "2026.11.26",
+    "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+    "tags": [
+      "LLM"
+    ]
+  },
+  {
+    "rank": 3,
     "title": "S&P, 거버넌스 및 '핵심 인물' 리스크로 인해 엔비디아 신용등급 하향 조정 검토",
     "summary": "신용평가사는 엔비디아의 신용등급을 네 번째로 높은 등급인 AA-로 하향 조정할 수 있습니다.",
     "source": "TechCrunch",
@@ -11,8 +34,8 @@
     ]
   },
   {
-    "rank": 2,
-    "title": "OpenAI, ChatGPT와 Work를 통합함에 따라 사용량이 많은 ChatGPT 사용자가 한도에 더 빨리 도달할 수 있다고 밝힘",
+    "rank": 4,
+    "title": "OpenAI, ChatGPT와 Work를 통합하면서 과도한 ChatGPT 사용자는 한도에 더 빨리 도달할 수 있다고 밝힘",
     "summary": "OpenAI는 채팅과 업무 경험을 결합한 ChatGPT 전반에 걸쳐 단일 사용량 측정기를 도입할 예정입니다.",
     "source": "TechCrunch",
     "date": "2026.11.25",
@@ -22,7 +45,7 @@
     ]
   },
   {
-    "rank": 3,
+    "rank": 5,
     "title": "젠슨 황은 엔비디아의 행동 강령을 위반했으며, 그의 직원들은 이를 잊지 못할 것입니다.",
     "summary": "대부분의 행동 강령은 기업 문화의 반영 역할을 합니다. Nvidia의 경우, 이는 결과를 초래할 수 있습니다.",
     "source": "TechCrunch",
@@ -30,30 +53,6 @@
     "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
     "tags": [
       "반도체"
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "앤트로픽의 다리오 아모데이, 인간의 통제권을 AI에 넘긴다는 비판을 '터무니없는' 주장이라고 일축",
-    "summary": "앤트로픽의 다리오 아모데이 CEO는 주요 AI 기업들이 자체 연구 및 모델 개발을 점점 더 자동화하고 있음에도 불구하고, 자신이 인간의 주체성을 AI에 양보하는 것을 선호한다는 경쟁사들의 비난에 반발하고 있습니다.",
-    "source": "TechCrunch",
-    "date": "2026.11.25",
-    "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
-    "tags": [
-      "AI",
-      "LLM",
-      "연구"
-    ]
-  },
-  {
-    "rank": 5,
-    "title": "Backblaze가 고객 정보를 광고주와 공유하는 이유를 설명합니다.",
-    "summary": "Backblaze는 Ars에 사용자들의 백업, 저장 파일을 광고주와 공유하지 않을 것이라고 밝혔습니다.",
-    "source": "Ars Technica",
-    "date": "2026.11.25",
-    "url": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/",
-    "tags": [
-      "테크"
     ]
   }
 ]
